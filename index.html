@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>스레드 쿠팡 인기 제품</title>
+<style>
+:root{--bg:#f5f6f8;--card:#fff;--ink:#111827;--muted:#6b7280;--line:#e5e7eb;--soft:#f3f4f6;
+  --primary:#111827;--primary-ink:#fff;--cp:#2563eb;--xhs:#ff2442;--ok:#059669;--err:#dc2626;--warn:#b45309;
+  --note-bg:#eff6ff;--note-ink:#1e3a8a;--note-line:#bfdbfe}
+@media (prefers-color-scheme: dark){:root{--bg:#0f1115;--card:#171a21;--ink:#e5e7eb;--muted:#9ca3af;--line:#2a2f3a;--soft:#1f232c;
+  --primary:#e5e7eb;--primary-ink:#111827;--cp:#3b82f6;--ok:#34d399;--err:#f87171;--warn:#fbbf24;
+  --note-bg:#172033;--note-ink:#bfdbfe;--note-line:#1e3a8a}}
+*{box-sizing:border-box}
+[hidden]{display:none!important}  /* .note/.btn 의 display 값이 hidden 속성을 덮어쓰지 않도록 */
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 "Malgun Gothic","Apple SD Gothic Neo",system-ui,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:22px;margin:0 0 4px}.sub{color:var(--muted);margin:0 0 18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;align-items:end}
+label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}
+input[type=text],input[type=number],select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px;width:100%}
+.check{flex-direction:row;align-items:center;gap:6px;font-size:13px;color:var(--ink);padding-bottom:8px}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;align-items:center}
+button,.btn{font:inherit;font-weight:700;font-size:13px;border-radius:8px;padding:8px 14px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;text-decoration:none;display:inline-block}
+button:disabled{opacity:.45;cursor:not-allowed}
+.primary{background:var(--primary);color:var(--primary-ink);border-color:var(--primary);padding:9px 20px}
+.cp{background:var(--cp);border-color:var(--cp);color:#fff}.xhs{background:var(--xhs);border-color:var(--xhs);color:#fff}
+.status{margin-left:auto;font-size:13px;color:var(--muted)}.status.run{color:var(--warn)}.status.ok{color:var(--ok)}.status.err{color:var(--err)}
+details.log summary{cursor:pointer;color:var(--muted);font-size:13px}
+pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radius:8px;padding:10px;font:12px/1.5 Consolas,monospace;max-height:260px;overflow:auto;margin:8px 0 0}
+.note{background:var(--note-bg);color:var(--note-ink);border:1px solid var(--note-line);border-radius:10px;padding:12px;margin-bottom:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.note span{flex:1 1 260px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:22px 0 10px}.bar h2{font-size:17px;margin:0 auto 0 0}
+.bar select{width:auto;min-width:220px;max-width:100%}
+.card{display:grid;grid-template-columns:220px 1fr;gap:16px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:12px}
+@media(max-width:680px){.card{grid-template-columns:1fr}.status{margin-left:0;flex-basis:100%}}
+.img img,.noimg{width:100%;aspect-ratio:1;object-fit:contain;background:#fff;border-radius:10px;border:1px solid var(--line);display:block}
+.noimg{display:grid;place-items:center;color:var(--muted);background:var(--soft)}
+.head{display:flex;gap:10px;align-items:flex-start}.rank{background:var(--primary);color:var(--primary-ink);border-radius:6px;padding:1px 9px;font-weight:700;flex:none}
+.head h3{font-size:16px;margin:0}.meta{color:var(--muted);font-size:13px;margin:6px 0 12px}
+.btns{display:flex;flex-wrap:wrap;gap:6px}
+.txt{white-space:pre-wrap;font-size:12px;background:var(--soft);border-radius:6px;padding:8px;max-height:200px;overflow:auto}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>스레드 쿠팡파트너스 현재 인기 제품</h1>
+  <p class="sub">스레드 인기 탭의 최근 글을 하루당 반응 순으로 골라 쿠팡 상품명·이미지를 저장합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
+
+  <div id="fileNotice" class="note" hidden><span>이 파일을 직접 열면 동작하지 않습니다. 프로그램 폴더의 <b>실행.bat</b>을 실행하세요.</span></div>
+  <div id="staticNotice" class="note" hidden>
+    <span><b>보기 전용</b> — 최근에 올라간 결과를 보여줍니다. PC에서 프로그램을 켜면 이 화면에서 바로 실행할 수 있습니다.</span>
+    <a class="btn primary" href="threadcoupang://start">▶ 이 PC에서 프로그램 켜기</a>
+  </div>
+  <div id="offline" class="note" hidden>
+    <span><b>PC 프로그램이 꺼져 있습니다.</b> 켜면 이 화면이 자동으로 다시 연결됩니다. (처음 한 번은 <b>실행.bat</b>으로 켜야 이 버튼이 동작합니다)</span>
+    <a class="btn primary" href="threadcoupang://start">▶ 프로그램 켜기</a>
+  </div>
+
+  <section class="panel" id="controls" hidden>
+    <div class="grid">
+      <label>검색어<input id="keyword" type="text"></label>
+      <label>뽑을 글 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
+      <label>기간 (최근 N일)<input id="days" type="number" min="1" max="365"></label>
+      <label>인기탭 훑어볼 글 수<input id="scan_limit" type="number" min="10" max="300" step="10"></label>    </div>
+    <div class="actions">
+      <button id="btnLogin">스레드 로그인</button>
+      <button id="btnRun" class="primary">▶ 실행</button>
+      <button id="btnStop" disabled>중지</button>
+      <span id="status" class="status">연결 중…</span>
+    </div>
+    <details class="log" id="logBox"><summary>진행 로그</summary><pre id="log"></pre></details>
+  </section>
+
+  <div class="bar">
+    <h2 id="resultTitle">결과</h2>
+    <select id="runs"><option value="">이전 결과 선택…</option></select>
+    <button id="btnImages" class="pc-only" hidden disabled>이미지 폴더 열기</button>
+    <button id="btnExcel" class="pc-only" hidden disabled>엑셀 열기</button>
+    <button id="btnPublish" class="pc-only" hidden disabled>GitHub에 올리기</button>
+    <a id="pagesLink" class="btn" hidden target="_blank" rel="noopener">GitHub 주소</a>
+  </div>
+  <div id="results"><div class="empty">불러오는 중…</div></div>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const XHS = "https://www.xiaohongshu.com/explore";
+const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
+let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
+let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
+
+async function api(path, body) {
+  const res = await fetch(API + path, body === undefined ? {} : {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)});
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error || `오류 ${res.status}`);
+  return data;
+}
+async function fetchJSON(url) {
+  const res = await fetch(url, {cache: "no-store"});
+  if (!res.ok) throw new Error("결과를 불러오지 못했습니다");
+  return res.json();
+}
+async function probePC(base) {
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), 2500);
+  try {
+    const res = await fetch(base + "/api/state?since=0", {signal: ctl.signal});
+    return res.ok ? await res.json() : null;
+  } catch { return null; } finally { clearTimeout(timer); }
+}
+
+const runsList = () => MODE === "static" ? fetchJSON("runs.json") : api("/api/runs");
+const runData = (name) => MODE === "static" ? fetchJSON(`runs/${encodeURIComponent(name)}/results.json`) : api(`/api/runs/${encodeURIComponent(name)}`);
+function imgSrc(run, rel) {
+  const p = rel.split("/").map(encodeURIComponent).join("/");
+  return MODE === "static" ? `runs/${encodeURIComponent(run)}/${p}` : `${API}/output/${encodeURIComponent(run)}/${p}`;
+}
+
+function setStatus(text, cls = "") { const el = $("status"); el.textContent = text; el.className = "status " + cls; }
+function fillSettings(s) {
+  for (const k of ["keyword", "top_n", "days", "scan_limit"]) $(k).value = s[k];}
+function readSettings() {
+  return {keyword: $("keyword").value.trim(), top_n: +$("top_n").value, days: +$("days").value,
+          scan_limit: +$("scan_limit").value};
+}
+
+function render(run, results) {
+  const key = run + ":" + results.length;
+  if (key === lastRenderKey) return;
+  lastRenderKey = key;
+  viewRun = run;
+  for (const id of ["btnImages", "btnExcel", "btnPublish"]) $(id).disabled = !run;
+  $("resultTitle").textContent = run ? `결과 · ${run} · ${results.length}개` : "결과";
+  if (!results.length) {
+    $("results").innerHTML = `<div class="empty">${prevMode === "run" ? "찾는 중입니다…" : "결과가 없습니다."}</div>`;
+    return;
+  }
+  $("results").innerHTML = results.map((r) => {
+    const t = r.threads, cp = r.coupang;
+    const src = cp.image_path ? imgSrc(run, cp.image_path) : "";
+    const img = src ? `<a href="${src}" target="_blank"><img src="${src}" loading="lazy" alt=""></a>` : `<div class="noimg">이미지 없음</div>`;
+    return `<article class="card">
+      <div class="img">${img}</div>
+      <div>
+        <div class="head"><span class="rank">${r.rank}</span><h3>${esc(cp.title) || "(상품명을 가져오지 못함)"}</h3></div>
+        <div class="meta">현재인기 ${r.popular_rank}위 (인기탭 ${esc(t.tab_rank)}위) · ${esc(t.posted_at)} 작성 · ♥ ${t.likes.toLocaleString()}
+          · 댓글 ${t.replies.toLocaleString()} · 리포스트 ${t.reposts.toLocaleString()} · 하루당 반응 ${t.hot_score} · @${esc(t.author)}</div>
+        <div class="btns">
+          <a class="btn cp" href="${esc(cp.final_url || cp.url)}" target="_blank" rel="noopener">쿠팡에서 보기</a>
+          ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
+          <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
+          <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
+        </div>
+        ${t.text ? `<details><summary>스레드 본문 보기</summary><div class="txt">${esc(t.text)}</div></details>` : ""}
+      </div>
+    </article>`;
+  }).join("");
+}
+
+async function loadRuns(select) {
+  const runs = await runsList();
+  $("runs").innerHTML = `<option value="">이전 결과 선택…</option>` +
+    runs.map((r) => `<option value="${esc(r.name)}">${esc(r.name)} · ${esc(r.keyword)} · ${r.count}개</option>`).join("");
+  if (select) $("runs").value = select;
+  return runs;
+}
+
+function applyState(st) {
+  if (st.logs.length) {
+    const pre = $("log");
+    pre.textContent += st.logs.join("\n") + "\n";
+    pre.scrollTop = pre.scrollHeight;
+  }
+  logTotal = st.log_total;
+  $("btnRun").disabled = $("btnLogin").disabled = !!st.mode;
+  $("btnStop").disabled = st.mode !== "run";
+  $("btnPublish").hidden = !st.github.enabled;
+  if (st.github.enabled && st.github.pages_url && location.href.indexOf(st.github.pages_url) !== 0) {
+    $("pagesLink").href = st.github.pages_url; $("pagesLink").hidden = false;
+  }
+
+  if (st.mode === "run") setStatus("실행 중… 크롬 창은 닫지 마세요", "run");
+  else if (st.mode === "login") setStatus("크롬에서 스레드에 로그인한 뒤 크롬 창을 닫으세요", "run");
+  else if (st.mode === "publish") setStatus("GitHub에 올리는 중…", "run");
+  else if (st.error) setStatus("오류: " + st.error, "err");
+  else if (prevMode === "run") setStatus(`완료 — ${st.results.length}개${st.github.enabled ? " · GitHub 업로드 완료(반영까지 1~2분)" : ""}`, "ok");
+  else if (prevMode === "publish") setStatus("GitHub 업로드 완료 (반영까지 1~2분)", "ok");
+  else if (prevMode === "login") setStatus("로그인 창이 닫혔습니다", "ok");
+  else if (prevMode === undefined) setStatus("대기 중");
+
+  if (liveView && st.run) render(st.run, st.results);
+  if (prevMode === "run" && !st.mode) loadRuns(st.run);
+  prevMode = st.mode;
+}
+
+let lost = false;
+async function poll() {
+  let delay = 3000;
+  try {
+    const st = await api(`/api/state?since=${logTotal}`);
+    if (lost) { location.reload(); return; }  // 프로그램이 다시 켜지면 최신 화면으로 새로고침
+    applyState(st);
+    if (st.mode) delay = 1000;
+  } catch (e) {
+    showOffline();
+  }
+  setTimeout(poll, delay);
+}
+
+function showOffline() {
+  lost = true;
+  $("offline").hidden = false;
+  for (const id of ["btnRun", "btnLogin", "btnStop"]) $(id).disabled = true;
+  setStatus("PC 프로그램이 꺼져 있습니다", "err");
+}
+
+async function enterStatic() {
+  MODE = "static";
+  $("staticNotice").hidden = false;
+  // PC에서 프로그램이 켜지면 자동으로 실행 가능한 화면으로 전환
+  const watch = setInterval(async () => { if (await probePC(LOCAL_API)) { clearInterval(watch); location.reload(); } }, 5000);
+  try {
+    const runs = await loadRuns();
+    if (!runs.length) { $("results").innerHTML = `<div class="empty">아직 올라간 결과가 없습니다.</div>`; return; }
+    $("runs").value = runs[0].name;
+    render(runs[0].name, (await runData(runs[0].name)).results || []);
+  } catch (e) {
+    $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`;
+  }
+}
+
+function enterPC(st) {
+  MODE = "pc";
+  $("controls").hidden = false;
+  document.querySelectorAll(".pc-only").forEach((el) => { if (el.id !== "btnPublish") el.hidden = false; });
+  fillSettings(st.settings);
+  $("results").innerHTML = `<div class="empty">아직 결과가 없습니다. 설정 후 ▶ 실행을 누르세요.</div>`;
+  loadRuns().catch(() => {});
+  applyState(st);
+  poll();
+}
+
+$("btnRun").onclick = async () => {
+  try {
+    $("log").textContent = ""; logTotal = 0; liveView = true; lastRenderKey = "";
+    $("runs").value = "";
+    await api("/api/run", readSettings());
+    $("logBox").open = true;
+    $("results").innerHTML = `<div class="empty">찾는 중입니다…</div>`;
+    setStatus("실행 중…", "run");
+  } catch (e) { setStatus(e.message, "err"); }
+};
+$("btnLogin").onclick = async () => {
+  try { $("log").textContent = ""; logTotal = 0; await api("/api/login", {}); setStatus("로그인 창을 여는 중…", "run"); }
+  catch (e) { setStatus(e.message, "err"); }
+};
+$("btnStop").onclick = async () => { await api("/api/stop", {}).catch(() => {}); setStatus("중지 요청됨 — 현재 단계가 끝나면 멈춥니다", "run"); };
+$("btnPublish").onclick = async () => {
+  if (!viewRun) return;
+  try { await api("/api/publish", {run: viewRun}); setStatus("GitHub에 올리는 중…", "run"); } catch (e) { setStatus(e.message, "err"); }
+};
+$("runs").onchange = async () => {
+  const name = $("runs").value;
+  if (!name) return;
+  liveView = false; lastRenderKey = "";
+  try { render(name, (await runData(name)).results || []); } catch (e) { $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
+};
+$("btnImages").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "images"}).catch((e) => setStatus(e.message, "err"));
+$("btnExcel").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "excel"}).catch((e) => setStatus(e.message, "err"));
+// 창을 X로 닫으면 PC 프로그램도 종료 (새로고침은 바로 다시 연결되므로 종료되지 않음, 실행 중이면 끝난 뒤 종료)
+window.addEventListener("pagehide", () => {
+  if (MODE === "pc" && !lost) navigator.sendBeacon(API + "/api/bye", "{}");
+});
+
+(async () => {
+  if (location.protocol === "file:") { $("fileNotice").hidden = false; $("results").innerHTML = ""; return; }
+  const onPC = ["127.0.0.1", "localhost"].includes(location.hostname);
+  API = onPC ? "" : LOCAL_API;
+  const st = await probePC(API);
+  if (st) enterPC(st);
+  else if (onPC) { $("controls").hidden = false; $("results").innerHTML = ""; showOffline(); setTimeout(poll, 3000); }
+  else enterStatic();
+})();
+</script>
+</body>
+</html>
