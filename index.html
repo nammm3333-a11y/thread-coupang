@@ -50,7 +50,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 <body>
 <div class="wrap">
   <h1>스레드 쿠팡파트너스 현재 인기 제품</h1>
-  <p class="sub">스레드 인기 탭의 최근 글을 하루당 반응 순으로 골라 쿠팡 상품명·이미지를 저장합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
+  <p class="sub">스레드 인기 탭의 최근 글 중 조회수가 높은 쿠팡 글을 골라 쿠팡 상품명·이미지를 저장합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
 
   <div id="fileNotice" class="note" hidden><span>이 파일을 직접 열면 동작하지 않습니다. 프로그램 폴더의 <b>실행.bat</b>을 실행하세요.</span></div>
   <div id="staticNotice" class="note" hidden>
@@ -67,6 +67,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
       <label>검색어<input id="keyword" type="text"></label>
       <label>뽑을 글 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
       <label>기간 (최근 N일)<input id="days" type="number" min="1" max="365"></label>
+      <label>최소 조회수<input id="min_views" type="number" min="0" step="1000"></label>
       <label>인기탭 훑어볼 글 수<input id="scan_limit" type="number" min="10" max="300" step="10"></label>
       <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>    </div>
     <div class="actions">
@@ -128,12 +129,12 @@ function imgSrc(run, rel) {
 
 function setStatus(text, cls = "") { const el = $("status"); el.textContent = text; el.className = "status " + cls; }
 function fillSettings(s) {
-  for (const k of ["keyword", "top_n", "days", "scan_limit"]) $(k).value = s[k];
+  for (const k of ["keyword", "top_n", "days", "min_views", "scan_limit"]) $(k).value = s[k];
   $("make_posts").checked = s.make_posts !== false;
 }
 function readSettings() {
   return {keyword: $("keyword").value.trim(), top_n: +$("top_n").value, days: +$("days").value,
-          scan_limit: +$("scan_limit").value, make_posts: $("make_posts").checked};
+          min_views: +$("min_views").value, scan_limit: +$("scan_limit").value, make_posts: $("make_posts").checked};
 }
 
 function render(run, results) {
@@ -155,8 +156,8 @@ function render(run, results) {
       <div class="img">${img}</div>
       <div>
         <div class="head"><span class="rank">${r.rank}</span><h3>${esc(cp.title) || "(상품명을 가져오지 못함)"}</h3></div>
-        <div class="meta">현재인기 ${r.popular_rank}위 (인기탭 ${esc(t.tab_rank)}위) · ${esc(t.posted_at)} 작성 · ♥ ${t.likes.toLocaleString()}
-          · 댓글 ${t.replies.toLocaleString()} · 리포스트 ${t.reposts.toLocaleString()} · 하루당 반응 ${t.hot_score} · @${esc(t.author)}</div>
+        <div class="meta">${t.views != null ? `<b>조회 ${t.views.toLocaleString()}회</b>` : `현재인기 ${r.popular_rank}위`} · 인기탭 ${esc(t.tab_rank)}위 · ${esc(t.posted_at)} 작성
+          · ♥ ${t.likes.toLocaleString()} · 댓글 ${t.replies.toLocaleString()} · 리포스트 ${t.reposts.toLocaleString()} · @${esc(t.author)}</div>
         <div class="btns">
           <a class="btn cp" href="${esc(cp.final_url || cp.url)}" target="_blank" rel="noopener">쿠팡에서 보기</a>
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
