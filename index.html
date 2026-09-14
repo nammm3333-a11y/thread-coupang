@@ -41,6 +41,9 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 .head h3{font-size:16px;margin:0}.meta{color:var(--muted);font-size:13px;margin:6px 0 12px}
 .btns{display:flex;flex-wrap:wrap;gap:6px}
 .txt{white-space:pre-wrap;font-size:12px;background:var(--soft);border-radius:6px;padding:8px;max-height:200px;overflow:auto}
+.post{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px;display:grid;gap:8px}
+.post-row{display:flex;gap:8px;align-items:flex-start}.post-row b{flex:none;color:var(--muted);padding-top:2px}
+.post-row p{margin:0;flex:1;font-size:14px;line-height:1.55}.copy{padding:5px 10px;font-size:12px;flex:none}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
 </style>
 </head>
@@ -64,7 +67,8 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
       <label>검색어<input id="keyword" type="text"></label>
       <label>뽑을 글 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
       <label>기간 (최근 N일)<input id="days" type="number" min="1" max="365"></label>
-      <label>인기탭 훑어볼 글 수<input id="scan_limit" type="number" min="10" max="300" step="10"></label>    </div>
+      <label>인기탭 훑어볼 글 수<input id="scan_limit" type="number" min="10" max="300" step="10"></label>
+      <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>    </div>
     <div class="actions">
       <button id="btnLogin">스레드 로그인</button>
       <button id="btnRun" class="primary">▶ 실행</button>
@@ -79,6 +83,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
     <select id="runs"><option value="">이전 결과 선택…</option></select>
     <button id="btnImages" class="pc-only" hidden disabled>이미지 폴더 열기</button>
     <button id="btnExcel" class="pc-only" hidden disabled>엑셀 열기</button>
+    <button id="btnPosts" class="pc-only" hidden disabled>쿠파스 글 만들기</button>
     <button id="btnPublish" class="pc-only" hidden disabled>GitHub에 올리기</button>
     <a id="pagesLink" class="btn" hidden target="_blank" rel="noopener">GitHub 주소</a>
   </div>
@@ -89,6 +94,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const XHS = "https://www.xiaohongshu.com/explore";
+const COMMENT = "(내 쿠팡파트너스 링크)\n쿠팡 파트너스 활동의 일환으로 일정액의 수수료를 제공받습니다.";
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
@@ -122,18 +128,20 @@ function imgSrc(run, rel) {
 
 function setStatus(text, cls = "") { const el = $("status"); el.textContent = text; el.className = "status " + cls; }
 function fillSettings(s) {
-  for (const k of ["keyword", "top_n", "days", "scan_limit"]) $(k).value = s[k];}
+  for (const k of ["keyword", "top_n", "days", "scan_limit"]) $(k).value = s[k];
+  $("make_posts").checked = s.make_posts !== false;
+}
 function readSettings() {
   return {keyword: $("keyword").value.trim(), top_n: +$("top_n").value, days: +$("days").value,
-          scan_limit: +$("scan_limit").value};
+          scan_limit: +$("scan_limit").value, make_posts: $("make_posts").checked};
 }
 
 function render(run, results) {
-  const key = run + ":" + results.length;
+  const key = run + ":" + results.length + ":" + results.filter((r) => r.post).length;
   if (key === lastRenderKey) return;
   lastRenderKey = key;
   viewRun = run;
-  for (const id of ["btnImages", "btnExcel", "btnPublish"]) $(id).disabled = !run;
+  for (const id of ["btnImages", "btnExcel", "btnPublish", "btnPosts"]) $(id).disabled = !run;
   $("resultTitle").textContent = run ? `결과 · ${run} · ${results.length}개` : "결과";
   if (!results.length) {
     $("results").innerHTML = `<div class="empty">${prevMode === "run" ? "찾는 중입니다…" : "결과가 없습니다."}</div>`;
@@ -155,6 +163,11 @@ function render(run, results) {
           <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
         </div>
+        ${r.post ? `<div class="post">
+          <div class="post-row"><b>A</b><p>${esc(r.post.a)}</p><button class="copy" data-text="${esc(r.post.a)}">복사</button></div>
+          <div class="post-row"><b>B</b><p>${esc(r.post.b)}</p><button class="copy" data-text="${esc(r.post.b)}">복사</button></div>
+          <div class="post-row"><b>💬</b><p>첫 댓글: 내 쿠팡 파트너스 링크 + 고지 문구</p><button class="copy" data-text="${esc(COMMENT)}">복사</button></div>
+        </div>` : ""}
         ${t.text ? `<details><summary>스레드 본문 보기</summary><div class="txt">${esc(t.text)}</div></details>` : ""}
       </div>
     </article>`;
@@ -186,14 +199,20 @@ function applyState(st) {
   if (st.mode === "run") setStatus("실행 중… 크롬 창은 닫지 마세요", "run");
   else if (st.mode === "login") setStatus("크롬에서 스레드에 로그인한 뒤 크롬 창을 닫으세요", "run");
   else if (st.mode === "publish") setStatus("GitHub에 올리는 중…", "run");
+  else if (st.mode === "posts") setStatus("쿠파스 글 만드는 중… (Claude)", "run");
   else if (st.error) setStatus("오류: " + st.error, "err");
   else if (prevMode === "run") setStatus(`완료 — ${st.results.length}개${st.github.enabled ? " · GitHub 업로드 완료(반영까지 1~2분)" : ""}`, "ok");
   else if (prevMode === "publish") setStatus("GitHub 업로드 완료 (반영까지 1~2분)", "ok");
+  else if (prevMode === "posts") setStatus(`쿠파스 글 완성${st.github.enabled ? " · GitHub 업로드 완료(반영까지 1~2분)" : ""}`, "ok");
   else if (prevMode === "login") setStatus("로그인 창이 닫혔습니다", "ok");
   else if (prevMode === undefined) setStatus("대기 중");
 
   if (liveView && st.run) render(st.run, st.results);
   if (prevMode === "run" && !st.mode) loadRuns(st.run);
+  if (prevMode === "posts" && !st.mode && viewRun) {  // 만든 글을 화면에 반영
+    const run = viewRun;
+    runData(run).then((d) => { lastRenderKey = ""; render(run, d.results || []); }).catch(() => {});
+  }
   prevMode = st.mode;
 }
 
@@ -285,6 +304,26 @@ $("runs").onchange = async () => {
   followLatest = name === latestRun;  // 이전 결과를 골라 보는 중이면 자동 전환하지 않음
   try { render(name, (await runData(name)).results || []); } catch (e) { $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
 };
+$("btnPosts").onclick = async () => {
+  if (!viewRun) return;
+  try { $("log").textContent = ""; logTotal = 0; await api("/api/posts", {run: viewRun}); $("logBox").open = true; setStatus("쿠파스 글 만드는 중… (Claude)", "run"); }
+  catch (e) { setStatus(e.message, "err"); }
+};
+// 게시글/첫 댓글 복사 (휴대폰에서도 동작)
+$("results").addEventListener("click", async (e) => {
+  const btn = e.target.closest(".copy");
+  if (!btn) return;
+  const text = btn.dataset.text;
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove();
+  }
+  const old = btn.textContent; btn.textContent = "복사됨 ✓";
+  setTimeout(() => { btn.textContent = old; }, 1500);
+});
 $("btnImages").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "images"}).catch((e) => setStatus(e.message, "err"));
 $("btnExcel").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "excel"}).catch((e) => setStatus(e.message, "err"));
 // 창을 X로 닫으면 PC 프로그램도 종료 (새로고침은 바로 다시 연결되므로 종료되지 않음, 실행 중이면 끝난 뒤 종료)
