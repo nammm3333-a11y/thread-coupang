@@ -113,7 +113,7 @@ async function probePC(base) {
   } catch { return null; } finally { clearTimeout(timer); }
 }
 
-const runsList = () => MODE === "static" ? fetchJSON("runs.json") : api("/api/runs");
+const runsList = () => MODE === "static" ? fetchJSON(`runs.json?t=${Date.now()}`) : api("/api/runs");  // 캐시된 옛 목록 방지
 const runData = (name) => MODE === "static" ? fetchJSON(`runs/${encodeURIComponent(name)}/results.json`) : api(`/api/runs/${encodeURIComponent(name)}`);
 function imgSrc(run, rel) {
   const p = rel.split("/").map(encodeURIComponent).join("/");
@@ -218,19 +218,34 @@ function showOffline() {
   setStatus("PC 프로그램이 꺼져 있습니다", "err");
 }
 
+let latestRun = null, followLatest = true;
+
+// 휴대폰(보기 전용): PC에서 새 결과가 올라오면 자동으로 최신 결과를 보여준다
+async function refreshStatic() {
+  try {
+    const runs = await loadRuns(viewRun);
+    if (!runs.length) { $("results").innerHTML = `<div class="empty">아직 올라간 결과가 없습니다.</div>`; return; }
+    if (runs[0].name === latestRun) return;
+    latestRun = runs[0].name;
+    if (followLatest) {
+      lastRenderKey = "";
+      $("runs").value = latestRun;
+      render(latestRun, (await runData(latestRun)).results || []);
+    }
+  } catch (e) {
+    if (!viewRun) $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`;
+  }
+}
+
 async function enterStatic() {
   MODE = "static";
   $("staticNotice").hidden = false;
   // PC에서 프로그램이 켜지면 자동으로 실행 가능한 화면으로 전환
   const watch = setInterval(async () => { if (await probePC(LOCAL_API)) { clearInterval(watch); location.reload(); } }, 5000);
-  try {
-    const runs = await loadRuns();
-    if (!runs.length) { $("results").innerHTML = `<div class="empty">아직 올라간 결과가 없습니다.</div>`; return; }
-    $("runs").value = runs[0].name;
-    render(runs[0].name, (await runData(runs[0].name)).results || []);
-  } catch (e) {
-    $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`;
-  }
+  await refreshStatic();
+  setInterval(refreshStatic, 60000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) refreshStatic(); });
+  window.addEventListener("pageshow", (e) => { if (e.persisted) refreshStatic(); });  // 뒤로가기 등으로 캐시된 화면이 다시 보일 때
 }
 
 function enterPC(st) {
@@ -267,6 +282,7 @@ $("runs").onchange = async () => {
   const name = $("runs").value;
   if (!name) return;
   liveView = false; lastRenderKey = "";
+  followLatest = name === latestRun;  // 이전 결과를 골라 보는 중이면 자동 전환하지 않음
   try { render(name, (await runData(name)).results || []); } catch (e) { $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
 };
 $("btnImages").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "images"}).catch((e) => setStatus(e.message, "err"));
