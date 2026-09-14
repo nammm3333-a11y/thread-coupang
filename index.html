@@ -94,7 +94,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const XHS = "https://www.xiaohongshu.com/explore";
-const COMMENT = "(내 쿠팡파트너스 링크)\n쿠팡 파트너스 활동의 일환으로 일정액의 수수료를 제공받습니다.";
+const COMMENT = "[광고]\n(내쿠파스주소넣기)";
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
@@ -166,7 +166,7 @@ function render(run, results) {
         ${r.post ? `<div class="post">
           <div class="post-row"><b>A</b><p>${esc(r.post.a)}</p><button class="copy" data-text="${esc(r.post.a)}">복사</button></div>
           <div class="post-row"><b>B</b><p>${esc(r.post.b)}</p><button class="copy" data-text="${esc(r.post.b)}">복사</button></div>
-          <div class="post-row"><b>💬</b><p>첫 댓글: 내 쿠팡 파트너스 링크 + 고지 문구</p><button class="copy" data-text="${esc(COMMENT)}">복사</button></div>
+          <div class="post-row"><b>💬</b><p>첫 댓글: [광고] + 내 쿠파스 주소</p><button class="copy" data-text="${esc(COMMENT)}">복사</button></div>
         </div>` : ""}
         ${t.text ? `<details><summary>스레드 본문 보기</summary><div class="txt">${esc(t.text)}</div></details>` : ""}
       </div>
