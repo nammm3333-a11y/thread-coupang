@@ -1,0 +1,356 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "min_age_hours": 1,
+  "daily_check_n": 30,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet"
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "오늘의 쿠파스 제품",
+  "started_at": "2026-09-15T13:00:01",
+  "stopped": false,
+  "finished_at": "2026-09-15T13:11:55"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "badger.iiii",
+    "url": "https://www.threads.com/@badger.iiii/post/DdP-TQ5CA-N",
+    "views": 12000,
+    "likes": 1500,
+    "replies": 69,
+    "reposts": 11,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 6320.0,
+    "tab": "인기",
+    "tab_rank": 17
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3ra8aKhem",
+    "final_url": "https://www.coupang.com/vp/products/7863987238?itemId=28888631333&src=1139000&spec=10799999&addtag=400&ctag=7863987238&lptag=AF8437423&itime=20260915130959&pageType=PRODUCT&pageValue=7863987238&wPcid=17893396169465349359302&wRef=&wTime=20260915130959&redirect=landing&traceid=V0-101-0ef9eff67b35c647&mcid=b443c0299ef24e97a49742df9605ee71&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7863987238",
+    "title": "한끼뚝딱 전연령 강아지 황태담은 클래식 건식 사료",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8043/cfad211fe3382004690ca715f72804a464122d42d8b4c6fb8ac27a5358d9.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/g3ra8aKhem"
+    ],
+    "image_path": "images/01_한끼뚝딱_전연령_강아지_황태담은_클래식_건식_사료.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "우리 강아지 황태 냄새 맡더니 밥그릇 앞에서 안 떠남ㅋㅋ 이거 완전 최애 됐어 🐾",
+    "b": "사료 바꿨더니 진짜 잘 먹는다... 그릇 핥는 거 보면 기분 이상하게 좋아짐 🐶"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "kobu99470",
+    "url": "https://www.threads.com/@kobu99470/post/DdSPIgwkQRx",
+    "views": 1100,
+    "likes": 5,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 24.0,
+    "tab": "인기",
+    "tab_rank": 14
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gL3nQBO2fc",
+    "final_url": "https://www.coupang.com/vp/products/9075617103?itemId=26658094965&src=1139000&spec=10799999&addtag=400&ctag=9075617103&lptag=AF2510124&itime=20260915131002&pageType=PRODUCT&pageValue=9075617103&wPcid=17893396169465349359302&wRef=&wTime=20260915131002&redirect=landing&traceid=V0-183-467ba6f8a3e7b0cb&mcid=940b23cfc4a04614983c1aa2ff5d0ade&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9075617103",
+    "title": "내일(수)도착 난각1번 자연방사 유정란 계란 방목사육 HACCP. 당일발송, 40구, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a357/5022b2a152aaeeb523dea61dbb5a14be5773d9f3b69c77c9b577900c1c6c.png",
+    "all_links": [
+     "https://link.coupang.com/a/gL3nQBO2fc"
+    ],
+    "image_path": "images/02_내일(수)도착_난각1번_자연방사_유정란_계란_방목사육_HACCP.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "노른자 색깔부터 다르더라 진짜... 괜히 방목이라는 말 붙은 게 아닌 것 같음 🥚",
+    "b": "계란후라이 했는데 노른자가 오렌지색임 신기해서 한참 쳐다봤잖아 🍳"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "raracoco13",
+    "url": "https://www.threads.com/@raracoco13/post/DdSMFXaE_3X",
+    "views": 974,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 1,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 16.0,
+    "tab": "인기",
+    "tab_rank": 30
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gIccfodlHU",
+    "final_url": "https://www.coupang.com/vp/products/7460943807?itemId=25822686938&src=1139000&spec=10799999&addtag=400&ctag=7460943807&lptag=AF9642764&itime=20260915131008&pageType=PRODUCT&pageValue=7460943807&wPcid=17893396169465349359302&wRef=&wTime=20260915131008&redirect=landing&traceid=V0-101-60c6009c4a1e46d8&mcid=0f29f8fbdfe043e7ac5d4013cb326bb9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7460943807",
+    "title": "[정품] 딥디크 플레르드뽀 오드퍼퓸 75ml 선물포장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fcee/8b281046f6a6793ec5219ed8eafa081ce5ee5dfd9e94b101dcf46df37871.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/gIccfodlHU"
+    ],
+    "image_path": "images/03_[정품]_딥디크_플레르드뽀_오드퍼퓸_75ml_선물포장.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "뿌리고 나서 나도 모르게 손목 계속 킁킁거림... 이거 중독성 진짜 🖤",
+    "b": "선물 받고 싶다고 혼자 장바구니에 넣어뒀다가 결국 내가 삼ㅋㅋ 🌸"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "money_is_fun7",
+    "url": "https://www.threads.com/@money_is_fun7/post/DdSKIMMACGy",
+    "views": 452,
+    "likes": 1,
+    "replies": 2,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.3,
+    "hot_score": 11.8,
+    "tab": "인기",
+    "tab_rank": 28
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g2NPblAZFY",
+    "final_url": "https://www.coupang.com/vp/products/8643253760?itemId=26138357865&src=1139000&spec=10799999&addtag=400&ctag=8643253760&lptag=AF4219142&itime=20260915131010&pageType=PRODUCT&pageValue=8643253760&wPcid=17893396169465349359302&wRef=&wTime=20260915131010&redirect=landing&traceid=V0-101-c62cccf0d2648350&mcid=544db9cc3d3a4faf9d164680b2b5aa18&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8643253760",
+    "title": "홀베리 유기농 레몬즙, 350g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1141261815837981-5ab2f3eb-57f7-4d03-bd5b-133125719d06.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/g2NPblAZFY"
+    ],
+    "image_path": "images/04_홀베리_유기농_레몬즙,_350g,_3개.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "물에 한 포 타서 마시는데 이게 진짜 레몬 맛이라 기분이 달라짐 🍋",
+    "b": "매일 아침 이거 타 마시는 루틴 생긴 게 신기하다 원래 그런 사람 아닌데 🍋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "mamakilki",
+    "url": "https://www.threads.com/@mamakilki/post/DdSSlImE1NZ",
+    "views": 367,
+    "likes": 16,
+    "replies": 2,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 72.0,
+    "tab": "인기",
+    "tab_rank": 31
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3hzUY8UHk",
+    "final_url": "https://www.coupang.com/vp/products/182739?itemId=18578812051&src=1139000&spec=10799999&addtag=400&ctag=182739&lptag=AF3397481&itime=20260915131013&pageType=PRODUCT&pageValue=182739&wPcid=17893396169465349359302&wRef=&wTime=20260915131013&redirect=landing&traceid=V0-101-ba90f5a8d1a7a7e9&mcid=3f2e204f1eec43e59882b63e462b302e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "182739",
+    "title": "포스틱 과자, 84g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/581365099347924-49173108-bdcd-41f0-84de-e89df0f5f0e5.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/g3hzUY8UHk"
+    ],
+    "image_path": "images/05_포스틱_과자,_84g,_3개.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "어릴 때 그 맛 그대로인데 손이 자꾸 가는 거 어떻게 막아... 🥔",
+    "b": "포스틱 한 봉지 뜯으면 멈추는 게 더 어려운 거 알면서도 또 샀음 😅"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "kle0_lee",
+    "url": "https://www.threads.com/@kle0_lee/post/DdSYu4qo6Wl",
+    "views": 334,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 8.0,
+    "tab": "인기",
+    "tab_rank": 35
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3lnAXZjKS",
+    "final_url": "https://www.coupang.com/vp/products/9637488967?src=1139000&spec=10799999&addtag=400&ctag=9637488967&lptag=AF7538070&itime=20260915131017&pageType=PRODUCT&pageValue=9637488967&wPcid=17893396169465349359302&wRef=&wTime=20260915131017&redirect=landing&traceid=V0-183-2ad364f31a119291&mcid=5ed134ce59d74240b7f425407e64e1e9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9637488967",
+    "title": "[본사 출고 정품] 온그리디언츠 바쿠글로우 캡슐 로션(+증정 온그리디언츠 스킨 베리어 카밍 마스크팩) #청량수분로션 #수분광캡슐 바르는 순간 터지는 시원한 수분",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6bff/11425a38185c906d9868ba371ecac75c0334a2610cb4dcc5cdf37041e31f.png",
+    "all_links": [
+     "https://link.coupang.com/a/g3lnAXZjKS"
+    ],
+    "image_path": "images/06_[본사_출고_정품]_온그리디언츠_바쿠글로우_캡슐_로션(+증정_온그리디언츠.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발랐을 때 캡슐 터지는 느낌이 뭔가 재밌어서 자꾸 바르게 됨 💙",
+    "b": "요즘 이거 바르고 자는 게 루틴 됐는데 피부가 뭔가 달라진 것 같기도 하고 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "two_paws_vibe419",
+    "url": "https://www.threads.com/@two_paws_vibe419/post/DdSnXY1Gfbr",
+    "views": 296,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 8.0,
+    "tab": "인기",
+    "tab_rank": 20
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3tCqQSxS8",
+    "final_url": "https://www.coupang.com/vp/products/9089036084?itemId=28494426996&vendorItemId=95444354912&src=1139000&spec=10799999&addtag=400&ctag=9089036084&lptag=AF5590588&itime=20260915131020&pageType=PRODUCT&pageValue=9089036084&wPcid=17893396169465349359302&wRef=&wTime=20260915131020&redirect=landing&traceid=V0-181-786046416049453a&mcid=68354c170bbb45a98df5274404aa3a39&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9089036084",
+    "title": "LED 파츠 불빛 꾸미기 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bac2/cee9d0e6f7ad4a616e55fe527e381a84fac6112cf9927df6d740e790fc60.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/g3tCqQSxS8"
+    ],
+    "image_path": "images/07_LED_파츠_불빛_꾸미기_세트.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "크록스에 달았더니 밤에 진짜 눈에 띄어서 나도 놀람ㅋㅋ 🌟",
+    "b": "애가 이거 보더니 자기 것도 사달라고 난리남... 귀엽긴 함 💡"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "baby_dadyg",
+    "url": "https://www.threads.com/@baby_dadyg/post/DdSThsdjQQJ",
+    "views": 167,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 8.0,
+    "tab": "인기",
+    "tab_rank": 40
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gZoFM4292O",
+    "final_url": "https://www.coupang.com/vp/products/8217434100?itemId=23608133513&vendorItemId=90633814221&src=1139000&spec=10799999&addtag=400&ctag=8217434100&lptag=AF5564998&itime=20260915131023&pageType=PRODUCT&pageValue=8217434100&wPcid=17893396169465349359302&wRef=&wTime=20260915131023&redirect=landing&traceid=V0-181-9c98c342e6d810cf&mcid=927eab9814ca4ff481b8251c3be13eb4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8217434100",
+    "title": "ABM 거치형 조리도구 거치대",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/07/09/11/7/886cb053-ccb0-4678-b545-4c0cbd91eb26.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/gZoFM4292O"
+    ],
+    "image_path": "images/08_ABM_거치형_조리도구_거치대.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "국자 올려두는 게 이렇게 편한 거였나 싶음 진짜 주방이 달라 보임 🍳",
+    "b": "요리하다 뚜껑 어디 둘지 몰라서 매번 고민했는데 이거 생각보다 혁명임 😮"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "eggwitch__",
+    "url": "https://www.threads.com/@eggwitch__/post/DdSRLkLj6yO",
+    "views": 142,
+    "likes": 0,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 4.0,
+    "tab": "인기",
+    "tab_rank": 38
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gXQLhjolr2",
+    "final_url": "https://www.coupang.com/vp/products/9412370893?src=1139000&spec=10799999&addtag=400&ctag=9412370893&lptag=AF3344464&itime=20260915131026&pageType=PRODUCT&pageValue=9412370893&wPcid=17893396169465349359302&wRef=&wTime=20260915131026&redirect=landing&traceid=V0-183-18fc5f1484e098b4&mcid=b5bb5074d8374281b1fbfe872a35ebeb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9412370893",
+    "title": "Vtopmart 다용도 냉장고 정리 트레이 팬트리 수납함 28.5x13x8.6cm",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/936c/dbd893fa5f37e4f510c343d815c98944d4c34a979d3ac7053061b843a4e5.png",
+    "all_links": [
+     "https://link.coupang.com/a/gXQLhjolr2"
+    ],
+    "image_path": "images/09_Vtopmart_다용도_냉장고_정리_트레이_팬트리_수납함_28.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고 열 때마다 기분 좋아짐... 투명하니까 뭐 있는지 바로 보이고 🥦",
+    "b": "야채 넣어뒀더니 어디 있는지 까먹는 일이 없어졌음 신기하게 🥕"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "taste_editroom",
+    "url": "https://www.threads.com/@taste_editroom/post/DdSTRMjEljJ",
+    "views": 140,
+    "likes": 2,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 0.2,
+    "hot_score": 12.0,
+    "tab": "인기",
+    "tab_rank": 36
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g1YDf5oLts",
+    "final_url": "https://www.coupang.com/vp/products/7816409185?itemId=21216556781&src=1139000&spec=10799999&addtag=400&ctag=7816409185&lptag=AF4514679&itime=20260915131030&pageType=PRODUCT&pageValue=7816409185&wPcid=17893396169465349359302&wRef=&wTime=20260915131030&redirect=landing&traceid=V0-101-e720dd238650d70c&mcid=13ac7705269e4984af5316eb3d75bda9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7816409185",
+    "title": "퀸즈트리 100% 땅콩 피넛버터 크런치, 500g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/81ec/6f69618e53820b9cc1b99f7741f021750867709d7eff794177d7fa843792.jpg",
+    "all_links": [
+     "https://link.coupang.com/a/g1YDf5oLts"
+    ],
+    "image_path": "images/10_퀸즈트리_100%_땅콩_피넛버터_크런치,_500g,_1개.jpg"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "식빵에 두껍게 바르고 한 입 먹는 그 순간을 위해 살고 있음ㅋㅋ 🥜",
+    "b": "100% 땅콩이라 달지 않아서 오히려 자꾸 손 가는 타입임 🥜"
+   }
+  }
+ ]
+}

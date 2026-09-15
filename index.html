@@ -70,6 +70,8 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
     <div class="grid">
       <label>검색어<input id="keyword" type="text"></label>
       <label>오늘의 제품 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
+      <label>오늘의 제품: 올라온 지 최소 N시간<input id="min_age_hours" type="number" min="0" max="23"></label>
+      <label>오늘의 제품: 조회수 확인 글 수<input id="daily_check_n" type="number" min="10" max="60" step="5"></label>
       <label>인기탭에서 모을 링크 글 수<input id="popular_limit" type="number" min="0" max="300" step="10"></label>
       <label>최근탭 훑는 시간 (분)<input id="recent_minutes" type="number" min="0" max="30"></label>
       <label>주간: 조회수 확인 글 수<input id="weekly_check_limit" type="number" min="10" max="500" step="10"></label>
@@ -105,9 +107,12 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const XHS = "https://www.xiaohongshu.com/explore";
-const COMMENT = "[광고]\n(내쿠파스주소넣기)";
+// 첫 댓글 양식. 같은 댓글을 반복하면 스팸처럼 보일 수 있어 이모지를 제품 순서대로 돌려 쓴다
+const COMMENT_EMOJIS = ["👇", "🔗", "📌", "💬", "✨", "🛒"];
+const commentEmoji = (rank) => COMMENT_EMOJIS[(Math.max(rank || 1, 1) - 1) % COMMENT_EMOJIS.length];
+const commentText = (rank) => `[광고]\n✔️ 정보는 링크에 남겨둘께 ${commentEmoji(rank)}\n(내쿠파스주소넣기)`;
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
-const NUM_FIELDS = ["top_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
+const NUM_FIELDS = ["top_n", "min_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
 const BOOL_FIELDS = ["weekly_auto", "make_posts"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
@@ -197,7 +202,7 @@ function render(run, results, meta) {
         ${r.post ? `<div class="post">
           <div class="post-row"><b>A</b><p>${esc(r.post.a)}</p><button class="copy" data-text="${esc(r.post.a)}">복사</button></div>
           <div class="post-row"><b>B</b><p>${esc(r.post.b)}</p><button class="copy" data-text="${esc(r.post.b)}">복사</button></div>
-          <div class="post-row"><b>💬</b><p>첫 댓글: [광고] + 내 쿠파스 주소</p><button class="copy" data-text="${esc(COMMENT)}">복사</button></div>
+          <div class="post-row"><b>💬</b><p>첫 댓글: [광고] · ✔️ 정보는 링크에 남겨둘께 ${commentEmoji(r.rank)} · 내 쿠파스 주소</p><button class="copy" data-text="${esc(commentText(r.rank))}">복사</button></div>
         </div>` : ""}
         ${t.text ? `<details><summary>스레드 본문 보기</summary><div class="txt">${esc(t.text)}</div></details>` : ""}
       </div>
