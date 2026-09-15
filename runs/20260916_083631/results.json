@@ -1,0 +1,443 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": true,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 조회수 순 (기록 쌓이는 중: 최근 글 포함)",
+  "started_at": "2026-09-16T08:36:31",
+  "stopped": false,
+  "finished_at": "2026-09-16T08:57:23"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "clsgkrp11",
+    "url": "https://www.threads.com/@clsgkrp11/post/DdPuTExkxp1",
+    "views": 716,
+    "likes": 48,
+    "replies": 72,
+    "reposts": 35,
+    "posted_at": "2026-09-14",
+    "age_days": 2.0,
+    "hot_score": 77.3,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g1ACMHbho4",
+    "final_url": "https://www.coupang.com/vp/products/1271064981?itemId=2275730724&src=1139000&spec=10799999&addtag=400&ctag=1271064981&lptag=AF9120088&itime=20260916085150&pageType=PRODUCT&pageValue=1271064981&wPcid=17893396169465349359302&wRef=&wTime=20260916085150&redirect=landing&traceid=V0-101-5e7ea65e5d0510be&mcid=de54f2a9b2d04d669d88d86109b0afc4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1271064981",
+    "title": "곰곰 무항생제 신선한 대란, 30구, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g1ACMHbho4",
+     "https://link.coupang.com/a/g1BsXgR2D6",
+     "https://link.coupang.com/a/g1BNAZJJwi"
+    ],
+    "image_path": "images/01_곰곰_무항생제_신선한_대란,_30구,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZttTYRQi",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "계란 자꾸 떨어뜨려서 30구짜리 한 번 사봤는데 진짜 한동안 마트 안 가도 됐음. 무항생제라 뭔가 더 안심되는 것도 있고, 매번 이걸로만 시키는 중 🥚",
+    "b": "아침마다 계란 요리 해먹는데 대용량으로 사두니까 떨어질 걱정을 안 하게 됨. 알도 크고 실해서 볶음밥에 넣어도 딱 좋더라, 집에 항상 있어야 하는 거였음 🍳"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "b.l.a.c.k_cat1981",
+    "url": "https://www.threads.com/@b.l.a.c.k_cat1981/post/DdOH0BCGpLV",
+    "views": 96,
+    "likes": 7,
+    "replies": 7,
+    "reposts": 4,
+    "posted_at": "2026-09-13",
+    "age_days": 2.6,
+    "hot_score": 6.8,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g0Bg8pcVS8",
+    "final_url": "https://www.coupang.com/vp/products/9383930742?itemId=27868312400&src=1139000&spec=10799999&addtag=400&ctag=9383930742&lptag=AF9627768&itime=20260916085158&pageType=PRODUCT&pageValue=9383930742&wPcid=17893396169465349359302&wRef=&wTime=20260916085158&redirect=landing&traceid=V0-101-7ae1015f49708b3b&mcid=95f85e326f6e4e7a82278f20a3a3fb3b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9383930742",
+    "title": "키토선생 로코초코 아몬드 초코볼, 46g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2f532e27-fe05-40c8-a3c7-18b4a3c0665f9433366811200639648.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2f532e27-fe05-40c8-a3c7-18b4a3c0665f9433366811200639648.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g0Bg8pcVS8",
+     "https://link.coupang.com/a/g0BaUhw4cK"
+    ],
+    "image_path": "images/02_키토선생_로코초코_아몬드_초코볼,_46g,_3개.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZtwQ8zEy",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "야식 참으려다가 이거 몇 알 집어먹었더니 달달한 게 딱 채워지는 느낌. 초코 안에 아몬드가 통으로 들어있어서 씹는 맛도 있고, 요즘 책상 위에 항상 올려두고 있음 🍫",
+    "b": "달달한 거 먹고 싶을 때 꼭 생각나는 간식이 생겼음. 초코볼 하나하나가 생각보다 알차서 금방 배부른 느낌 오더라, 3봉 세트로 사두길 잘했다 싶음 😋"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "kim_jung_ah5728",
+    "url": "https://www.threads.com/@kim_jung_ah5728/post/DdOmtKUE1WC",
+    "views": 54,
+    "likes": 10,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-13",
+    "age_days": 2.5,
+    "hot_score": 4.1,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g0UpmjBdC0",
+    "final_url": "https://www.coupang.com/vp/products/8289256478?itemId=29042247553&src=1139000&spec=10799999&addtag=400&ctag=8289256478&lptag=AF7120736&itime=20260916085206&pageType=PRODUCT&pageValue=8289256478&wPcid=17893396169465349359302&wRef=&wTime=20260916085206&redirect=landing&traceid=V0-101-fecf419878b73acd&mcid=119d4ce4ceb94bdb84c769d164f68d7e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8289256478",
+    "title": "스팸 1호 선물세트, 4.08kg, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/55e8/1ce3bf1de413e59daaa2101ed54c45210100a6a06d7ea9d01b34fea84738.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/55e8/1ce3bf1de413e59daaa2101ed54c45210100a6a06d7ea9d01b34fea84738.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g0UpmjBdC0"
+    ],
+    "image_path": "images/03_스팸_1호_선물세트,_4.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "명절에 뭐 들고 갈지 고민하다 스팸 세트 골랐는데 어른들이 진짜 좋아하심. 박스 포장도 고급스럽다고 칭찬까지 하셔서, 매번 뭘 사야 하나 고민이 확 줄어듦 🎁",
+    "b": "스팸 12캔이 한 박스에 딱 들어가니까 받는 사람 입장에서 실용적이라 좋겠다 싶더라. 뭔가 든든한 선물 느낌 나서 앞으로 명절마다 이걸로 갈 것 같음 😊"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "hotdealdang",
+    "url": "https://www.threads.com/@hotdealdang/post/DdPBHF2E2w1",
+    "views": 33,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-14",
+    "age_days": 2.3,
+    "hot_score": 0.9,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g1aVG2CGIe",
+    "final_url": "https://www.coupang.com/vp/products/8852756325?itemId=25808882375&vendorItemId=92796172044&src=1139000&spec=10799999&addtag=400&ctag=8852756325&lptag=AF1965377&itime=20260916085214&pageType=PRODUCT&pageValue=8852756325&wPcid=17893396169465349359302&wRef=&wTime=20260916085214&redirect=landing&traceid=V0-183-21d2ae3a97807ce1&mcid=a04c73d654b64ca4b1558a84c36b00c7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=coupangfits&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8852756325",
+    "title": "샤크 유무선 2in1 플렉스브리즈 저소음 선풍기 FA221KR",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/19/9/0/c8df4ba7-6152-4b21-a7c4-bc5035b2b195.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/19/9/0/c8df4ba7-6152-4b21-a7c4-bc5035b2b195.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g1aVG2CGIe"
+    ],
+    "image_path": "images/04_샤크_유무선_2in1_플렉스브리즈_저소음_선풍기_FA221KR.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZulUALjo",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밤에 틀어놓고 잤는데 소리가 거의 안 들려서 처음엔 꺼진 줄 알았음. 자면서 켜도 되겠다 싶었고, 이게 생기고 나서 여름잠이 좀 편해진 것 같음 🌀",
+    "b": "유선이랑 무선 왔다갔다 할 수 있어서 방에서 거실 이동할 때 진짜 편함. 코드 뽑았다 꽂았다 번거로움이 없어지니까 생각보다 훨씬 자주 들고 다니게 됨 😄"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "picktemzip",
+    "url": "https://www.threads.com/@picktemzip/post/DdTS1Swksaw",
+    "views": 2800,
+    "likes": 24,
+    "replies": 3,
+    "reposts": 4,
+    "posted_at": "2026-09-15",
+    "age_days": 0.6,
+    "hot_score": 48.8,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gGKzZL6SCO",
+    "final_url": "https://www.coupang.com/vp/products/9625133269?itemId=28744695279&vendorItemId=94932253286&src=1139000&spec=10799999&addtag=400&ctag=9625133269&lptag=AF4811109&itime=20260916085222&pageType=PRODUCT&pageValue=9625133269&wPcid=17893396169465349359302&wRef=&wTime=20260916085222&redirect=landing&traceid=V0-181-c9d288de79242dfe&mcid=750b0ef50bb345ed8db3e38b7de63391&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9625133269",
+    "title": "도장 맞춤 압인기 엠보싱 프레스 단체 회사 로고 스탬프 제작",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c50b/5c78ea37b7a07f1dd6a1f5ff5b5dfe6a8eb3dddb70b3fab198b206f434ce.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c50b/5c78ea37b7a07f1dd6a1f5ff5b5dfe6a8eb3dddb70b3fab198b206f434ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2414/8005d0214d9a1074b32b5f992f9e944ed8347ca634993f1461de33a8af08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3d96/4be40ad30a5f001e342725ef44581a82fd7900d9b33a138b1941154a1156.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c84/996fce3d01646224fb6eee8209d2e3475597e9748ef2747379da904f08c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/599e/3291ac05259e7483ce4af4312b0a5a2af7aa1eb160ad3d463ecafdf40357.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3fbe/dffa60681929be30b1ace07e3c7902ed057fd247ec571259fa03e5ba5912.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gGKzZL6SCO"
+    ],
+    "image_path": "images/05_도장_맞춤_압인기_엠보싱_프레스_단체_회사_로고_스탬프_제작.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZuoDo9Tg",
+    "text_cleaned": true,
+    "video_path": "videos/05_도장_맞춤_압인기_엠보싱_프레스_단체_회사_로고_스탬프_제작.mp4"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "회사 서류에 찍어봤는데 입체로 볼록 올라오는 게 공식적인 느낌이라 좋더라. 잉크 없이 그냥 눌러서 찍는 거라 편하고, 받는 사람도 신기해하더라 😊",
+    "b": "로고 맞춤 제작이라 딱 원하는 대로 나온 게 만족스러움. 서류에 찍을 때마다 뭔가 있어 보이는 느낌이라 자꾸 꺼내게 됨 🔖"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "kobu99470",
+    "url": "https://www.threads.com/@kobu99470/post/DdSPIgwkQRx",
+    "views": 2200,
+    "likes": 24,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 1.0,
+    "hot_score": 24.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gL3nQBO2fc",
+    "final_url": "https://www.coupang.com/vp/products/9075617103?itemId=26658094965&src=1139000&spec=10799999&addtag=400&ctag=9075617103&lptag=AF2510124&itime=20260916085230&pageType=PRODUCT&pageValue=9075617103&wPcid=17893396169465349359302&wRef=&wTime=20260916085230&redirect=landing&traceid=V0-183-467ba6f8a3e7b0cb&mcid=2ae3992ed4a24a9e83b1c341cf6aae9c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9075617103",
+    "title": "내일(목)도착 난각1번 자연방사 유정란 계란 방목사육 HACCP. 당일발송, 1개, 40구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a357/5022b2a152aaeeb523dea61dbb5a14be5773d9f3b69c77c9b577900c1c6c.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a357/5022b2a152aaeeb523dea61dbb5a14be5773d9f3b69c77c9b577900c1c6c.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Q4JYH2Hf_kI"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/gL3nQBO2fc"
+    ],
+    "image_path": "images/06_내일(목)도착_난각1번_자연방사_유정란_계란_방목사육_HACCP.jpg",
+    "my_link": "https://link.coupang.com/a/g3I8I4HW1Y",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "닭들이 밖에서 자유롭게 돌아다닌다니까 왠지 모르게 믿음이 가더라. 노른자 색이 뭔가 달라 보이는 것 같기도 하고, 어쨌든 자꾸 이걸로만 시키게 됨 🐔",
+    "b": "다음 날 배송이라길래 반신반의했는데 진짜 다음 날 왔음. 신선한 게 느껴지고 40구라 넉넉해서 한동안 계란 걱정 없이 잘 쓰고 있음 🥚"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "raracoco13",
+    "url": "https://www.threads.com/@raracoco13/post/DdSMFXaE_3X",
+    "views": 1000,
+    "likes": 3,
+    "replies": 1,
+    "reposts": 2,
+    "posted_at": "2026-09-15",
+    "age_days": 1.1,
+    "hot_score": 5.7,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gIccfodlHU",
+    "final_url": "https://www.coupang.com/vp/products/7460943807?itemId=25822686938&src=1139000&spec=10799999&addtag=400&ctag=7460943807&lptag=AF9642764&itime=20260916085241&pageType=PRODUCT&pageValue=7460943807&wPcid=17893396169465349359302&wRef=&wTime=20260916085241&redirect=landing&traceid=V0-101-60c6009c4a1e46d8&mcid=ce15ed79b77b4d01a221c47255af3658&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7460943807",
+    "title": "[정품] 딥디크 플레르드뽀 오드퍼퓸 75ml 선물포장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fcee/8b281046f6a6793ec5219ed8eafa081ce5ee5dfd9e94b101dcf46df37871.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcee/8b281046f6a6793ec5219ed8eafa081ce5ee5dfd9e94b101dcf46df37871.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gIccfodlHU"
+    ],
+    "image_path": "images/07_[정품]_딥디크_플레르드뽀_오드퍼퓸_75ml_선물포장.jpg",
+    "my_link": "https://link.coupang.com/a/g3I8MznuEe",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "뿌리고 외출했더니 엘리베이터에서 같이 탄 사람이 향 어디 거냐고 물어봄. 별 기대 없이 썼는데 그 순간부터 애정이 생겨버린 향수임 🌸",
+    "b": "선물 포장이 이미 돼 있으니까 받자마자 그냥 줬는데 반응이 진짜 좋았음. 검은 박스가 고급스러워서 포장 보는 순간부터 좋아하더라 🎁"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "lovilovowo",
+    "url": "https://www.threads.com/@lovilovowo/post/DdUuC32CEDs",
+    "views": 867,
+    "likes": 1,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 0.2,
+    "hot_score": 8.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eRRrROyUUe",
+    "final_url": "https://www.coupang.com/vp/products/1740409140?itemId=2963034833&src=1139000&spec=10799999&addtag=400&ctag=1740409140&lptag=AF0743444&itime=20260916085249&pageType=PRODUCT&pageValue=1740409140&wPcid=17893396169465349359302&wRef=&wTime=20260916085249&redirect=landing&traceid=V0-101-87ff80d69a0b4e6b&mcid=487d8f747cf1446c8c1cce2a3062b298&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1740409140",
+    "title": "시즈닝톡 몬트리얼 스테이크 시즈닝, 260g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4704744069074176-41048b06-4fd1-4bef-a496-572956e91041.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4704744069074176-41048b06-4fd1-4bef-a496-572956e91041.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eRRrROyUUe"
+    ],
+    "image_path": "images/08_시즈닝톡_몬트리얼_스테이크_시즈닝,_260g,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZurDTClE",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마트 고기 사다가 이거 뿌려 구웠는데 갑자기 집이 레스토랑 된 느낌. 향이 진해서 조금만 써도 충분하고, 260g이라 한동안 쓸 수 있어서 기분 좋음 🥩",
+    "b": "스테이크 말고 삼겹살에도 뿌려봤는데 진짜 맛있더라. 이거 쓰고 나서 주말마다 고기 굽는 게 더 재밌어진 것 같아서 계속 꺼내게 됨 🔥"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ililil_lololo",
+    "url": "https://www.threads.com/@ililil_lololo/post/DdUwGLhEc-Y",
+    "views": 690,
+    "likes": 0,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 0.2,
+    "hot_score": 4.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fFR1Re5C8W",
+    "final_url": "https://www.coupang.com/vp/products/8171941942?itemId=23343125254&src=1139000&spec=10799999&addtag=400&ctag=8171941942&lptag=AF0743444&itime=20260916085256&pageType=PRODUCT&pageValue=8171941942&wPcid=17893396169465349359302&wRef=&wTime=20260916085256&redirect=landing&traceid=V0-101-7eab9066daf5e135&mcid=9a2fc4d399f94169929c728c0af7ac6c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8171941942",
+    "title": "퍼기 더블모터 유모차 통풍 쿨시트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/29/14/4/7d9aa2ec-2bd8-4a19-90ee-8bf17804e295.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/10/29/14/4/7d9aa2ec-2bd8-4a19-90ee-8bf17804e295.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/10/29/14/5/3504d9e3-e593-4144-bded-4701fb10c3ef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/udulez6t/f3d47c003f3847f8b07c895f104c09af.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/tswccn5e/217bf1a5c2324c7aafda8f5e2a2dc33c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nngthgjl/4894f35beff846dabde74c593c41d802.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_ece53426-c147-4387-9c16-c2bdb8d19184.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fFR1Re5C8W"
+    ],
+    "image_path": "images/09_퍼기_더블모터_유모차_통풍_쿨시트.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZuuydPK8",
+    "text_cleaned": true,
+    "video_path": "videos/09_퍼기_더블모터_유모차_통풍_쿨시트.mp4"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름에 유모차 태웠더니 애 등이 땀범벅이었는데 이거 깔아주고 나서는 좀 달라진 것 같더라. 작은 꽃무늬 패턴도 너무 귀엽고 메쉬라 통기도 잘 되는 느낌 🌿",
+    "b": "쿨시트인데 딱딱하지 않고 부드러워서 애가 불편해하지 않더라. 여름 외출할 때마다 이게 있고 없고 차이가 꽤 나는 것 같아서 잘 샀다 싶음 🌼"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "goose.potter",
+    "url": "https://www.threads.com/@goose.potter/post/DdUtYZhE7Wh",
+    "views": 615,
+    "likes": 6,
+    "replies": 1,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 0.2,
+    "hot_score": 28.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/d7gfYxtYQ0",
+    "final_url": "https://www.coupang.com/vp/products/8359507502?itemId=25225551506&src=1139000&spec=10799999&addtag=400&ctag=8359507502&lptag=AF0743444&itime=20260916085304&pageType=PRODUCT&pageValue=8359507502&wPcid=17893396169465349359302&wRef=&wTime=20260916085304&redirect=landing&traceid=V0-101-8a63dd2776f9c5e7&mcid=e2c0f606453d4c8f82ada31b30dc46ff&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8359507502",
+    "title": "집똑똑이 여행용 올인원 디스펜서 4 in 1 휴대용 샤워보틀, 1개, 그레이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2bdb/d8a9a8bf012f2928b63c0c7d9c283ced8ef0865fd607a15534cf5c55a45c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2bdb/d8a9a8bf012f2928b63c0c7d9c283ced8ef0865fd607a15534cf5c55a45c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c32/f4521f2b742faf4173a569d017e650923bbcf0aae72674362a27c988240f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c0b/1ff5cd811abfff6716903d29dd09d32cb1b200991997869e924a8abcdbe5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/650a/36ae22f255ab3324436045a91a6379029e2ca64c5262e183159cd30301c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f26f/74629198ecaf482cf0127135dca54b81fe53d8e2d86e76a3fb6daa829c7e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e62b/a514c70f097271560c9aaf57720bac16226645025ab805b1682ec8c42a66.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/114a/ec3739d977ed6da34e5ff26543decb9ab87333324558907f62ec160f0561.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3d9c/129dd952e1bb19601236f7d32a4203c1db58da94eda2245c3677aacc47b6.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/d7gfYxtYQ0"
+    ],
+    "image_path": "images/10_집똑똑이_여행용_올인원_디스펜서_4_in_1_휴대용_샤워보틀,_1개,_그.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZuxrYl0C",
+    "text_cleaned": true,
+    "video_path": "videos/10_집똑똑이_여행용_올인원_디스펜서_4_in_1_휴대용_샤워보틀,_1개,_그.mp4"
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여행 갈 때마다 샴푸 소분이 너무 귀찮았는데 이거 하나에 다 넣으니까 가방 정리가 너무 편함. 호텔에서 꺼내 쓸 때도 펌핑 되니까 진짜 편하더라 🧴",
+    "b": "4in1이라 세면도구 여러 개 따로 챙길 필요가 없어서 짐이 확 줄어든 느낌. 여행 다녀온 뒤에도 집에서 그냥 쓰고 있어서 생각보다 활용도가 높음 ✈️"
+   }
+  }
+ ]
+}
