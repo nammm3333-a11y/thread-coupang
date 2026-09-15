@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>샤오홍수 앱 연결 테스트</title>
+<style>
+  :root{--bg:#f4f5f7;--card:#fff;--ink:#16181d;--muted:#5f6672;--line:#dde1e7;--xhs:#ff2442}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Apple SD Gothic Neo","Malgun Gothic",sans-serif;padding:24px 16px 48px}
+  main{max-width:520px;margin:0 auto;display:grid;gap:18px}
+  h1{font-size:22px;margin:0}
+  p{margin:0;color:var(--muted)}
+  ol{margin:0;padding:0;list-style:none;display:grid;gap:12px}
+  li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:grid;gap:8px}
+  .n{font-weight:700}
+  a{display:block;text-align:center;background:var(--xhs);color:#fff;text-decoration:none;font-weight:700;padding:13px;border-radius:10px}
+  code{font-size:12px;color:var(--muted);word-break:break-all}
+</style>
+</head>
+<body>
+<main>
+  <h1>샤오홍수 앱 연결 테스트</h1>
+  <p>버튼을 하나씩 눌러보고, <b>샤오홍수 앱이 열린 번호</b>를 알려주세요. 앱이 안 열리면 아무 반응이 없거나 Play 스토어가 뜰 수 있습니다. 이때는 뒤로 가서 다음 번호를 누르면 됩니다.</p>
+  <ol>
+    <li><span class="n">1번 · 앱 주소 바로 열기</span>
+      <a href="xhsdiscover://home">1번 눌러보기</a><code>xhsdiscover://home</code></li>
+    <li><span class="n">2번 · 앱 주소 (첫 화면 지정 없음)</span>
+      <a href="xhsdiscover://">2번 눌러보기</a><code>xhsdiscover://</code></li>
+    <li><span class="n">3번 · 안드로이드 앱 지정 + 앱 주소</span>
+      <a href="intent://home#Intent;scheme=xhsdiscover;package=com.xingin.xhs;end">3번 눌러보기</a><code>intent · xhsdiscover · com.xingin.xhs</code></li>
+    <li><span class="n">4번 · 안드로이드 앱 지정 + 샤오홍수 웹 주소</span>
+      <a href="intent://www.xiaohongshu.com/explore#Intent;scheme=https;package=com.xingin.xhs;end">4번 눌러보기</a><code>intent · https://www.xiaohongshu.com/explore · com.xingin.xhs</code></li>
+    <li><span class="n">5번 · 안드로이드 앱 지정 + 공유 링크 주소</span>
+      <a href="intent://xhslink.com/#Intent;scheme=https;package=com.xingin.xhs;end">5번 눌러보기</a><code>intent · https://xhslink.com · com.xingin.xhs</code></li>
+  </ol>
+  <p>사용 중인 브라우저(삼성 인터넷 / 크롬 / 카카오톡·스레드 안에서 열기)도 함께 알려주세요.</p>
+</main>
+</body>
+</html>
