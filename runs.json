@@ -1,26 +1,37 @@
 [
  {
+  "name": "20260915_093000",
+  "count": 10,
+  "keyword": "link.coupang.com",
+  "kind": "daily",
+  "title": "오늘의 쿠파스 제품"
+ },
+ {
   "name": "20260915_000625",
   "count": 5,
   "keyword": "쿠팡파트너스",
-  "days": 10
+  "kind": "",
+  "title": ""
  },
  {
   "name": "20260914_234711",
   "count": 1,
   "keyword": "쿠팡파트너스",
-  "days": 20
+  "kind": "",
+  "title": ""
  },
  {
   "name": "20260914_170217",
   "count": 10,
   "keyword": "쿠팡파트너스",
-  "days": 7
+  "kind": "",
+  "title": ""
  },
  {
   "name": "20260914_163900",
   "count": 3,
   "keyword": "쿠팡파트너스",
-  "days": 7
+  "kind": "",
+  "title": ""
  }
 ]

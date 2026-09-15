@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>스레드 쿠팡 인기 제품</title>
+<title>스레드 쿠파스 제품</title>
 <style>
 :root{--bg:#f5f6f8;--card:#fff;--ink:#111827;--muted:#6b7280;--line:#e5e7eb;--soft:#f3f4f6;
   --primary:#111827;--primary-ink:#fff;--cp:#2563eb;--xhs:#ff2442;--ok:#059669;--err:#dc2626;--warn:#b45309;
@@ -27,6 +27,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
 .primary{background:var(--primary);color:var(--primary-ink);border-color:var(--primary);padding:9px 20px}
 .cp{background:var(--cp);border-color:var(--cp);color:#fff}.xhs{background:var(--xhs);border-color:var(--xhs);color:#fff}
 .status{margin-left:auto;font-size:13px;color:var(--muted)}.status.run{color:var(--warn)}.status.ok{color:var(--ok)}.status.err{color:var(--err)}
+.dbinfo{margin-top:10px;font-size:12px;color:var(--muted)}
 details.log summary{cursor:pointer;color:var(--muted);font-size:13px}
 pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radius:8px;padding:10px;font:12px/1.5 Consolas,monospace;max-height:260px;overflow:auto;margin:8px 0 0}
 .note{background:var(--note-bg);color:var(--note-ink);border:1px solid var(--note-line);border-radius:10px;padding:12px;margin-bottom:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
@@ -44,13 +45,16 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
 .post{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px;display:grid;gap:8px}
 .post-row{display:flex;gap:8px;align-items:flex-start}.post-row b{flex:none;color:var(--muted);padding-top:2px}
 .post-row p{margin:0;flex:1;font-size:14px;line-height:1.55}.copy{padding:5px 10px;font-size:12px;flex:none}
+.tbl{overflow-x:auto}.tbl table{border-collapse:collapse;width:100%;font-size:13px}
+.tbl th,.tbl td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}.tbl th{color:var(--muted);font-weight:600}
+.tbl td.num{text-align:right}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>스레드 쿠팡파트너스 현재 인기 제품</h1>
-  <p class="sub">스레드 인기 탭 상위 글 중 최근 글·최소 조회수 기준을 넘는 쿠팡 글을 골라 쿠팡 상품명·이미지를 저장합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
+  <h1>스레드 쿠파스 제품</h1>
+  <p class="sub">쿠팡 링크가 달린 스레드 글을 매일 모아 <b>오늘의 쿠파스 제품</b>을 보여주고, 월요일에는 모아둔 글의 조회수로 <b>주간 분석</b>을 합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
 
   <div id="fileNotice" class="note" hidden><span>이 파일을 직접 열면 동작하지 않습니다. 프로그램 폴더의 <b>실행.bat</b>을 실행하세요.</span></div>
   <div id="staticNotice" class="note" hidden>
@@ -65,17 +69,22 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
   <section class="panel" id="controls" hidden>
     <div class="grid">
       <label>검색어<input id="keyword" type="text"></label>
-      <label>뽑을 글 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
-      <label>기간 (최근 N일)<input id="days" type="number" min="1" max="365"></label>
-      <label>최소 조회수<input id="min_views" type="number" min="0" step="1000"></label>
-      <label>인기탭 훑어볼 글 수<input id="scan_limit" type="number" min="10" max="300" step="10"></label>
-      <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>    </div>
+      <label>오늘의 제품 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
+      <label>인기탭에서 모을 링크 글 수<input id="popular_limit" type="number" min="0" max="300" step="10"></label>
+      <label>최근탭 훑는 시간 (분)<input id="recent_minutes" type="number" min="0" max="30"></label>
+      <label>주간: 조회수 확인 글 수<input id="weekly_check_limit" type="number" min="10" max="500" step="10"></label>
+      <label>주간: 뽑을 제품 수<input id="weekly_top" type="number" min="1" max="30"></label>
+      <label class="check"><input id="weekly_auto" type="checkbox"> 월요일엔 주간 분석까지</label>
+      <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>
+    </div>
     <div class="actions">
       <button id="btnLogin">스레드 로그인</button>
       <button id="btnRun" class="primary">▶ 실행</button>
+      <button id="btnWeekly">📊 주간 분석</button>
       <button id="btnStop" disabled>중지</button>
       <span id="status" class="status">연결 중…</span>
     </div>
+    <div id="dbInfo" class="dbinfo"></div>
     <details class="log" id="logBox"><summary>진행 로그</summary><pre id="log"></pre></details>
   </section>
 
@@ -88,6 +97,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
     <button id="btnPublish" class="pc-only" hidden disabled>GitHub에 올리기</button>
     <a id="pagesLink" class="btn" hidden target="_blank" rel="noopener">GitHub 주소</a>
   </div>
+  <div id="authors"></div>
   <div id="results"><div class="empty">불러오는 중…</div></div>
 </div>
 
@@ -97,6 +107,8 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":
 const XHS = "https://www.xiaohongshu.com/explore";
 const COMMENT = "[광고]\n(내쿠파스주소넣기)";
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
+const NUM_FIELDS = ["top_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
+const BOOL_FIELDS = ["weekly_auto", "make_posts"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
 
@@ -126,24 +138,41 @@ function imgSrc(run, rel) {
   const p = rel.split("/").map(encodeURIComponent).join("/");
   return MODE === "static" ? `runs/${encodeURIComponent(run)}/${p}` : `${API}/output/${encodeURIComponent(run)}/${p}`;
 }
+const isWeekly = (run) => /_weekly$/.test(run || "");
+const kindLabel = (kind, run) => (kind === "weekly" || isWeekly(run)) ? "📊 주간 분석" : (kind === "daily" ? "오늘의 쿠파스" : "이전 방식");
+const runTime = (name) => { const m = /^(\d{4})(\d{2})(\d{2})_(\d{2})(\d{2})/.exec(name || ""); return m ? `${m[2]}/${m[3]} ${m[4]}:${m[5]}` : name; };
 
 function setStatus(text, cls = "") { const el = $("status"); el.textContent = text; el.className = "status " + cls; }
 function fillSettings(s) {
-  for (const k of ["keyword", "top_n", "days", "min_views", "scan_limit"]) $(k).value = s[k];
-  $("make_posts").checked = s.make_posts !== false;
+  $("keyword").value = s.keyword;
+  for (const k of NUM_FIELDS) $(k).value = s[k];
+  for (const k of BOOL_FIELDS) $(k).checked = s[k] !== false;
 }
 function readSettings() {
-  return {keyword: $("keyword").value.trim(), top_n: +$("top_n").value, days: +$("days").value,
-          min_views: +$("min_views").value, scan_limit: +$("scan_limit").value, make_posts: $("make_posts").checked};
+  const s = {keyword: $("keyword").value.trim()};
+  for (const k of NUM_FIELDS) s[k] = +$(k).value;
+  for (const k of BOOL_FIELDS) s[k] = $(k).checked;
+  return s;
 }
 
-function render(run, results) {
-  const key = run + ":" + results.length + ":" + results.filter((r) => r.post).length;
+function renderAuthors(meta) {
+  const rows = meta && meta.authors;
+  if (!rows || !rows.length) { $("authors").innerHTML = ""; return; }
+  $("authors").innerHTML = `<section class="panel"><b>계정별 성적</b> <span class="dbinfo">(원글 조회수 평균이 높은 순 · 확인 ${meta.checked ?? "-"}개)</span>
+    <div class="tbl"><table><thead><tr><th>계정</th><th>확인한 글</th><th>평균 조회</th><th>최고 조회</th></tr></thead><tbody>
+    ${rows.map((a) => `<tr><td><a href="https://www.threads.com/@${esc(a.author)}" target="_blank" rel="noopener">@${esc(a.author)}</a></td>
+      <td class="num">${a.checks}</td><td class="num">${a.avg_views.toLocaleString()}</td><td class="num">${a.max_views.toLocaleString()}</td></tr>`).join("")}
+    </tbody></table></div></section>`;
+}
+
+function render(run, results, meta) {
+  const key = run + ":" + results.length + ":" + results.filter((r) => r.post).length + ":" + (meta ? 1 : 0);
   if (key === lastRenderKey) return;
   lastRenderKey = key;
   viewRun = run;
   for (const id of ["btnImages", "btnExcel", "btnPublish", "btnPosts"]) $(id).disabled = !run;
-  $("resultTitle").textContent = run ? `결과 · ${run} · ${results.length}개` : "결과";
+  $("resultTitle").textContent = run ? `${kindLabel(meta && meta.kind, run)} · ${runTime(run)} · ${results.length}개` : "결과";
+  renderAuthors(meta);
   if (!results.length) {
     $("results").innerHTML = `<div class="empty">${prevMode === "run" ? "찾는 중입니다…" : "결과가 없습니다."}</div>`;
     return;
@@ -152,12 +181,13 @@ function render(run, results) {
     const t = r.threads, cp = r.coupang;
     const src = cp.image_path ? imgSrc(run, cp.image_path) : "";
     const img = src ? `<a href="${src}" target="_blank"><img src="${src}" loading="lazy" alt=""></a>` : `<div class="noimg">이미지 없음</div>`;
+    const where = t.views != null ? `<b>조회 ${t.views.toLocaleString()}회</b>` : `${esc(t.tab || "인기")}탭 ${esc(t.tab_rank ?? "-")}위`;
     return `<article class="card">
       <div class="img">${img}</div>
       <div>
         <div class="head"><span class="rank">${r.rank}</span><h3>${esc(cp.title) || "(상품명을 가져오지 못함)"}</h3></div>
-        <div class="meta">${t.views != null ? `<b>조회 ${t.views.toLocaleString()}회</b>` : `현재인기 ${r.popular_rank}위`} · 인기탭 ${esc(t.tab_rank)}위 · ${esc(t.posted_at)} 작성
-          · ♥ ${t.likes.toLocaleString()} · 댓글 ${t.replies.toLocaleString()} · 리포스트 ${t.reposts.toLocaleString()} · @${esc(t.author)}</div>
+        <div class="meta">${where} · ${esc(t.posted_at)} 작성
+          · ♥ ${(t.likes || 0).toLocaleString()} · 댓글 ${(t.replies || 0).toLocaleString()} · 리포스트 ${(t.reposts || 0).toLocaleString()} · @${esc(t.author)}</div>
         <div class="btns">
           <a class="btn cp" href="${esc(cp.final_url || cp.url)}" target="_blank" rel="noopener">쿠팡에서 보기</a>
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
@@ -178,9 +208,15 @@ function render(run, results) {
 async function loadRuns(select) {
   const runs = await runsList();
   $("runs").innerHTML = `<option value="">이전 결과 선택…</option>` +
-    runs.map((r) => `<option value="${esc(r.name)}">${esc(r.name)} · ${esc(r.keyword)} · ${r.count}개</option>`).join("");
+    runs.map((r) => `<option value="${esc(r.name)}">${kindLabel(r.kind, r.name)} · ${esc(runTime(r.name))} · ${r.count}개</option>`).join("");
   if (select) $("runs").value = select;
   return runs;
+}
+
+async function showRun(name) {
+  lastRenderKey = "";
+  const d = await runData(name);
+  render(name, d.results || [], d.meta || null);
 }
 
 function applyState(st) {
@@ -190,11 +226,15 @@ function applyState(st) {
     pre.scrollTop = pre.scrollHeight;
   }
   logTotal = st.log_total;
-  $("btnRun").disabled = $("btnLogin").disabled = !!st.mode;
+  $("btnRun").disabled = $("btnLogin").disabled = $("btnWeekly").disabled = !!st.mode;
   $("btnStop").disabled = st.mode !== "run";
   $("btnPublish").hidden = !st.github.enabled;
   if (st.github.enabled && st.github.pages_url && location.href.indexOf(st.github.pages_url) !== 0) {
     $("pagesLink").href = st.github.pages_url; $("pagesLink").hidden = false;
+  }
+  if (st.db) {
+    $("dbInfo").textContent = `모아둔 쿠팡 링크 글 ${st.db.total.toLocaleString()}개 (최근 7일 ${st.db.last7.toLocaleString()}개)`
+      + ` · 조회수 성적이 쌓인 계정 ${st.db.authors}개 · 마지막 주간 분석 ${st.db.last_weekly || "아직 없음"}`;
   }
 
   if (st.mode === "run") setStatus("실행 중… 크롬 창은 닫지 마세요", "run");
@@ -208,12 +248,9 @@ function applyState(st) {
   else if (prevMode === "login") setStatus("로그인 창이 닫혔습니다", "ok");
   else if (prevMode === undefined) setStatus("대기 중");
 
-  if (liveView && st.run) render(st.run, st.results);
-  if (prevMode === "run" && !st.mode) loadRuns(st.run);
-  if (prevMode === "posts" && !st.mode && viewRun) {  // 만든 글을 화면에 반영
-    const run = viewRun;
-    runData(run).then((d) => { lastRenderKey = ""; render(run, d.results || []); }).catch(() => {});
-  }
+  if (liveView && st.run) render(st.run, st.results, null);
+  if (prevMode === "run" && !st.mode) { loadRuns(st.run); if (st.run) showRun(st.run).catch(() => {}); }
+  if (prevMode === "posts" && !st.mode && viewRun) showRun(viewRun).catch(() => {});  // 만든 글을 화면에 반영
   prevMode = st.mode;
 }
 
@@ -234,7 +271,7 @@ async function poll() {
 function showOffline() {
   lost = true;
   $("offline").hidden = false;
-  for (const id of ["btnRun", "btnLogin", "btnStop"]) $(id).disabled = true;
+  for (const id of ["btnRun", "btnLogin", "btnStop", "btnWeekly"]) $(id).disabled = true;
   setStatus("PC 프로그램이 꺼져 있습니다", "err");
 }
 
@@ -248,9 +285,8 @@ async function refreshStatic() {
     if (runs[0].name === latestRun) return;
     latestRun = runs[0].name;
     if (followLatest) {
-      lastRenderKey = "";
       $("runs").value = latestRun;
-      render(latestRun, (await runData(latestRun)).results || []);
+      await showRun(latestRun);
     }
   } catch (e) {
     if (!viewRun) $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`;
@@ -273,21 +309,27 @@ function enterPC(st) {
   $("controls").hidden = false;
   document.querySelectorAll(".pc-only").forEach((el) => { if (el.id !== "btnPublish") el.hidden = false; });
   fillSettings(st.settings);
-  $("results").innerHTML = `<div class="empty">아직 결과가 없습니다. 설정 후 ▶ 실행을 누르세요.</div>`;
+  $("results").innerHTML = `<div class="empty">아직 결과가 없습니다. ▶ 실행을 누르거나 위 목록에서 이전 결과를 고르세요.</div>`;
   loadRuns().catch(() => {});
   applyState(st);
   poll();
 }
 
-$("btnRun").onclick = async () => {
-  try {
-    $("log").textContent = ""; logTotal = 0; liveView = true; lastRenderKey = "";
-    $("runs").value = "";
-    await api("/api/run", readSettings());
-    $("logBox").open = true;
-    $("results").innerHTML = `<div class="empty">찾는 중입니다…</div>`;
-    setStatus("실행 중…", "run");
-  } catch (e) { setStatus(e.message, "err"); }
+function startJob(path, body, msg) {
+  return async () => {
+    try {
+      $("log").textContent = ""; logTotal = 0; liveView = true; lastRenderKey = "";
+      $("runs").value = ""; $("authors").innerHTML = "";
+      await api(path, body());
+      $("logBox").open = true;
+      $("results").innerHTML = `<div class="empty">찾는 중입니다…</div>`;
+      setStatus(msg, "run");
+    } catch (e) { setStatus(e.message, "err"); }
+  };
+}
+$("btnRun").onclick = startJob("/api/run", readSettings, "실행 중…");
+$("btnWeekly").onclick = () => {
+  if (confirm("모아둔 글의 원글을 열어 조회수를 확인합니다. 20~30분 걸릴 수 있어요. 시작할까요?")) startJob("/api/weekly", readSettings, "주간 분석 중…")();
 };
 $("btnLogin").onclick = async () => {
   try { $("log").textContent = ""; logTotal = 0; await api("/api/login", {}); setStatus("로그인 창을 여는 중…", "run"); }
@@ -301,9 +343,9 @@ $("btnPublish").onclick = async () => {
 $("runs").onchange = async () => {
   const name = $("runs").value;
   if (!name) return;
-  liveView = false; lastRenderKey = "";
+  liveView = false;
   followLatest = name === latestRun;  // 이전 결과를 골라 보는 중이면 자동 전환하지 않음
-  try { render(name, (await runData(name)).results || []); } catch (e) { $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
+  try { await showRun(name); } catch (e) { $("results").innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
 };
 $("btnPosts").onclick = async () => {
   if (!viewRun) return;
