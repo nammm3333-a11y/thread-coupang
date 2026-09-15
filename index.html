@@ -205,6 +205,7 @@ function render(run, results, meta) {
         <div class="btns">
           <a class="btn cp" href="${esc(cleanCoupang(cp))}" target="_blank" rel="noopener">쿠팡에서 보기</a>
           ${cp.my_link ? `<button class="btn copy" data-text="${esc(cp.my_link)}">내 링크 복사</button>` : ""}
+          ${(cp.videos || []).length ? `<a class="btn" href="${esc(cp.videos[0])}" target="_blank" rel="noopener">▶ 판매자 영상</a>` : ""}
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
           <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
