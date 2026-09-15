@@ -204,7 +204,7 @@ function render(run, results, meta) {
           · ♥ ${(t.likes || 0).toLocaleString()} · 댓글 ${(t.replies || 0).toLocaleString()} · 리포스트 ${(t.reposts || 0).toLocaleString()} · @${esc(t.author)}</div>
         <div class="btns">
           <a class="btn cp" href="${esc(cleanCoupang(cp))}" target="_blank" rel="noopener">쿠팡에서 보기</a>
-          <button class="btn copy" data-text="${esc(cleanCoupang(cp))}">쿠팡 주소 복사</button>
+          ${cp.my_link ? `<button class="btn copy" data-text="${esc(cp.my_link)}">내 링크 복사</button>` : ""}
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
           <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
