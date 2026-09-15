@@ -56,6 +56,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
   <h1>스레드 쿠파스 제품</h1>
   <p class="sub">쿠팡 링크가 달린 스레드 글을 매일 모아 <b>오늘의 쿠파스 제품</b>을 보여주고, 월요일에는 모아둔 글의 조회수로 <b>주간 분석</b>을 합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
 
+  <p id="analysisLink" class="sub" hidden><a href="analysis.html">📈 조회수 기록 분석 보기</a> — 1·2·3일째 조회수로 정한 기간·최소 조회수 추천</p>
   <div id="fileNotice" class="note" hidden><span>이 파일을 직접 열면 동작하지 않습니다. 프로그램 폴더의 <b>실행.bat</b>을 실행하세요.</span></div>
   <div id="staticNotice" class="note" hidden>
     <span><b>보기 전용</b> — 최근에 올라간 결과를 보여줍니다. PC에서 프로그램을 켜면 이 화면에서 바로 실행할 수 있습니다.</span>
@@ -118,13 +119,9 @@ const commentText = (rank, link) => { const l = link || "(내쿠파스주소넣�
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
 const IS_PHONE = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)
   || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
-const IS_ANDROID = /Android/i.test(navigator.userAgent);
-const XHS_APP = "xhsdiscover://home";         // 샤오홍수 앱 첫 화면
-// 휴대폰에서는 샤오홍수 앱을 바로 연다. 안드로이드는 앱이 없으면 웹으로 (아이폰은 클릭 처리에서 웹으로 넘김)
-function xhsHref(url) {
-  if (!IS_PHONE) return url;
-  return IS_ANDROID ? `intent://home#Intent;scheme=xhsdiscover;package=com.xingin.xhs;S.browser_fallback_url=${encodeURIComponent(url)};end` : XHS_APP;
-}
+const XHS_APP = "xhsdiscover://home";         // 샤오홍수 앱 첫 화면 (갤럭시에서 이 방식으로 앱이 열리는 것 확인)
+// 휴대폰에서는 샤오홍수 앱을 바로 연다 (앱이 없으면 클릭 처리에서 웹으로 넘김)
+const xhsHref = (url) => IS_PHONE ? XHS_APP : url;
 const NUM_FIELDS = ["top_n", "daily_min_age_hours", "daily_max_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
 const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos", "clean_text"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
@@ -325,6 +322,9 @@ async function refreshStatic() {
 
 async function enterStatic() {
   MODE = "static";
+  // 조회수 기록 분석 페이지가 올라와 있으면 링크 표시
+  fetch(`analysis.html?t=${Date.now()}`, {method: "HEAD", cache: "no-store"})
+    .then((r) => { if (r.ok) $("analysisLink").hidden = false; }).catch(() => {});
   // 휴대폰에는 PC 프로그램이 없으므로 '프로그램 켜기' 안내와 PC 연결 확인을 하지 않는다
   if (!IS_PHONE) {
     $("staticNotice").hidden = false;
@@ -400,10 +400,10 @@ $("results").addEventListener("click", async (e) => {
   const old = btn.textContent; btn.textContent = "복사됨 ✓";
   setTimeout(() => { btn.textContent = old; }, 1500);
 });
-// 아이폰: 앱을 열어 보고, 1.5초 안에 화면이 앱으로 넘어가지 않으면(앱 없음) 웹으로
+// 휴대폰: 앱을 열어 보고, 1.5초 안에 화면이 앱으로 넘어가지 않으면(앱 없음) 웹으로
 $("results").addEventListener("click", (e) => {
   const a = e.target.closest("a.xhs");
-  if (!a || !IS_PHONE || IS_ANDROID) return;
+  if (!a || !IS_PHONE) return;
   e.preventDefault();
   const timer = setTimeout(() => { if (!document.hidden) location.href = a.dataset.web; }, 1500);
   document.addEventListener("visibilitychange", () => clearTimeout(timer), {once: true});
