@@ -110,7 +110,7 @@ const XHS = "https://www.xiaohongshu.com/explore";
 // 첫 댓글 양식. 같은 댓글을 반복하면 스팸처럼 보일 수 있어 이모지를 제품 순서대로 돌려 쓴다
 const COMMENT_EMOJIS = ["👇", "🔗", "📌", "💬", "✨", "🛒"];
 const commentEmoji = (rank) => COMMENT_EMOJIS[(Math.max(rank || 1, 1) - 1) % COMMENT_EMOJIS.length];
-const commentText = (rank) => `[광고]\n✔️ 정보는 링크에 남겨둘께 ${commentEmoji(rank)}\n(내쿠파스주소넣기)`;
+const commentText = (rank, link) => `[광고]\n✔️ 정보는 링크에 남겨둘께 ${commentEmoji(rank)}\n${link || "(내쿠파스주소넣기)"}`;
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
 const NUM_FIELDS = ["top_n", "min_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
 const BOOL_FIELDS = ["weekly_auto", "make_posts"];
@@ -170,6 +170,15 @@ function renderAuthors(meta) {
     </tbody></table></div></section>`;
 }
 
+// 수집한 쿠팡 주소에는 다른 파트너의 추적 코드(lptag 등)가 붙어 있어 상품번호·옵션(itemId)만 남긴다
+function cleanCoupang(cp) {
+  const u = cp.final_url || "";
+  const m = u.match(/coupang\.com\/vp\/products\/(\d+)/);
+  if (!m) return u || cp.url;
+  const item = (u.match(/[?&]itemId=(\d+)/) || [])[1];
+  return `https://www.coupang.com/vp/products/${m[1]}` + (item ? `?itemId=${item}` : "");
+}
+
 function render(run, results, meta) {
   const key = run + ":" + results.length + ":" + results.filter((r) => r.post).length + ":" + (meta ? 1 : 0);
   if (key === lastRenderKey) return;
@@ -194,7 +203,8 @@ function render(run, results, meta) {
         <div class="meta">${where} · ${esc(t.posted_at)} 작성
           · ♥ ${(t.likes || 0).toLocaleString()} · 댓글 ${(t.replies || 0).toLocaleString()} · 리포스트 ${(t.reposts || 0).toLocaleString()} · @${esc(t.author)}</div>
         <div class="btns">
-          <a class="btn cp" href="${esc(cp.final_url || cp.url)}" target="_blank" rel="noopener">쿠팡에서 보기</a>
+          <a class="btn cp" href="${esc(cleanCoupang(cp))}" target="_blank" rel="noopener">쿠팡에서 보기</a>
+          <button class="btn copy" data-text="${esc(cleanCoupang(cp))}">쿠팡 주소 복사</button>
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
           <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
@@ -202,7 +212,7 @@ function render(run, results, meta) {
         ${r.post ? `<div class="post">
           <div class="post-row"><b>A</b><p>${esc(r.post.a)}</p><button class="copy" data-text="${esc(r.post.a)}">복사</button></div>
           <div class="post-row"><b>B</b><p>${esc(r.post.b)}</p><button class="copy" data-text="${esc(r.post.b)}">복사</button></div>
-          <div class="post-row"><b>💬</b><p>첫 댓글: [광고] · ✔️ 정보는 링크에 남겨둘께 ${commentEmoji(r.rank)} · 내 쿠파스 주소</p><button class="copy" data-text="${esc(commentText(r.rank))}">복사</button></div>
+          <div class="post-row"><b>💬</b><p>첫 댓글: [광고] · ✔️ 정보는 링크에 남겨둘께 ${commentEmoji(r.rank)} · ${cp.my_link ? esc(cp.my_link) : "내 쿠파스 주소 (직접 넣기)"}</p><button class="copy" data-text="${esc(commentText(r.rank, cp.my_link))}">복사</button></div>
         </div>` : ""}
         ${t.text ? `<details><summary>스레드 본문 보기</summary><div class="txt">${esc(t.text)}</div></details>` : ""}
       </div>
