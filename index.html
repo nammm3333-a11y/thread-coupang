@@ -78,6 +78,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
       <label>주간: 뽑을 제품 수<input id="weekly_top" type="number" min="1" max="30"></label>
       <label class="check"><input id="weekly_auto" type="checkbox"> 월요일엔 주간 분석까지</label>
       <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>
+      <label class="check"><input id="make_videos" type="checkbox"> 상품 영상 자동 생성</label>
     </div>
     <div class="actions">
       <button id="btnLogin">스레드 로그인</button>
@@ -112,8 +113,17 @@ const COMMENT_EMOJIS = ["👇", "🔗", "📌", "💬", "✨", "🛒"];
 const commentEmoji = (rank) => COMMENT_EMOJIS[(Math.max(rank || 1, 1) - 1) % COMMENT_EMOJIS.length];
 const commentText = (rank, link) => `[광고]\n✔️ 정보는 링크에 남겨둘께 ${commentEmoji(rank)}\n${link || "(내쿠파스주소넣기)"}`;
 const LOCAL_API = "http://127.0.0.1:8765";   // PC에서 실행.bat이 켜 둔 프로그램
+const IS_PHONE = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)
+  || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
+const IS_ANDROID = /Android/i.test(navigator.userAgent);
+const XHS_APP = "xhsdiscover://home";         // 샤오홍수 앱 첫 화면
+// 휴대폰에서는 샤오홍수 앱을 바로 연다. 안드로이드는 앱이 없으면 웹으로 (아이폰은 클릭 처리에서 웹으로 넘김)
+function xhsHref(url) {
+  if (!IS_PHONE) return url;
+  return IS_ANDROID ? `intent://home#Intent;scheme=xhsdiscover;package=com.xingin.xhs;S.browser_fallback_url=${encodeURIComponent(url)};end` : XHS_APP;
+}
 const NUM_FIELDS = ["top_n", "min_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
-const BOOL_FIELDS = ["weekly_auto", "make_posts"];
+const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
 
@@ -207,7 +217,8 @@ function render(run, results, meta) {
           ${cp.my_link ? `<button class="btn copy" data-text="${esc(cp.my_link)}">내 링크 복사</button>` : ""}
           ${(cp.videos || []).length ? `<a class="btn" href="${esc(cp.videos[0])}" target="_blank" rel="noopener">▶ 판매자 영상</a>` : ""}
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
-          <a class="btn xhs" href="${esc(r.xhs_url || XHS)}" target="_blank" rel="noopener">샤오홍수 열기</a>
+          ${cp.video_path ? `<a class="btn" href="${imgSrc(run, cp.video_path)}" download>영상 저장</a>` : ""}
+          <a class="btn xhs" href="${esc(xhsHref(r.xhs_url || XHS))}" data-web="${esc(r.xhs_url || XHS)}"${IS_PHONE ? "" : ` target="_blank" rel="noopener"`}>샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
         </div>
         ${r.post ? `<div class="post">
@@ -312,9 +323,7 @@ async function refreshStatic() {
 async function enterStatic() {
   MODE = "static";
   // 휴대폰에는 PC 프로그램이 없으므로 '프로그램 켜기' 안내와 PC 연결 확인을 하지 않는다
-  const isPhone = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)
-    || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
-  if (!isPhone) {
+  if (!IS_PHONE) {
     $("staticNotice").hidden = false;
     // PC에서 프로그램이 켜지면 자동으로 실행 가능한 화면으로 전환
     const watch = setInterval(async () => { if (await probePC(LOCAL_API)) { clearInterval(watch); location.reload(); } }, 5000);
@@ -388,7 +397,16 @@ $("results").addEventListener("click", async (e) => {
   const old = btn.textContent; btn.textContent = "복사됨 ✓";
   setTimeout(() => { btn.textContent = old; }, 1500);
 });
-$("btnImages").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "images"}).catch((e) => setStatus(e.message, "err"));
+// 아이폰: 앱을 열어 보고, 1.5초 안에 화면이 앱으로 넘어가지 않으면(앱 없음) 웹으로
+$("results").addEventListener("click", (e) => {
+  const a = e.target.closest("a.xhs");
+  if (!a || !IS_PHONE || IS_ANDROID) return;
+  e.preventDefault();
+  const timer = setTimeout(() => { if (!document.hidden) location.href = a.dataset.web; }, 1500);
+  document.addEventListener("visibilitychange", () => clearTimeout(timer), {once: true});
+  location.href = XHS_APP;
+});
+$("btnImages").onclick =() => viewRun && api("/api/open", {run: viewRun, what: "images"}).catch((e) => setStatus(e.message, "err"));
 $("btnExcel").onclick = () => viewRun && api("/api/open", {run: viewRun, what: "excel"}).catch((e) => setStatus(e.message, "err"));
 // 창을 X로 닫으면 PC 프로그램도 종료 (새로고침은 바로 다시 연결되므로 종료되지 않음, 실행 중이면 끝난 뒤 종료)
 window.addEventListener("pagehide", () => {
