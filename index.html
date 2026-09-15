@@ -81,6 +81,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
   </nav>
   <p class="sub">쿠팡 링크가 달린 스레드 글을 매일 모아 <b>오늘의 쿠파스 제품</b>을 보여주고, 월요일에는 모아둔 글의 조회수로 <b>주간 분석</b>을 합니다. 쿠팡 이미지로 샤오홍수 앱에서 이미지 검색하세요.</p>
 
+  <p id="findLink" class="sub" hidden><a class="btn xhs" href="https://nam-office-desktop.tailed4090.ts.net/" rel="noopener">📷 샤오홍수 사진으로 쿠팡 찾기</a> <span class="dbinfo">(휴대폰 Tailscale이 켜져 있어야 열려요)</span></p>
   <p id="analysisLink" class="sub" hidden><a href="analysis.html">📈 조회수 기록 분석 보기</a> — 1·2·3일째 조회수로 정한 기간·최소 조회수 추천</p>
   <div id="fileNotice" class="note" hidden><span>이 파일을 직접 열면 동작하지 않습니다. 프로그램 폴더의 <b>실행.bat</b>을 실행하세요.</span></div>
   <div id="staticNotice" class="note" hidden>
@@ -392,6 +393,7 @@ async function refreshStatic() {
 
 async function enterStatic() {
   MODE = "static";
+  $("findLink").hidden = false;  // 휴대폰에서 샤오홍수 사진으로 쿠팡 찾기 (PC의 찾기 서버, Tailscale 주소)
   // 조회수 기록 분석 페이지가 올라와 있으면 링크 표시
   fetch(`analysis.html?t=${Date.now()}`, {method: "HEAD", cache: "no-store"})
     .then((r) => { if (r.ok) $("analysisLink").hidden = false; }).catch(() => {});
