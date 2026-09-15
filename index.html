@@ -69,9 +69,10 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
   <section class="panel" id="controls" hidden>
     <div class="grid">
       <label>검색어<input id="keyword" type="text"></label>
-      <label>오늘의 제품 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
-      <label>오늘의 제품: 올라온 지 최소 N시간<input id="min_age_hours" type="number" min="0" max="23"></label>
-      <label>오늘의 제품: 조회수 확인 글 수<input id="daily_check_n" type="number" min="10" max="60" step="5"></label>
+      <label>매일 제품 수 (1~10)<input id="top_n" type="number" min="1" max="10"></label>
+      <label>매일: 올라온 지 최소 N시간<input id="daily_min_age_hours" type="number" min="1" max="240" step="12"></label>
+      <label>매일: 올라온 지 최대 N시간<input id="daily_max_age_hours" type="number" min="2" max="336" step="12"></label>
+      <label>매일: 한 번에 조회수 확인 글 수<input id="daily_check_n" type="number" min="10" max="100" step="5"></label>
       <label>인기탭에서 모을 링크 글 수<input id="popular_limit" type="number" min="0" max="300" step="10"></label>
       <label>최근탭 훑는 시간 (분)<input id="recent_minutes" type="number" min="0" max="30"></label>
       <label>주간: 조회수 확인 글 수<input id="weekly_check_limit" type="number" min="10" max="500" step="10"></label>
@@ -124,7 +125,7 @@ function xhsHref(url) {
   if (!IS_PHONE) return url;
   return IS_ANDROID ? `intent://home#Intent;scheme=xhsdiscover;package=com.xingin.xhs;S.browser_fallback_url=${encodeURIComponent(url)};end` : XHS_APP;
 }
-const NUM_FIELDS = ["top_n", "min_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
+const NUM_FIELDS = ["top_n", "daily_min_age_hours", "daily_max_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
 const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos", "clean_text"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
