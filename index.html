@@ -79,6 +79,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
       <label class="check"><input id="weekly_auto" type="checkbox"> 월요일엔 주간 분석까지</label>
       <label class="check"><input id="make_posts" type="checkbox"> 쿠파스 글 자동 생성</label>
       <label class="check"><input id="make_videos" type="checkbox"> 상품 영상 자동 생성</label>
+      <label class="check"><input id="clean_text" type="checkbox"> 사진 글씨 지우기</label>
     </div>
     <div class="actions">
       <button id="btnLogin">스레드 로그인</button>
@@ -123,7 +124,7 @@ function xhsHref(url) {
   return IS_ANDROID ? `intent://home#Intent;scheme=xhsdiscover;package=com.xingin.xhs;S.browser_fallback_url=${encodeURIComponent(url)};end` : XHS_APP;
 }
 const NUM_FIELDS = ["top_n", "min_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
-const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos"];
+const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos", "clean_text"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
 

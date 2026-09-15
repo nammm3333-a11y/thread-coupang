@@ -59,6 +59,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c681/52794d62356e08793d2ca5de92c56986c05c76cac2dfd974e4954cc813a7.jpg",
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aa11/52ac7a952827648e8b85654db401f7a9ae5ad642cc69f9a17c045e8e188e.jpg"
     ],
+    "text_cleaned": true,
     "video_path": "videos/01_한끼뚝딱_전연령_강아지_황태담은_클래식_건식_사료.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -99,7 +100,8 @@
     ],
     "gallery": [
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a357/5022b2a152aaeeb523dea61dbb5a14be5773d9f3b69c77c9b577900c1c6c.png"
-    ]
+    ],
+    "text_cleaned": true
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
    "post": {
@@ -137,7 +139,8 @@
     "videos": [],
     "gallery": [
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcee/8b281046f6a6793ec5219ed8eafa081ce5ee5dfd9e94b101dcf46df37871.jpg"
-    ]
+    ],
+    "text_cleaned": true
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
    "post": {
@@ -183,6 +186,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/05/19/18/9/cb8c1aad-e4f3-4a39-bf9f-c30258e5da58.jpg",
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/541412306527504-4bd9ce74-3aca-4a54-8690-379a3b0503d6.jpg"
     ],
+    "text_cleaned": true,
     "video_path": "videos/04_홀베리_유기농_레몬즙,_350g,_3개.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -228,6 +232,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/304223734433113-c0fa2a47-297e-4fc5-88f2-da74e1ae395f.jpg",
      "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
     ],
+    "text_cleaned": true,
     "video_path": "videos/05_포스틱_과자,_84g,_3개.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -269,6 +274,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/362c/6f8a8cdad2a1c9e2a0ad70bdaa02998219cc204add14087831d2dffd81c7.png",
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7075/085712b2d9f3e72a035664f8681d168544903d438fb5be34f8ddfb9dca1e.png"
     ],
+    "text_cleaned": true,
     "video_path": "videos/06_[본사_출고_정품]_온그리디언츠_바쿠글로우_캡슐_로션(+증정_온그리디언츠.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -311,6 +317,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bac2/cee9d0e6f7ad4a616e55fe527e381a84fac6112cf9927df6d740e790fc60.jpg",
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/48a8/f59766d7986c5c78828c5cacf094b6839b9dd1ff0e480be91b112b29fc36.jpg"
     ],
+    "text_cleaned": true,
     "video_path": "videos/07_LED_파츠_불빛_꾸미기_세트.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -349,7 +356,8 @@
     "videos": [],
     "gallery": [
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/07/09/11/7/886cb053-ccb0-4678-b545-4c0cbd91eb26.jpg"
-    ]
+    ],
+    "text_cleaned": true
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
    "post": {
@@ -397,6 +405,7 @@
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d87/5fad583fd3df755bc4ff884e858c6b799d1f459d0010c324323e4a12e42e.jpg",
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d408/b10466b1f28991a156e43afd2f388e756e52ccea8b3410efbee5bb2dbd51.jpeg"
     ],
+    "text_cleaned": true,
     "video_path": "videos/09_Vtopmart_다용도_냉장고_정리_트레이_팬트리_수납함_28.5x13x.mp4"
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
@@ -435,7 +444,8 @@
     "videos": [],
     "gallery": [
      "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/81ec/6f69618e53820b9cc1b99f7741f021750867709d7eff794177d7fa843792.jpg"
-    ]
+    ],
+    "text_cleaned": true
    },
    "xhs_url": "https://www.xiaohongshu.com/explore",
    "post": {
