@@ -310,9 +310,14 @@ async function refreshStatic() {
 
 async function enterStatic() {
   MODE = "static";
-  $("staticNotice").hidden = false;
-  // PC에서 프로그램이 켜지면 자동으로 실행 가능한 화면으로 전환
-  const watch = setInterval(async () => { if (await probePC(LOCAL_API)) { clearInterval(watch); location.reload(); } }, 5000);
+  // 휴대폰에는 PC 프로그램이 없으므로 '프로그램 켜기' 안내와 PC 연결 확인을 하지 않는다
+  const isPhone = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)
+    || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
+  if (!isPhone) {
+    $("staticNotice").hidden = false;
+    // PC에서 프로그램이 켜지면 자동으로 실행 가능한 화면으로 전환
+    const watch = setInterval(async () => { if (await probePC(LOCAL_API)) { clearInterval(watch); location.reload(); } }, 5000);
+  }
   await refreshStatic();
   setInterval(refreshStatic, 60000);
   document.addEventListener("visibilitychange", () => { if (!document.hidden) refreshStatic(); });
