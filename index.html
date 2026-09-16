@@ -101,6 +101,7 @@ pre{white-space:pre-wrap;word-break:break-all;background:var(--soft);border-radi
       <label>매일: 올라온 지 최소 N시간<input id="daily_min_age_hours" type="number" min="1" max="240" step="12"></label>
       <label>매일: 올라온 지 최대 N시간<input id="daily_max_age_hours" type="number" min="2" max="336" step="12"></label>
       <label>매일: 한 번에 조회수 확인 글 수<input id="daily_check_n" type="number" min="10" max="100" step="5"></label>
+      <label>매일: 최소 조회수 (이 이상이면 기간 우선)<input id="min_views" type="number" min="0" max="100000" step="100"></label>
       <label>인기탭에서 모을 링크 글 수<input id="popular_limit" type="number" min="0" max="300" step="10"></label>
       <label>최근탭 훑는 시간 (분)<input id="recent_minutes" type="number" min="0" max="30"></label>
       <label>주간: 조회수 확인 글 수<input id="weekly_check_limit" type="number" min="10" max="500" step="10"></label>
@@ -178,7 +179,7 @@ const IS_PHONE = /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)
 const XHS_APP = "xhsdiscover://home";         // 샤오홍수 앱 첫 화면 (갤럭시에서 이 방식으로 앱이 열리는 것 확인)
 // 휴대폰에서는 샤오홍수 앱을 바로 연다 (앱이 없으면 클릭 처리에서 웹으로 넘김)
 const xhsHref = (url) => IS_PHONE ? XHS_APP : url;
-const NUM_FIELDS = ["top_n", "daily_min_age_hours", "daily_max_age_hours", "daily_check_n", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
+const NUM_FIELDS = ["top_n", "daily_min_age_hours", "daily_max_age_hours", "daily_check_n", "min_views", "popular_limit", "recent_minutes", "weekly_check_limit", "weekly_top"];
 const BOOL_FIELDS = ["weekly_auto", "make_posts", "make_videos", "clean_text"];
 let API = "", MODE = "pc";                   // MODE: "pc"(실행 가능) | "static"(GitHub 보기 전용)
 let logTotal = 0, prevMode = undefined, viewRun = null, liveView = true, lastRenderKey = "";
