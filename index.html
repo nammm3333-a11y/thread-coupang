@@ -275,7 +275,8 @@ function render(run, results, meta) {
           ${cp.my_link ? `<button class="btn copy" data-text="${esc(cp.my_link)}">내 링크 복사</button>` : ""}
           ${(cp.videos || []).length ? `<a class="btn" href="${esc(cp.videos[0])}" target="_blank" rel="noopener">▶ 판매자 영상</a>` : ""}
           ${src ? `<a class="btn" href="${src}" download>이미지 저장</a>` : ""}
-          ${cp.video_path ? `<a class="btn" href="${imgSrc(run, cp.video_path)}" download>영상 저장</a>` : ""}
+          ${cp.video_path ? `<a class="btn" href="${imgSrc(run, cp.video_path)}" download>영상 저장</a>`
+            : (MODE === "pc" ? `<button class="btn mkvideo" data-rank="${r.rank}">🎬 영상 만들기</button>` : "")}
           <a class="btn xhs" href="${esc(xhsHref(r.xhs_url || XHS))}" data-web="${esc(r.xhs_url || XHS)}"${IS_PHONE ? "" : ` target="_blank" rel="noopener"`}>샤오홍수 열기</a>
           <a class="btn" href="${esc(t.url)}" target="_blank" rel="noopener">스레드 글</a>
         </div>
@@ -339,6 +340,11 @@ function applyState(st) {
   else if (st.mode === "login") setStatus("크롬에서 스레드에 로그인한 뒤 크롬 창을 닫으세요", "run");
   else if (st.mode === "publish") setStatus("GitHub에 올리는 중…", "run");
   else if (st.mode === "posts") setStatus("쿠파스 글 만드는 중… (Claude)", "run");
+  else if (st.mode === "video") setStatus("영상 만드는 중… 크롬 창은 닫지 마세요", "run");
+  else if (prevMode === "video") {
+    setStatus(st.error ? "오류: " + st.error : "영상 완성" + (st.github.enabled ? " · GitHub 업로드 완료(반영까지 1~2분)" : ""), st.error ? "err" : "ok");
+    if (viewRun) showRun(viewRun).catch(() => {});
+  }
   else if (st.error) setStatus("오류: " + st.error, "err");
   else if (prevMode === "run") setStatus(`완료 — ${st.results.length}개${st.github.enabled ? " · GitHub 업로드 완료(반영까지 1~2분)" : ""}`, "ok");
   else if (prevMode === "publish") setStatus("GitHub 업로드 완료 (반영까지 1~2분)", "ok");
@@ -592,6 +598,18 @@ async function copyClick(e) {
   setTimeout(() => { btn.textContent = old; }, 1500);
 }
 $("results").addEventListener("click", copyClick);
+// 카드의 '영상 만들기' (상품 사진 2장 이상일 때 만들어짐)
+$("results").addEventListener("click", async (e) => {
+  const b = e.target.closest(".mkvideo");
+  if (!b || !viewRun) return;
+  try {
+    $("log").textContent = ""; logTotal = 0;
+    await api("/api/make_video", {run: viewRun, rank: +b.dataset.rank});
+    b.disabled = true; b.textContent = "만드는 중…";
+    $("logBox").open = true;
+    setStatus("영상 만드는 중… (1~2분, 크롬 창은 닫지 마세요)", "run");
+  } catch (err) { setStatus(err.message, "err"); }
+});
 $("findResults").addEventListener("click", copyClick);
 // 휴대폰: 앱을 열어 보고, 1.5초 안에 화면이 앱으로 넘어가지 않으면(앱 없음) 웹으로
 $("results").addEventListener("click", (e) => {
