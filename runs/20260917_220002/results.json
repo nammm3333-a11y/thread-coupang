@@ -1,0 +1,463 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-17T22:00:02",
+  "stopped": false,
+  "finished_at": "2026-09-17T22:14:07"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "jeeny___zip",
+    "url": "https://www.threads.com/@jeeny___zip/post/DdTO1YYjYpD",
+    "views": 68000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3XjRZTLIi",
+    "final_url": "https://www.coupang.com/vp/products/8367073894?itemId=24175708331&vendorItemId=91193685703&src=1191000&spec=10999999&addtag=400&ctag=8367073894&lptag=CFM01522495&itime=20260917220946&pageType=PRODUCT&pageValue=8367073894&wPcid=17893396169465349359302&wRef=&wTime=20260917220946&redirect=landing&abTestInfo=&mcid=6edb308f12094a71bf38ccc03939be05&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "8367073894",
+    "title": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/81d4/f1710ef0f21e8d2fdf39942bdaae12c473182d2da15b0436a973b54a6661.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/81d4/f1710ef0f21e8d2fdf39942bdaae12c473182d2da15b0436a973b54a6661.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2698885847658449-f35a8d2c-4db1-488f-b5f7-d909a0929dcb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/3gcrhrrn/162122fda4c04bbabcbd62e1809a115f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/adi6tms8/bfb0f57cbdae492b97d4ac5fdb1f14ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/zomp0ogt/41b4c2fa069b4f72ba802b50b16594b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hdwa5k7k/3c3cd94ebc4540ac92961d1b7a5f24fe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ikao4dfc/e483f5a6cc814aa895923a9ff8be6518.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/mmzk7pa8/34995afcb14a405cbad3cf8bc3aa9f73.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3XjRZTLIi"
+    ],
+    "image_path": "images/01_Apple_2024_에어팟_4_액티브_노이즈_캔슬링_블루투스_이어폰.jpg",
+    "my_link": "https://link.coupang.com/a/g4fMGuLPQy",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지하철 탈 때마다 이거 끼면 진짜 딴 세상임... 주변 소음이 싹 사라지는 느낌이 아직도 신기해. 출퇴근길이 이렇게 편해질 줄 몰랐음 🎧",
+    "b": "오랫동안 버티다가 결국 에어팟4 질렀는데 귓속에 안 넣어도 잘 안 빠지는 게 신기함. 운동할 때도 계속 끼게 되더니 이제 없으면 허전해 🎵"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "two_paws_vibe419",
+    "url": "https://www.threads.com/@two_paws_vibe419/post/DdTH6geGZrw",
+    "views": 10000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3OilCV0jA",
+    "final_url": "https://www.coupang.com/vp/products/8191094323?itemId=24780136033&vendorItemId=91788080416&src=1139000&spec=10799999&addtag=400&ctag=8191094323&lptag=AF5590588&itime=20260917220955&pageType=PRODUCT&pageValue=8191094323&wPcid=17893396169465349359302&wRef=&wTime=20260917220955&redirect=landing&traceid=V0-181-1ec2b61b4404fbeb&mcid=4e99e4e55587475892aa9aeee1d19159&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8191094323",
+    "title": "[바이어리셔] 바닐라빈 에그타르트 디저트 간식 (1Set )",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fe6a/bf4d98e5a2fdc8bf4fa4e898c60ed5312aff0fcefd7bc4ede688d1c116b3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe6a/bf4d98e5a2fdc8bf4fa4e898c60ed5312aff0fcefd7bc4ede688d1c116b3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a31d/c281df81a4f6eeba489a554d1b068a0b62046374555f0b931d2fc365a854.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d186/7cd33aa98021dbfded468fccf2e63095ee980630db7283eefea327fe91d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3562/5d8524f501062ba43d6a8a0b38fa97dd669634f98d21ccbf6b4043f9df71.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c4ab/416ee5b134948dd5b1683fc4110dd86f5cb8bca393214bb21a38baeacd13.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3OilCV0jA"
+    ],
+    "image_path": "images/02_[바이어리셔]_바닐라빈_에그타르트_디저트_간식_(1Set_).jpg",
+    "my_link": "https://link.coupang.com/a/g4fMJj6SXs",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "반으로 잘랐을 때 그 단면이 진짜 예술이라... 겉은 바삭하고 속은 촉촉한 게 카페 수준임. 커피랑 같이 먹으니까 괜히 기분이 좋아지더라 🍮",
+    "b": "에그타르트 좋아하는데 이거 바닐라 향이 은은하게 나서 질리지가 않음. 간식 생각날 때마다 자꾸 손이 가서 하루에 두 개 먹은 날도 있음 🥚"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "poo.dolphin.13",
+    "url": "https://www.threads.com/@poo.dolphin.13/post/DdSJ_NvDJnr",
+    "views": 8200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g5h8QI7cwC",
+    "final_url": "https://www.coupang.com/vp/products/4568268535?itemId=5576746414&vendorItemId=82137941732&src=1139000&spec=10799999&addtag=400&ctag=4568268535&lptag=AF3926455&itime=20260917221002&pageType=PRODUCT&pageValue=4568268535&wPcid=17893396169465349359302&wRef=&wTime=20260917221002&redirect=landing&traceid=V0-183-8dbbc2ab29daaf09&mcid=210e5571cd70470694edb72c9577585e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threadscoupang&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4568268535",
+    "title": "[슈퍼맘푸드] 자연치즈 99.5% 슈레드 모짜렐라 치즈 피자치즈 (냉동) 1kg+1kg (총2kg) 2팩, 1kg, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9704/629493359a29f40280e77d3c664def81aa7889d0faf1e29e9ab5b67df418.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9704/629493359a29f40280e77d3c664def81aa7889d0faf1e29e9ab5b67df418.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/726a/3bb6f5f4d26ab366d42e38990d2e6c6f359af7f35973977fd069d04cfc0d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/602f/478ad01ab322f372ed7e782a8bac6b6a9113d80b381c085b444e8f4992fe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2579/23beae8495c75e5556c930f9e0b9739cc9d381293f1dbd531cd3f4cc2cf8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2917/54fa4454cd63ebd2f86e55461b94da68678285e6a6b7cdd057991c1cf6eb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g5h8QI7cwC"
+    ],
+    "image_path": "images/03_[슈퍼맘푸드]_자연치즈_99.jpg",
+    "my_link": "https://link.coupang.com/a/g5ip4JQ73I",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "홈피자 만들 때 이거 왕창 올리면 그 늘어나는 거 보는 게 행복임. 냉동이라 필요할 때마다 꺼내 쓸 수 있어서 너무 편하더라. 2kg이라 한동안 치즈 걱정 없음 🧀",
+    "b": "파스타에 뿌렸는데 식당이랑 별 차이가 없어서 좀 놀랐음. 자연치즈라 그런지 냄새도 없고 맛이 깔끔해. 집밥 퀄리티가 달라진 것 같은 기분 🍕"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "ggultem_home_",
+    "url": "https://www.threads.com/@ggultem_home_/post/DdTYXztlErk",
+    "views": 5900,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3Y6ZZdCfI",
+    "final_url": "https://www.coupang.com/vp/products/9536215186?itemId=28442534610&vendorItemId=91811415783&src=1139000&spec=10799999&addtag=400&ctag=9536215186&lptag=AF2704743&itime=20260917221011&pageType=PRODUCT&pageValue=9536215186&wPcid=17893396169465349359302&wRef=&wTime=20260917221011&redirect=landing&traceid=V0-183-f9f9d8b8e1d8e167&mcid=6e6523429e7045a1b9bb4939dbd09a88&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9536215186",
+    "title": "농심 짜파게티 140g 5p + 너구리 얼큰한 맛 120g 5p, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/27818703916424-5f51145b-4f86-4ff1-b749-f4c4c07ba16a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/27818703916424-5f51145b-4f86-4ff1-b749-f4c4c07ba16a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1143923964160001-3b4d8b9a-1409-4e6a-abc5-3c0a8e7f7023.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3990758522038178-d25f8336-5586-4b0e-8804-1e78d4b96926.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/96984354948206-525982f1-fdb7-4de7-9bd9-ad5d50a332c1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/638763489558507-8b8d4cc8-f344-4eb8-b35d-3a0882bd7b5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/638847691471850-23865f00-b535-43a4-8735-88f0d81b1b31.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/109936128259399-27a4eafb-7466-4bff-b068-d6eb6bdcafaa.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3Y6ZZdCfI"
+    ],
+    "image_path": "images/04_농심_짜파게티_140g_5p_+_너구리_얼큰한_맛_120g_5p,_1세트.jpg",
+    "my_link": "https://link.coupang.com/a/g4fMManMJw",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "비 오는 날 짜파너구리 생각나서 결국 세트로 질러버림. 두 개 섞어 끓이면 진짜 그 맛이 나와서 매번 감동임. 이거 재고 있으면 왠지 마음이 든든해지더라 🍜",
+    "b": "야식으로 너구리 한 봉지 끓였는데 칼칼한 맛이 진짜 딱이었음. 짜파게티도 세트라 바꿔 먹는 재미가 있어서 질리지가 않더라. 5개입씩이라 금방 없어지는 게 함정 😅"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "plli_kite",
+    "url": "https://www.threads.com/@plli_kite/post/DdSv26kkguf",
+    "views": 5600,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3zHVommRg",
+    "final_url": "https://www.coupang.com/vp/products/9334842991?itemId=27679527475&vendorItemId=95093947039&src=1191000&spec=10999999&addtag=400&ctag=9334842991&lptag=CFM99644214&itime=20260917221019&pageType=PRODUCT&pageValue=9334842991&wPcid=17893396169465349359302&wRef=&wTime=20260917221019&redirect=landing&abTestInfo=&mcid=d01a18dbb01a4e9aa2d2e6d56b904a41&sharesource=sharebutton&style=&isshortened=Y",
+    "product_id": "9334842991",
+    "title": "ZMBIRD 한복 나무 비녀 여성용 꽃송이 5종세트 N4705",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/243d/424734a1b3289da3bcd5280a2f5ccf59f010706c0b945511c868f2619e43.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/243d/424734a1b3289da3bcd5280a2f5ccf59f010706c0b945511c868f2619e43.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c933/bb199b44a0f1826fc828129c3f8b10ed3e4298d1f12f68449c174f92a580.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7369/470071544273726959a5c0f570ad411a5ea4ed30e84085431d0782d51840.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c872/5c72dbc101aa62bc6bc5efe67208dd28b42073b70926a8ac7b7cbb90e852.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/25b0/25840113e20af08d469b80661745cf38315716afda9a97959ab0989873ae.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9562/41b4f7319bfc4d210610eb46d2c95ab939d63ec82e0fb42d40c924750dac.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6bfc/35d36ef74d4d2505c52abc07742edd31488da0548230708c7cb62ecf649c.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ec2c/047b6e4c5c65887e60202f0836e35bc1df8d557f4ecae69db45337a0194c.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3zHVommRg"
+    ],
+    "image_path": "images/05_ZMBIRD_한복_나무_비녀_여성용_꽃송이_5종세트_N4705.jpg",
+    "my_link": "https://link.coupang.com/a/g5UyeDmCk0",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "한복 입을 때 비녀 뭐 살지 고민하다 5종 세트로 그냥 질렀는데 꽃 장식이 생각보다 정교하고 예쁨. 상황마다 골라 꽂는 재미가 생겨서 오히려 좋더라 🌸",
+    "b": "일상 코디에 하나 꽂아봤는데 생각보다 잘 어울리는 거 있지. 나무 재질이라 가벼워서 하루 종일 해도 불편하지 않음. 한복 아닐 때도 쓰게 될 줄 몰랐음 🌺"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "picktemzip",
+    "url": "https://www.threads.com/@picktemzip/post/DdTS1Swksaw",
+    "views": 3400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gGKzZL6SCO",
+    "final_url": "https://www.coupang.com/vp/products/9625133269?itemId=28744695279&vendorItemId=94932253286&src=1139000&spec=10799999&addtag=400&ctag=9625133269&lptag=AF4811109&itime=20260917221026&pageType=PRODUCT&pageValue=9625133269&wPcid=17893396169465349359302&wRef=&wTime=20260917221026&redirect=landing&traceid=V0-181-c9d288de79242dfe&mcid=95d6b13dd9c246009f79f02b6a383584&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9625133269",
+    "title": "도장 맞춤 압인기 엠보싱 프레스 단체 회사 로고 스탬프 제작",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c50b/5c78ea37b7a07f1dd6a1f5ff5b5dfe6a8eb3dddb70b3fab198b206f434ce.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c50b/5c78ea37b7a07f1dd6a1f5ff5b5dfe6a8eb3dddb70b3fab198b206f434ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2414/8005d0214d9a1074b32b5f992f9e944ed8347ca634993f1461de33a8af08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3d96/4be40ad30a5f001e342725ef44581a82fd7900d9b33a138b1941154a1156.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c84/996fce3d01646224fb6eee8209d2e3475597e9748ef2747379da904f08c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/599e/3291ac05259e7483ce4af4312b0a5a2af7aa1eb160ad3d463ecafdf40357.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3fbe/dffa60681929be30b1ace07e3c7902ed057fd247ec571259fa03e5ba5912.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gGKzZL6SCO"
+    ],
+    "image_path": "images/06_도장_맞춤_압인기_엠보싱_프레스_단체_회사_로고_스탬프_제작.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZuoDo9Tg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "서류에 직인 찍을 때마다 잉크 번지는 게 싫었는데 이건 꾹 누르면 딱 새겨져서 깔끔함. 공식 문서에 쓰니까 왠지 신뢰감이 다른 것 같더라. 하나 있으니까 확실히 다름 📋",
+    "b": "회사 로고 제작해서 받았는데 생각보다 빨리 왔고 선명하게 잘 찍혀서 만족했음. 잉크 없이도 각인이 남는 게 신기하더라. 서류 작업할 때 쓰면 되게 있어 보임 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "kobu99470",
+    "url": "https://www.threads.com/@kobu99470/post/DdSPIgwkQRx",
+    "views": 2300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gL3nQBO2fc",
+    "final_url": "https://www.coupang.com/vp/products/9075617103?itemId=26658094965&src=1139000&spec=10799999&addtag=400&ctag=9075617103&lptag=AF2510124&itime=20260917221033&pageType=PRODUCT&pageValue=9075617103&wPcid=17893396169465349359302&wRef=&wTime=20260917221033&redirect=landing&traceid=V0-183-467ba6f8a3e7b0cb&mcid=c2c9febb9eab42a587e83ee3d58561e7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9075617103",
+    "title": "null - 영양란/특수란",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gL3nQBO2fc"
+    ],
+    "image_path": "images/07_null_-_영양란_특수란.jpg",
+    "my_link": "https://link.coupang.com/a/g3I8I4HW1Y",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "달걀 떨어지면 진짜 허전한데 한 박스 쟁여두니까 마음이 편해짐. 아침마다 계란 요리 해먹는데 노른자가 탱탱하니 기분이 달라. 이제 달걀은 이걸로 고정인 것 같음 🥚",
+    "b": "요리할 때 달걀만큼 자주 쓰는 재료가 없는 것 같음. 볶음밥이든 국이든 하나 넣으면 맛이 살아나서 매번 넣게 되더라. 집에 항상 있어야 안심이 되는 것 중 하나 🍳"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "hosi_item",
+    "url": "https://www.threads.com/@hosi_item/post/DdSY9gsCC3e",
+    "views": 2200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3iUvB5v5w",
+    "final_url": "https://www.coupang.com/vp/products/1341586058?src=1139000&spec=10799999&addtag=400&ctag=1341586058&lptag=AF3158995&itime=20260917221108&pageType=PRODUCT&pageValue=1341586058&wPcid=17893396169465349359302&wRef=&wTime=20260917221108&redirect=landing&traceid=V0-183-62ccc1a5c566bbcf&mcid=374bb8c6bc4246d5ab2afe4a952c70da&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1341586058",
+    "title": "하림 하얀속살 밥싸먹는 프리미엄 슬라이스햄, 100g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1646076072398221-0749a13a-e951-4013-a50a-27f000a54a22.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1646076072398221-0749a13a-e951-4013-a50a-27f000a54a22.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1131967275034660-e3d10992-ef17-4b77-8e81-053b755933f9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1646084532123513-a9075ba5-b196-4168-b2b4-dc4fd13fc1a3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1711528829399746-44a5f5d9-ebc8-4ced-b1e3-917436951044.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1646092767554691-20dcfa93-1839-487b-bc17-7fd0fde78a8c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1711538273302400-77753c26-2c29-4737-a871-08596ed1fe4b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3224596128892313-0a71502b-146b-4816-b9a1-e0662ac4b6df.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3iUvB5v5w"
+    ],
+    "image_path": "images/08_하림_하얀속살_밥싸먹는_프리미엄_슬라이스햄,_100g,_3개.jpg",
+    "my_link": "https://link.coupang.com/a/g5ip64BG7o",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밥이랑 같이 먹으면 진짜 그냥 뚝딱임... 얇게 슬라이스돼 있어서 밥 싸 먹기 딱 좋음. 닭고기라 그런지 느끼하지 않아서 계속 손이 가게 되더라 🍚",
+    "b": "도시락 반찬 뭐 하지 고민하다 이거 그냥 넣었는데 의외로 맛있음. 아이도 잘 먹어서 이제 단골 반찬이 됐고 3팩이라 한동안 넉넉하게 쓸 수 있어서 좋아 😊"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ji__su_shin_",
+    "url": "https://www.threads.com/@ji__su_shin_/post/DdTAXaTmN1X",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g3KDgu7JRI",
+    "final_url": "https://www.coupang.com/vp/products/8777801108?itemId=25537597531&src=1139000&spec=10799999&addtag=400&ctag=8777801108&lptag=AF5518324&itime=20260917221115&pageType=PRODUCT&pageValue=8777801108&wPcid=17893396169465349359302&wRef=&wTime=20260917221115&redirect=landing&traceid=V0-101-b72e1e610e175075&mcid=00e39dcd6d5644b89c3587ad625e2a89&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8777801108",
+    "title": "엘라스틴 쿨링 헤드 스파 10000 샴푸 쿨멘솔, 1L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/05/16/10/7/9e695d35-385d-48f2-8a73-5363d8c51448.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/05/16/10/7/9e695d35-385d-48f2-8a73-5363d8c51448.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/888272725398340-0858af40-a18b-4452-946a-04fb50d7380e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/887798396379567-a97dd32f-dd02-402b-ae54-6bf8d8b00da4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/888238985922421-c7c5b3e0-975d-4cb7-b929-83bc6f9958ec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/359948054167982-232ce75a-7c42-4416-8d25-1fc42285aeef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/359948178401372-15249b1a-d90e-42ba-bb7a-047b8cbb9f27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/872897226260540-3030bb04-0690-4ae3-aa4f-05d3c04ed5f1.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g3KDgu7JRI"
+    ],
+    "image_path": "images/09_엘라스틴_쿨링_헤드_스파_10000_샴푸_쿨멘솔,_1L,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/g30jnf85Ho",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "머리 감고 나면 두피가 시원해지는 게 느껴져서 여름에 진짜 딱이더라. 멘솔 향이 강한 편인데 적응되니까 오히려 없으면 허전함. 1L라 한동안 안 사도 돼서 그것도 좋음 🧊",
+    "b": "씻고 나서 두피가 개운한 게 확실히 다른 것 같더라. 향이 은은하게 남아서 감고 나서 기분이 좋아지는 게 좋음. 아침 샤워할 때 이거 쓰면 눈이 번쩍 뜨이는 기분 🫧"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "raracoco13",
+    "url": "https://www.threads.com/@raracoco13/post/DdSMFXaE_3X",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-15",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gIccfodlHU",
+    "final_url": "https://www.coupang.com/vp/products/7460943807?itemId=25822686938&src=1139000&spec=10799999&addtag=400&ctag=7460943807&lptag=AF9642764&itime=20260917221122&pageType=PRODUCT&pageValue=7460943807&wPcid=17893396169465349359302&wRef=&wTime=20260917221122&redirect=landing&traceid=V0-101-60c6009c4a1e46d8&mcid=4a739c3a4b8f497ea95acc0fa0550dba&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7460943807",
+    "title": "[정품] 딥디크 플레르드뽀 오드퍼퓸 75ml 선물포장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9e34/ab5a4cc7eb37b8f395e7b6a24eb617e30304ecaa34ff51ecd0c57875a299.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e34/ab5a4cc7eb37b8f395e7b6a24eb617e30304ecaa34ff51ecd0c57875a299.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gIccfodlHU"
+    ],
+    "image_path": "images/10_[정품]_딥디크_플레르드뽀_오드퍼퓸_75ml_선물포장.jpg",
+    "my_link": "https://link.coupang.com/a/g3I8MznuEe",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "선물로 받은 건데 결국 내가 먼저 뿌리게 됐음... 피부 위에서 따뜻하게 번지는 향이 진짜 좋음. 아침에 뿌리고 나가면 하루가 왠지 다른 느낌 🖤",
+    "b": "딥디크 처음 써봤는데 이거 왜 다들 좋아하는지 이제 알 것 같음. 무겁지 않으면서 은은하게 남는 향이 계속 생각나더라. 병도 예쁘게 생겨서 화장대에 두면 기분이 달라짐 🌸"
+   }
+  }
+ ]
+}
