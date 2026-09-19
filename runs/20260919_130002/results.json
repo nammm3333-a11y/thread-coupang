@@ -1,0 +1,440 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-19T13:00:02",
+  "stopped": false,
+  "finished_at": "2026-09-19T13:18:33"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "picktemzip",
+    "url": "https://www.threads.com/@picktemzip/post/DdV1b3HEv45",
+    "views": 3100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gGNaL75NgO",
+    "final_url": "https://www.coupang.com/vp/products/1566894167?itemId=2679243368&vendorItemId=70669757538&src=1139000&spec=10799999&addtag=400&ctag=1566894167&lptag=AF4811109&itime=20260919131326&pageType=PRODUCT&pageValue=1566894167&wPcid=17893396169465349359302&wRef=&wTime=20260919131326&redirect=landing&traceid=V0-181-6c0b3193f7bfab4e&mcid=5f085fa6db664ddaaeda225d53275fb3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1566894167",
+    "title": "올페이퍼 트레싱지 65g, A4, 110개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e57/41ce2117360dd784cd54c72152ae9e0a4f86ae7fe0475530b2ac8f0879e9.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e57/41ce2117360dd784cd54c72152ae9e0a4f86ae7fe0475530b2ac8f0879e9.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gGNaL75NgO"
+    ],
+    "image_path": "images/01_올페이퍼_트레싱지_65g,_A4,_110개.jpg",
+    "my_link": "https://link.coupang.com/a/g8XbKWEdpc",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "다이어리 꾸밀 때 트레싱지 쓰기 시작했는데 이게 생각보다 너무 예쁜 거 있지... 레이어드 효과가 진짜 감성 터짐. 110장이나 있어서 실컷 써도 부담이 없어서 좋더라 ✨",
+    "b": "손글씨 위에 트레싱지 올렸더니 분위기 완전 달라짐. 친구가 내 다이어리 보고 어디서 샀냐고 물어봤는데 그냥 종이 한 장이라고 했더니 같이 웃겼음. 이후로 매번 꼭 쓰게 되더라 😄"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "ddahye.lee",
+    "url": "https://www.threads.com/@ddahye.lee/post/DdZ-iN-Acom",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8eJPj9wjY",
+    "final_url": "https://www.coupang.com/vp/products/5047483840?itemId=6803964045&src=1139000&spec=10799999&addtag=400&ctag=5047483840&lptag=AF4504208&itime=20260919131334&pageType=PRODUCT&pageValue=5047483840&wPcid=17893396169465349359302&wRef=&wTime=20260919131334&redirect=landing&traceid=V0-101-8b580a4a0d9894fc&mcid=c9322071566c4128a82bb783c098323c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5047483840",
+    "title": "스키니퓨리티 펌킨펌킨티 늙은호박차 삼각티백",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/35371830-48d0-43f3-9e27-86b3360b1e1c18139823240183992534.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/35371830-48d0-43f3-9e27-86b3360b1e1c18139823240183992534.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8eJPj9wjY"
+    ],
+    "image_path": "images/02_스키니퓨리티_펌킨펌킨티_늙은호박차_삼각티백.jpg",
+    "my_link": "https://link.coupang.com/a/g9VAWnkJie",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요즘 저녁마다 늙은호박차 한 잔 마시는 게 루틴 됨. 호박 특유의 구수한 향이 은근 중독적이고 삼각티백이라 우러나는 속도도 빠름. 따뜻하게 마시면 몸이 좀 풀리는 느낌이라 계속 손이 가 🎃",
+    "b": "호박차라고 해서 맛없을 줄 알았는데 생각보다 달달하고 고소해서 진짜 놀람. 티백 하나로 머그컵 넉넉하게 채워지고 향도 좋아서 카페인 끊는 기간에 이거 마셨는데 의외로 안 질리더라 🍵"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "today_lifepick_",
+    "url": "https://www.threads.com/@today_lifepick_/post/DdVwC-4iSkw",
+    "views": 916,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g5vQPDKALs",
+    "final_url": "https://www.coupang.com/vp/products/9344371100?itemId=27715171558&src=1139000&spec=10799999&addtag=400&ctag=9344371100&lptag=AF5944176&itime=20260919131342&pageType=PRODUCT&pageValue=9344371100&wPcid=17893396169465349359302&wRef=&wTime=20260919131342&redirect=landing&traceid=V0-101-86901999dff936ec&mcid=3b875a36e9f14341a5a276c06a588dcd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9344371100",
+    "title": "[26년 신상] 접이식 계량스푼 3-in-1 평면 접이식 계량 스푼 요리 계량스푼 실리콘 스푼 계량 숟가락 조리도구 국자 베이킹 도구 계량컵 마그네틱 티스푼 서빙스푼 포장증정, 1세트, 블랙",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7722/8ae3850286f0ed01b8a725f33470620e8d80105a06f49ae462b9623889b1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7722/8ae3850286f0ed01b8a725f33470620e8d80105a06f49ae462b9623889b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0287/e677846829eedd8ae9da52eb862acdb976cdf37917319e3d2ffaed86def8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g5vQPDKALs"
+    ],
+    "image_path": "images/03_[26년_신상]_접이식_계량스푼_3-in-1_평면_접이식_계량_스푼_요리.jpg",
+    "my_link": "https://link.coupang.com/a/hagSFuS5iS",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "베이킹할 때마다 계량컵 여러 개 씻는 게 귀찮았는데 이거 쓰면서 설거지 수가 줄었음. 접으면 납작해져서 서랍에 넣어도 자리 안 차지하고, 흑색이라 주방 인테리어랑 잘 맞아서 꺼내 놓게 됨 🖤",
+    "b": "밀가루 계량하다가 계량컵 엎어본 사람 손 😅 이거 쓰고 나서 그런 사고가 확 줄었음. 바르기 분말 액체 다 되는데 하나로 해결되니까 진짜 편해서 주방에서 제일 자주 쓰는 도구가 됨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "healingshop.ing",
+    "url": "https://www.threads.com/@healingshop.ing/post/DdZ-_R0ivqz",
+    "views": 896,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fvXjeRkvHo",
+    "final_url": "https://www.coupang.com/vp/products/9148465245?itemId=26844104264&src=1139000&spec=10799999&addtag=400&ctag=9148465245&lptag=AF0743444&itime=20260919131350&pageType=PRODUCT&pageValue=9148465245&wPcid=17893396169465349359302&wRef=&wTime=20260919131350&redirect=landing&traceid=V0-101-e82c9a249f6a11aa&mcid=86b67f263d1e4c749aaf6a7ea09d8ee5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9148465245",
+    "title": "푸푸펫츠 반려동물 스마트 자동 급수기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/vizh0tol/0323d78441f2464d8ad21059debb1b2a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vizh0tol/0323d78441f2464d8ad21059debb1b2a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/76529654955991-924f8562-6dc3-4f35-a9df-a6f5ce55bf56.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16171634864865-c43e5ef3-d238-4014-bcd1-28e6cb9eeae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/62713690683699-efa87914-4ee4-4467-b765-4dc1023ce0d8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/76529721543184-26e4e55a-d005-4e50-9591-51607edc7603.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/62713754988927-897784ba-e2e7-4448-b94a-70db86205aad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/93731725146366-d2c25e61-f50b-4663-96e8-137b0a248fbf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16171687041817-2d1fbf5d-0580-4440-844a-8be9c1d83f53.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fvXjeRkvHo"
+    ],
+    "image_path": "images/04_푸푸펫츠_반려동물_스마트_자동_급수기.jpg",
+    "my_link": "https://link.coupang.com/a/g9VAZeS34u",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이가 흐르는 물만 마시려고 해서 결국 자동 급수기 들임. 스테인리스 그릇이라 위생적인 것 같아서 맘이 좀 놓이더라. 물 마시는 빈도가 늘어난 것 같아서 잘 산 것 같음 🐾",
+    "b": "출근하고 나서도 집에서 물 알아서 나오니까 걱정이 덜해짐. 물 흐르는 소리가 생각보다 조용해서 거실에 놔도 괜찮았고, 분리 청소도 생각보다 쉬워서 오래 쓸 것 같음 💧"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "res_zzii_pect",
+    "url": "https://www.threads.com/@res_zzii_pect/post/DdXUNQOAEit",
+    "views": 761,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eOttjAlPG0",
+    "final_url": "https://www.coupang.com/vp/products/9276330727?itemId=27460323413&src=1139000&spec=10799999&addtag=400&ctag=9276330727&lptag=AF0743444&itime=20260919131357&pageType=PRODUCT&pageValue=9276330727&wPcid=17893396169465349359302&wRef=&wTime=20260919131357&redirect=landing&traceid=V0-101-cb2d0f53e145caf9&mcid=274006a006b74585ad50d8b16b7ae359&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9276330727",
+    "title": "YAPOGI 무소음 모던 심플 양면벽시계 LED 음성제어등",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ff27/1b472b6fe228072f2da33e55d62185df30507882e90c3291b6f6d1474b30.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ff27/1b472b6fe228072f2da33e55d62185df30507882e90c3291b6f6d1474b30.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/690a/4a6d79d4c0f5a61d41852e416f581165f603dc0fea9ab53271fd0d3e2e81.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/81ef/2813f059dbd9803b264e572758c439a363be7f58110ccd1f707a5dbdcfcf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ab59/234da911324386e4e1b9e2633269b3f63b9dea01b2fd432772ff1520dafb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eOttjAlPG0"
+    ],
+    "image_path": "images/05_YAPOGI_무소음_모던_심플_양면벽시계_LED_음성제어등.jpg",
+    "my_link": "https://link.coupang.com/a/g8BTc22i8O",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코너에 양면으로 붙이니까 어디서도 시간이 보여서 너무 좋음. 판다 장식이 달려있는데 집에 오는 사람마다 이게 뭐냐고 물어봄. 무소음이라 침실 근처에 달아도 소리 없어서 잠 방해 전혀 없음 🐼",
+    "b": "밤에 손뼉 한 번 쳤더니 LED가 은은하게 켜지는 거 보고 소름 돋음. 구름 모양에 따뜻한 빛이 번지는 게 분위기 완전 살아서 밤마다 괜히 한 번씩 쳐보게 됨 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "lovilovowo",
+    "url": "https://www.threads.com/@lovilovowo/post/DdVqNreAE8E",
+    "views": 668,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/emk5i7zlJY",
+    "final_url": "https://www.coupang.com/vp/products/8433692891?itemId=24392093910&src=1139000&spec=10799999&addtag=400&ctag=8433692891&lptag=AF0743444&itime=20260919131404&pageType=PRODUCT&pageValue=8433692891&wPcid=17893396169465349359302&wRef=&wTime=20260919131404&redirect=landing&traceid=V0-101-56fb01f3759ea7ae&mcid=fcb5c448f2a14649be57953b650a11b4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8433692891",
+    "title": "일본 대왕 타코야끼기 그릴 점보 전기팬 2구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5486/ca839c9220e142aa0bbb1542cd6cc881e9ba613fa72f6c5463eacfd29d62.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5486/ca839c9220e142aa0bbb1542cd6cc881e9ba613fa72f6c5463eacfd29d62.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7137/e04a385e29620397915414857098eade37d95e4da38bd5c4b807763de8da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6cbb/e9a49af2ecd4966876345b3c3b5ace9f55261cf99d51b3cb974333c34fbd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/emk5i7zlJY"
+    ],
+    "image_path": "images/06_일본_대왕_타코야끼기_그릴_점보_전기팬_2구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 타코야끼 해먹겠다고 산 건데 크기가 주먹 두 배 되는 점보 사이즈라 깜짝 놀람. 속 재료 원하는 만큼 넣을 수 있어서 밖에서 사 먹는 것보다 더 맛있는 것 같음. 친구 불러서 같이 구웠는데 꽤 재밌음 🐙",
+    "b": "빵빵하게 부풀어 오른 거 뒤집을 때 쾌감 실화... 2구라 한 번에 두 개밖에 못 굽지만 그게 오히려 집중해서 구워지게 만드는 것 같기도 함. 빨간 디자인이 주방에 있으니까 왠지 맛있어 보임 😆"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "goose.potter",
+    "url": "https://www.threads.com/@goose.potter/post/DdZ1Y7SgGOB",
+    "views": 657,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 1.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/dO2wnOIpI4",
+    "final_url": "https://www.coupang.com/vp/products/9075069196?itemId=26655624721&src=1139000&spec=10799999&addtag=400&ctag=9075069196&lptag=AF0743444&itime=20260919131412&pageType=PRODUCT&pageValue=9075069196&wPcid=17893396169465349359302&wRef=&wTime=20260919131412&redirect=landing&traceid=V0-101-5375b067a131da3b&mcid=e8baa37e958e4f63be930a035323cdee&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9075069196",
+    "title": "1+1 [특혜] 삼합일 다기능 스테인리스 대파 커터 휴대용 다기능 필러 3in1 독일 만능 채칼 주방 전용 도구, 2개, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f5b/0257db013082ee4024fe28cf3c476cc623c0e5bbf0c7a451bfe8845a4482.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f5b/0257db013082ee4024fe28cf3c476cc623c0e5bbf0c7a451bfe8845a4482.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/dO2wnOIpI4"
+    ],
+    "image_path": "images/07_1+1_[특혜]_삼합일_다기능_스테인리스_대파_커터_휴대용_다기능_필러_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "감자 껍질 벗기는 게 제일 귀찮았는데 이거 쓰고 나서 진짜 빠르게 됨. 나무 손잡이가 미끄러지지 않아서 힘 조절도 쉽더라. 1+1이라 하나 서랍에 더 두고 쓰는 중 🥔",
+    "b": "대파 채 썰 때 칼 대신 이걸로 해보니까 생각보다 잘 돼서 신기했음. 스테인리스라 냄새 안 배이는 것도 맘에 들고, 2개 세트라 엄마한테 하나 갖다드렸더니 좋아하심 🧅"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "pickdigg",
+    "url": "https://www.threads.com/@pickdigg/post/DdVfNXXkzBF",
+    "views": 621,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g5hULDWsuW",
+    "final_url": "https://www.coupang.com/vp/products/8995341084?itemId=26353607143&vendorItemId=95203846059&src=1139000&spec=10799999&addtag=400&ctag=8995341084&lptag=AF0791172&itime=20260919131420&pageType=PRODUCT&pageValue=8995341084&wPcid=17893396169465349359302&wRef=&wTime=20260919131420&redirect=landing&traceid=V0-181-54b694f03360bec7&mcid=006e8313288940b794ae6a2f443f3685&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8995341084",
+    "title": "프레시오늘 신선냉장 우리밀46% 유크림 리얼버터 견과류 수제 깜빠뉴, 1개, 200g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/428f/f62da99dac092f17878faf2ec51e032705a82fb4bfb1565e84f4fa055adb.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/428f/f62da99dac092f17878faf2ec51e032705a82fb4bfb1565e84f4fa055adb.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g5hULDWsuW"
+    ],
+    "image_path": "images/08_프레시오늘_신선냉장_우리밀46%_유크림_리얼버터_견과류_수제_깜빠뉴,_1.jpg",
+    "my_link": "https://link.coupang.com/a/hagUgRC0o8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 한 조각 잘라서 그냥 먹었는데 크랜베리랑 견과류가 씹힐 때마다 기분이 좋아짐. 겉은 바삭하고 속은 촉촉한 게 마트 빵이랑 차원이 다름. 이거 먹고 나서 빵집 가는 빈도가 줄어버림 🍞",
+    "b": "냉장으로 받자마자 한 조각 먹어봤는데 진짜 빵집 맛 남. 리얼버터 들어간 거 알고 먹으니까 고소함이 더 느껴지고, 커피 한 잔이랑 먹었는데 카페 온 것 같은 느낌이 들어서 아침이 달라짐 ☕"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "jjiyung__",
+    "url": "https://www.threads.com/@jjiyung__/post/DdVofExHaiX",
+    "views": 594,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-16",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g5q2LLS6QC",
+    "final_url": "https://www.coupang.com/vp/products/6612904331?itemId=8407522035&src=1139000&spec=10799999&addtag=400&ctag=6612904331&lptag=AF4504208&itime=20260919131430&pageType=PRODUCT&pageValue=6612904331&wPcid=17893396169465349359302&wRef=&wTime=20260919131430&redirect=landing&traceid=V0-101-9c7176ec5f6c808c&mcid=79d1f04b94124646bb4d42cf54404c45&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6612904331",
+    "title": "티아시아키친 치킨 마크니 커리 전자레인지용, 170g, 6개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/86729932105441-d5487fbc-1c76-452c-bad8-64f7b4020fb5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/86729932105441-d5487fbc-1c76-452c-bad8-64f7b4020fb5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/253678107627468-d190f15b-786f-431f-93c4-91db6bd7b63e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/238229957225641-856bc0b1-e5dd-4a8d-bfae-a091e1dd7c7f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g5q2LLS6QC"
+    ],
+    "image_path": "images/09_티아시아키친_치킨_마크니_커리_전자레인지용,_170g,_6개.jpg",
+    "my_link": "https://link.coupang.com/a/hagUjPQFO0",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "인도 음식 좋아해서 기대 엄청 했는데 진짜 실망 안 시킴. 토마토 크림 커리가 부드럽고 닭도 제대로 들어있어서 전자레인지 1분인 게 믿기지 않음. 6개 쟁여두고 밥이랑 먹는 중 🍛",
+    "b": "요리하기 귀찮은 날 이거 꺼냈다가 생각보다 맛있어서 당황했음. 순한 맛이라 부담 없이 먹을 수 있고 커리 냄새도 집에 진하게 안 배어서 좋더라. 그 이후로 냉장고 단골이 됨 😋"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdXSmqwAqCr",
+    "views": 359,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eDqHas2aMC",
+    "final_url": "https://www.coupang.com/vp/products/8719219704?itemId=25325956860&src=1139000&spec=10799999&addtag=400&ctag=8719219704&lptag=AF0743444&itime=20260919131439&pageType=PRODUCT&pageValue=8719219704&wPcid=17893396169465349359302&wRef=&wTime=20260919131439&redirect=landing&traceid=V0-101-3390c08a48f3cae9&mcid=d2fc7b04de5c44e79652e1a19948bca4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8719219704",
+    "title": "알리사 100단 아이스 터보 MAX 휴대용 선풍기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/331197417306237-9dcda372-b2e5-4191-b546-1b9bd9c7fb55.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/331197417306237-9dcda372-b2e5-4191-b546-1b9bd9c7fb55.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/195275139693240-fb75f362-1dde-4c0c-bb37-7389255f4fcd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/861637129115627-621f8a65-511a-49d6-a777-fc47ce5fb11d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/861637103589008-b513d471-b910-4914-badd-2dcdef6287e6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/129725777307806-5b89ac66-38f4-40ba-a74b-d75efde875d5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/612782689395770-9419a18a-b343-4cc1-8e60-9e96e679c54e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/612807635149813-6de4800a-7434-4a66-955e-d7776c91ca31.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85791504161941-876b7ade-0fe8-4737-b68d-cf9c168136f6.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eDqHas2aMC"
+    ],
+    "image_path": "images/10_알리사_100단_아이스_터보_MAX_휴대용_선풍기.jpg",
+    "my_link": "https://link.coupang.com/a/hagUmRl6tM",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "출퇴근할 때 들고 다니기 시작했는데 진짜 없으면 못 살 것 같음. 100단계 조절이라 내 취향 딱 맞는 바람 세기로 설정해두면 그냥 씀. 배터리 디스플레이 뜨니까 방전 걱정도 덜해서 좋음 💨",
+    "b": "친구가 갖고 있는 거 봐서 나도 바로 질렀는데 터빈 날개 형태가 바람이 진짜 강하게 나옴. 들고 다니기 크기도 딱 맞고 하얀 색이라 가방에서 꺼낼 때 깔끔해 보여서 괜히 기분 좋음 🌀"
+   }
+  }
+ ]
+}
