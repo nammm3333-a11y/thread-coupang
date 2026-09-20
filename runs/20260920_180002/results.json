@@ -1,0 +1,449 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-20T18:00:02",
+  "stopped": false,
+  "finished_at": "2026-09-20T18:18:10"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "roban.6246808",
+    "url": "https://www.threads.com/@roban.6246808/post/DdYj1FEGbRU",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g2kceb8Hfw",
+    "final_url": "https://www.coupang.com/vp/products/9088764369?src=1139000&spec=10799999&addtag=400&ctag=9088764369&lptag=AF3926455&itime=20260920181119&pageType=PRODUCT&pageValue=9088764369&wPcid=17893396169465349359302&wRef=&wTime=20260920181119&redirect=landing&traceid=V0-181-08024805c64af928&mcid=00589b4fea574d78aa87ee1cd777b1e1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9088764369",
+    "title": "카멜마운트 스탠딩책상 모니터 받침대 프리미엄 전동식 스탠워크 PSWE 높낮이조절",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c8f5/f7aaed99d56c197031807aa1b33d2ff4dce3a10bd70e316c78eb1b6cec61.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c8f5/f7aaed99d56c197031807aa1b33d2ff4dce3a10bd70e316c78eb1b6cec61.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9bf0/c0803b8e869ad43418ae3a4c3afa47428c79ff55d707306e471a40e8003c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/40e6/a793dbf79893a527a1eecffc5043a5fd9cd5a697b53241bcab3aef9799b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d732/ac6e6e9c2fb575b40204dabd15462a6712474d03ea80931fc8b4c5a0f516.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/57cf/f041c2ba7cad126bcbb2ce8a06faccff6792d741226eddcb28afe9d4e535.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0198/e4c8725ed36bd73b61bb932a264882ea821fdba17f8c0bbd5667495b8656.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g2kceb8Hfw"
+    ],
+    "image_path": "images/01_카멜마운트_스탠딩책상_모니터_받침대_프리미엄_전동식_스탠워크_PSWE_높.jpg",
+    "my_link": "https://link.coupang.com/a/hcg8IlMLDM",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "버튼 하나로 스탠딩 전환되는 거 써보니까 허리가 진짜 달라. 모니터랑 키보드 같이 올라가서 따로 조절 안 해도 되고. 오후엔 서서 일하는 게 이제 습관됐음 💪",
+    "b": "재택하면서 허리 너무 힘들었는데 전동 받침대 쓰고 나서 좀 달라진 느낌이야. 처음에 스르르 올라가는 거 보고 신기해서 괜히 여러 번 눌러봤음. 이제 오전 한두 시간은 꼭 서서 일함 😂"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "ddahye.lee",
+    "url": "https://www.threads.com/@ddahye.lee/post/DdZ-iN-Acom",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8eJPj9wjY",
+    "final_url": "https://www.coupang.com/vp/products/5047483840?itemId=6803964045&src=1139000&spec=10799999&addtag=400&ctag=5047483840&lptag=AF4504208&itime=20260920181126&pageType=PRODUCT&pageValue=5047483840&wPcid=17893396169465349359302&wRef=&wTime=20260920181126&redirect=landing&traceid=V0-101-8b580a4a0d9894fc&mcid=aa9542dd16f34d10a12af1de0205f260&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5047483840",
+    "title": "스키니퓨리티 펌킨펌킨티 늙은호박차 삼각티백",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/35371830-48d0-43f3-9e27-86b3360b1e1c18139823240183992534.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/35371830-48d0-43f3-9e27-86b3360b1e1c18139823240183992534.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8eJPj9wjY"
+    ],
+    "image_path": "images/02_스키니퓨리티_펌킨펌킨티_늙은호박차_삼각티백.jpg",
+    "my_link": "https://link.coupang.com/a/g9VAWnkJie",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "저녁마다 따뜻한 거 마시고 싶을 때 꺼내는데 맛이 생각보다 고소해서 놀랐음. 삼각티백이라 우러나는 것도 빠르고 설거지 없이 바로 버릴 수 있어서 좋고. 커피 줄이고 싶은 날 이걸로 대신하게 됨 🎃",
+    "b": "늙은호박차 처음인데 달달하고 구수한 게 생각보다 진짜 맛있음. 패키지 색이 너무 예쁘고 귀여워서 선물해도 좋을 것 같아서 하나 더 시켜뒀어. 요즘 자기 전에 한 잔 마시는 게 루틴됨 🧡"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 1.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8Xlqp5KLs",
+    "final_url": "https://www.coupang.com/vp/products/9404392074?itemId=27936968615&src=1139000&spec=10799999&addtag=400&ctag=9404392074&lptag=AF7862534&itime=20260920181205&pageType=PRODUCT&pageValue=9404392074&wPcid=17893396169465349359302&wRef=&wTime=20260920181205&redirect=landing&traceid=V0-101-ebb017cf9a3e5acc&mcid=9f6362b66d1246a3b850859c8112b4a0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9404392074",
+    "title": "풀무원건강생활 스팀쿡 플러스 에어프라이어 15L",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/28/9/0/0f3d5dfd-d784-4e5a-a88c-96b6f529c082.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/0/0f3d5dfd-d784-4e5a-a88c-96b6f529c082.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/7/9e1bfb13-6e20-4f42-9eaa-eee7acf94632.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/158445379704067-7a92237a-a9ec-4d06-9edd-8a6d8ecb02c6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1633552216528345-f90e52e2-f20b-4cf4-916b-f3fb05fd4895.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/5/720d1435-11ee-44dd-8092-e963e4b21f19.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/9/a72317b2-3bef-41bd-a563-fe27289c0bb5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/3/37ed1947-0a28-44fa-8969-8d002640e431.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/28/9/9/f7f3983c-d4d8-46e1-9dae-827603996262.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8Xlqp5KLs"
+    ],
+    "image_path": "images/03_풀무원건강생활_스팀쿡_플러스_에어프라이어_15L.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvFkmDuv",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어프라이어에 스팀 기능까지 있는 거 처음 써봤는데 닭가슴살이 안 퍽퍽하게 됨. 버튼이 직관적이고 내부도 넓어서 요리가 생각보다 편해졌어. 저녁 준비하는 게 덜 귀찮아진 느낌 🍳",
+    "b": "기존 에어프라이어 있었는데 이걸로 바꾸고 나서 스팀 모드 쓰게 됨. 껍질은 바삭하고 속은 촉촉한 게 신기해서 자꾸 쓰게 돼. 주말마다 뭔가 해 먹고 싶어졌어 😋"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "healingshop.ing",
+    "url": "https://www.threads.com/@healingshop.ing/post/DdZ-_R0ivqz",
+    "views": 905,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fvXjeRkvHo",
+    "final_url": "https://www.coupang.com/vp/products/9148465245?itemId=26844104264&src=1139000&spec=10799999&addtag=400&ctag=9148465245&lptag=AF0743444&itime=20260920181213&pageType=PRODUCT&pageValue=9148465245&wPcid=17893396169465349359302&wRef=&wTime=20260920181213&redirect=landing&traceid=V0-101-e82c9a249f6a11aa&mcid=0ff0518e9de64acbb7e9a0c93c2b8a9c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9148465245",
+    "title": "푸푸펫츠 반려동물 스마트 자동 급수기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/vizh0tol/0323d78441f2464d8ad21059debb1b2a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vizh0tol/0323d78441f2464d8ad21059debb1b2a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/76529654955991-924f8562-6dc3-4f35-a9df-a6f5ce55bf56.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16171634864865-c43e5ef3-d238-4014-bcd1-28e6cb9eeae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/62713690683699-efa87914-4ee4-4467-b765-4dc1023ce0d8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/76529721543184-26e4e55a-d005-4e50-9591-51607edc7603.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/62713754988927-897784ba-e2e7-4448-b94a-70db86205aad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/93731725146366-d2c25e61-f50b-4663-96e8-137b0a248fbf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16171687041817-2d1fbf5d-0580-4440-844a-8be9c1d83f53.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fvXjeRkvHo"
+    ],
+    "image_path": "images/04_푸푸펫츠_반려동물_스마트_자동_급수기.jpg",
+    "my_link": "https://link.coupang.com/a/g9VAZeS34u",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이가 물 잘 안 마셔서 걱정이었는데 이거 놓은 다음부터 자꾸 와서 마시더라. 졸졸 흐르는 물에 혼자 와서 마시는 거 보면 진짜 뿌듯함. 지금은 없으면 어떡하나 싶은 물건이 됐음 😊",
+    "b": "출근하면서 물 걱정 안 해도 돼서 마음이 진짜 편해짐. 스테인리스 볼이라 청결하고 세척도 어렵지 않아. 쓰면 쓸수록 없었던 때로 돌아가기 싫어지는 그런 제품임 🐾"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "iibom22",
+    "url": "https://www.threads.com/@iibom22/post/DdciFgKESUB",
+    "views": 815,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g5yex5X35U",
+    "final_url": "https://www.coupang.com/vp/products/9540099289?itemId=28456753872&src=1139000&spec=10799999&addtag=400&ctag=9540099289&lptag=AF5560471&itime=20260920181221&pageType=PRODUCT&pageValue=9540099289&wPcid=17893396169465349359302&wRef=&wTime=20260920181221&redirect=landing&traceid=V0-183-4ec36b74632b2467&mcid=f2bb125cddf1446994a95ef4ff6c8035&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9540099289",
+    "title": "후시덤 베리어 리페어 크림미스트, 2개, 100ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/afd2/647a69d20547cb462e9d8359c927e6a287be9794e60946be3f23bdcacce5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/afd2/647a69d20547cb462e9d8359c927e6a287be9794e60946be3f23bdcacce5.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g5yex5X35U"
+    ],
+    "image_path": "images/05_후시덤_베리어_리페어_크림미스트,_2개,_100ml.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvIbPYbY",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피부 당김 심한 날 이거 한 번 뿌리면 촉촉해지는 느낌이 확실히 있어. 화장 위에도 그냥 쓸 수 있어서 가방에 하나 넣어 다니게 됐어. 2개 세트라 하나 챙겨두기도 좋았음 🧴",
+    "b": "피부 예민할 때 이거 바르면 자극이 좀 가라앉는 느낌. 크림미스트라서 무겁지 않고 순해서 자기 전 마무리로 쓰기 딱 좋더라. 아침에 일어나면 피부가 덜 당기는 날이 많아진 것 같아 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "chenguanyu942",
+    "url": "https://www.threads.com/@chenguanyu942/post/DdY6tzzDj21",
+    "views": 813,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g4ovwL5ys8",
+    "final_url": "https://www.coupang.com/vp/products/7138475320?itemId=17917452826&src=1139000&spec=10799999&addtag=400&ctag=7138475320&lptag=AF5308147&itime=20260920181229&pageType=PRODUCT&pageValue=7138475320&wPcid=17893396169465349359302&wRef=&wTime=20260920181229&redirect=landing&traceid=V0-101-233fae2eb6c3d386&mcid=2baadf34f0df4228802f01b51d05540b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7138475320",
+    "title": "BCL tsururi 비씨엘 츠루리 포어 모공 클렌징 젤 15g, 1개, 1개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5533/361527c0fdae93eb5faba31a29b456e72bfc55e1f5c3b6031d3fa31021f2.JPG",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5533/361527c0fdae93eb5faba31a29b456e72bfc55e1f5c3b6031d3fa31021f2.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4aba/a15e235b5155cb87fb911924e8270e76fea944fefa61454140d5fa3e9f4c.JPG",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g4ovwL5ys8"
+    ],
+    "image_path": "images/06_BCL_tsururi_비씨엘_츠루리_포어_모공_클렌징_젤_15g,_1개,.jpg",
+    "my_link": "https://link.coupang.com/a/hcg8LgOv6G",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코 주변에 바르면 따뜻해지면서 뭔가 녹는 느낌이 신기해서 씻어내는 것도 기분 좋음. 실리콘 브러시로 마사지하면서 쓰는 거라 세안 자체가 좀 달라진 느낌이야. 일본에서 왜 유명한지 알 것 같음 🪄",
+    "b": "세안 전에 신경 쓰이는 부분에 조금씩 쓰는데 씻고 나면 개운한 느낌. 양이 많지 않아서 아껴 쓰게 되는데 그래도 한 달은 충분히 쓸 것 같아. 이제 세안 루틴에 빠지면 허전한 것 중 하나가 됐어 💧"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "goose.potter",
+    "url": "https://www.threads.com/@goose.potter/post/DdZ1Y7SgGOB",
+    "views": 659,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-18",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/dO2wnOIpI4",
+    "final_url": "https://www.coupang.com/vp/products/9075069196?itemId=26655624721&src=1139000&spec=10799999&addtag=400&ctag=9075069196&lptag=AF0743444&itime=20260920181237&pageType=PRODUCT&pageValue=9075069196&wPcid=17893396169465349359302&wRef=&wTime=20260920181237&redirect=landing&traceid=V0-101-5375b067a131da3b&mcid=f527ce930fb84228aaf9e04628e12df0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9075069196",
+    "title": "1+1 [특혜] 삼합일 다기능 스테인리스 대파 커터 휴대용 다기능 필러 3in1 독일 만능 채칼 주방 전용 도구, 2개, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f5b/0257db013082ee4024fe28cf3c476cc623c0e5bbf0c7a451bfe8845a4482.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f5b/0257db013082ee4024fe28cf3c476cc623c0e5bbf0c7a451bfe8845a4482.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/dO2wnOIpI4"
+    ],
+    "image_path": "images/07_1+1_[특혜]_삼합일_다기능_스테인리스_대파_커터_휴대용_다기능_필러_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "감자 껍질 까는 게 너무 귀찮았는데 이거 쓰고 나서 진짜 금방 끝나버림. 나무 손잡이라 잡기도 편하고 미끄럽지 않아서 안심이 돼. 요리 시작할 때 스트레스가 좀 줄어든 느낌 🥕",
+    "b": "대파 썰기가 이렇게 편해질 줄은 몰랐음. 스테인리스라 녹슬 걱정 없고 씻기도 쉬워서 매일 꺼내 쓰게 되더라. 2개 세트라 하나는 서랍에 백업으로 넣어뒀어 🔪"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "salim_hottpick",
+    "url": "https://www.threads.com/@salim_hottpick/post/DdY6vgXkitH",
+    "views": 403,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g67tqRkB9U",
+    "final_url": "https://www.coupang.com/vp/products/8289306651?itemId=27688970116&src=1139000&spec=10799999&addtag=400&ctag=8289306651&lptag=AF2645422&itime=20260920181244&pageType=PRODUCT&pageValue=8289306651&wPcid=17893396169465349359302&wRef=&wTime=20260920181244&redirect=landing&traceid=V0-101-0ac29ee2ceca0518&mcid=06c5b3603ff048489ca87d3c0d9eb8c9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8289306651",
+    "title": "포키 유바리 멜론 13개입, 168g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/39ab/49a8f4f5295b78d7d3be0525ac1593b6c21b82238baa19fe83b94abbb93e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/39ab/49a8f4f5295b78d7d3be0525ac1593b6c21b82238baa19fe83b94abbb93e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g67tqRkB9U"
+    ],
+    "image_path": "images/08_포키_유바리_멜론_13개입,_168g,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hcg9AxaWdw",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "홋카이도 한정판이라길래 궁금해서 시켜봤는데 진짜 멜론 향이 진하게 남. 이렇게까지 향이 진한 포키는 처음이었어. 요즘 간식 타임 기다려지는 이유가 생겼음 🍈",
+    "b": "멜론맛 과자 좋아하면 이건 진짜임. 스틱 하나씩 먹는다고 했는데 자꾸 손이 가서 금방 없어짐. 13개입이라 넉넉한 줄 알았는데 하루 만에 다 비워버림 😅"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "cbg1226",
+    "url": "https://www.threads.com/@cbg1226/post/DdY6YbWEtgc",
+    "views": 269,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g7wkQoE5uu",
+    "final_url": "https://www.coupang.com/vp/products/9609551088?itemId=28689232072&vendorItemId=95630622979&src=1139000&spec=10799999&addtag=400&ctag=9609551088&lptag=AF2604120&itime=20260920181323&pageType=PRODUCT&pageValue=9609551088&wPcid=17893396169465349359302&wRef=&wTime=20260920181323&redirect=landing&traceid=V0-181-93ad78877964b832&mcid=9ba9f4ce0b43436eb654fb499731577e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9609551088",
+    "title": "이케아 노르들리 6칸 서랍장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e5b/f925357f4e148d8482d3a63eaaf4e17d017f0f04aba2fb90c0e7f58504a3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3e5b/f925357f4e148d8482d3a63eaaf4e17d017f0f04aba2fb90c0e7f58504a3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/545f/5b137c79f345a156a1fe7ec1edfef616e5f8d43b7621b3a040cb41bd5660.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9470/180c04961b04163e670981d6ca26b27ff819e2205720e21fb8d8b9d85d2b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/68b0/b3b24c35abc41e034eb334593f580085783319519149ebe92fa67b860b88.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a7ba/274ecda205eb27cbad64224867cc08d462b5ddae177737addbac93065975.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g7wkQoE5uu",
+     "https://link.coupang.com/a/g7ykTcgUE0"
+    ],
+    "image_path": "images/09_이케아_노르들리_6칸_서랍장.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "방 정리하려고 들였는데 서랍 6칸이라 종류별로 딱 나눠 넣을 수 있어서 너무 좋음. 흰색이라 어디 놔도 튀지 않고 공간이 깔끔해보임. 서랍 열 때마다 괜히 뿌듯해지는 그런 거 있잖아 🗂️",
+    "b": "바닥에 옷 쌓아두는 습관이 있었는데 이거 들인 다음부터 그게 없어졌어. 서랍 깊이가 넉넉해서 생각보다 많이 들어가는 게 마음에 들어. 방 분위기가 달라지니까 청소 의욕도 생긴 것 같음 🏠"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "levante_1004",
+    "url": "https://www.threads.com/@levante_1004/post/DdY6wxADs7X",
+    "views": 263,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g6KrAbQZI4",
+    "final_url": "https://www.coupang.com/vp/products/9342150012?itemId=27706972440&src=1139000&spec=10799999&addtag=400&ctag=9342150012&lptag=AF5382124&itime=20260920181330&pageType=PRODUCT&pageValue=9342150012&wPcid=17893396169465349359302&wRef=&wTime=20260920181330&redirect=landing&traceid=V0-181-42c61721a984440f&mcid=a6f0b736c3b44cea95cbe0092fc5e255&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9342150012",
+    "title": "스마토이 어린이 스크린 전자 디지털 휴대용 현미경 옐로우",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0a60/64986e22c68e75ee951ba8dbd40a50684b3f022ba384e8edd30d4136539e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0a60/64986e22c68e75ee951ba8dbd40a50684b3f022ba384e8edd30d4136539e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5085/e5581be1fdf919f339668848845f41bebbfbcb1a288b072ac09f238798aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d11f/b2b216133445fc6f5a2c6a69bd779b95250e02e4ad028331b92dd959fa5d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b976/6ba03a9f26e1401b1917f2c841d2a6769f1d0b88b94ac442d2d73141b2d0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b92e/c237ee3a8f53fb31b959af9d25dcf52047e9c489fd40b0fd1b5ee03b963d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/672f/a797f025dc66d3301d34a153ac6c63117b26d97d9962841b03950b03b132.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g6KrAbQZI4"
+    ],
+    "image_path": "images/10_스마토이_어린이_스크린_전자_디지털_휴대용_현미경_옐로우.jpg",
+    "my_link": "https://link.coupang.com/a/hchapPoQRU",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이가 들고 다니면서 뭐든 갖다 대고 화면으로 보는데 진짜 신기해하더라. 잎사귀, 지문 이런 거 확대해서 보면서 눈이 동그래지는 거 보면 기분이 너무 좋음. 야외 나갈 때 꼭 챙겨 가게 됨 🔬",
+    "b": "그냥 장난감인 줄 알았는데 화면으로 실시간 확대해서 보여줘서 아이가 진짜 좋아함. 노란색이 너무 귀여워서 자기 꺼라고 이름까지 붙여뒀어. 덕분에 밖에 나가자고 조르는 횟수가 늘었음 🌿"
+   }
+  }
+ ]
+}
