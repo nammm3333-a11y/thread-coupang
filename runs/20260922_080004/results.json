@@ -1,0 +1,462 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-22T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-22T08:19:51"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "333_home_333",
+    "url": "https://www.threads.com/@333_home_333/post/DdcpYNLnw8f",
+    "views": 12000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g9XLXmroTk",
+    "final_url": "https://www.coupang.com/vp/products/313526660?itemId=991466599&src=1139000&spec=10799999&addtag=400&ctag=313526660&lptag=AF6200717&itime=20260922081515&pageType=PRODUCT&pageValue=313526660&wPcid=17893396169465349359302&wRef=&wTime=20260922081515&redirect=landing&traceid=V0-101-1f05e325bfea1d28&mcid=fe3b3654cf7f4f399dc75e6912e595c0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thread486&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "313526660",
+    "title": "크리넥스 56314 셀 방향제(시트러스향)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e33c/83722c1be55aa87291b36775150fca540be802a18f5080a27f558a96208d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e33c/83722c1be55aa87291b36775150fca540be802a18f5080a27f558a96208d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g9XLXmroTk"
+    ],
+    "image_path": "images/01_크리넥스_56314_셀_방향제(시트러스향).jpg",
+    "my_link": "https://link.coupang.com/a/hediB9tecC",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "화장실에 이거 꽂아뒀더니 시트러스향이 은근하게 올라오더라. 강하지 않아서 오히려 좋고, 들어갈 때마다 기분이 조금 달라지는 게 신기해 🍋",
+    "b": "방향제가 금방 약해질 줄 알았는데 생각보다 오래 가서 놀람. 작은 화장실인데 냄새 걱정이 없어졌고 향이 튀지 않아서 손님 왔을 때도 괜찮았어 🌿"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "deal.finder77",
+    "url": "https://www.threads.com/@deal.finder77/post/Ddc51KMI5lN",
+    "views": 1500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g97WDk8oUe",
+    "final_url": "https://www.coupang.com/vp/products/8312125422?itemId=23985802651&src=1139000&spec=10799999&addtag=400&ctag=8312125422&lptag=AF9837686&itime=20260922081523&pageType=PRODUCT&pageValue=8312125422&wPcid=17893396169465349359302&wRef=&wTime=20260922081523&redirect=landing&traceid=V0-101-2ea4b06ea743f473&mcid=aaaf38a85c9949339f86da2d1bd6b0d9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8312125422",
+    "title": "사무실 과자 세트 촉촉한초코칩1 크라운산도딸기1 버터와플1 뽀또치즈1 오예스미니1 화이트하임1 초코하임1 빈츠1 마가렛트1 쿠크다스케이크1 쿠크다스화이트1 몽실1",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f2f7/b1e1c5e88577dd076c4547842186d34afb0bd0a020aad4f7b5a7fb1ac2f6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f2f7/b1e1c5e88577dd076c4547842186d34afb0bd0a020aad4f7b5a7fb1ac2f6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f5b/c33580e81c9188245d7b21ff947a21f1edba2cd5aa55e3ae2d1c9e053cee.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aeca/cfaa452c86c1868cd46f63a37acda32db1439feb653b00543900a3fe63bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4859/0b3ad2d5a4b82aa4f259a0abe6b3cf43a1dd20efa3b71e0db4fb4aebbdcb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3084/4ecbf00b0a6d86e883f3b417e4371e068573402d602a255f3d971e80e2e3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5e20/d54503b6dc094ba1139a0dc5bf5087a6bcd636693439e0e73294584ec471.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g97WDk8oUe"
+    ],
+    "image_path": "images/02_사무실_과자_세트_촉촉한초코칩1_크라운산도딸기1_버터와플1_뽀또치즈1_오.jpg",
+    "my_link": "https://link.coupang.com/a/heUhI6Gf48",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "팀 간식함에 이거 올려뒀더니 눈치 보던 팀원들이 손 뻗기 시작함ㅋㅋ 종류가 많아서 취향 타는 사람 없고 촉촉한초코칩은 진짜 순식간에 없어지더라 🍪",
+    "b": "뭐 살 때마다 하나씩 고르기 귀찮은 사람인데 이거 통째로 하나 시키면 끝이라 너무 편했음. 빈츠랑 오예스 미니 손이 자꾸 가서 혼자 다 먹을 뻔 했어 😅"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8XkxXWLF6",
+    "final_url": "https://www.coupang.com/vp/products/9698030296?itemId=14871195064&src=1139000&spec=10799999&addtag=400&ctag=9698030296&lptag=AF7862534&itime=20260922081532&pageType=PRODUCT&pageValue=9698030296&wPcid=17893396169465349359302&wRef=&wTime=20260922081532&redirect=landing&traceid=V0-101-96b136c1ce0a4745&mcid=97dea23fe4724017884e5ac5d7491ccc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9698030296",
+    "title": "해피콜 매시브 다이아몬드 IH 프라이팬 2종세트(24팬+28팬)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ef44/b09d45042699b939916345ab36ee430bad516560abf3ebdf6e8e53729661.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ef44/b09d45042699b939916345ab36ee430bad516560abf3ebdf6e8e53729661.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c9f5/ccdbf5715af3762fb27addc9982b7a9a6478aaafef34aa879735586aa9c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4427/4685118ebf5bf4fddd155dbfa19566bedcf7413df50b6eb7c58ed01c7eec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3ed0/f7dc6351a62a014365f7d9c9fd1d41937dc205acd5c78702c8cedb3743e9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/de90/87c12ab54cfa7efde32cab77ba2204a08493d754a8e44f0d2547e1244ac9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8ba5/3e166ad754a6cc7a89dd3f9a72047a97af5ebff358e8c8b03be1b1d0cd89.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8XkxXWLF6"
+    ],
+    "image_path": "images/03_해피콜_매시브_다이아몬드_IH_프라이팬_2종세트(24팬+28팬).jpg",
+    "my_link": "https://link.coupang.com/a/hediHL2DVQ",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "새 팬으로 계란 후라이 했더니 달라붙지 않아서 감동이었음. 24짜리 작은 건 혼자 쓸 때, 28짜리 큰 건 볶음 할 때 쓰니까 진짜 딱 맞더라 🍳",
+    "b": "오래된 팬 버리고 이걸로 바꿨더니 설거지가 너무 쉬워짐. 눌어붙을까봐 신경 쓰던 게 없어지니까 요리를 전보다 더 자주 하고 싶어졌어 😂"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "yunaa.memo",
+    "url": "https://www.threads.com/@yunaa.memo/post/DddD7cBEtLv",
+    "views": 721,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hadYehhRcG",
+    "final_url": "https://www.coupang.com/vp/products/9715234037?itemId=29070149339&src=1139000&spec=10799999&addtag=400&ctag=9715234037&lptag=AF9376969&itime=20260922081540&pageType=PRODUCT&pageValue=9715234037&wPcid=17893396169465349359302&wRef=&wTime=20260922081540&redirect=landing&traceid=V0-101-a426e8ff72cf75e1&mcid=5b456550c518447080c5e82a3b7bb3da&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715234037",
+    "title": "2027 세파스 리액트 T7 21700셀 350W 11ah 접이식 전기자전거 99%조립",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6b94/22650377e95f4e25f4f8be4aee5d5305adab34128e39ab9bdcaa9561b6d3.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6b94/22650377e95f4e25f4f8be4aee5d5305adab34128e39ab9bdcaa9561b6d3.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hadYehhRcG"
+    ],
+    "image_path": "images/04_2027_세파스_리액트_T7_21700셀_350W_11ah_접이식_전기자.jpg",
+    "my_link": "https://link.coupang.com/a/hediNl3Fuu",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "접이식이라 현관에 세워둬도 공간 별로 안 잡혀서 생각보다 괜찮더라. 오르막 있는 길도 페달 보조로 힘 안 들이고 올라가지니까 출근길이 달라졌음 🚲",
+    "b": "99% 조립이라 박스 뜯자마자 그냥 탈 수 있었음. 전에는 버스 탔던 거리를 이걸로 다니기 시작했더니 아침이 훨씬 여유로워졌어 ⚡"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "crab.4508450",
+    "url": "https://www.threads.com/@crab.4508450/post/DdfHcwxkzJK",
+    "views": 571,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbx89fYIhM",
+    "final_url": "https://www.coupang.com/vp/products/8151323896?itemId=23198187787&src=1139000&spec=10799999&addtag=400&ctag=8151323896&lptag=AF7985537&itime=20260922081548&pageType=PRODUCT&pageValue=8151323896&wPcid=17893396169465349359302&wRef=&wTime=20260922081548&redirect=landing&traceid=V0-101-e8f1c8d5550ee8c1&mcid=38ba0deb0d934f1788d967b0faf5d480&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8151323896",
+    "title": "테일스타 완벽한 창문 틈새청소 창틀 청소 틈새 브러쉬 솔 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0feb/8282be1d99f8b66fa9b882f92bb67f36672bcfdec910960c2eb8488dc96f.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0feb/8282be1d99f8b66fa9b882f92bb67f36672bcfdec910960c2eb8488dc96f.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=GJdOOnDXnNk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hbx89fYIhM"
+    ],
+    "image_path": "images/05_테일스타_완벽한_창문_틈새청소_창틀_청소_틈새_브러쉬_솔_세트.jpg",
+    "my_link": "https://link.coupang.com/a/hdft1kWFSC",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "창틀 청소 얼마나 미뤘는지 모르는데 이거로 하니까 생각보다 금방 끝났음. 틈새 솔이랑 같이 쓰면 구석 묵은 때도 잘 떨어져서 속이 다 시원했어 🪟",
+    "b": "이사하고 창문 틈새 손도 못 댔는데 이거 있으니까 용기가 생겼음ㅋㅋ 더러운 게 이렇게 많았나 싶어서 충격이었고 그 이후로 자주 손이 가더라 😮"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdfFHMSF6Tg",
+    "views": 426,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e126aDHxQW",
+    "final_url": "https://www.coupang.com/vp/products/8846051241?itemId=18369163398&src=1139000&spec=10799999&addtag=400&ctag=8846051241&lptag=AF0743444&itime=20260922081557&pageType=PRODUCT&pageValue=8846051241&wPcid=17893396169465349359302&wRef=&wTime=20260922081557&redirect=landing&traceid=V0-101-86ab931b3e81981e&mcid=a4309ad2f33944e4a0c3f563b49c6f42&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8846051241",
+    "title": "한일전기 프리미엄 전기모기채",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3119894483085339-b259e692-5d7c-42fb-9ae2-d2033f3377a5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3119894483085339-b259e692-5d7c-42fb-9ae2-d2033f3377a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341878378407667-6468173b-53fa-4a7f-a465-9c84662e68c3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/349123253444428-e7de6cd5-cf9e-48e0-9d71-fb5ad979e125.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341851159201145-ff25e3c0-00bc-4b6b-a6e9-fb5a2792527d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/349105485214965-e5a605f8-62ef-4d41-86f8-5eed8fc9c175.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341820569803979-2901d4fa-5c5a-412e-9191-57ce5de6d119.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341871141089945-21e4bf11-757a-4530-b103-2b7dd1c2ebf2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341859112857713-8e48f478-3ba3-4e0a-9116-631eae17ff61.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e126aDHxQW"
+    ],
+    "image_path": "images/06_한일전기_프리미엄_전기모기채.jpg",
+    "my_link": "https://link.coupang.com/a/hdft38di9s",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "모기 잡으러 온 집 돌아다니다가 이거로 잡히는 순간 은근히 재밌어짐ㅋㅋ 베이지 색이라 방에 그냥 뒀는데 인테리어 안 망쳐서 더 좋아 🦟",
+    "b": "밤에 모기 소리에 잠 깨다가 이거 장만했더니 그나마 나아짐. 잡기 전에 켜두는 것만으로도 괜히 안심이 되는 게 있더라 😤"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "healingshop.ing",
+    "url": "https://www.threads.com/@healingshop.ing/post/DdfCNUtE_DA",
+    "views": 389,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e3r5mCrAiW",
+    "final_url": "https://www.coupang.com/vp/products/7342894220?itemId=18877439193&src=1139000&spec=10799999&addtag=400&ctag=7342894220&lptag=AF0743444&itime=20260922081605&pageType=PRODUCT&pageValue=7342894220&wPcid=17893396169465349359302&wRef=&wTime=20260922081605&redirect=landing&traceid=V0-101-97ef6f6c14386b36&mcid=7199c7d9a9aa4336b925df23fef3896e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7342894220",
+    "title": "리스펫 반려동물 덴탈클린 치약 + 덴탈 딥 브러쉬 2p 세트, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/198653559438433-6421256d-1b4d-4972-84aa-c8330e4d2313.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198653559438433-6421256d-1b4d-4972-84aa-c8330e4d2313.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/778344385750192-aaf8748d-effc-407e-9500-f356d3d5250b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718704909559792-996958c1-0169-449c-9894-ef52383c9c7e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198634294569525-f873ed19-12d7-4257-a46c-ff683d9b8e61.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718713590664885-ab541c57-ad4f-4818-89d1-5a715a1020b2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718746364411356-f469dca5-951b-45aa-95c8-4ebac5bebd5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198675822369348-95523d29-ba15-4d45-9d30-3fd52e9c6af4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/225091395323754-0e186cc7-f59c-4035-bd10-d08eb7ac9fc0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e3r5mCrAiW"
+    ],
+    "image_path": "images/07_리스펫_반려동물_덴탈클린_치약_+_덴탈_딥_브러쉬_2p_세트,_1세트.jpg",
+    "my_link": "https://link.coupang.com/a/hdft7cXKyO",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "강아지가 양치 도망가던 애인데 치킨향 치약이라 그런지 입 벌려주기 시작함. 브러쉬 모가 부드러워서 거부감 없이 됐고 하루 루틴이 생긴 것 같아 좋았어 🐶",
+    "b": "강아지 양치를 이렇게 순순히 할 줄 몰랐는데 이 세트 쓰고 나서 달라짐. 치약이랑 칫솔 따로 안 골라도 돼서 그것도 편했어 🦷"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "ggulttem1",
+    "url": "https://www.threads.com/@ggulttem1/post/DdckG95AYPt",
+    "views": 326,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fXFY8itTCC",
+    "final_url": "https://www.coupang.com/vp/products/6995056735?itemId=938914097&vendorItemId=3139334636&src=1139000&spec=10799999&addtag=400&ctag=6995056735&lptag=AF9573770&itime=20260922081613&pageType=PRODUCT&pageValue=6995056735&wPcid=17893396169465349359302&wRef=&wTime=20260922081613&redirect=landing&traceid=V0-181-99df9fc1a34ce9d2&mcid=d5300b1a349a4313a48b4abe8ed39fe7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6995056735",
+    "title": "앰플엔 펩타이드샷 앰플, 100ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/133643365120172-cb3bddbd-e788-4d37-8335-dc0f86b670d4.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133643365120172-cb3bddbd-e788-4d37-8335-dc0f86b670d4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133651145913468-d77bd84e-8f50-45bb-b2f1-0b293cc24691.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/97486094964342-7f94c192-7594-491b-b025-050144975cb5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133651142872473-d3a2ebfc-2ddf-41b8-83be-8dc722f935cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/941932166392853-c28eb099-bb99-4168-ba9d-7cbf259d95da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/941932153865700-8c9cc024-8249-4e40-87bc-d5b3c20bcb0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/380257876024932-4c5fec8c-b6fd-4b68-8aec-f7df2c652832.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/97486095361280-76994f93-21b7-4b30-a71f-8ebbe6928ac3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fXFY8itTCC"
+    ],
+    "image_path": "images/08_앰플엔_펩타이드샷_앰플,_100ml,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/heUhLV6ms0",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여러 세럼 쓰다가 이거로 정착했는데 흡수되는 느낌이 좀 다른 것 같더라. 스킨케어 단계 줄였는데 피부 당김이 덜해진 날이 생겨서 계속 쓰게 됨 ✨",
+    "b": "아침에 발랐을 때 화장 들뜨는 게 줄어든 것 같아서 좋았음. 100ml라 용량이 넉넉해서 아끼지 않고 팍팍 쓸 수 있는 게 제일 맘에 들어 💛"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "joopjoop_pick",
+    "url": "https://www.threads.com/@joopjoop_pick/post/Ddcpkk5jo_E",
+    "views": 299,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gDbsOgflV6",
+    "final_url": "https://www.coupang.com/vp/products/8522304140?itemId=24234187063&src=1139000&spec=10799999&addtag=400&ctag=8522304140&lptag=AF6472595&itime=20260922081621&pageType=PRODUCT&pageValue=8522304140&wPcid=17893396169465349359302&wRef=&wTime=20260922081621&redirect=landing&traceid=V0-183-a7780910958b9801&mcid=2546418eefb64994a27fdd713c007a75&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8522304140",
+    "title": "인라인보조기구 롤러스케이트 안전가드 손잡이 방지 낙하 바퀴 롤러, 핑크 S사이즈(키키 105-125cm), 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b195/2ce217016fec0c18d3dec8e746cfd04f0399af93484c9e5ce0b1fbfe0d89.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b195/2ce217016fec0c18d3dec8e746cfd04f0399af93484c9e5ce0b1fbfe0d89.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ddd4/1dc91d4b6a881103470e110b6e58d87d4ffbaf12866c8d3453c999955eee.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2dea/291f6ff43c53189bb259313615bf2da6df19f1f43ac5c6fbcf8c449fc69b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/58b5/a5e60a98f42e8d92a10fbfe9f74c9d1c182a705053775d62badad1909af4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gDbsOgflV6"
+    ],
+    "image_path": "images/09_인라인보조기구_롤러스케이트_안전가드_손잡이_방지_낙하_바퀴_롤러,_핑크_.jpg",
+    "my_link": "https://link.coupang.com/a/heUhOD0NAO",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애가 인라인 타고 싶다고 해서 이거 쥐어줬더니 혼자 잡고 조금씩 나아가더라. 핑크 색이라 본인이 완전 좋아했고 넘어지는 횟수가 눈에 띄게 줄었어 🛼",
+    "b": "처음엔 내가 손 잡고 같이 뛰어야 했는데 이거 쥐어주니까 혼자 연습하더라. 조마조마함이 좀 줄었고 애도 자기가 탄다는 느낌에 더 신나 하는 것 같았음 🩷"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "everyfood_kr",
+    "url": "https://www.threads.com/@everyfood_kr/post/Ddc6yxDjW2s",
+    "views": 255,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g98mxzb77I",
+    "final_url": "https://www.coupang.com/vp/products/1395521967?itemId=19224586918&src=1139000&spec=10799999&addtag=400&ctag=1395521967&lptag=AF7013501&itime=20260922081630&pageType=PRODUCT&pageValue=1395521967&wPcid=17893396169465349359302&wRef=&wTime=20260922081630&redirect=landing&traceid=V0-101-68a7c0734dd11422&mcid=1b09633d3a5f44c8a15d733e81b1a0a4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1395521967",
+    "title": "덴마크 인포켓치즈 오리지널",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/996228053561483-6f8ca3e8-324e-45bb-9448-750feb2578ee.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/996228053561483-6f8ca3e8-324e-45bb-9448-750feb2578ee.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/996176821358424-5c48c4f6-6c50-41d4-9c2a-07e4e3792bef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14269694459983-effb0d98-bdfe-4e54-918c-6e681d230d9f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/462713593559731-29da8e5f-0675-48b1-a575-17d306b00dbb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/996176828613438-8c077b2a-0256-400d-b827-c71fc1d9c99c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/996176824742078-acf387cc-65f8-4663-b188-1cbd52cb6ca8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g98mxzb77I"
+    ],
+    "image_path": "images/10_덴마크_인포켓치즈_오리지널.jpg",
+    "my_link": "https://link.coupang.com/a/heUhRpwSOa",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고 열 때마다 하나씩 뽑아 먹게 되는데 찢어 먹는 식감이 있어서 손이 자꾸 가더라. 그냥 심심할 때나 간단히 뭔가 먹고 싶을 때 진짜 딱이야 🧀",
+    "b": "애 간식으로 샀는데 내가 더 많이 먹고 있음ㅋㅋ 국산 원유라고 하니까 그냥 믿고 아무 걱정 없이 줄 수 있어서 좋았어 😂"
+   }
+  }
+ ]
+}
