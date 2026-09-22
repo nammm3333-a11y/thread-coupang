@@ -1,0 +1,468 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-22T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-22T13:16:24"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "pilo_1040",
+    "url": "https://www.threads.com/@pilo_1040/post/DddPIQ4iQ7N",
+    "views": 18000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8z4AFSmLk",
+    "final_url": "https://www.coupang.com/vp/products/9715349966?itemId=29070484642&src=1139000&spec=10799999&addtag=400&ctag=9715349966&lptag=AF9585546&itime=20260922131230&pageType=PRODUCT&pageValue=9715349966&wPcid=17893396169465349359302&wRef=&wTime=20260922131230&redirect=landing&traceid=V0-101-e853fc012bdd9a75&mcid=f06080442f1a42c49590dec22dc1e246&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715349966",
+    "title": "힐링소금 미네랄 용융소금 바이오 소금",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4b98/0c6a923350458b2dc7e65755e8c833dc34c8a60fc36ea99759a8fd05c3ac.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4b98/0c6a923350458b2dc7e65755e8c833dc34c8a60fc36ea99759a8fd05c3ac.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c2ec/7eb65dfdf003139f8b9033dec93b67d3ab460c7b9eb20def9feb3e150849.jpeg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=etEjnvW1kwk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/g8z4AFSmLk"
+    ],
+    "image_path": "images/01_힐링소금_미네랄_용융소금_바이오_소금.jpg",
+    "my_link": "https://link.coupang.com/a/hffwMUPIFE",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "소금 바꿔봤는데 음식 맛이 좀 달라진 것 같기도 하고... 유리병에 담겨 있어서 주방에 꺼내두기도 좋더라. 괜히 요리하는 기분이 살아나서 신기함 🧂",
+    "b": "인스타에서 보고 나도 결국 질렀는데 병이 너무 예뻐서 진열해두고 싶어짐. 그냥 주방 인테리어 하나 추가한 셈 ㅋㅋ 나만 이런가 🧂✨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "coupiselliy",
+    "url": "https://www.threads.com/@coupiselliy/post/DddRdYRk4Ua",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hamBqL755w",
+    "final_url": "https://www.coupang.com/vp/products/8717638686?itemId=25320513449&src=1139000&spec=10799999&addtag=400&ctag=8717638686&lptag=AF9102536&itime=20260922131238&pageType=PRODUCT&pageValue=8717638686&wPcid=17893396169465349359302&wRef=&wTime=20260922131238&redirect=landing&traceid=V0-101-12c59bb30152dca9&mcid=fff786ab90864146a48b593430fdbfa6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8717638686",
+    "title": "윌슨 블레이드 98 16 x 19 V9 2그립 라켓 305g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7dd0/dbad9d564108a763ac70c5a8f320b3a4c9f25c9859a93b37074ea1f3f42a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7dd0/dbad9d564108a763ac70c5a8f320b3a4c9f25c9859a93b37074ea1f3f42a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c55/6a77c59faaef53ba5c31ce3bd8ba4381e3347ead3a6651d90bed93003a92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb09/6af739b3dd2b47f3e97adfa54bf4470983d3a74c7b051a937739d7fb1d7d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7060/2cab62f7694840d6aef4cdf7effe653926b026a82e9a7fbaa515e5f041f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f30e/ba3826a994e3fda2f46fa0c406bdd2379587a97537f0bc513130f8e98513.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f16f/ebe7c9f731155cb7d8c1bbb721b6dd0133c167359d63344b836e7bbcad0a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b88c/9a81e8d52b7d8232d6a11c11e531c05675f55545f6d341ded64171a7db62.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf0b/7c22854c7bf7b83a76039e28a78751bcfb40a90510536d19b7bd1151d431.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hamBqL755w"
+    ],
+    "image_path": "images/02_윌슨_블레이드_98_16_x_19_V9_2그립_라켓_305g.jpg",
+    "my_link": "https://link.coupang.com/a/hffwPFmhb2",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "테니스 시작하면서 라켓 욕심이 생겨서 결국 블레이드로 넘어왔는데 손에 쥐는 느낌이 진짜 다름. 공이 맞는 감각이 살아있어서 칠 때마다 기분 좋아 🎾",
+    "b": "라켓 바꾸고 나서 코트 나가는 게 더 기다려지는 느낌... 진녹색 컬러도 너무 예뻐서 들고 다니기 좋음. 같이 치는 사람들도 다들 탐내더라 🎾"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "blue_mango53107",
+    "url": "https://www.threads.com/@blue_mango53107/post/DddmNJuE1q3",
+    "views": 877,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hazuS6C1IW",
+    "final_url": "https://www.coupang.com/vp/products/9466343810?itemId=28172090075&vendorItemId=95126955524&src=1139000&spec=10799999&addtag=400&ctag=9466343810&lptag=AF6982128&itime=20260922131246&pageType=PRODUCT&pageValue=9466343810&wPcid=17893396169465349359302&wRef=&wTime=20260922131246&redirect=landing&traceid=V0-181-21cd75149cf0f645&mcid=830b01b3fa8d4d80b41cb2f74a897ee0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9466343810",
+    "title": "ALITTLE COOL 30ml 미미세라 쿨 타입 귀 청소 세정액 이어 클리너액 로션 천연",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7655/87289b476b5084bf2552a58612ea9f6447b489fc9634802f86a439ff9f1c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7655/87289b476b5084bf2552a58612ea9f6447b489fc9634802f86a439ff9f1c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d82/f39cd568dbbdaae5e445a21e0ea1f4448f177cbce0c47e474789734459f2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ffa/f33f295ffeb3051426302327c3a17f443302ea3ec379f38cdd3f831a5be1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c7d/87e0f5bc813c0d4b8a791d48c17274b21811fbe0dce4c2943f747dc3136d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/90d4/4b0086cc4d83a57a073626657dd301a6a0fbb82cae40a4e0e081f226c577.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/45b5/a03bdb0b3fa673fff24420f0df4e172f332bc9161ae2bf87214c6ff1fdec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/400b/78b6a73f6183a895345aec150cc021440c015c46aea159cad53e2fe543e8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hazuS6C1IW"
+    ],
+    "image_path": "images/03_ALITTLE_COOL_30ml_미미세라_쿨_타입_귀_청소_세정액_이어_.jpg",
+    "my_link": "https://link.coupang.com/a/hffwStDY3E",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "귀 후비는 게 습관인데 이거 써보고 나서 면봉 대신 이걸로 하고 있어. 씻고 나서 몇 방울 넣으면 시원한 느낌이 나서 나름 루틴이 돼버림 👂",
+    "b": "귀가 가끔 간질간질해서 찾다가 이거 발견했는데 생각보다 시원해서 깜짝 놀람. 멘톨 향이 나서 청량감 있는데 자기 전에 쓰면 기분 좋더라 👂✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "joopjoop_pick",
+    "url": "https://www.threads.com/@joopjoop_pick/post/DddPR6SjbX7",
+    "views": 849,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gUMFSPHXki",
+    "final_url": "https://www.coupang.com/vp/products/9685535512?itemId=28964849281&src=1139000&spec=10799999&addtag=400&ctag=9685535512&lptag=AF6472595&itime=20260922131254&pageType=PRODUCT&pageValue=9685535512&wPcid=17893396169465349359302&wRef=&wTime=20260922131254&redirect=landing&traceid=V0-183-bb3c7a47d6c015ea&mcid=272f8eeee13c49c2a297574eb39db8dd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9685535512",
+    "title": "공룡 에어팟 이어폰 케이스 헤드폰 벨로시랩터 이어폰 에어팟 케이스(예약주문 25일이상 예상)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3c69/0d9a18d664c0f843cf6d187b961315544b50df6a8ec9081ce881ea98f3e0.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3c69/0d9a18d664c0f843cf6d187b961315544b50df6a8ec9081ce881ea98f3e0.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1a71/0a7226ba48564ce37ad1561fb9f081356f3de9d4be552e5ea8dec5a297bc.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8afc/d43ef954224adfa6d3fce188d896c5f0069d547a25643a52cce17072fdbe.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf54/858d114658e2d49a6f8dbd8cbf5f034971fafec5ac1fc9434ce7d0d7d2f0.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/169b/6367d95530a69cb656828767a8438031a85b71c7c82209c53a111c18db2d.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcf1/b833f106e10add5ce23243b2bdc43553399893d3286899b54b440022078d.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gUMFSPHXki"
+    ],
+    "image_path": "images/04_공룡_에어팟_이어폰_케이스_헤드폰_벨로시랩터_이어폰_에어팟_케이스(예약주.jpg",
+    "my_link": "https://link.coupang.com/a/hffwVemZ6O",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "와 결국 이거 질렀는데 벨로시랩터가 에어팟 물고 있는 거 진짜 너무 귀엽잖아... 케이스 여닫을 때마다 혼자 웃게 됨. 책상에 올려두면 사람들이 다 쳐다봄 🦖",
+    "b": "에어팟 케이스 뭔가 특이한 거 찾다가 이 공룡 발견함. 디테일이 생각보다 훨씬 리얼해서 소름 돋을 정도임. 들고 다니면 사람들이 꼭 한 번씩 물어봄 🦖"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "crab.4508450",
+    "url": "https://www.threads.com/@crab.4508450/post/DdfHcwxkzJK",
+    "views": 571,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbx89fYIhM",
+    "final_url": "https://www.coupang.com/vp/products/8151323896?itemId=23198187787&src=1139000&spec=10799999&addtag=400&ctag=8151323896&lptag=AF7985537&itime=20260922131302&pageType=PRODUCT&pageValue=8151323896&wPcid=17893396169465349359302&wRef=&wTime=20260922131302&redirect=landing&traceid=V0-101-e8f1c8d5550ee8c1&mcid=b0ba6ca00d9743afad1ecc37185fd47b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8151323896",
+    "title": "테일스타 완벽한 창문 틈새청소 창틀 청소 틈새 브러쉬 솔 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0feb/8282be1d99f8b66fa9b882f92bb67f36672bcfdec910960c2eb8488dc96f.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0feb/8282be1d99f8b66fa9b882f92bb67f36672bcfdec910960c2eb8488dc96f.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=GJdOOnDXnNk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hbx89fYIhM"
+    ],
+    "image_path": "images/05_테일스타_완벽한_창문_틈새청소_창틀_청소_틈새_브러쉬_솔_세트.jpg",
+    "my_link": "https://link.coupang.com/a/hdft1kWFSC",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "창틀 청소를 평생 못 할 줄 알았는데 이거 쓰고 처음으로 제대로 닦았음. 틈새에 딱 맞아서 쓱쓱 밀면 되는데 청소하면서 쾌감이 장난 아님 🪟",
+    "b": "이사하고 창틀 더러운 거 신경 쓰이면서도 방법을 몰랐는데 이거 보고 바로 도전함. 크기 다른 솔이 같이 들어 있어서 구석까지 다 닦이는 게 진짜임. 청소 끝나고 창틀 보는 맛이 있어 🪟✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "chesdetah.20",
+    "url": "https://www.threads.com/@chesdetah.20/post/Dddmn4YDXoN",
+    "views": 510,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hauUOidWEu",
+    "final_url": "https://www.coupang.com/vp/products/9406245613?itemId=27944152475&src=1139000&spec=10799999&addtag=400&ctag=9406245613&lptag=AF3926455&itime=20260922131312&pageType=PRODUCT&pageValue=9406245613&wPcid=17893396169465349359302&wRef=&wTime=20260922131312&redirect=landing&traceid=V0-183-6b71ef3c4152b973&mcid=55fdb26bca5b4937b74f19c64757f2b2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threadshomeliving&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9406245613",
+    "title": "토라스 TORRAS 애플워치 급속 충전기 c타입 2in1 충전",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/753f/928ce3ef2ae235d393a4359c8211b0b04815b0704988de95771e05cc1660.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/753f/928ce3ef2ae235d393a4359c8211b0b04815b0704988de95771e05cc1660.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0753/fd3b33f3c622b3aa4f7d274366017fbcb79e76b76869ca5674ed5e157dce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a278/2505188435335747705a83208c6e48b6ba60351dea9c43d0469ec7a6330d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/57cb/7c3fd9d7da5a01457a5db809648ac9bba94234c1331c5cea6eb898b1a404.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5740/584faa212ae9351e07ab7324483e933451c4d870f245998714e3c368ebf6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d89e/0355898245653be4ec294a81b57118fb7567d295d3811bec59c66087be41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/11d4/a1cd97c9ad947a09b5f53426df88f70b2d820ec78322c4f767dec5785d7c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hauUOidWEu"
+    ],
+    "image_path": "images/06_토라스_TORRAS_애플워치_급속_충전기_c타입_2in1_충전.jpg",
+    "my_link": "https://link.coupang.com/a/hffwYjfRDM",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애플워치 충전기 들고 다니는 게 귀찮았는데 이거 하나로 폰이랑 같이 충전되니까 짐이 확 줄었음. 콤팩트하게 생겨서 여행 갈 때 챙기기 편해서 이제 이것만 씀 ⌚",
+    "b": "출장 갈 때마다 충전기 여러 개 챙기는 게 너무 귀찮아서 2in1 찾다가 이거 득템. 워치 자기 붙여서 충전하는 방식이라 편한데 충전도 빠른 편임. 가방 속 짐이 확 줄었어 ⌚💡"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdfFHMSF6Tg",
+    "views": 426,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e126aDHxQW",
+    "final_url": "https://www.coupang.com/vp/products/8846051241?itemId=18369163398&src=1139000&spec=10799999&addtag=400&ctag=8846051241&lptag=AF0743444&itime=20260922131320&pageType=PRODUCT&pageValue=8846051241&wPcid=17893396169465349359302&wRef=&wTime=20260922131320&redirect=landing&traceid=V0-101-86ab931b3e81981e&mcid=4be7bfe3abf04d0cb3866e17e786854c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8846051241",
+    "title": "한일전기 프리미엄 전기모기채",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3119894483085339-b259e692-5d7c-42fb-9ae2-d2033f3377a5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3119894483085339-b259e692-5d7c-42fb-9ae2-d2033f3377a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341878378407667-6468173b-53fa-4a7f-a465-9c84662e68c3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/349123253444428-e7de6cd5-cf9e-48e0-9d71-fb5ad979e125.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341851159201145-ff25e3c0-00bc-4b6b-a6e9-fb5a2792527d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/349105485214965-e5a605f8-62ef-4d41-86f8-5eed8fc9c175.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341820569803979-2901d4fa-5c5a-412e-9191-57ce5de6d119.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341871141089945-21e4bf11-757a-4530-b103-2b7dd1c2ebf2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/341859112857713-8e48f478-3ba3-4e0a-9116-631eae17ff61.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e126aDHxQW"
+    ],
+    "image_path": "images/07_한일전기_프리미엄_전기모기채.jpg",
+    "my_link": "https://link.coupang.com/a/hdft38di9s",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에 모기 한 마리 들어왔을 때 이거 들고 쫓아다녔는데 딱 잡았을 때 그 쾌감... 은근 중독됨. 베이지 디자인이라 인테리어 해치지 않아서 좋음 🦟",
+    "b": "살충제 냄새가 싫어서 모기채 하나 들여놨는데 생각보다 너무 잘 씀. 여름 내내 옆에 두고 쓰다 보니까 이제 없으면 불안한 필수템 됨 🦟✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "healingshop.ing",
+    "url": "https://www.threads.com/@healingshop.ing/post/DdfCNUtE_DA",
+    "views": 389,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e3r5mCrAiW",
+    "final_url": "https://www.coupang.com/vp/products/7342894220?itemId=18877439193&src=1139000&spec=10799999&addtag=400&ctag=7342894220&lptag=AF0743444&itime=20260922131328&pageType=PRODUCT&pageValue=7342894220&wPcid=17893396169465349359302&wRef=&wTime=20260922131328&redirect=landing&traceid=V0-101-97ef6f6c14386b36&mcid=0f27dcf4603e463292d5fd8c40eefba7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7342894220",
+    "title": "리스펫 반려동물 덴탈클린 치약 + 덴탈 딥 브러쉬 2p 세트, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/198653559438433-6421256d-1b4d-4972-84aa-c8330e4d2313.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198653559438433-6421256d-1b4d-4972-84aa-c8330e4d2313.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/778344385750192-aaf8748d-effc-407e-9500-f356d3d5250b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718704909559792-996958c1-0169-449c-9894-ef52383c9c7e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198634294569525-f873ed19-12d7-4257-a46c-ff683d9b8e61.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718713590664885-ab541c57-ad4f-4818-89d1-5a715a1020b2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/718746364411356-f469dca5-951b-45aa-95c8-4ebac5bebd5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/198675822369348-95523d29-ba15-4d45-9d30-3fd52e9c6af4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/225091395323754-0e186cc7-f59c-4035-bd10-d08eb7ac9fc0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e3r5mCrAiW"
+    ],
+    "image_path": "images/08_리스펫_반려동물_덴탈클린_치약_+_덴탈_딥_브러쉬_2p_세트,_1세트.jpg",
+    "my_link": "https://link.coupang.com/a/hdft7cXKyO",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "강아지 이 닦아줘야 한다는 거 알면서도 계속 미뤘는데 이거 사고 처음으로 제대로 해봄. 닭고기 향이라 그런지 거부감 없이 입 벌려줘서 신기했음 🐶",
+    "b": "처음엔 브러쉬 보자마자 도망가더니 며칠 하다 보니까 얌전히 있어줌. 치약 냄새 맡고 오히려 다가오는 거 보고 좀 웃겼음. 꾸준히 하게 해주는 세트임 🐶🪥"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "hwaon49",
+    "url": "https://www.threads.com/@hwaon49/post/DddkXHxkwda",
+    "views": 237,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-19",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hax88lRoES",
+    "final_url": "https://www.coupang.com/vp/products/6482402422?itemId=19421825027&src=1139000&spec=10799999&addtag=400&ctag=6482402422&lptag=AF5416232&itime=20260922131336&pageType=PRODUCT&pageValue=6482402422&wPcid=17893396169465349359302&wRef=&wTime=20260922131336&redirect=landing&traceid=V0-101-ca24955395ec5a36&mcid=61d8bf771fed4d5c9a527c48f8c73deb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6482402422",
+    "title": "오리온 무뚝뚝감자칩 통후추 소금맛, 60g, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/164057050228992-a1445e7c-4f70-423b-a7fb-aef7d9c85a1a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/164057050228992-a1445e7c-4f70-423b-a7fb-aef7d9c85a1a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53495330454997-275593ea-aae5-4de5-ae50-87165ed699be.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53533599740866-ba5cafe9-24db-47a1-8bfe-4b749eb91b37.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/312352840472016-2f496e6e-56db-43eb-9efe-674d5ecb7d7d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hax88lRoES",
+     "https://link.coupang.com/a/hax2iC7QwC",
+     "https://link.coupang.com/a/hayeQdYCvA"
+    ],
+    "image_path": "images/09_오리온_무뚝뚝감자칩_통후추_소금맛,_60g,_4개.jpg",
+    "my_link": "https://link.coupang.com/a/hffw0XCG5d",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마트에서 집어든 게 실수였음... 통후추 소금맛 조합이 이렇게 잘 어울릴 줄 몰랐어. 두꺼워서 씹는 맛도 있고 한 봉지 순삭하고 나서 후회하는 맛 🥔",
+    "b": "감자칩인데 두께감이 달라서 먹는 재미가 있음. 통후추 맛이 뒤에서 은근 올라오는데 맥주 안주로 진짜 찰떡임. 4봉 묶음으로 사길 잘했다 싶었음 🥔🍺"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "yul20260822",
+    "url": "https://www.threads.com/@yul20260822/post/Ddho_gZk_ex",
+    "views": 235,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdba3inW8a",
+    "final_url": "https://www.coupang.com/vp/products/1258985?itemId=7826550&src=1139000&spec=10799999&addtag=400&ctag=1258985&lptag=AF7111315&itime=20260922131345&pageType=PRODUCT&pageValue=1258985&wPcid=17893396169465349359302&wRef=&wTime=20260922131345&redirect=landing&traceid=V0-101-332d3da7f2be3354&mcid=fa63bae8063c4d2d9ef8ea87aa6828da&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1258985",
+    "title": "오뚜기옛날 국수 소면, 900g, 15개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/05/11/16/5/a863192b-d55d-4d36-8270-da2a8c2e4b7c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/05/11/16/5/a863192b-d55d-4d36-8270-da2a8c2e4b7c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdba3inW8a"
+    ],
+    "image_path": "images/10_오뚜기옛날_국수_소면,_900g,_15개.jpg",
+    "my_link": "https://link.coupang.com/a/hffw3TP5sy",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고 비었을 때 소면 삶아서 간장에 비벼먹는 게 요즘 최고의 식사인 듯. 면발이 끊기지 않고 쫄깃해서 이것만 쓰게 됨 🍜",
+    "b": "15개 묶음으로 쟁여뒀더니 마음이 든든함... 더운 날 냉소면 해먹으면 진짜 이게 행복이다 싶어. 재고 떨어지기 전에 또 시키는 나 자신이 이해됨 🍜✨"
+   }
+  }
+ ]
+}
