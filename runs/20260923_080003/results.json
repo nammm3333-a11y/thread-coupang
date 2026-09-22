@@ -1,0 +1,455 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-23T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-09-23T08:19:14"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "ggulttem1",
+    "url": "https://www.threads.com/@ggulttem1/post/DdfvtuegTqD",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fXFY8itTCC",
+    "final_url": "https://www.coupang.com/vp/products/6995056735?itemId=938914097&vendorItemId=3139334636&src=1139000&spec=10799999&addtag=400&ctag=6995056735&lptag=AF9573770&itime=20260923081408&pageType=PRODUCT&pageValue=6995056735&wPcid=17893396169465349359302&wRef=&wTime=20260923081408&redirect=landing&traceid=V0-181-99df9fc1a34ce9d2&mcid=981bb4034ea14b24bf1b9037aad4cb41&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6995056735",
+    "title": "앰플엔 펩타이드샷 앰플, 100ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/133643365120172-cb3bddbd-e788-4d37-8335-dc0f86b670d4.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133643365120172-cb3bddbd-e788-4d37-8335-dc0f86b670d4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133651145913468-d77bd84e-8f50-45bb-b2f1-0b293cc24691.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/97486094964342-7f94c192-7594-491b-b025-050144975cb5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/133651142872473-d3a2ebfc-2ddf-41b8-83be-8dc722f935cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/941932166392853-c28eb099-bb99-4168-ba9d-7cbf259d95da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/941932153865700-8c9cc024-8249-4e40-87bc-d5b3c20bcb0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/380257876024932-4c5fec8c-b6fd-4b68-8aec-f7df2c652832.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/97486095361280-76994f93-21b7-4b30-a71f-8ebbe6928ac3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fXFY8itTCC"
+    ],
+    "image_path": "images/01_앰플엔_펩타이드샷_앰플,_100ml,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/heUhLV6ms0",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "저녁에 이거 한 방울 바르는 게 요즘 제일 기다려지는 시간... 황금빛 앰플인데 흡수가 빠르고 아침에 피부가 좀 달라 보이는 것 같아서 계속 쓰게 됨 ✨",
+    "b": "드로퍼로 조금씩 덜어 쓰는 재미가 있음ㅋㅋ 바르고 나서 굳이 보습 덧바르지 않아도 될 것 같은 느낌이라 요즘 스킨케어 단계가 줄었어. 100ml라 오래가는 점도 만족 🌿"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "gomduri_house",
+    "url": "https://www.threads.com/@gomduri_house/post/DdfKN9Hkm6t",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbzOhUNdcW",
+    "final_url": "https://www.coupang.com/vp/products/280827161?itemId=891388828&src=1139000&spec=10799999&addtag=400&ctag=280827161&lptag=AF8171916&itime=20260923081417&pageType=PRODUCT&pageValue=280827161&wPcid=17893396169465349359302&wRef=&wTime=20260923081417&redirect=landing&traceid=V0-101-87b646ff6570fb4a&mcid=78db86c9fa0e481b8c736e8cbec6e8df&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "280827161",
+    "title": "Tempo 천연펄프 미용티슈 4겹, 90개입, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/3647/e86bd84d9d70eeef8bf583b68b72f420ed0f5491607ccb4d1aa6a90dcf99.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/3647/e86bd84d9d70eeef8bf583b68b72f420ed0f5491607ccb4d1aa6a90dcf99.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/10338433006629-e9e8a6af-1e6e-4ae7-9449-0ad1789363fa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302596104354536-36a6589c-7948-4929-8e59-07373f979894.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302596076638824-727deb46-573c-4ec5-9953-4abe87d9d461.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/161192195477338-25ac6ac2-da18-470b-9c98-321fb1d1002b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4157640291866915-a69ead0a-3b31-47f1-a652-4fa933ebea6e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/161143619065515-4a3a1742-1da5-45b7-b827-51f356e73197.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/194715082704458-ea9d5988-096b-4d6a-9926-81513a8d3307.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbzOhUNdcW"
+    ],
+    "image_path": "images/02_Tempo_천연펄프_미용티슈_4겹,_90개입,_4개.jpg",
+    "my_link": "https://link.coupang.com/a/hfR8rySyeO",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "템포 티슈 4겹 진짜 진작에 살걸... 두꺼운데 뻣뻣하지 않아서 코 풀어도 하나도 안 아파. 4팩이니까 넉넉하게 쟁여두고 눈치 없이 써도 되는 게 최고임 😌",
+    "b": "무향이라 자기 전에 스킨케어 마무리할 때도 쓰는데 부드러워서 너무 좋아. 천연펄프라서 그런지 일반 티슈랑 촉감이 확실히 다르더라. 화장대 옆에 상주 중임 🤍"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "honjasalim7",
+    "url": "https://www.threads.com/@honjasalim7/post/Ddfm6dziesA",
+    "views": 838,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbUawxBKJE",
+    "final_url": "https://www.coupang.com/vp/products/5263319048?itemId=7483041460&src=1139000&spec=10799999&addtag=400&ctag=5263319048&lptag=AF2852240&itime=20260923081426&pageType=PRODUCT&pageValue=5263319048&wPcid=17893396169465349359302&wRef=&wTime=20260923081426&redirect=landing&traceid=V0-101-82b39b4baded6045&mcid=07e5b151777d4d6099fce0301e1c2972&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5263319048",
+    "title": "자동온도조절 샤워수전 FB2060TKR",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c0be/79fc606beeebab575bce16e2d8ba55acb00a21f53a26c7df96337b2000ae.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c0be/79fc606beeebab575bce16e2d8ba55acb00a21f53a26c7df96337b2000ae.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbUawxBKJE"
+    ],
+    "image_path": "images/03_자동온도조절_샤워수전_FB2060TKR.jpg",
+    "my_link": "https://link.coupang.com/a/hfR8zJmD3k",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "샤워할 때마다 온도 맞추려고 손 넣어봤는데 이제 그럴 필요가 없어졌음... 다이얼 한번 맞춰두면 켤 때마다 바로 그 온도로 나와서 아침 루틴이 훨씬 편해졌어 🚿",
+    "b": "아이 씻길 때마다 온도 걱정했는데 이거 달고 나서 진짜 마음 편해짐. 온도 고정이 이렇게 편한 건 줄 몰랐고, 크롬 마감이라 욕실도 훨씬 깔끔해 보여 💙"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "gaeul2132026",
+    "url": "https://www.threads.com/@gaeul2132026/post/DdgLhGgCc9E",
+    "views": 831,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbVuVZPP08",
+    "final_url": "https://www.coupang.com/vp/products/196414375?itemId=565759487&src=1139000&spec=10799999&addtag=400&ctag=196414375&lptag=AF9244025&itime=20260923081433&pageType=PRODUCT&pageValue=196414375&wPcid=17893396169465349359302&wRef=&wTime=20260923081433&redirect=landing&traceid=V0-101-ca5b3c42e9aa574f&mcid=b27e6fa7fab243429bdf7678458db66a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "196414375",
+    "title": "우진크린라이프 크린 그릇카바(대40매)x(5개) 위생카바 비닐 볼커버",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2019/03/11/11/9/30d9c623-ec4f-43ff-aaa0-9370dfe76e7f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2019/03/11/11/9/30d9c623-ec4f-43ff-aaa0-9370dfe76e7f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbVuVZPP08"
+    ],
+    "image_path": "images/04_우진크린라이프_크린_그릇카바(대40매)x(5개)_위생카바_비닐_볼커버.jpg",
+    "my_link": "https://link.coupang.com/a/hfAUCdqfUy",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "음식 해두고 나갈 때마다 뚜껑 찾느라 부산했는데 그릇카바 있으면 그냥 덮으면 끝이라 진짜 편함. 랩 쓸 일이 없어졌고 40매씩이라 한동안 걱정 없어 🍽️",
+    "b": "손님 오기 전에 미리 차려두고 카바 씌워두면 제일 마음 편한데ㅋㅋ 크기도 딱 맞고 봉인도 쉬워서 쓸 때마다 기분이 좋아. 5개 세트라 든든함 😊"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "_issue_king_",
+    "url": "https://www.threads.com/@_issue_king_/post/Ddf55qAmRc8",
+    "views": 593,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hb3R9Vu6rk",
+    "final_url": "https://www.coupang.com/vp/products/9587030909?itemId=28618239296&src=1139000&spec=10799999&addtag=400&ctag=9587030909&lptag=AF8077083&itime=20260923081442&pageType=PRODUCT&pageValue=9587030909&wPcid=17893396169465349359302&wRef=&wTime=20260923081442&redirect=landing&traceid=V0-101-0d657e5b63a740bb&mcid=da386744ae614da9ba15191a1c746d44&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9587030909",
+    "title": "그리뉴얼 창틀틈새 청소브러시 청소솔 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/140b/00e2cdcad54396fa8a51c9aa28c7dd097780be2566f602f330d9ca35a839.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/140b/00e2cdcad54396fa8a51c9aa28c7dd097780be2566f602f330d9ca35a839.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9707/fd89727f2c05a2eb773c2b559df100bbcbd2fc354da6e37fec9283f45286.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/788d/a8cc82fa88c36f94c344e2f8d205818efa04ef5d9d425ec1e374f837fe81.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cbf2/8b341a45848706a1f58b873412791cac42a9135ba94492760d7deb70a510.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f28/ff5e2d91bd257b5e09f9e3843375fd08f00be1717d97cf7956998f7efb6c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6812/83bef7ca95b43a3ad057f67aa774bf74fa698e1bbcaac2dedddf75d920ec.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/27ff/5b7358f4248f0b8a8d179fc6e2f1e212a2c7f59fc21336426266ebeb59a6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/80cc/c18293d2ad83b02c49d630e0a25fde6523bd6c96cb0500874ad80a432dcb.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hb3R9Vu6rk"
+    ],
+    "image_path": "images/05_그리뉴얼_창틀틈새_청소브러시_청소솔_세트.jpg",
+    "my_link": "https://link.coupang.com/a/hgy6J0DfNc",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "창틀 청소를 얼마나 미뤄왔는지... 이 브러시로 한번 쓸었더니 먼지가 쏟아져 나와서 소름이었어. 청소 끝나고 창문 열 때 기분이 완전히 달라지더라 🪟",
+    "b": "좁은 틈에 딱 맞는 솔이 따로 있어서 구석까지 닿는 게 신기했음. 리필 패드도 있으니까 더러워지면 바꿔 끼우면 되고, 진작에 살걸 싶었음 😅"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ouad.salim",
+    "url": "https://www.threads.com/@ouad.salim/post/DdfoPdnCfD8",
+    "views": 458,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbLfHt4PEi",
+    "final_url": "https://www.coupang.com/vp/products/9021430137?itemId=26451702040&vendorItemId=93427148634&src=1139000&spec=10799999&addtag=400&ctag=9021430137&lptag=AF5631167&itime=20260923081450&pageType=PRODUCT&pageValue=9021430137&wPcid=17893396169465349359302&wRef=&wTime=20260923081450&redirect=landing&traceid=V0-181-ccd64f21902efae9&mcid=32ac6436c49b43369d845a599f6bba3a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9021430137",
+    "title": "락퐁 코튼향 4L + 압축분무기 세트 욕실 화장실 청소세제 세정제 거품 스프레이 폼건",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/20e5/2ff519436c637c043b4a36572e543b694d1736ee90748a91e20bcae5de51.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/20e5/2ff519436c637c043b4a36572e543b694d1736ee90748a91e20bcae5de51.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9aa1/49fbbb8f8331c6c4c967bf66d7446746d828b81a97347fa7f63d8b014056.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/48cd/c088be68e39b8af43a9392b974f62cb68a3e5dc79000bb0aff28bfb9d538.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/87ca/0cda7f78cd734d8ebe4c9c635ba38460d321ad1d4e88e550f41feeb4656a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/84e8/3414b2f113998d5f609b97dba82f1cd19ea965f1064a0866b127b34ee688.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc66/a3459d9bbd5d278afdb93a85fb89ae17b23f17f9162f52f005ca206ef188.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e977/4a2c0132d1e140a41878c502e1b6e5bd315409d25ca1a9c832519e5d3325.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/703f/09fb82f6a73283b3aac52e4746b42882fbe669ecf3e5a2a1521e7ad346a8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbLfHt4PEi"
+    ],
+    "image_path": "images/06_락퐁_코튼향_4L_+_압축분무기_세트_욕실_화장실_청소세제_세정제_거품_.jpg",
+    "my_link": "https://link.coupang.com/a/hfR8Fu1dWC",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실 청소가 진짜 귀찮았는데 이 거품 뿌리고 잠깐 두면 슥 닦이는 게 신기함. 코튼향이 은은해서 청소하면서 기분까지 좀 나아지더라. 4L라 당분간 살 일 없을 것 같아 🫧",
+    "b": "압축분무기에 넣어서 뿌리면 거품이 타일에 착 붙어서 흘러내리질 않아. 그 상태로 두다 닦으면 생각보다 잘 닦여서 요즘 욕실 청소가 덜 힘들어졌음 💦"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sseobomi",
+    "url": "https://www.threads.com/@sseobomi/post/DdfNPy_kxGi",
+    "views": 293,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbBTUrXm68",
+    "final_url": "https://www.coupang.com/vp/products/9734767709?src=1139000&spec=10799999&addtag=400&ctag=9734767709&lptag=AF2393811&itime=20260923081458&pageType=PRODUCT&pageValue=9734767709&wPcid=17893396169465349359302&wRef=&wTime=20260923081458&redirect=landing&traceid=V0-183-1f4e6b5f69566e9b&mcid=25acd2081a6f49cf875e306fdf218e51&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=myshop&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9734767709",
+    "title": "자동차 창 햇빛가리개 와이퍼 모기방충망 rkr041Tx",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8ab0/576d1552a833819ebcc29c9c4824e59530f11a84f9dbbc3cabc826b0351e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8ab0/576d1552a833819ebcc29c9c4824e59530f11a84f9dbbc3cabc826b0351e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbBTUrXm68"
+    ],
+    "image_path": "images/07_자동차_창_햇빛가리개_와이퍼_모기방충망_rkr041Tx.jpg",
+    "my_link": "https://link.coupang.com/a/hgy6MMshfE",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "차에서 잠깐 쉬려는데 모기가 들어와서 매번 난리였거든... 이거 창문에 걸어두면 환기는 되면서 모기는 막아줘서 여름 차박이 훨씬 편해졌어. 탈착도 생각보다 쉬움 🚗",
+    "b": "아이 태우고 장거리 갈 때 창문 열면 햇빛이 너무 들어와서 고민이었는데 이거 끼우니까 그늘지면서 바람도 들어오더라. 올여름 필수템 됐음 ☀️"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "yul20260822",
+    "url": "https://www.threads.com/@yul20260822/post/Ddho_gZk_ex",
+    "views": 241,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdba3inW8a",
+    "final_url": "https://www.coupang.com/vp/products/1258985?itemId=7826550&src=1139000&spec=10799999&addtag=400&ctag=1258985&lptag=AF7111315&itime=20260923081506&pageType=PRODUCT&pageValue=1258985&wPcid=17893396169465349359302&wRef=&wTime=20260923081506&redirect=landing&traceid=V0-101-332d3da7f2be3354&mcid=f04d8a7c1c02426c965c6cbd2efa5e73&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1258985",
+    "title": "오뚜기옛날 국수 소면, 900g, 15개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/05/11/16/5/a863192b-d55d-4d36-8270-da2a8c2e4b7c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/05/11/16/5/a863192b-d55d-4d36-8270-da2a8c2e4b7c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdba3inW8a"
+    ],
+    "image_path": "images/08_오뚜기옛날_국수_소면,_900g,_15개.jpg",
+    "my_link": "https://link.coupang.com/a/hffw3TP5sy",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "더운 날 면 삶아서 육수에 툭 넣으면 끝인데 이게 왜 이렇게 맛있냐... 면이 쫄깃해서 퍼질 새 없이 후루룩 먹게 됨. 15개 사두니까 생각날 때마다 꺼내 먹어서 좋아 🍜",
+    "b": "소면 한 봉지 삶아서 간장에 비벼도 되고 국물에 넣어도 되고 활용도가 진짜 끝판이야. 옛날국수 특유의 깔끔한 맛이 있는데 박스로 쟁여두고 나서 뭔가 안심이 됨 😋"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdfiLrsEqz7",
+    "views": 215,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e18opHfwaG",
+    "final_url": "https://www.coupang.com/vp/products/9602891522?itemId=28666979356&src=1139000&spec=10799999&addtag=400&ctag=9602891522&lptag=AF0743444&itime=20260923081514&pageType=PRODUCT&pageValue=9602891522&wPcid=17893396169465349359302&wRef=&wTime=20260923081514&redirect=landing&traceid=V0-101-6596017ae7a9a6ae&mcid=cc596a898e6f4627bfb11c84bbaa7143&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9602891522",
+    "title": "360도 회전 3단 전기 모기채 3중 안전망 USB 충전",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f971/533ff91188f31d86bb7594b2bec907ad0b27bf2b24048348accfbe306a45.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f971/533ff91188f31d86bb7594b2bec907ad0b27bf2b24048348accfbe306a45.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/28bc/d37a97e9e786e18689d40a151d110c30cb1d45f835f0564a099689f2ccee.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e18opHfwaG"
+    ],
+    "image_path": "images/09_360도_회전_3단_전기_모기채_3중_안전망_USB_충전.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "천장 모기 잡으려고 매번 의자 올라갔는데 이제 그럴 필요가 없어졌음. 대가 쭉 늘어나서 360도 각도 조절까지 되니까 어디 붙어 있어도 다 잡혀. 첫날 잡히는 거 보고 짜릿했음 ⚡",
+    "b": "그냥 세워두면 UV 등으로 모기 유인도 되는 게 신기함. 충전식이라 콘센트 위치 상관없이 들고 다닐 수 있어서 이방 저방 들고 다니며 씀. 진작 살걸 😤🦟"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "salimshortcut_lab",
+    "url": "https://www.threads.com/@salimshortcut_lab/post/DdftXUpAe3Z",
+    "views": 208,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-20",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hbNHnoY90e",
+    "final_url": "https://www.coupang.com/vp/products/6792894587?itemId=16008987477&src=1139000&spec=10799999&addtag=400&ctag=6792894587&lptag=AF3394144&itime=20260923081522&pageType=PRODUCT&pageValue=6792894587&wPcid=17893396169465349359302&wRef=&wTime=20260923081522&redirect=landing&traceid=V0-101-c7c9cccdcb7a9ba1&mcid=db173467887543e693f46a4b10391c1e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6792894587",
+    "title": "미라네주방 미라클통 밀폐용기 세트, 1세트, 미라네 4호 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/02/14/15/2/6d0cb573-70e1-4ec9-9e4d-4b4ca332f333.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/02/14/15/2/6d0cb573-70e1-4ec9-9e4d-4b4ca332f333.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2502792691847152-c9db1e28-9357-4dda-aa85-28cc2feeb305.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/576977673948612-57f17bc8-1a45-4720-a751-586044076277.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2502796534314914-940e4c6f-e03b-46dd-993f-8b8353d777e8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ehi0lxwg/97d71abe98924a8e881c86ed280b8c9f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/j9ng92kq/9caccf17274f4ec7a4219c4f7d445a99.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/u23uaamv/864496e2a59b4d7dafd0e74c18327a1c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/uxaiukms/e7e969212af14c7cb97f3f8efdd5aafa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hbNHnoY90e"
+    ],
+    "image_path": "images/10_미라네주방_미라클통_밀폐용기_세트,_1세트,_미라네_4호_세트.jpg",
+    "my_link": "https://link.coupang.com/a/hgy7BRgNA4",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고 정리하면서 이 하늘색 통으로 싹 바꿨더니 눈이 시원해짐ㅋㅋ 밀폐도 잘 되는 편이라 냄새 안 배고 뚜껑도 쉽게 열려서 쓸수록 마음에 들어 🩵",
+    "b": "냉장고에 이거 쌓아두는 게 취미가 돼버림... 투명해서 뭐가 들어있는지 바로 보여서 식재료 낭비가 줄었어. 크기 다양하게 있어서 반찬통으로도 딱임 💙"
+   }
+  }
+ ]
+}
