@@ -1,0 +1,457 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-24T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-09-24T08:18:39"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "joopjoop_pick",
+    "url": "https://www.threads.com/@joopjoop_pick/post/Ddh1DX1jihh",
+    "views": 986,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hc1CgjQuBM",
+    "final_url": "https://www.coupang.com/vp/products/1716121130?itemId=2920956684&src=1139000&spec=10799999&addtag=400&ctag=1716121130&lptag=AF6472595&itime=20260924081408&pageType=PRODUCT&pageValue=1716121130&wPcid=17893396169465349359302&wRef=&wTime=20260924081408&redirect=landing&traceid=V0-183-3837b98404d13761&mcid=932ed86da3db4b5cb42ec917e3f3cad9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1716121130",
+    "title": "몰리나 블랙 트러플 소금, 100g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e77f/d99742435273420a11158360c56812ddc9c651b49c7cafc4c3c88f38bbc6.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e77f/d99742435273420a11158360c56812ddc9c651b49c7cafc4c3c88f38bbc6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9b4f/b666d835ac0c4e075306fca64182ec7825c2afde8fa19b8fe242158eea5d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/97ec/02b44b060bcb1f996662a64f01e76799701db26acc0c652a5820979cd784.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f5a7/f9b571b8ac7a572392a2fee920416ce6eb13a80261f3125e940369adea5d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/210a/e518b98c6e2dd3b0a8cb91b246d3b031718e0ac808aa50e1b97b889f58c5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6c9a/1ee117246a6b57aca4d60da939912162e1430d59208d60ef042217c39bf0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a05a/23fbcc7db5b440ee668f594d323d68033439c68ddcf58a2f44eb96735a64.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hc1CgjQuBM"
+    ],
+    "image_path": "images/01_몰리나_블랙_트러플_소금,_100g,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hid2KutEjY",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "계란후라이에 이거 한 꼬집 뿌렸다가 진짜 멘탈 나갈 뻔했음... 트러플 소금 하나로 집밥이 갑자기 레스토랑이 됐어. 이제 다른 소금 손이 안 가😮‍💨",
+    "b": "친구한테 트러플 소금 얘기했더니 과장한다고 했는데 직접 맛보고 말 없어짐ㅋㅋ 파스타 마무리로 뿌렸을 때 그 향 진짜 장난 아님 🖤"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdjryyWD5em",
+    "views": 404,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eXcQfppLLE",
+    "final_url": "https://www.coupang.com/vp/products/9310267163?itemId=27586889443&src=1139000&spec=10799999&addtag=400&ctag=9310267163&lptag=AF0743444&itime=20260924081417&pageType=PRODUCT&pageValue=9310267163&wPcid=17893396169465349359302&wRef=&wTime=20260924081417&redirect=landing&traceid=V0-101-4c21e91a756548fe&mcid=f930287762a54a3da2e6e08dddb16695&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9310267163",
+    "title": "null - 브라켓/스탠드",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eXcQfppLLE"
+    ],
+    "image_path": "images/02_null_-_브라켓_스탠드.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "모니터 브라켓 달고 나서 책상이 진짜 달라 보임... 공간도 넓어지고 목 각도도 한결 편해진 것 같아. 왜 이걸 이제야 했나 싶었다니까 😅",
+    "b": "TV 벽에 달아보겠다고 브라켓 샀는데 생각보다 설치 자체는 어렵지 않았음. 선 정리까지 하니까 방이 갑자기 깔끔해져서 뿌듯했어 🙌"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "landisminey",
+    "url": "https://www.threads.com/@landisminey/post/Ddh4FjfgThq",
+    "views": 391,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdkvigh8g0",
+    "final_url": "https://www.coupang.com/vp/products/4314511526?itemId=5011819067&src=1139000&spec=10799999&addtag=400&ctag=4314511526&lptag=AF7594371&itime=20260924081451&pageType=PRODUCT&pageValue=4314511526&wPcid=17893396169465349359302&wRef=&wTime=20260924081451&redirect=landing&traceid=V0-183-eaa4204063887ac5&mcid=c441d58d29264f15900b8b3c0428df29&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=gongspoon7&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4314511526",
+    "title": "네니아 우리밀 왕교자 만두 (냉동), 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/11/10/18/5/ee7cc588-2cb1-4e58-afbe-b37048027dcd.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/11/10/18/5/ee7cc588-2cb1-4e58-afbe-b37048027dcd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/11/10/18/7/26d2a2e8-64ff-4818-bbbe-07dc97499ccb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/11/10/18/8/5e59461b-cfd7-4650-bbde-ae51f97ac612.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/11/10/18/0/89c8c010-00b1-4735-b426-0f3cb18795d0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2020/11/10/18/2/76125087-f151-400f-b54c-77bf520ebd88.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5973311583747-48833901-f999-4d1b-84d2-6a45d2f0c61e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/287228795138424-6492103c-e4cf-4f2b-8dd3-cced42e8b789.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdkvigh8g0"
+    ],
+    "image_path": "images/03_네니아_우리밀_왕교자_만두_(냉동),_1kg,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hhxaQmrjwq",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동만두 별로 안 좋아했는데 이거 먹고 생각이 바뀐 것 같음... 피가 두꺼워서 쫄깃한 게 찐 만두 먹는 기분이야. 1kg이라 자꾸 손이 가더라 🥟",
+    "b": "귀찮아서 그냥 끓여먹었는데 국물이 엄청 구수해지는 거 있지... 만두 하나가 진짜 크고 속이 꽉 차 있어서 우리밀 피 향이 달랐어 😊"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "5shin95w",
+    "url": "https://www.threads.com/@5shin95w/post/DdiLlu3GTg0",
+    "views": 202,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdwK6j1RcW",
+    "final_url": "https://www.coupang.com/vp/products/9741514715?itemId=29157929667&vendorItemId=96080279914&src=1139000&spec=10799999&addtag=400&ctag=9741514715&lptag=AF8202134&itime=20260924081459&pageType=PRODUCT&pageValue=9741514715&wPcid=17893396169465349359302&wRef=&wTime=20260924081459&redirect=landing&traceid=V0-183-c27e0d85390e838e&mcid=4f826711fe524e11beb08ae0fe7d9508&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9741514715",
+    "title": "최대 3500피트의 가정용 대형 객실용 공기청정기 H13 트루 헤파 0.1 마이크론 7 여과 탄소 필터 235 CFM CADR 꽃가루 반려동물 냄새 연기 VOCs 30dB 절전",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d074/50505a42a7555a0681fdc7f4011a9241786ec92aef59ae934551ee46be30.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d074/50505a42a7555a0681fdc7f4011a9241786ec92aef59ae934551ee46be30.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b6c3/257d2da0b92ed63ed4174e4b69467718697bb826b3750f34de931bac8b44.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3a79/4bdf92f56144c3c6dca73e384db82b62e8ecacfa09b073286428f57512bd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e95/9d0c73777b76d55c9de75421af7f47b203191f8bf7f23200e0d27473f41d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/14b2/25705fc1ad509493fbbd9fb0cc6ccd480f9d9245747bf7caa6beb85442d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/04fe/1195941181bdc8b1e43883f743eb36a16e3ae5e3ef9a2bac18dd4ad1e926.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/66fa/2e00948c99eeb6bbffdabd17f367547de8ed8a092809b5336bf3c8847850.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdwK6j1RcW"
+    ],
+    "image_path": "images/04_최대_3500피트의_가정용_대형_객실용_공기청정기_H13_트루_헤파_0..jpg",
+    "my_link": "https://link.coupang.com/a/hid3Aab1zM",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "강아지 키우면서 공기청정기 필요성을 진짜 절실하게 느꼈거든... 이거 켜놓으니까 공기 느낌이 달라진 것 같아서 계속 쓰게 됨. 조용한 것도 마음에 들어 🐶",
+    "b": "집이 넓어서 효과 있을까 반신반의했는데 생각보다 커버가 됨. 밤에 절전 모드로 틀어놓으면 소음도 거의 없어서 자면서 켜둠 💨"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "yeslfashion",
+    "url": "https://www.threads.com/@yeslfashion/post/DdiN3u9ExXl",
+    "views": 168,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdxjo2aJ2a",
+    "final_url": "https://www.coupang.com/vp/products/9740124787?itemId=29152409258&src=1139000&spec=10799999&addtag=400&ctag=9740124787&lptag=AF4987995&itime=20260924081506&pageType=PRODUCT&pageValue=9740124787&wPcid=17893396169465349359302&wRef=&wTime=20260924081506&redirect=landing&traceid=V0-181-84422e1f156cc62f&mcid=a33df216aff94467a7cd90a80a751d7f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9740124787",
+    "title": "mirumi 미루미 반려로봇 힐끔힐끔 처다보는 charm 키링 로봇 ivory",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e5f0/7631aa80f062b3623ce7800ba798005568f54209be93356a28d71a3f3b93.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5f0/7631aa80f062b3623ce7800ba798005568f54209be93356a28d71a3f3b93.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/992a/ebbc6ccca63a5e87f018d53224cbad1bb6a2c893ae1788499fecc9b0a86a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/85d8/0d62886572f6270fb8d22e71c6a64d1b0fa4222eadebbe9c15f95dcc3b4b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a06e/125747d34dfbc0b8e69c08aa4155e3844f9dae6abcfc0c2b56d3c4a26c02.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/52e0/a5300853610daea344dabfd0d74124ef04c1d9b17b1eb16ec450e01e591e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0a48/e3ec10661f31c5ffa0f77760219773ed419bb2360eafddb133ab70a73e34.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3f4b/7fde4581858343bf7c94e42b0195cf19385d03b71409e2e584cfd1a29fe3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdxjo2aJ2a"
+    ],
+    "image_path": "images/05_mirumi_미루미_반려로봇_힐끔힐끔_처다보는_charm_키링_로봇_iv.jpg",
+    "my_link": "https://link.coupang.com/a/hid3C5RiO4",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이거 실물로 보면 진짜 말이 안 됨... 솜털 같은 털에 콩알 눈이 자꾸 힐끔 쳐다보는 느낌이라 놔두면 괜히 신경 쓰임ㅋㅋ 가방에 달고 다니니까 사람들이 자꾸 물어봐 🤍",
+    "b": "책상 위에 얘 올려뒀더니 나도 모르게 말 걸고 있었음ㅋㅋ 힐끔 쳐다보는 눈빛이 살아있는 것 같아서 혼자 있는 날에 은근히 위로됨 🧸"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "husenhub",
+    "url": "https://www.threads.com/@husenhub/post/DdiPsnpkuwU",
+    "views": 120,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdzlkzZ0a4",
+    "final_url": "https://www.coupang.com/vp/products/6139317274?itemId=18215691075&src=1139000&spec=10799999&addtag=400&ctag=6139317274&lptag=AF2450873&itime=20260924081514&pageType=PRODUCT&pageValue=6139317274&wPcid=17893396169465349359302&wRef=&wTime=20260924081514&redirect=landing&traceid=V0-101-0889a0118b6a1267&mcid=dfaee27d015940089b680bb744417361&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6139317274",
+    "title": "굿데이 바른자세 목 지킴이 넥키퍼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a24e/664b9c738dd4f1535e0ae6a092ad0c09c4e48d194c01ee0e18fc76ccc12d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a24e/664b9c738dd4f1535e0ae6a092ad0c09c4e48d194c01ee0e18fc76ccc12d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f8f7/a17f87ff814689552185fb3cab1d334aa57f0ff61b3f3287f8b4d41531a9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdzlkzZ0a4"
+    ],
+    "image_path": "images/06_굿데이_바른자세_목_지킴이_넥키퍼.jpg",
+    "my_link": "https://link.coupang.com/a/hid3GxJlD2",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "맨날 고개 숙이고 폰 보다가 목이 너무 뻐근해서 결국 이거 샀는데... 착용하면 자연스럽게 고개가 올라가지더라. 목 뒤가 묵직했던 게 좀 달라진 느낌이야 😮‍💨",
+    "b": "재택할 때 이거 착용하고 앉아있으면 자세 신경 덜 써도 되니까 편함. 생각보다 가볍고 답답하지 않아서 오래 쓸 수 있었어 🙂"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "oops__hee",
+    "url": "https://www.threads.com/@oops__hee/post/DdiPP4BgXjg",
+    "views": 102,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdxypDo3LU",
+    "final_url": "https://www.coupang.com/vp/products/7608210976?itemId=20143151390&vendorItemId=87236498376&src=1139000&spec=10799999&addtag=400&ctag=7608210976&lptag=AF3464196&itime=20260924081523&pageType=PRODUCT&pageValue=7608210976&wPcid=17893396169465349359302&wRef=&wTime=20260924081523&redirect=landing&traceid=V0-181-e6fe5d32010b234c&mcid=626fc5f3ef8f444c85577ccb7fa3beba&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7608210976",
+    "title": "크럼 미니크로와상 생지 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/bcaf/7b6b67e92a36900f797ddf5d926d9d11518b0b4a9fe9f847534f411214cb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/bcaf/7b6b67e92a36900f797ddf5d926d9d11518b0b4a9fe9f847534f411214cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3332413214873160-72b9f4cc-857f-4679-814e-e72920020b6b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/5dudum0n/7e68e86b19f34d3e986e80a854fabf6a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jbqb75vr/c30a31f1c92c4ce5bbeaf10d775d2214.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/j2njjjv1/e5a5c363ead74ee9b44a6bd6df3cfbd0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/5tiityc4/6c10c63429cd40c3b2f5ea65b7ddb977.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/sxelrs4f/5abafdfd021243a18a8ced66e364037f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdxypDo3LU"
+    ],
+    "image_path": "images/07_크럼_미니크로와상_생지_(냉동).jpg",
+    "my_link": "https://link.coupang.com/a/hid3IKJTHM",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동 생지 넣고 오븐 틀면 집에서 빵집 향 나는 거 진짜 이게 맞나 싶음... 아침에 구워두면 쪼르르 나오는 미니 크로와상에 눈이 저절로 떠짐. 결 살아있는 게 너무 예쁘더라 🥐",
+    "b": "발효 기다리는 게 귀찮을 줄 알았는데 생각보다 손이 많이 안 가더라. 구운 직후 버터 향이 올라올 때 그게 제일 행복한 순간임 🧈"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "hello_moonpick",
+    "url": "https://www.threads.com/@hello_moonpick/post/DdiNIMdk7wl",
+    "views": 83,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hdxSxf0nZI",
+    "final_url": "https://www.coupang.com/vp/products/7449544893?itemId=19975687548&src=1139000&spec=10799999&addtag=400&ctag=7449544893&lptag=AF4404328&itime=20260924081532&pageType=PRODUCT&pageValue=7449544893&wPcid=17893396169465349359302&wRef=&wTime=20260924081532&redirect=landing&traceid=V0-101-52aafdb486e05de2&mcid=5b2d5ef5d47045e89132f621a53039b4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7449544893",
+    "title": "대천김 곱창김 캔, 30g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/522840456690152-6bf80d22-5c86-451a-9869-6e6911bc6b08.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/522840456690152-6bf80d22-5c86-451a-9869-6e6911bc6b08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2022/01/17/9/1/1becfeef-d296-4089-aeb4-f1393910339e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hdxSxf0nZI",
+     "https://link.coupang.com/a/hdxUuU2XRI"
+    ],
+    "image_path": "images/08_대천김_곱창김_캔,_30g,_2개.jpg",
+    "my_link": "https://link.coupang.com/a/hid3LApc6K",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밥 위에 이거 한 장 얹으면 그냥 한 끼 해결됨ㅋㅋ 오독오독 씹히는 식감이 다른 김이랑 진짜 달라서 처음엔 놀랐고, 캔이라 눅눅해질 걱정 없는 것도 좋아 🍚",
+    "b": "선물 받아서 처음 먹어봤는데 이게 중독성이 있음... 두께도 있고 감칠맛이 진해서 그냥 손으로 집어먹게 됨. 두 캔이 생각보다 금방 없어짐 😅"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "cheetahda0726",
+    "url": "https://www.threads.com/@cheetahda0726/post/Ddhu052GKN-",
+    "views": 47,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF1202511&pageKey=7164345502&itemId=17686805619&vendorItemId=80519514876&traceid=V0-113-051d9c49d2040dfe",
+    "final_url": "https://www.coupang.com/vp/products/7164345502?itemId=17686805619&vendorItemId=80519514876&src=1139000&spec=10799999&addtag=400&ctag=7164345502&lptag=AF1202511&itime=20260924081540&pageType=PRODUCT&pageValue=7164345502&wPcid=17893396169465349359302&wRef=&wTime=20260924081540&redirect=landing&traceid=V0-113-051d9c49d2040dfe&mcid=19f4ee0c0f3044e890328b4812009505&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7164345502",
+    "title": "세타필 모이스춰라이징 로션, 591ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/77276365654004-a842d9c0-df4d-44fe-82a3-5dc3bc7ba775.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/152158274932720-1c27a1fa-0d5b-4ee4-89e0-94f79b757a87.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/126398290305948-b35d50c8-7d0d-436b-8a96-b50a1fc7e22c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/126398319694242-cc292646-b723-4454-b0e4-e3c21e18d972.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/13955999033964-f54a88ac-03d7-4df2-8075-f9a5edc2c8d0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14147395062108-fbdc3097-5d0d-4dd9-b5a7-270d85a2086b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6155710099897-331e05a1-d8b7-49dd-a719-9f834cb0a78e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/173028727814001-6912f4fe-5e26-43d7-bd5c-5ce4a217f455.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF1202511&pageKey=7164345502&itemId=17686805619&vendorItemId=80519514876&traceid=V0-113-051d9c49d2040dfe"
+    ],
+    "image_path": "images/09_세타필_모이스춰라이징_로션,_591ml,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hid3OMzB0K",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "예민한 피부라 로션 고르는 게 항상 스트레스였는데 이거 쓰고 나서 그냥 고민 끝냄. 자극 없이 촉촉하게 쓸 수 있어서 피부가 덜 당기는 것 같더라 🌿",
+    "b": "591ml짜리라 아낌없이 바를 수 있어서 좋음... 끈적하지 않고 금방 스며들어서 아침에 쓰기 딱이고, 오래 쓰다 보니 피부 결이 좀 차분해진 것 같아 💚"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "impulsepurchaseshop",
+    "url": "https://www.threads.com/@impulsepurchaseshop/post/DdiA0CxCadr",
+    "views": 46,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hcop3MJbdA",
+    "final_url": "https://www.coupang.com/vp/products/9446952730?itemId=28109434275&src=1139000&spec=10799999&addtag=400&ctag=9446952730&lptag=AF2009242&itime=20260924081547&pageType=PRODUCT&pageValue=9446952730&wPcid=17893396169465349359302&wRef=&wTime=20260924081547&redirect=landing&traceid=V0-101-f079256ac553c02f&mcid=79be7362463d4da69fc14362ca660cdd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9446952730",
+    "title": "굿무드 다용도 리모컨 액자 공중부양 접착식 후크 스티커 2종 세트, NEW 투명, 120세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1083d32d-2786-409f-bf10-19d124d41ad84437745764515948514.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1083d32d-2786-409f-bf10-19d124d41ad84437745764515948514.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hcop3MJbdA"
+    ],
+    "image_path": "images/10_굿무드_다용도_리모컨_액자_공중부양_접착식_후크_스티커_2종_세트,_NE.jpg",
+    "my_link": "https://link.coupang.com/a/hid3RukxSS",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "리모컨 맨날 잃어버렸는데 이거 소파 옆에 붙여두고 나서 찾는 일이 없어졌음... 투명이라 붙여도 티 안 나는 게 최고야. 120개라 집 여기저기 다 붙였음ㅋㅋ 😄",
+    "b": "액자 걸려고 못 박기 싫어서 이거 써봤는데 생각보다 튼튼해서 계속 쓰고 있음. 뗐을 때 자국도 별로 안 남아서 이사할 때도 걱정 없겠다 싶었어 👍"
+   }
+  }
+ ]
+}
