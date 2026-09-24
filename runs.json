@@ -1,5 +1,12 @@
 [
  {
+  "name": "20260924_180003",
+  "count": 10,
+  "keyword": "link.coupang.com",
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순"
+ },
+ {
   "name": "20260924_130003",
   "count": 10,
   "keyword": "link.coupang.com",
@@ -89,12 +96,5 @@
   "keyword": "link.coupang.com",
   "kind": "daily",
   "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순"
- },
- {
-  "name": "20260921_082204_weekly",
-  "count": 20,
-  "keyword": "link.coupang.com",
-  "kind": "weekly",
-  "title": "주간 분석 (조회수 상위)"
  }
 ]
