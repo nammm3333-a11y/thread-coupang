@@ -1,0 +1,450 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-24T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-09-24T22:18:46"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "findjinny",
+    "url": "https://www.threads.com/@findjinny/post/DdjYK1Pk-Ad",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hej56iWD12",
+    "final_url": "https://www.coupang.com/vp/products/8750333726?itemId=27825004341&src=1139000&spec=10799999&addtag=400&ctag=8750333726&lptag=AF4097694&itime=20260924221345&pageType=PRODUCT&pageValue=8750333726&wPcid=17893396169465349359302&wRef=&wTime=20260924221345&redirect=landing&traceid=V0-101-016644289f78ab0b&mcid=8477ad20c21940379b1abf736a3076c8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8750333726",
+    "title": "코니 롤링빕 아기 턱받이 5종 세트, K세트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/02/12/18/6/7c2c9d2e-557d-48f2-ada4-d1181815a634.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/02/12/18/6/7c2c9d2e-557d-48f2-ada4-d1181815a634.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jpms7den/dcf4fe106a0e41a4a6747641d671df45.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/dkmno1rx/8719922056f24864ab66064aac3c91d3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xg2n79g6/297222b5e89444ba8317df394591f126.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/u3wclsja/2b38b0dbe1e34215a21676ef691a5431.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/dbo47t7z/d05a0077eb654f83be8e4b8b98f46329.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jgby6xuu/769dcab7c7824c9ca27dabd18c3424d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/y73bfvby/ec0b2bb323f04b3897560739e3febee4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hej56iWD12",
+     "https://link.coupang.com/a/heiV4cyRYy",
+     "https://link.coupang.com/a/hekDzHNtWC",
+     "https://link.coupang.com/a/helfVewYGi",
+     "https://link.coupang.com/a/hemeOi1LRQ"
+    ],
+    "image_path": "images/01_코니_롤링빕_아기_턱받이_5종_세트,_K세트,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hjb41fsEO4",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "체리, 레몬, 체크 패턴이 다 있는데 어떻게 이게 다 귀여울 수가 있냐... 이유식 때마다 어떤 거 할지 고르는 재미가 생겨버렸어 요즘 🍋🍒",
+    "b": "360도 돌아가는 턱받이가 있다는 거 이번에 처음 알았는데 앞뒤 다 써서 세탁 횟수가 반으로 줄었음... 패턴도 너무 예뻐서 사진 찍을 때마다 자꾸 보게 됨 🐧"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "with_luckyday",
+    "url": "https://www.threads.com/@with_luckyday/post/DdkRvpCE908",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heSHyaSZQO",
+    "final_url": "https://www.coupang.com/vp/products/8399913745?itemId=24569698344&src=1139000&spec=10799999&addtag=400&ctag=8399913745&lptag=AF2576568&itime=20260924221354&pageType=PRODUCT&pageValue=8399913745&wPcid=17893396169465349359302&wRef=&wTime=20260924221354&redirect=landing&traceid=V0-101-248480cae31408ca&mcid=afaea6f08dda4d57ad63cb8c4ba21190&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8399913745",
+    "title": "캔메이크 플럼푸쿠 코디네이트 아이즈, 1개, 03",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/412556405937014-39a818de-cd19-472d-8c73-0a2cc8150a22.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/412556405937014-39a818de-cd19-472d-8c73-0a2cc8150a22.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/412561271154252-56d66d53-ea98-4d70-89dd-12ea723155e2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/712312329870274-0c0a3f5b-24c2-4085-84ce-34bf3b473fa4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/418831233022413-72b3d04a-0e8d-4923-b9c0-3703b4356b5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/412561329046620-3135eb68-4890-4fdc-b182-de232889e3cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/418831214305246-d9107637-77a7-4494-8784-80fee123d3cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/412561311547344-dc138c93-2f32-4504-84e6-a9a38d1e5d1b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heSHyaSZQO"
+    ],
+    "image_path": "images/02_캔메이크_플럼푸쿠_코디네이트_아이즈,_1개,_03.jpg",
+    "my_link": "https://link.coupang.com/a/hjb431bYv7",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "출근 5분 메이크업에 이거 하나면 눈화장이 진짜 끝남... 베이지 브라운 조합이 뭘 해도 자연스럽게 녹아들어서 요즘 매일 꺼내는 중 ✨",
+    "b": "색이 튀면 어쩌나 싶었는데 딱 내 피부에 스며드는 느낌이라 민낯 같으면서 눈이 살아있음... 작고 가벼워서 파우치에 항상 넣고 다녀 💄"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "ggulttem1",
+    "url": "https://www.threads.com/@ggulttem1/post/DdkMOQzE7Da",
+    "views": 746,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gleUKZdPbg",
+    "final_url": "https://www.coupang.com/vp/products/8856923169?itemId=26277703499&src=1139000&spec=10799999&addtag=400&ctag=8856923169&lptag=AF9573770&itime=20260924221402&pageType=PRODUCT&pageValue=8856923169&wPcid=17893396169465349359302&wRef=&wTime=20260924221402&redirect=landing&traceid=V0-183-836cf233d1e15f6f&mcid=526ee352406f4376ae5fcc233a984f5c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8856923169",
+    "title": "디어글램 골드 콜라겐 15.0 주름 다리미 탄력 세럼, 2개, 50ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/72e4/140b3a5fc692b72ff35f074d67cd975a17d302941c567eb6b2e3b892a10d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/72e4/140b3a5fc692b72ff35f074d67cd975a17d302941c567eb6b2e3b892a10d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gleUKZdPbg"
+    ],
+    "image_path": "images/03_디어글램_골드_콜라겐_15.jpg",
+    "my_link": "https://link.coupang.com/a/hediS50EBo",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "금색 앰플 병이 뭔가 있어 보여서 혹해서 샀는데 진짜 자꾸 꺼내게 됨... 세럼 바르고 나서 피부가 당기지 않아서 아침 루틴에 고정됐어 💛",
+    "b": "주사기처럼 생긴 패키지 보고 친구들이 뭐냐고 난리남... 한 번 쓰고 나서 피부가 촉촉하게 잡히는 느낌이 있어서 습관처럼 바르게 됐어 ✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "solartem2026",
+    "url": "https://www.threads.com/@solartem2026/post/DdjTKHfk-Fr",
+    "views": 453,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hefekvIcI8",
+    "final_url": "https://www.coupang.com/vp/products/9688231851?itemId=28974198263&src=1139000&spec=10799999&addtag=400&ctag=9688231851&lptag=AF8075159&itime=20260924221410&pageType=PRODUCT&pageValue=9688231851&wPcid=17893396169465349359302&wRef=&wTime=20260924221410&redirect=landing&traceid=V0-101-3761a94461bfcef8&mcid=f25d71ff69c04658b6621c903c0d321c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9688231851",
+    "title": "네니아 구운 핫도그 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/xz7bahu8/ee83d29774bb4856a47cf4edef3a9632.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xz7bahu8/ee83d29774bb4856a47cf4edef3a9632.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gko0vnv1/fe885c6429664e41811189b286e2dc97.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qsiswipg/d3835aab93034571b0edbcb8bcc5dd0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/kkxmvkkx/c72ae762256449978358107a4e763da4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/4opxctcf/a2b6fdaea6e945768eeb91a52d37ea83.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hefekvIcI8"
+    ],
+    "image_path": "images/04_네니아_구운_핫도그_(냉동).jpg",
+    "my_link": "https://link.coupang.com/a/hjb464N1pc",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어프라이어 돌렸더니 진짜 길거리 핫도그 감성 그대로임... 미니 사이즈라 하나씩 집어먹다 보면 어느새 다 없어져 있어서 좀 무섭긴 해 🌭",
+    "b": "아이 간식으로 꺼냈다가 나도 같이 먹고 있는 중... 겉은 바삭하고 속 소시지가 쫄깃해서 생각날 때마다 에어프라이어 켜게 됨 😋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/DdjryyWD5em",
+    "views": 405,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eXcQfppLLE",
+    "final_url": "https://www.coupang.com/vp/products/9310267163?itemId=27586889443&src=1139000&spec=10799999&addtag=400&ctag=9310267163&lptag=AF0743444&itime=20260924221418&pageType=PRODUCT&pageValue=9310267163&wPcid=17893396169465349359302&wRef=&wTime=20260924221418&redirect=landing&traceid=V0-101-4c21e91a756548fe&mcid=c174bb2c966b45649a7b8abd730b0b18&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9310267163",
+    "title": "null - 브라켓/스탠드",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eXcQfppLLE"
+    ],
+    "image_path": "images/05_null_-_브라켓_스탠드.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "모니터 각도 때문에 목 항상 아팠는데 스탠드 달고 나서 자세가 확 달라진 것 같아... 책상이 깔끔해진 것도 덤이라 진작에 살걸 싶었음 😌",
+    "b": "설치하는 데 생각보다 별로 안 걸렸고 높이 맞추고 나니까 눈이 편해짐... 오래 앉아 있어도 목 피로감이 달라져서 요즘 없으면 안 될 것 같아 🙂"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "poo.dolphin.13",
+    "url": "https://www.threads.com/@poo.dolphin.13/post/DdlIpm-CoZd",
+    "views": 400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hc5StSKLSe",
+    "final_url": "https://www.coupang.com/vp/products/7894698701?itemId=24287013191&vendorItemId=91303253770&src=1139000&spec=10799999&addtag=400&ctag=7894698701&lptag=AF3926455&itime=20260924221451&pageType=PRODUCT&pageValue=7894698701&wPcid=17893396169465349359302&wRef=&wTime=20260924221451&redirect=landing&traceid=V0-183-f067e0eae89f7250&mcid=67926963e8f74b0eb548d98ac45d4713&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threadsrecipe&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7894698701",
+    "title": "끼리 소프트 크림치즈 플레인 200g X2개입/냉장무료배송",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/37cc4337-8b13-4622-8ae8-41f8fcc77929_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/37cc4337-8b13-4622-8ae8-41f8fcc77929_fixing_v2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hc5StSKLSe"
+    ],
+    "image_path": "images/06_끼리_소프트_크림치즈_플레인_200g_X2개입_냉장무료배송.jpg",
+    "my_link": "https://link.coupang.com/a/hizruLP1dQ",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "베이글에 발라 먹으려고 샀는데 그냥 숟가락으로 떠먹고 있음... 맛이 너무 순해서 짭조름한 거랑 달달한 거 다 어울려서 매일 꺼내게 됨 🧀",
+    "b": "키리 크림치즈 처음 써봤는데 이렇게 부드러운 줄 몰랐음... 샐러드에 올려도 되고 크래커에 발라도 되고 활용도가 생각보다 너무 높아서 놀람 😍"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "kinkoru23",
+    "url": "https://www.threads.com/@kinkoru23/post/DdjbCJWEzyQ",
+    "views": 307,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-21",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hd3peDhnga",
+    "final_url": "https://www.coupang.com/vp/products/8672515640?itemId=25175957602&src=1139000&spec=10799999&addtag=400&ctag=8672515640&lptag=AF0954147&itime=20260924221531&pageType=PRODUCT&pageValue=8672515640&wPcid=17893396169465349359302&wRef=&wTime=20260924221531&redirect=landing&traceid=V0-101-cd2410459312b339&mcid=49dba7679f41404b904054bef45aeea3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8672515640",
+    "title": "다파니 초코칩 미니 머핀 촉촉한 케이크 60개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/19c8/ea7173ec2b8f68208f2b1935f12837095ba88b870debc669376ab0a233a6.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/19c8/ea7173ec2b8f68208f2b1935f12837095ba88b870debc669376ab0a233a6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a80f/6112f7caa308ccc486a3ae703c77636a3364f140b4230c8e297c7366ed89.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8a8a/56528312d54bb70afe9c0cf1d4c12a26a34ae0d4eb22e2f85279fc1f534e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b4c6/aff93f50e61b7cb6e0978a97831d7eef5402d1f4dc5b6e4b25f733b7eebe.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/973e/29495f1ebba552fe6575fe821af1b0d5ca1e613b71546190a5eae63caf0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dfdf/4a33bf735e1db8cb70d95626c4d2b2f2d33abd3baaedd16c22e22c21f384.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hd3peDhnga"
+    ],
+    "image_path": "images/07_다파니_초코칩_미니_머핀_촉촉한_케이크_60개입.jpg",
+    "my_link": "https://link.coupang.com/a/hjb5WwFMvQ",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "60개짜리 박스 샀는데 일주일도 안 됐는데 반 이상 없어짐... 개별 포장이라 하나씩 들고다니면서 먹기 딱이고 촉촉함이 오래 가서 자꾸 손이 가 🧁",
+    "b": "커피 마실 때 옆에 두고 하나씩 집어먹는 게 요즘 소확행... 초코칩이 적당히 박혀 있어서 너무 달지 않고 질리지 않는 게 포인트야 😊"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "leebere",
+    "url": "https://www.threads.com/@leebere/post/DdkRiYak7Xl",
+    "views": 271,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heSSbKzhVQ",
+    "final_url": "https://www.coupang.com/vp/products/9172034476?itemId=24646823488&vendorItemId=93937288759&src=1191000&spec=10999999&addtag=400&ctag=9172034476&lptag=CFM99291027&itime=20260924221541&pageType=PRODUCT&pageValue=9172034476&wPcid=17893396169465349359302&wRef=&wTime=20260924221541&redirect=landing&abTestInfo=&mcid=7dab657f24754d20ab999a254855182b&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9172034476",
+    "title": "달다 무설탕 통밀 100% 플레인 베이글 당일생산 수제베이글, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f084/45c1b10e7b82395b75d6a43042957dae99fb9664eb9a99f3b01e568ef60f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f084/45c1b10e7b82395b75d6a43042957dae99fb9664eb9a99f3b01e568ef60f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8847/b12c076f2cdf9afbec8ca8d361b24bb02e1abd2941dbccb8031489128b44.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heSSbKzhVQ"
+    ],
+    "image_path": "images/08_달다_무설탕_통밀_100%_플레인_베이글_당일생산_수제베이글,_12개.jpg",
+    "my_link": "https://link.coupang.com/a/hjb5YNjjMa",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "설탕 없이 이렇게 맛있을 수가 있나 싶었는데 진짜 고소하고 쫄깃한 게 찐 베이글 느낌임... 아침마다 하나씩 먹으면서 든든함이 달라졌어 🥯",
+    "b": "다이어트 중에 빵 먹고 싶어서 집어봤는데 통밀 특유의 구수함에 은근히 중독됨... 12개라 넉넉해서 냉동해두고 하나씩 꺼내 먹는 중 😌"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "sycrom31.works",
+    "url": "https://www.threads.com/@sycrom31.works/post/DdkQDlzDxZ9",
+    "views": 182,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5006298&pageKey=111307925&itemId=335288305&vendorItemId=3822602749&traceid=V0-143-3bdf6ad1f4caf54c&pt=0&slot=18",
+    "final_url": "https://www.coupang.com/vp/products/111307925?itemId=335288305&vendorItemId=3822602749&src=1139000&spec=10799999&addtag=400&ctag=111307925&lptag=AF5006298&itime=20260924221549&pageType=PRODUCT&pageValue=111307925&wPcid=17893396169465349359302&wRef=&wTime=20260924221549&redirect=landing&traceid=V0-143-3bdf6ad1f4caf54c&mcid=bf2b1bcff6b24efd876bb66ff8b907cb&pt=0&campaignid=&clickBeacon=&imgsize=&slot=18&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "111307925",
+    "title": "비비고 총각김치, 1.5kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/996e/38e0bff7bb7b3eb34ecf1d2b53e02f29aca2042f075151ad0758312c28d6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/996e/38e0bff7bb7b3eb34ecf1d2b53e02f29aca2042f075151ad0758312c28d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1044374784401247-47753264-44b3-411f-9c77-3df5b8b0d025.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/383799651149081-c6e5791f-199a-401d-b083-58566ed6e17d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1532048696271147-34ad5b66-d1b9-48e7-b281-3a6f77661d2f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2364347744736534-09f04df9-ee61-4a13-ae6a-7d9022313ede.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2364351326054501-89c0557d-cce6-4dab-9b25-dc98cfb0604f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/357795131301140-a22e0d48-a84e-4708-ad33-b85314e8f43b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF5006298&pageKey=111307925&itemId=335288305&vendorItemId=3822602749&traceid=V0-143-3bdf6ad1f4caf54c&pt=0&slot=18"
+    ],
+    "image_path": "images/09_비비고_총각김치,_1.jpg",
+    "my_link": "https://link.coupang.com/a/hjb51IGZTo",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "총각김치 먹고 싶을 때마다 사러 가기 귀찮았는데 한 봉지 있으면 한동안 해결됨... 알타리가 아삭해서 밥이랑 먹으면 진짜 잘 맞아 🌶️",
+    "b": "집에서 담근 것처럼 익힘 정도가 딱이라 꺼낼 때마다 맛있음... 1.5kg이라 넉넉하게 먹을 수 있어서 냉장고에 늘 재고 유지 중 😋"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "lbm0707",
+    "url": "https://www.threads.com/@lbm0707/post/DdkNAPIEoI8",
+    "views": 131,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heauwKSYX6",
+    "final_url": "https://www.coupang.com/vp/products/6838225333?itemId=26543158078&src=1139000&spec=10799999&addtag=400&ctag=6838225333&lptag=AF9615286&itime=20260924221557&pageType=PRODUCT&pageValue=6838225333&wPcid=17893396169465349359302&wRef=&wTime=20260924221557&redirect=landing&traceid=V0-101-1197b110d73e7cb8&mcid=dcdedce65dc74e518ff5f0989ef6e1dc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6838225333",
+    "title": "[에이지투웨니스]AGE20S 노블 글로우 커버 쿠션(본품1+리필1) (SPF40+ PA+++)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/54fd/f9d1ff3419a0a4f55d7823a221abfefe23c7f958255a59023860d6508e36.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/54fd/f9d1ff3419a0a4f55d7823a221abfefe23c7f958255a59023860d6508e36.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heauwKSYX6"
+    ],
+    "image_path": "images/10_[에이지투웨니스]AGE20S_노블_글로우_커버_쿠션(본품1+리필1)_(S.jpg",
+    "my_link": "https://link.coupang.com/a/hjb54J2fJY",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "골드 케이스가 집어들 때마다 기분이 괜히 좋아지는 거 이거 처음 알았음... 바르고 나면 피부에 은은하게 윤기가 도는 느낌이라 요즘 매일 쓰는 중 ✨",
+    "b": "리필까지 같이 오니까 다 쓰고 또 주문하는 번거로움이 없어서 너무 편함... 두께감 없이 발리는 느낌이라 답답하지 않아서 자꾸 손이 가게 됨 💛"
+   }
+  }
+ ]
+}
