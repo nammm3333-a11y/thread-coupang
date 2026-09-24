@@ -1,0 +1,463 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-25T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-25T08:18:41"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "on.u_daily",
+    "url": "https://www.threads.com/@on.u_daily/post/DdkoY0ZCTNl",
+    "views": 13000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/he6CoZQJr2",
+    "final_url": "https://www.coupang.com/vp/products/8783454993?itemId=25557602128&src=1139000&spec=10799999&addtag=400&ctag=8783454993&lptag=AF9548265&itime=20260925081347&pageType=PRODUCT&pageValue=8783454993&wPcid=17893396169465349359302&wRef=&wTime=20260925081347&redirect=landing&traceid=V0-101-b63973b9cf224755&mcid=9cb6f3609931450c8f4bf6f21fb2aa7a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8783454993",
+    "title": "은꽃밴드 쌍쌍 플라워 헤어핀 세트 유아 머리핀",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fbb3/edc6bccae3afb5a5dfe84934687c92ca486b8a1d03f298d6b194979afb50.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fbb3/edc6bccae3afb5a5dfe84934687c92ca486b8a1d03f298d6b194979afb50.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bb11/fbdeaa2291627562b40a2323b5afe461114b95b8a0a546cd9cca929dbebc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e81b/beaceca9fc83a234fdf002cf14de632732d5c1509fc2aab8e5623c5465ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d22e/9ea2750e210adc5957bac39be1426ff7c114ae9e171a375f73c412e6b0bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/83a7/4db8c18666b93c6131f29e69f3fdd2b8fa1caa72be1da22aeb6d4cb4c5fc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5a35/730da5747d32b2d8d7b61d2a755389660bef800e1f27406567944355e46d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/he6CoZQJr2"
+    ],
+    "image_path": "images/01_은꽃밴드_쌍쌍_플라워_헤어핀_세트_유아_머리핀.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTq4i44q",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "딸 머리 꾸며주려고 샀는데 10개 세트라 매일 다른 핀 골라 해줄 수 있어서 좋아. 분홍 꽃이랑 리본이 다 달라서 진짜 예쁨. 아침마다 딸이 핀 고르는 게 소소한 낙이 됐어 🎀🌸",
+    "b": "유치원 등원 때 머리 꾸며주고 싶어서 샀는데 핀이 종일 잘 안 빠져서 마음이 편함. 꽃 모양이 생각보다 훨씬 귀엽더라. 이제 아침마다 애가 오늘 뭐 할지 직접 골라달라고 해 💕"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g831MTzHAO",
+    "final_url": "https://www.coupang.com/vp/products/8481145163?itemId=22081543335&src=1139000&spec=10799999&addtag=400&ctag=8481145163&lptag=AF7862534&itime=20260925081356&pageType=PRODUCT&pageValue=8481145163&wPcid=17893396169465349359302&wRef=&wTime=20260925081356&redirect=landing&traceid=V0-101-60b52d0e0c19067e&mcid=9bc047bfa956418ea1ea4961c6e8aac5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8481145163",
+    "title": "햇님마을 양념이 잘 어우러지는 국산 고춧가루 보통매운맛, 110g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1384943299102063-37cf827e-a6e3-4d2c-a223-9e3cd6229557.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1384943299102063-37cf827e-a6e3-4d2c-a223-9e3cd6229557.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/69767228628144-412e9822-1504-40bf-aa00-d553a998bffc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/784219055523223-970ab507-cbe5-4e59-a70e-b075a84c5db3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/49799122386012-2cf6b294-922d-46e5-8e6d-cd9334b5b211.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/49799222991654-1056637b-8db7-4656-b381-c782b2db162d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/69767397054706-a7cdebf3-387d-482e-9782-8a2d785b0a57.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/47520455312658-b4fd83ed-33d5-460d-967a-a0a2c8b7f720.JPG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g831MTzHAO"
+    ],
+    "image_path": "images/02_햇님마을_양념이_잘_어우러지는_국산_고춧가루_보통매운맛,_110g,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTtSQpwG",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "김치 담그려고 처음 써봤는데 색이 고와서 눈이 먼저 반함. 보통 매운맛이라 부담 없이 먹을 수 있고 향이 살아있는 느낌이야. 넣었을 때 양념이 확 살아나는 게 느껴져서 계속 쓰게 됨 🌶️",
+    "b": "고춧가루 떨어져서 급하게 골랐는데 소용량 통이라 보관하기 딱 좋아. 볶음밥에 넣었더니 집밥 맛이 달라진 것 같아서 신기함. 국산 건고추 100%라 향이 다른 것 같은 느낌이 들더라 🌶️"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "minjeongi641",
+    "url": "https://www.threads.com/@minjeongi641/post/Ddk0ilVklK8",
+    "views": 547,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heUAbaMP6G",
+    "final_url": "https://www.coupang.com/vp/products/9305640001?itemId=27992323230&src=1139000&spec=10799999&addtag=400&ctag=9305640001&lptag=AF4555622&itime=20260925081404&pageType=PRODUCT&pageValue=9305640001&wPcid=17893396169465349359302&wRef=&wTime=20260925081404&redirect=landing&traceid=V0-101-b88d9fbae8736060&mcid=ee238056761f4f48a68c13d55d999f27&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9305640001",
+    "title": "인라인 보조기 롤러스케이트 보행기 중심잡기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8a21/6bf42c21effc2eafa4a8f4ae51e52e2473f4ceca876996af256e5c2ec2d6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8a21/6bf42c21effc2eafa4a8f4ae51e52e2473f4ceca876996af256e5c2ec2d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5b45/4ecdefdb51dbf44a411809ab5c623defadb67fcae4fa7bcaca966862bc0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/51cc/30581389011493d5df9bb3af38a319412be758f5409b1d5492f62367acf8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/59b6/a19ef262c25bcdfeb99b868eaca4b4459d6f62addf9247beef20aeb0bec3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3836/89ecfce5ad3ad3af1ad55628b9d257282acbbc55f341a705ee6c5e458e06.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f5b2/622a0f65b97068daf1b61c48761e13a366456ed77dfaebfd35eb784d1da5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f4b/e0bb87eb339902bd4913a7f44411205d55f74c145e6a21512d6e0980bf52.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heUAbaMP6G"
+    ],
+    "image_path": "images/03_인라인_보조기_롤러스케이트_보행기_중심잡기.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTwRlF4C",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "인라인 가르치려고 했는데 애가 너무 무서워해서 이 보조기 구했어. 핑크 프레임 안에 서면 넘어질 걱정이 확 줄어드니까 애도 편하게 움직이더라. 이거 쓰고 나서 균형 잡는 속도가 눈에 띄게 빨라진 것 같아 🛼",
+    "b": "인라인 보조기라는 게 있는 줄 몰랐는데 이게 딱이더라. 바퀴 달린 프레임 안에 서면 혼자 중심 잡는 연습을 할 수 있어. 처음에 울면서 싫다던 애가 이거 타고 나서 스스로 나가자고 한 게 신기함 🛼😂"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "si_won_e",
+    "url": "https://www.threads.com/@si_won_e/post/DdkgW5xkxSY",
+    "views": 513,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g9z5YVspO0",
+    "final_url": "https://www.coupang.com/vp/products/9686780110?itemId=28968921890&vendorItemId=95898687860&src=1139000&spec=10799999&addtag=400&ctag=9686780110&lptag=AF2488938&itime=20260925081413&pageType=PRODUCT&pageValue=9686780110&wPcid=17893396169465349359302&wRef=&wTime=20260925081413&redirect=landing&traceid=V0-181-604de0f01922ec31&mcid=4b3f9a656b6a4ccd98767b78e858f604&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9686780110",
+    "title": "STC 태화 구연산 스프레이 리필 1.2L 다목적 천연 세정제 청소용 액체 세제",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b4cb/a9567a5cf6cb29aec53418f990a9ae5cb7963cd09423c9c1bc57c8a3e2ad.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b4cb/a9567a5cf6cb29aec53418f990a9ae5cb7963cd09423c9c1bc57c8a3e2ad.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g9z5YVspO0"
+    ],
+    "image_path": "images/04_STC_태화_구연산_스프레이_리필_1.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTzzoc4O",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수도꼭지 물때 때문에 고민하다가 구연산 리필백 써봤어. 1.2L라 한동안 걱정 없이 쓸 수 있고 기존 스프레이에 채워 쓰면 돼. 싱크대 주변 물때 닦인 날 청소가 뭔가 뿌듯해지는 기분이었음 🧼✨",
+    "b": "리필백이라 쓰레기도 줄고 편해서 그냥 써보게 됐어. 냄새가 강하지 않아서 환기 없이 욕실 청소할 수 있어 좋더라. 욕실 청소하는 날이 전보다 덜 귀찮아진 게 나도 놀라움 🫧"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "poo.dolphin.13",
+    "url": "https://www.threads.com/@poo.dolphin.13/post/DdlIpm-CoZd",
+    "views": 400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hc5StSKLSe",
+    "final_url": "https://www.coupang.com/vp/products/7894698701?itemId=24287013191&vendorItemId=91303253770&src=1139000&spec=10799999&addtag=400&ctag=7894698701&lptag=AF3926455&itime=20260925081422&pageType=PRODUCT&pageValue=7894698701&wPcid=17893396169465349359302&wRef=&wTime=20260925081422&redirect=landing&traceid=V0-183-f067e0eae89f7250&mcid=97dc091a9104455e87ce47640ac49326&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threadsrecipe&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7894698701",
+    "title": "끼리 소프트 크림치즈 플레인 200g X2개입/냉장무료배송",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/37cc4337-8b13-4622-8ae8-41f8fcc77929_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/37cc4337-8b13-4622-8ae8-41f8fcc77929_fixing_v2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hc5StSKLSe"
+    ],
+    "image_path": "images/05_끼리_소프트_크림치즈_플레인_200g_X2개입_냉장무료배송.jpg",
+    "my_link": "https://link.coupang.com/a/hizruLP1dQ",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 베이글에 바르려고 샀는데 끼리가 진짜 부드럽더라. 2개 세트라 넉넉하게 쓸 수 있어서 아까워하지 않고 마음껏 발라 먹게 됨. 이 조합으로 아침 먹기 시작한 뒤로 아침 챙기는 게 좀 더 즐거워졌어 🥯",
+    "b": "파스타에 한 스푼 넣었더니 맛이 진짜 달라지더라. 텁텁하지 않고 깔끔한 편이라 짭짤한 음식이랑도 잘 어울려. 2개 세트라 부담 없이 이것저것 시도해볼 수 있어서 좋음 🧀"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ga_ggu_mi",
+    "url": "https://www.threads.com/@ga_ggu_mi/post/DdkdWiLEjO9",
+    "views": 321,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heZoyHE3y0",
+    "final_url": "https://www.coupang.com/vp/products/9523615872?itemId=29089631454&vendorItemId=96015186127&src=1139000&spec=10799999&addtag=400&ctag=9523615872&lptag=AF5679390&itime=20260925081430&pageType=PRODUCT&pageValue=9523615872&wPcid=17893396169465349359302&wRef=&wTime=20260925081430&redirect=landing&traceid=V0-183-e4a92b4f65000261&mcid=bb12ab75ed034103bb460c346f60196d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9523615872",
+    "title": "일본 무인양품 MUJI 오리지널 블랜드 커피 우유 푸딩",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/632f/328de9293da9ba0ad6ae575f009208a8ed1ab4c48d7de2140f5463a4a8ac.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/632f/328de9293da9ba0ad6ae575f009208a8ed1ab4c48d7de2140f5463a4a8ac.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0155/85814bb6f7ddb7579c96b63bbe21a1eb8efa6e96f1e371465814be374ad0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c05b/a00eab78fd8848d005e55da6bda97e25f722d819830ba25fe977de16432e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5d7/aa32b928e14b2126beacb87d5c18455e838bec832f946b5408a8fd7dc3cc.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heZoyHE3y0"
+    ],
+    "image_path": "images/06_일본_무인양품_MUJI_오리지널_블랜드_커피_우유_푸딩.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTCqbUZ2",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "무지 커피우유푸딩 처음 열었을 때 생각보다 되직해서 놀람. 쌉쌀한 커피 향이랑 우유 맛이 같이 나는 게 어른 입맛에 딱이야. 피곤한 오후에 조각 잘라서 혼자 먹는 게 소소한 낙이 됨 ☕🍮",
+    "b": "단맛보다 쓴맛이 살짝 앞서서 달달한 거 별로인 나한테 의외로 맞았어. 포장도 무지 특유의 심플함이라 꺼내두기만 해도 예쁘더라. 커피 마시기 애매한 밤에 이걸로 대신하는 게 루틴이 돼버림 🍮"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "nerbard_high",
+    "url": "https://www.threads.com/@nerbard_high/post/Ddmz9FhjuMF",
+    "views": 228,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-23",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e5wcvaua0O",
+    "final_url": "https://www.coupang.com/vp/products/7757519393?itemId=20911755686&src=1139000&spec=10799999&addtag=400&ctag=7757519393&lptag=AF0743444&itime=20260925081439&pageType=PRODUCT&pageValue=7757519393&wPcid=17893396169465349359302&wRef=&wTime=20260925081439&redirect=landing&traceid=V0-101-14d0fbc0b2e027d3&mcid=1baf447a3b0c420c8ffae0ec639821ec&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7757519393",
+    "title": "UGREEN RG 30W USB C 충전기 Nexode Robot GaN 고속 충전기 블록 스마트 폰용 소형 충전기 전원 어댑터",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/53a1/a7a68e8a36e0f7a4852ccb2bf48255cbcb7fba9e3ca5da3096838c668720.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/53a1/a7a68e8a36e0f7a4852ccb2bf48255cbcb7fba9e3ca5da3096838c668720.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b856/0b0bcb18f95c34bf535179e5f880cc07b87b668b2d8aa315e49bc9c5abc0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be1c/4d4d172f9656cad9dae336065fcec7b05a4b818b4cf63f1c490997f8a455.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/122d/dabb709df39848a163251fe466b67664a44dff11df37425ce43f28fadae6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4ce7/f611e29ec91638c995a4a3ab537dc5c9021fa7a711dd8de1db4436a6496e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c071/059f50533c5474c887a5d2253183ea2008e46615a9a73409d148eee6d4f7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b690/25721ccbeb61e388ddf2ad761860133061087dd1f2b632aaa6a955ffba61.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/297f/9a05ab3bc691b5ef002c7ac2e11fd15af798cee72ee82ee6e55b9ad07090.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e5wcvaua0O"
+    ],
+    "image_path": "images/07_UGREEN_RG_30W_USB_C_충전기_Nexode_Robot_GaN.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTFpRYbc",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "충전기 살 일 있었는데 이게 로봇 생김새라 책상 위에 그냥 꽂아뒀어. 충전도 빠른 편이고 작아서 자리도 안 차지함. 매일 보는데도 이 얼굴 볼 때마다 기분이 조금씩 좋아지는 게 웃겨 🤖⚡",
+    "b": "충전기 뭐 살까 고민하다가 생김새 때문에 이걸로 결정함. 로봇 얼굴에 픽셀 눈이 그려져 있어서 책상 인테리어처럼 보여. 기능도 충분한데 비주얼까지 챙기니까 사길 잘했다 싶었음 🤖"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "hotdeal.sniper",
+    "url": "https://www.threads.com/@hotdeal.sniper/post/DdkyyL0kxnc",
+    "views": 71,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF9922544&pageKey=9422516993&itemId=28006283216&vendorItemId=94963718614&traceid=V0-143-c6aa5a6de35a57cf&pt=0&slot=5",
+    "final_url": "https://www.coupang.com/vp/products/9422516993?itemId=28006283216&vendorItemId=94963718614&src=1139000&spec=10799999&addtag=400&ctag=9422516993&lptag=AF9922544&itime=20260925081446&pageType=PRODUCT&pageValue=9422516993&wPcid=17893396169465349359302&wRef=&wTime=20260925081446&redirect=landing&traceid=V0-143-c6aa5a6de35a57cf&mcid=4c6810a267d44f51a95e50b61b629646&pt=0&campaignid=&clickBeacon=&imgsize=&slot=5&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9422516993",
+    "title": "넉넉하게 담은 모짜렐라 슈레드치즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/193062294626896-8aa43b79-0eb1-4347-8656-96474388e05f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/193062294626896-8aa43b79-0eb1-4347-8656-96474388e05f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/193066923117865-e9db457b-6340-4ebe-9177-6847da27e2b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1011877920087692-1f45184b-94f8-4673-8053-4aa297dd6c1f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1011878015819090-232e9dd7-0398-4869-9fd0-3a6ad29c6d8a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/255023177856386-74be60e7-7237-41bd-a489-54b735141919.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_824bfa34-5eae-457c-a998-a308b10bc38c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF9922544&pageKey=9422516993&itemId=28006283216&vendorItemId=94963718614&traceid=V0-143-c6aa5a6de35a57cf&pt=0&slot=5"
+    ],
+    "image_path": "images/08_넉넉하게_담은_모짜렐라_슈레드치즈.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTIxJZ1g",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피자 만들 때마다 치즈가 모자라서 1.8kg짜리로 질렀음. 소분해서 냉동하면 오래 쓸 수 있어서 든든해. 치즈 넉넉하게 뿌리고 구웠더니 집에서 만든 거 맞나 싶을 정도였어 🧀🍕",
+    "b": "매번 소포장 사는 게 아까워서 대용량으로 도전했는데 잘 녹고 늘어나는 게 마음에 들어. 피자나 그라탱 만들 때 쓰면 맛이 확 달라지는 느낌이야. 처음 뜯는 날 친구 불러서 같이 먹었는데 반응이 좋았음 🧀"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "shopinshorts1",
+    "url": "https://www.threads.com/@shopinshorts1/post/DdkVTvGiWJo",
+    "views": 61,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hegQz71Uyq",
+    "final_url": "https://www.coupang.com/vp/products/9074605750?itemId=26653712558&vendorItemId=95911602903&src=1139000&spec=10799999&addtag=400&ctag=9074605750&lptag=AF2077249&itime=20260925081454&pageType=PRODUCT&pageValue=9074605750&wPcid=17893396169465349359302&wRef=&wTime=20260925081454&redirect=landing&traceid=V0-181-ebf0d7cb0b0ca041&mcid=28c78bca472e48de950fbb4d4cada892&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9074605750",
+    "title": "360도 회전 무타공 설치 이동식 가구 바퀴 3구 볼 캐스터 20개입 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5bee/7f3606642e37671fff6def103fd8d19a85b2792f7868f5f50970b10065c9.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bee/7f3606642e37671fff6def103fd8d19a85b2792f7868f5f50970b10065c9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c0e4/150c6c6a210ef713f4a49abe7dc7c9dfa9dd4971223eeb50d2415929d4bb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3d27/900584cf4c37088b0fdf66e154fee55c8725555db9ee1a4e9d48236c52b9.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f9aa/2602efdf5487d24e9a789766a430827f59476b2dd0abdda982eb9e2d3265.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/45f7/36ff62161bb45ffc6b1abe08ad08e43ee992412c89f508b869ff62f80d2e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hegQz71Uyq"
+    ],
+    "image_path": "images/09_360도_회전_무타공_설치_이동식_가구_바퀴_3구_볼_캐스터_20개입_세.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTLrnHe8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "무거운 서랍장 옮길 때마다 힘들어서 이 볼 캐스터 붙여봤어. 드릴 없이 붙일 수 있어서 부담 없이 시도했는데 미끄러지듯 움직여서 놀람. 청소할 때 가구 쓱 밀면 되니까 이후로 방 청소가 한결 편해졌어 🛋️",
+    "b": "가구 바퀴 붙이면 편하다고 해서 20개 세트로 이것저것 다 붙여봤어. 3구 볼 방식이라 방향 상관없이 잘 돌아가더라. 여러 가구에 다 붙이고 나니 집 전체 배치 바꾸는 게 갑자기 쉬워진 느낌 😮"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "edou7070",
+    "url": "https://www.threads.com/@edou7070/post/DdkThlnD6ao",
+    "views": 51,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-22",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/heTGUp5OVw",
+    "final_url": "https://www.coupang.com/vp/products/8442554119?itemId=24421040620&vendorItemId=91623739045&src=1139000&spec=10799999&addtag=400&ctag=8442554119&lptag=AF8609374&itime=20260925081503&pageType=PRODUCT&pageValue=8442554119&wPcid=17893396169465349359302&wRef=&wTime=20260925081503&redirect=landing&traceid=V0-183-d7140d23da1250cc&mcid=10aabd902fb443fca0f3273fa8125a6a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8442554119",
+    "title": "스마텍 접이식 미니 블루투스 무선키보드",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/12/12/3/69ebe393-410a-497b-8816-d363c4afccc6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/3/69ebe393-410a-497b-8816-d363c4afccc6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/0/c862ce2f-45d5-48cb-ac3a-5faebcbb5d47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/8/611038fb-49dd-401b-9ea3-7300e114074d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/403629041153049-f9372a97-7f2e-4d6e-9f29-ba762f51e8f2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/8/2264f8be-8d1e-4b71-878e-bd9a0751cf62.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/7/54c55f85-5d62-4f46-b050-5f3cd57e2cca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/0/3e1a4b78-8253-40fe-abfe-5bf53fbb1553.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/12/12/0/d3cfcd1c-6587-4bf7-894e-6f417a366d27.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/heTGUp5OVw"
+    ],
+    "image_path": "images/10_스마텍_접이식_미니_블루투스_무선키보드.jpg",
+    "my_link": "https://link.coupang.com/a/hjSTOtTJIW",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "폰으로 긴 글 쓰기 불편해서 접이식 키보드 써보게 됐어. 반으로 접히니까 가방에 그냥 넣고 다닐 수 있어서 진짜 편함. 카페에서 꺼냈을 때 주변에서 뭐냐고 물어봐서 뿌듯했음 ⌨️",
+    "b": "태블릿이랑 연결해서 글 쓸 때 요긴하게 쓰고 있어. 블루투스라 케이블 없이 연결되는 게 생각보다 안정적이야. 접어두면 작아서 책상 위 공간이 생긴 것도 은근 마음에 들어 ⌨️✨"
+   }
+  }
+ ]
+}
