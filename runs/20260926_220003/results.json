@@ -1,0 +1,456 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-26T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-09-26T22:15:15"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DdpbzUEDJ1s",
+    "views": 1800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e7PlnuvUPI",
+    "final_url": "https://www.coupang.com/vp/products/5684066857?itemId=19167012018&src=1139000&spec=10799999&addtag=400&ctag=5684066857&lptag=AF2377009&itime=20260926221053&pageType=PRODUCT&pageValue=5684066857&wPcid=17893396169465349359302&wRef=&wTime=20260926221053&redirect=landing&traceid=V0-181-7c0ebd07a6cd2edf&mcid=dbe25353b57445b68fb27776406a7308&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5684066857",
+    "title": "코스트코 커클랜드 미디엄 로스트 커피",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fc07/2f9e3a83f13bb187696205de0f95a7b056d8d7312d6f6be7685303296f94.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fc07/2f9e3a83f13bb187696205de0f95a7b056d8d7312d6f6be7685303296f94.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e7PlnuvUPI"
+    ],
+    "image_path": "images/01_코스트코_커클랜드_미디엄_로스트_커피.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCtBIs9Y",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 카페 가는 돈 아깝다고 결국 이거 질렀는데 진짜 후회 없음. 인스턴트인데 생각보다 쓴맛이 적고 마시기 편해서 이제 아침루틴이 됐어 ☕",
+    "b": "코스트코 들를 때마다 항상 카트에 넣게 되는 게 이 커피임. 한 통에 넉넉하게 들어 있어서 떨어질 걱정 없이 매일 타 먹게 되더라 😌"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "honjasalim7",
+    "url": "https://www.threads.com/@honjasalim7/post/Ddp5GETk9IF",
+    "views": 1800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hixLc0VlZY",
+    "final_url": "https://www.coupang.com/vp/products/8535318700?itemId=17694418249&src=1139000&spec=10799999&addtag=400&ctag=8535318700&lptag=AF2852240&itime=20260926221104&pageType=PRODUCT&pageValue=8535318700&wPcid=17893396169465349359302&wRef=&wTime=20260926221104&redirect=landing&traceid=V0-101-3de02cd076de08b2&mcid=691993de9e9942f289df8959e9d17c82&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8535318700",
+    "title": "아필코 욕실 화장실 규조토발매트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1156370515272566-e7c03bbf-5e12-423a-b32c-304cccf248da.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1156370515272566-e7c03bbf-5e12-423a-b32c-304cccf248da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/154725258838984-89c1e6e4-d60a-428a-bf3f-fd3c739cc7c9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/154721389769992-9b8313af-3945-4356-a31a-f13d8fcc97cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/637768774715977-a2632ff2-ee7e-4faa-887c-aaf5141356f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/167956164581343-9c84af38-6adc-45e1-8da7-4dcf7835eb20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/565143587433788-6c4b5f18-6625-4168-aceb-4f381692093e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1605260188261005-edbca226-202c-4ddf-89e5-62acc5434def.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hixLc0VlZY"
+    ],
+    "image_path": "images/02_아필코_욕실_화장실_규조토발매트.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCwwE2Ts",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실 발매트 빨래하기 귀찮아서 규조토로 바꿨는데 진짜 신세계임. 물기가 금방 없어져서 발 닦고 나서 바닥이 뽀송해지는 게 달라진 느낌이야 🛁",
+    "b": "기존 천 매트 쓸 때는 냄새 날까봐 자주 빨았는데 이건 그런 수고가 없어서 편함. 베이지 스트라이프 디자인이라 욕실 분위기도 훨씬 깔끔해 보이더라 ✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "lifehaeksim",
+    "url": "https://www.threads.com/@lifehaeksim/post/Ddpjoyjk4CC",
+    "views": 1500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hihrZULmSq",
+    "final_url": "https://www.coupang.com/vp/products/9689775233?itemId=28979874458&src=1139000&spec=10799999&addtag=400&ctag=9689775233&lptag=AF9294016&itime=20260926221114&pageType=PRODUCT&pageValue=9689775233&wPcid=17893396169465349359302&wRef=&wTime=20260926221114&redirect=landing&traceid=V0-101-43111c32780fdc94&mcid=4262004f6c504c22923263e40d8b92b5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9689775233",
+    "title": "1+1 네오플램 대용량 보온보냉 스텐 텀블러 손잡이 빨대 뚜껑포함",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1759128129349/8c25a274-c876-4bc3-82a6-2038841ba5d2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1759128129349/8c25a274-c876-4bc3-82a6-2038841ba5d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/868e/adb52358305a3c3c382823aa888e3aea0f8528b3824b81cc8ca7dda14cc0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8ce6/0ca0d8dc84aee62789bc65d12d925f0ec3326d19ce2783887c58dc4e227d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd45/dde36165426c68882d229474d12603f520ef95e9fd2f4675d7e86195ce3d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/56f6/bf3b45c5981284fbbbd9ae38a3e9083611dc22448aa5f469491532d873eb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c428/ea89659dd8f68c39cb131f9a004b9478e6fe78386e04e48ed7b713e179ab.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c17b/b6e12aec7775fa1f4226af64adcf8c0be1befb87caf920003cf2afa7b9f5.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Xdd5-jWQqvI"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hihrZULmSq"
+    ],
+    "image_path": "images/03_1+1_네오플램_대용량_보온보냉_스텐_텀블러_손잡이_빨대_뚜껑포함.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCzOnkwm",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 텀블러 또 질러버렸는데 이번엔 1+1이라 남친이랑 색 나눠서 쓰게 됐음. 손잡이 있어서 들고 다니기 편하고 얼음이 한참 안 녹아서 만족 🧊",
+    "b": "카페 음료 담아다니려고 샀는데 빨대 뚜껑이 있어서 가방 안에 넣어도 흘릴 걱정이 없음. 크림색이랑 그린 색 두 개 다 예뻐서 골라 쓰는 재미도 있더라 🥤"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "goose.potter",
+    "url": "https://www.threads.com/@goose.potter/post/DdsYbMwDojQ",
+    "views": 6700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eYGhruJ9vU",
+    "final_url": "https://www.coupang.com/vp/products/307661652?itemId=970084136&src=1139000&spec=10799999&addtag=400&ctag=307661652&lptag=AF0743444&itime=20260926221125&pageType=PRODUCT&pageValue=307661652&wPcid=17893396169465349359302&wRef=&wTime=20260926221125&redirect=landing&traceid=V0-101-9de83c399867d038&mcid=138cb3f3496d4c2ca7f56dc0b17ffde3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "307661652",
+    "title": "샐러드미인 망고푸딩",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2271395674390453-182a9676-9c5e-4f03-ba7b-19a8be386117.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2271395674390453-182a9676-9c5e-4f03-ba7b-19a8be386117.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2429485979686022-19478698-2984-42a9-94f3-b9e57f7c3f42.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2429485985686591-55bdbd26-a7fc-4be5-88b3-b95624395f11.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2271402955139190-04d85aa2-920f-4f57-9fcf-d6a74b4aa6bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2271402966353287-24fa4dfa-cf19-4a6f-832a-ef70eaa03738.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2276673975674222-22dcda37-9b16-476b-93dd-ef8fdbcd1d77.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/358630332899132-11a2b381-36ff-4523-b61e-b91c39a0c3f2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eYGhruJ9vU"
+    ],
+    "image_path": "images/04_샐러드미인_망고푸딩.jpg",
+    "my_link": "https://link.coupang.com/a/hlS4U8Rrzg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "디저트 뭐 먹을까 고민하다가 이거 봤는데 망고 큐브 모양이 너무 귀여워서 삼. 냉장고에서 꺼내서 바로 먹으면 되는데 달달하고 시원해서 더울 때 자꾸 손이 가더라 🥭",
+    "b": "식후에 뭔가 달콤한 게 당길 때 이거 하나 딱 먹으면 좋음. 망고향이 은은하게 나서 인공적인 느낌이 크지 않아서 그것도 마음에 들었어 😋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "kimnewspick",
+    "url": "https://www.threads.com/@kimnewspick/post/Ddr5M8EiSA_",
+    "views": 3000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hjPRWiXm8q",
+    "final_url": "https://www.coupang.com/vp/products/8534629414?itemId=24705895640&src=1139000&spec=10799999&addtag=400&ctag=8534629414&lptag=AF9276553&itime=20260926221133&pageType=PRODUCT&pageValue=8534629414&wPcid=17893396169465349359302&wRef=&wTime=20260926221133&redirect=landing&traceid=V0-101-8011e4e68058286a&mcid=a78622062aaa41caa5959575b7d9094b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8534629414",
+    "title": "메디아나 A15 전용 패드",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8136/6c244c164efe1c08f9709ae1fbfff4a128c4f08c5de2e3d0c12c34fb670b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8136/6c244c164efe1c08f9709ae1fbfff4a128c4f08c5de2e3d0c12c34fb670b.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hjPRWiXm8q"
+    ],
+    "image_path": "images/05_메디아나_A15_전용_패드.jpg",
+    "my_link": "https://link.coupang.com/a/hlxSpi3Hzg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에 AED 있는데 패드 유효기간 지나서 교체했음. 성인 소아 하나로 다 되는 거라 따로 안 사도 돼서 편리하고, 바꾸고 나니 마음이 좀 놓이더라 🩺",
+    "b": "응급상황 대비하려고 AED 패드 유효기간 챙겨보다가 이번에 처음으로 교체했음. 새 패드로 갈고 나서 비상용품 전체를 다시 한 번 점검하게 됐어 💙"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "uucoooy",
+    "url": "https://www.threads.com/@uucoooy/post/DdrVF1ZneG7",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hjqP8J9NfM",
+    "final_url": "https://www.coupang.com/vp/products/9507534596?itemId=28330045943&src=1139000&spec=10799999&addtag=400&ctag=9507534596&lptag=AF8740425&itime=20260926221140&pageType=PRODUCT&pageValue=9507534596&wPcid=17893396169465349359302&wRef=&wTime=20260926221140&redirect=landing&traceid=V0-101-e04d35cfd9b58a9c&mcid=96a4aad03da643a5919676fca7644805&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9507534596",
+    "title": "우루리스 키라메키 워터콘크 샤이니 헤어오일, 1개, 100ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5146/e532ff427fb846b5c1fbd5368031e59eb1ad1f24c58075d9126186d8a81e.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5146/e532ff427fb846b5c1fbd5368031e59eb1ad1f24c58075d9126186d8a81e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aa04/6bb5fa6d7a384441f428a8bd93242211eefd5f6cc60bcd7ad2691c21f5e5.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hjqP8J9NfM"
+    ],
+    "image_path": "images/06_우루리스_키라메키_워터콘크_샤이니_헤어오일,_1개,_100ml.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCC9gweq",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "드라이 후에 머리가 뻣뻣한 게 싫어서 이거 써봤는데 생각보다 무겁지 않고 촉촉한 느낌이 남. 보라색 병이 너무 예뻐서 세면대에 올려두기만 해도 기분이 좋아지더라 💜",
+    "b": "머리 감고 나서 물기 있을 때 조금만 발라주면 빗질이 훨씬 잘 되더라. 펌프식이라 한 손으로 쉽게 쓸 수 있고 향도 은은하게 남아서 아침이 조금 달라진 느낌 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8Xf887nJQ",
+    "final_url": "https://www.coupang.com/vp/products/8518580537?itemId=24766308524&src=1139000&spec=10799999&addtag=400&ctag=8518580537&lptag=AF7862534&itime=20260926221148&pageType=PRODUCT&pageValue=8518580537&wPcid=17893396169465349359302&wRef=&wTime=20260926221148&redirect=landing&traceid=V0-101-5cac1dacf51e17a6&mcid=9ab3c5da4b06498fac71f373bb12404e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8518580537",
+    "title": "베스트밀 돼지고기 목살 구이용 2kg (250g x 8팩) 개별포장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/0eff4d92920c9ae800c8152de2754e4eca7cff757987fc85115a7635948b_1752681285502.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/0eff4d92920c9ae800c8152de2754e4eca7cff757987fc85115a7635948b_1752681285502.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/076b/0eff4d92920c9ae800c8152de2754e4eca7cff757987fc85115a7635948b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e29a/18d986337e3d927bf9139c13ab8fddfeb1251e319ad8386e0a34e2076759.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/251b/51cb4015b7507586fd3bb5384d978f853914f7f0a99c62e65e33a32ae185.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4647/e49ac25a3e63381db2913400333f0f812bc526f638497f2ddf3c30c142af.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8Xf887nJQ"
+    ],
+    "image_path": "images/07_베스트밀_돼지고기_목살_구이용_2kg_(250g_x_8팩)_개별포장.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCFBchtk",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고기파티 하려고 꺼냈는데 마블링이 진짜 보기만 해도 침 고임. 250g씩 개별포장이라 필요한 만큼만 꺼내 쓸 수 있어서 냉동 관리가 훨씬 편해졌어 🥩",
+    "b": "집에서 그냥 불판에 구웠는데 질기지 않고 부드러워서 좋았음. 혼자 먹을 때도 한 팩만 꺼내면 되니까 남기거나 버리는 일이 없어서 딱이더라 🔥"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "axles.61",
+    "url": "https://www.threads.com/@axles.61/post/DdpMmP3E1M9",
+    "views": 913,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hh28paZwDA",
+    "final_url": "https://www.coupang.com/vp/products/8538625372?itemId=24719534045&src=1139000&spec=10799999&addtag=400&ctag=8538625372&lptag=AF2372734&itime=20260926221156&pageType=PRODUCT&pageValue=8538625372&wPcid=17893396169465349359302&wRef=&wTime=20260926221156&redirect=landing&traceid=V0-101-dcf18ba5525b3d3a&mcid=c764855e510c472db453281341225925&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8538625372",
+    "title": "foodi 4색후추 그라인더, 1개, 45g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/01/17/14/8/8ed6f0d0-2668-4fc2-9f58-45a036ae71d6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/01/17/14/8/8ed6f0d0-2668-4fc2-9f58-45a036ae71d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/yhnpqn7y/562e7987537b4224aa54fb13eaef1f3d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/a8ke1vte/baf06a1e04c9441487659151322d2fff.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gda8s8qd/24a132af49834384856fcc99c211817a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lcdmueal/599836dbed504b81a869e866a122bd17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/g6x2rmbw/0c211f0ba30d4e669304c3fcaaf77048.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hh28paZwDA"
+    ],
+    "image_path": "images/08_foodi_4색후추_그라인더,_1개,_45g.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCIl8w0a",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요리할 때 후추 따로 가는 게 귀찮았는데 이 그라인더는 뚜껑 돌리면 바로 갈려서 편함. 4가지 색 후추가 섞여 있어서 일반 후추보다 향이 더 풍부하게 올라오더라 🌶️",
+    "b": "스테이크 구울 때 이거 솔솔 뿌렸더니 뭔가 더 그럴싸해 보임. 투명 병이라 알갱이 색이 다 보여서 소소하게 설레는 느낌도 있어 🫙"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "goodfind_j",
+    "url": "https://www.threads.com/@goodfind_j/post/DdpVmZbE_hb",
+    "views": 771,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-24",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hh8E80bkJM",
+    "final_url": "https://www.coupang.com/vp/products/9638876453?itemId=28798734026&src=1139000&spec=10799999&addtag=400&ctag=9638876453&lptag=AF6608200&itime=20260926221204&pageType=PRODUCT&pageValue=9638876453&wPcid=17893396169465349359302&wRef=&wTime=20260926221204&redirect=landing&traceid=V0-101-a153d3ce2e92c244&mcid=6472d74b41b247a49ceacc80ee465ece&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9638876453",
+    "title": "나이키 마인드 001 (HQ4307-200)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3f2/3c952cca50232e85f4173eed4782ae89a0a4ceda924e2033fd5a8f7cd2ea.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d3f2/3c952cca50232e85f4173eed4782ae89a0a4ceda924e2033fd5a8f7cd2ea.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hh8E80bkJM"
+    ],
+    "image_path": "images/09_나이키_마인드_001_(HQ4307-200).jpg",
+    "my_link": "https://link.coupang.com/a/hmvCLijhhA",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "슬리퍼 하나 사려고 봤다가 이 베이지 색상에 꽂혀버림. 두꺼운 밑창 덕에 발이 편하고 근처 편의점 갈 때 대충 신고 나가기 딱 좋더라 👟",
+    "b": "운동화 신기 귀찮은 날 이거 대충 신고 나갔는데 생각보다 오래 걸어도 발이 안 아팠음. 나이키 로고가 심플하게 새겨져 있어서 운동복이랑도 잘 어울려 😎"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "jh_kim7623",
+    "url": "https://www.threads.com/@jh_kim7623/post/Ddsx-gDGowX",
+    "views": 677,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 1.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g2ICnKEuyW",
+    "final_url": "https://www.coupang.com/vp/products/8243372942?src=1139000&spec=10799999&addtag=400&ctag=8243372942&lptag=AF3468756&itime=20260926221212&pageType=PRODUCT&pageValue=8243372942&wPcid=17893396169465349359302&wRef=&wTime=20260926221212&redirect=landing&traceid=V0-183-a97e0186eca2ead1&mcid=66d92f4005ee4082b9975a800df6c95c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8243372942",
+    "title": "프레시마크 슈페리어 프랑크 소시지 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/8d85/066cacea34116009b7ea1ed4f267e0dca03c84bf078853604d985b71070a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/8d85/066cacea34116009b7ea1ed4f267e0dca03c84bf078853604d985b71070a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hgqaqboq/a8a55eb6fff94ede8a8b16fedea29a60.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ykjzhcoc/36a43341ad9b468d94bae6386b758cd8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/kljsqwa4/f61f0a2ec8ce4d59a4d609e2475a64d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/411315385363260-136a8ec0-ff2a-43fb-945d-821e17b34a3e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/271715142865340-c5553de5-deaa-48ad-9250-436fea04393d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/787327083907617-ee9d6dfb-923c-451c-a571-bea48e720ebe.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g2ICnKEuyW"
+    ],
+    "image_path": "images/10_프레시마크_슈페리어_프랑크_소시지_(냉동).jpg",
+    "my_link": "https://link.coupang.com/a/hmexKFJSYC",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주말 브런치에 이거 구워 먹었는데 그냥 팬에 올리기만 해도 맛있어서 좋음. 씹을 때 육즙 터지는 느낌이 있어서 애들이 너무 좋아하더라 🌭",
+    "b": "라면 끓일 때 하나씩 잘라 넣었더니 뭔가 더 든든해짐. 냉동이라 쟁여두고 먹을 수 있어서 생각날 때마다 꺼내 쓰게 돼 🔥"
+   }
+  }
+ ]
+}
