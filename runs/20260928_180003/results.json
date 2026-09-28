@@ -1,0 +1,469 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-28T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-09-28T18:16:18"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DdudX3uiOVP",
+    "views": 2400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gCK8ysYqaW",
+    "final_url": "https://www.coupang.com/vp/products/8358440846?itemId=24153347794&src=1139000&spec=10799999&addtag=400&ctag=8358440846&lptag=AF2377009&itime=20260928181118&pageType=PRODUCT&pageValue=8358440846&wPcid=17905526599079763164544&wRef=&wTime=20260928181118&redirect=landing&traceid=V0-181-ca21f81311787c5d&mcid=b1527092e6a9421894f724de4dfd7a7a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8358440846",
+    "title": "마다꾸미 실리콘 책갈피 북스토퍼 북클립 북마크 2종 세트, 혼합색상, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/379616609391543-1b11f0cf-8c83-469d-a935-4b1614e7767c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/379616609391543-1b11f0cf-8c83-469d-a935-4b1614e7767c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/379344825577165-8a2be732-ec98-4c3d-aea4-9c51014760b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302928749166308-03fada70-0a59-4701-8b54-3a0be3d7f4f0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/379344827696834-bb1577bd-b3cc-4186-a281-fa5fc8b5531d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302928756855444-8c511223-948d-4bb2-87ee-03998ccd9d66.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302859813324236-54c9cdb5-617f-4fe0-b565-72f13f998de8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/379344817637601-f5703c71-9996-4886-b727-f8122e531452.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/302928766473328-cc5062a7-da23-44db-bf3a-6b2d847ff13c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gCK8ysYqaW"
+    ],
+    "image_path": "images/01_마다꾸미_실리콘_책갈피_북스토퍼_북클립_북마크_2종_세트,_혼합색상,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책 귀퉁이 접던 습관 있었는데 이거 쓰고부터 책이 깔끔하게 유지돼. 색이 여러 개라 책마다 다르게 꽂는 재미도 있고. 작은 건데 은근 쓸수록 좋더라 📚",
+    "b": "이거 별거 아닌 줄 알았는데 가방에 넣어도 쏙 빠지질 않아서 완전 편해. 알록달록한 색깔이 꽂혀 있으니까 책장 보는 맛도 생김. 나중에 선물용으로 또 살 것 같음 🌈"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "goose.potter",
+    "url": "https://www.threads.com/@goose.potter/post/Ddt2C_YDk56",
+    "views": 1400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eNj4tkfW4y",
+    "final_url": "https://www.coupang.com/vp/products/9207295931?itemId=27193091263&src=1139000&spec=10799999&addtag=400&ctag=9207295931&lptag=AF0743444&itime=20260928181126&pageType=PRODUCT&pageValue=9207295931&wPcid=17905526599079763164544&wRef=&wTime=20260928181126&redirect=landing&traceid=V0-101-9c3c5a165eb64b3a&mcid=0d1e38b8f44a4fc5992621284088bee5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9207295931",
+    "title": "망고 슬라이서 고급형 (사과커터기 씨제거 망고칼 망고커터기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4a9b/d1d98a439af3ec4363965bab53fe9e5bb60957ccf4dfba38498b65dd58f8.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4a9b/d1d98a439af3ec4363965bab53fe9e5bb60957ccf4dfba38498b65dd58f8.jpeg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=CF-tENYVEB8"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/eNj4tkfW4y"
+    ],
+    "image_path": "images/02_망고_슬라이서_고급형_(사과커터기_씨제거_망고칼_망고커터기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "망고 자르다가 씨 때문에 매번 실패했는데 이거 누르면 한 번에 분리돼서 진짜 신기함. 손에 과즙 잔뜩 묻히던 게 없어졌어. 망고 자주 먹는 집이면 진짜 편해짐 🥭",
+    "b": "망고 좋아하는데 자르는 게 귀찮아서 안 먹던 적도 있었는데 이제 그냥 슥 자름. 한 번에 씨 빠지고 뒤처리도 깔끔해. 여름마다 꺼낼 것 같아 🥭"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "yuurrii00",
+    "url": "https://www.threads.com/@yuurrii00/post/DdtcqfhCKZe",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hfyG1UNM7w",
+    "final_url": "https://www.coupang.com/vp/products/7863372643?itemId=21555826327&src=1139000&spec=10799999&addtag=400&ctag=7863372643&lptag=AF4212337&itime=20260928181133&pageType=PRODUCT&pageValue=7863372643&wPcid=17905526599079763164544&wRef=&wTime=20260928181133&redirect=landing&traceid=V0-183-909f6987326e71ce&mcid=9bc1706efdaa4cd5b47af52931d0c685&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=slotjw10&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7863372643",
+    "title": "유키 퓨어 아세톤, 100ml, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/830aeace-815c-4327-bd97-a239c9757fd116656877325293727.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/830aeace-815c-4327-bd97-a239c9757fd116656877325293727.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/02/06/14/0/7f69a0a6-18a9-4ef0-8fb9-490851d13e3f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hfyG1UNM7w"
+    ],
+    "image_path": "images/03_유키_퓨어_아세톤,_100ml,_2개.jpg",
+    "my_link": "https://link.coupang.com/a/hoaDxgPHy0",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "젤네일 지울 때 시중 리무버로는 한참 걸렸는데 이건 빨리 녹더라. 솜에 적셔서 잠깐만 올려두면 돼서 손 덜 힘들어. 홈케어 자주 하는 사람한테 진짜 편한 물건임 💅",
+    "b": "셀프 젤네일 하면서 제거할 때가 제일 귀찮았는데 이거 쓰고 나서 그 스트레스가 좀 줄었어. 양도 넉넉해서 한 통으로 꽤 오래 써. 냄새는 좀 강하니까 환기는 필수임 💨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g830SYgSQ0",
+    "final_url": "https://www.coupang.com/vp/products/130170863?itemId=383084769&src=1139000&spec=10799999&addtag=400&ctag=130170863&lptag=AF7862534&itime=20260928181141&pageType=PRODUCT&pageValue=130170863&wPcid=17905526599079763164544&wRef=&wTime=20260928181141&redirect=landing&traceid=V0-101-210228f46d45f21b&mcid=480e19eac0064dd08f360cb5bf7efbde&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "130170863",
+    "title": "CJ제일제당 고소한 순두부, 350g, 2개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/555277595675404-bc8190e5-9290-4762-aa3a-34a1e833eeec.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/555277595675404-bc8190e5-9290-4762-aa3a-34a1e833eeec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/532566873076239-f038cca7-e08a-405e-bc08-4518c82049e0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1680815934515291-3d3e77ca-4c5e-4268-8a4d-5c0d8790dadf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/532566947138729-1cf2ae59-d3d9-421d-b502-cbc8582a1dcf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1758408931173430-9d588955-8067-48ae-98fa-477b9aa3b732.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1758408918011123-2c407bdf-43e7-463a-b355-6684273fa377.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/61732610850262-fae6c157-cfbb-4eb3-9c47-0793668b2f65.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/51142502505571-10308c3c-7238-46c7-b7da-1272306cc5c3.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g830SYgSQ0"
+    ],
+    "image_path": "images/04_CJ제일제당_고소한_순두부,_350g,_2개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "찌개 귀찮을 때 그냥 간장이랑 먹었는데 고소한 맛이 생각보다 진해서 놀람. 2개 묶음이라 냉장고에 쟁여두기 좋고. 간단히 한 끼 때울 때 진짜 자주 꺼내게 됨 🍚",
+    "b": "순두부찌개 끓이려고 샀다가 이제 그냥 단독으로도 먹음. 콩 비율이 높아서 그런지 순두부가 되게 고소해. 아침에 간단하게 먹기 딱 좋더라 ☀️"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "kittybro_yo",
+    "url": "https://www.threads.com/@kittybro_yo/post/DduisfqE95l",
+    "views": 910,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hifEEW7WOO",
+    "final_url": "https://www.coupang.com/vp/products/166481530?src=1139000&spec=10799999&addtag=400&ctag=166481530&lptag=AF1842398&itime=20260928181148&pageType=PRODUCT&pageValue=166481530&wPcid=17905526599079763164544&wRef=&wTime=20260928181148&redirect=landing&traceid=V0-183-adb684089245a921&mcid=4998c65c56db48cea9201c8eadccaa27&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "166481530",
+    "title": "일드프랑스 미니 브리 치즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2018/12/06/17/9/2a729049-7fac-4448-b50a-c78ce3fbe8de.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/12/06/17/9/2a729049-7fac-4448-b50a-c78ce3fbe8de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11286365073251093-4c167995-9bf7-45c8-a61c-b79a4d043877.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/12/06/17/6/21aebdc7-e318-4561-819c-0c4bedce27b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/12/06/17/9/b7b98932-9c51-46c3-955b-f731028af927.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/12/06/17/0/016772ab-29e3-4ddd-a77b-bb9ea75b2912.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16656584795699099-de56a2cd-3c10-49ea-9f7b-5b65cf268150.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/15109450543615-12bc3fbc-8c98-466d-86d3-f97f072e6fdc.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_824bfa34-5eae-457c-a998-a308b10bc38c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hifEEW7WOO"
+    ],
+    "image_path": "images/05_일드프랑스_미니_브리_치즈.jpg",
+    "my_link": "https://link.coupang.com/a/hoRPVB7wia",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "한 입 크기라 부담 없이 꺼내 먹을 수 있어서 좋음. 속이 크리미해서 크래커 위에 올려 먹으면 진짜 맛있어. 치즈 좋아하면 한 번쯤 먹어볼 만한 맛임 🧀",
+    "b": "브리가 흰 껍질이라 처음엔 낯설었는데 속이 부드러워서 금방 익숙해졌어. 미니 사이즈라 혼자 먹기 딱 좋고. 간식으로 하나씩 꺼내먹는 루틴이 생겼다 🧀"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "eunha.0707",
+    "url": "https://www.threads.com/@eunha.0707/post/DduKoU9H5ip",
+    "views": 904,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hksFVtkeYu",
+    "final_url": "https://www.coupang.com/vp/products/7138475320?itemId=17917452826&src=1139000&spec=10799999&addtag=400&ctag=7138475320&lptag=AF2731016&itime=20260928181156&pageType=PRODUCT&pageValue=7138475320&wPcid=17905526599079763164544&wRef=&wTime=20260928181156&redirect=landing&traceid=V0-181-233fae2eb6c3d386&mcid=fcd23b5b64a44f578645d409b2ba4fb2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7138475320",
+    "title": "BCL tsururi 비씨엘 츠루리 포어 모공 클렌징 젤 15g, 1개, 1개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5533/361527c0fdae93eb5faba31a29b456e72bfc55e1f5c3b6031d3fa31021f2.JPG",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5533/361527c0fdae93eb5faba31a29b456e72bfc55e1f5c3b6031d3fa31021f2.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4aba/a15e235b5155cb87fb911924e8270e76fea944fefa61454140d5fa3e9f4c.JPG",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hksFVtkeYu"
+    ],
+    "image_path": "images/06_BCL_tsururi_비씨엘_츠루리_포어_모공_클렌징_젤_15g,_1개,.jpg",
+    "my_link": "https://link.coupang.com/a/hcg8LgOv6G",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코 주변 모공 신경 쓰여서 써봤는데 젤 발라두면 따뜻해지는 느낌이 나. 씻어내고 나면 피부 결이 부드럽게 느껴져서 나쁘지 않더라. 작은 튜브인데 조금씩만 써도 돼서 오래 감 🌿",
+    "b": "코에 살살 문질러주면 뭔가 시원하면서 따뜻한 느낌이 동시에 나는 게 특이해. 씻고 나면 개운한 기분이라 아침 세안에 자꾸 쓰게 됨. 아껴 쓰면 오래 버텨줄 것 같아 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "174cm.dena",
+    "url": "https://www.threads.com/@174cm.dena/post/Ddt20Z9E6NA",
+    "views": 872,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hk2H67CcLY",
+    "final_url": "https://www.coupang.com/vp/products/9651245920?itemId=28846939054&vendorItemId=95780862242&src=1191000&spec=10999999&addtag=400&ctag=9651245920&lptag=CFM76014281&itime=20260928181203&pageType=PRODUCT&pageValue=9651245920&wPcid=17905526599079763164544&wRef=&wTime=20260928181203&redirect=landing&abTestInfo=&mcid=8d38930283b04f3192f7e127bb294918&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9651245920",
+    "title": "이든무드 프리미엄 샴푸 브러쉬 두피 마사지 2종 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a08f/3adb8914170d13dd124ab09fb4100f05663877be9462a1eeecaecaf902a2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a08f/3adb8914170d13dd124ab09fb4100f05663877be9462a1eeecaecaf902a2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/972d/0823734eb04407f05114afedcc50cd41293c02cb5edb1ff8839340e82d8f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c28a/f44bf8c0b7d179d050d7162413c23eaf246552667a8518625d0d2bdbdf99.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/746e/65371fad8851e3dea48d5e1656a729bd53b2498af5912a2acbe643579713.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/434d/14011258426d47c29b242f6e6cd23bd7a5f24388277d6852e5ba5f4c92d0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e394/9fca3510fe9cecff68d5f14f6d5c80764b63a746ec1b2d8a96cb1f15e0ba.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hk2H67CcLY"
+    ],
+    "image_path": "images/07_이든무드_프리미엄_샴푸_브러쉬_두피_마사지_2종_세트.jpg",
+    "my_link": "https://link.coupang.com/a/hoaDzWKWMm",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "손가락으로만 감던 머리를 이걸로 바꾸니까 두피 구석구석까지 닿는 느낌이 달라. 샴푸할 때 마사지 효과도 있어서 개운해. 욕실에 이것만 들어와도 기분이 달라지더라 🛁",
+    "b": "핑크랑 그린 세트라 하나는 나 쓰고 하나는 가족 줬음. 실리콘 재질이라 물에 안 미끄러지고 세척도 쉬워. 머리 감는 게 이렇게 소소하게 기분 좋을 줄 몰랐음 🌿"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "behappy_smile03",
+    "url": "https://www.threads.com/@behappy_smile03/post/DdtVmLhn7Ex",
+    "views": 792,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-25",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/geyKnTmPkG",
+    "final_url": "https://www.coupang.com/vp/products/8761138820?itemId=25475514638&vendorItemId=92467924755&src=1139000&spec=10799999&addtag=400&ctag=8761138820&lptag=AF1646384&itime=20260928181211&pageType=PRODUCT&pageValue=8761138820&wPcid=17905526599079763164544&wRef=&wTime=20260928181211&redirect=landing&traceid=V0-181-c6e0d1b0e617b392&mcid=8003a99a452047719c6026a145aa61ed&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8761138820",
+    "title": "살로몬 X 샌디 리앙 XT 위스퍼 \"페어리 테일\" 스니커즈 - 로우탑 스니커즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c3a7/64f770c6562ba0f1ab57efcad36dd848128ee5f167c417d997ffb9f82839.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c3a7/64f770c6562ba0f1ab57efcad36dd848128ee5f167c417d997ffb9f82839.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c8c6/ea4803604fe6c3fe04a44a7e5feeee922d3331b998feb005a5d4f9f0a591.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/89e7/93ff4d6243e083b65a12523a14dac996819ad8fb89a707aa79d7b0e251ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/54bd/1f8eebfcbd344742d43c3302505d6c00de604f657e9c65d0863869132f3e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b003/b0598692d82c27ffafeb78d24cfe4efd695600ce8d3512f693a9fd34d894.jpg",
+     "https://image.coupangcdn.com/image/badge/badge_1a0842d5e8c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/geyKnTmPkG"
+    ],
+    "image_path": "images/08_살로몬_X_샌디_리앙_XT_위스퍼_페어리_테일_스니커즈_-_로우탑_스니커.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이 분홍 실버 색 조합이 진짜 내 스타일인데 신어보니 생각보다 가볍고 쿠션도 있음. 외출할 때마다 괜히 기분이 올라가는 신발이야. 코디 신경 안 써도 신발이 다 해줌 🩷",
+    "b": "처음엔 너무 튀나 싶었는데 막상 신으면 생각보다 자연스러워. 밑창 빨간 포인트도 마음에 들고. 요즘 이 신발 때문에 나가는 빈도가 늘었음 🤍"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "namhui.art106",
+    "url": "https://www.threads.com/@namhui.art106/post/DducRqsE_CP",
+    "views": 655,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hjAvmhQ7no",
+    "final_url": "https://www.coupang.com/vp/products/8676864822?itemId=25384231637&src=1139000&spec=10799999&addtag=400&ctag=8676864822&lptag=AF9997961&itime=20260928181238&pageType=PRODUCT&pageValue=8676864822&wPcid=17905526599079763164544&wRef=&wTime=20260928181238&redirect=landing&traceid=V0-101-f2419c7bcc3812d0&mcid=db8bce1cb5c946dcb97211b4f36f8017&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8676864822",
+    "title": "장미화의 3분 동안 염색약 렛미모 15회분 원스텝 슈퍼브 헤어칼라 흰머리 새치 샴푸형, 1개, 흑갈색",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd8f/6d90aad7ff3281f7ff8b3e03827d3120bdbb3dd85054c99bba16a47c50fd.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd8f/6d90aad7ff3281f7ff8b3e03827d3120bdbb3dd85054c99bba16a47c50fd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1c6a/c2fcb076727264708ad0676a9a753ed0eda22df96b76663b92feb292f9f1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0a7c/c71732b678bff28adb4a4f6f45ece1adbe6980d23ac4af7c613cc2a9faf6.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=rNnV5lKZBUs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hjAvmhQ7no"
+    ],
+    "image_path": "images/09_장미화의_3분_동안_염색약_렛미모_15회분_원스텝_슈퍼브_헤어칼라_흰머리.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "새치 난 부위에 샴푸처럼 바르고 3분 기다리는 거라 진짜 간편해. 미용실 가기 애매할 때 집에서 해결할 수 있어서 생각보다 자주 쓰게 됨. 냄새도 자극적이지 않아서 편했어 🖤",
+    "b": "흑갈색으로 샀는데 발색이 자연스러운 편이라 좋았음. 샴푸형이라 처음엔 반신반의했는데 생각보다 잘 커버돼서 놀람. 여러 번 쓸 수 있게 구성돼 있어서 오래 씀 💆"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "jisujisu_01",
+    "url": "https://www.threads.com/@jisujisu_01/post/Ddt93oojCnG",
+    "views": 570,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/grUzrb1rvE",
+    "final_url": "https://www.coupang.com/vp/products/9275465690?itemId=27457064954&src=1139000&spec=10799999&addtag=400&ctag=9275465690&lptag=AF1646384&itime=20260928181246&pageType=PRODUCT&pageValue=9275465690&wPcid=17905526599079763164544&wRef=&wTime=20260928181246&redirect=landing&traceid=V0-181-9a63ba60c81d608b&mcid=5f9e5969446a4f28958ed739f1444eef&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9275465690",
+    "title": "헤몬팜 라이트 무선 고압세척기 휴대용 고압세차기 휴대용 충전 고압세척기 풀세트 배터리 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b3d2/a50a01b5bcfedaf7649120e6d5619a3616c1aa56b5cc770622bb9528524d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b3d2/a50a01b5bcfedaf7649120e6d5619a3616c1aa56b5cc770622bb9528524d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5e0a/5d21b716d6bb31adde7b5c138c8a582ef3707319c19647f7240dc8b7d227.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f19/b40f15332c5dbffbabda96dd921f9a3b92e20bf0ac8b0924f465290a8fec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1108/6de9738168f128e9300a74cdba504da1633bda18dbcca3ebbfff609e4b30.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8352/19ed68fc9fdb23357702212713ff8ef52e2ce8025573220a940be8bc142b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/61a7/f7e9b5ef2cc164b45c2a3cecf56d0bbc943426a4e46c6d543d4f9039b243.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aba4/686d17a1d1444ff1a171c784762bb9ca2ba7ab653357d6fa153990ab3648.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac3f/77f0b72bb8c07b35703073d3e28c77daa0d49315739f89edb9d13438cbdc.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=6lrMc0XTR6g",
+     "https://www.youtube.com/watch?v=3KU1mqfAYUk",
+     "https://www.youtube.com/watch?v=cTagqQqxQ-I",
+     "https://www.youtube.com/watch?v=S1L94ULQo4Y",
+     "https://www.youtube.com/watch?v=SOyZwbFfkWM",
+     "https://www.youtube.com/watch?v=ibE9UU3Zc3c"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/grUzrb1rvE"
+    ],
+    "image_path": "images/10_헤몬팜_라이트_무선_고압세척기_휴대용_고압세차기_휴대용_충전_고압세척기_.jpg",
+    "my_link": "https://link.coupang.com/a/hoaDDcB8nc",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세차장 가기 귀찮아서 질렀는데 충전해서 들고 나가면 바로 쓸 수 있어서 편해. 케이블 없이 움직일 수 있는 게 생각보다 자유로워. 노즐 종류도 여러 개라 쓸 데가 다양하더라 💦",
+    "b": "무선이라 약할 줄 알았는데 수압이 꽤 강해서 놀람. 차 한 대 씻는 데 배터리 충분히 버텨줘. 박스에 구성품이 많아서 왠지 이득 본 기분이라 기분 좋았음 🚗"
+   }
+  }
+ ]
+}
