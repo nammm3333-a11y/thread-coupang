@@ -1,0 +1,451 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-29T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-29T13:17:11"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "kyokyo2636",
+    "url": "https://www.threads.com/@kyokyo2636/post/Ddv-bl8kt8z",
+    "views": 23000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmp3Biou0O",
+    "final_url": "https://www.coupang.com/vp/products/7637205700?itemId=20282646422&src=1139000&spec=10799999&addtag=400&ctag=7637205700&lptag=AF3409718&itime=20260929131223&pageType=PRODUCT&pageValue=7637205700&wPcid=17905526599079763164544&wRef=&wTime=20260929131223&redirect=landing&traceid=V0-101-f247f6268265cb9d&mcid=7ea4a268f78d4000977f1a123445a841&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7637205700",
+    "title": "토스키 아마레나 체리 시럽, 1L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/678200108452903-d13e4fee-3ef5-4097-b8a3-3274c0cd4109.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/678200108452903-d13e4fee-3ef5-4097-b8a3-3274c0cd4109.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/404612249947689-3831c80c-de0d-40b5-a550-854b71852230.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/641519229021881-52c3424a-e051-4530-a845-213efb06bebf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/391986323741943-3fdf0d6a-5d8c-4cfd-99c5-2e7983d9d949.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmp3Biou0O"
+    ],
+    "image_path": "images/01_토스키_아마레나_체리_시럽,_1L,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "홈카페 할 때 이거 한 방울 넣으면 진짜 카페 음료 느낌 남. 체리 향이 진해서 탄산수에 넣어도 맛있고, 냉장고에 이거 생기고 나서 괜히 음료 만들어 마시는 횟수가 늘었어 🍒",
+    "b": "티라미수 만들다가 아마레나 시럽 뿌렸는데 비주얼이 미쳐버림. 달달하면서 새콤한 맛이 아이스크림이랑도 잘 어울려서, 디저트 해먹을 때마다 꺼내게 되는 시럽이 됐어 🍨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "salimkock",
+    "url": "https://www.threads.com/@salimkock/post/DdvLqVPEQJu",
+    "views": 2800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hlT7FL5kK4",
+    "final_url": "https://www.coupang.com/vp/products/8213695655?itemId=21474550848&src=1139000&spec=10799999&addtag=400&ctag=8213695655&lptag=AF3701112&itime=20260929131231&pageType=PRODUCT&pageValue=8213695655&wPcid=17905526599079763164544&wRef=&wTime=20260929131231&redirect=landing&traceid=V0-101-27731e2ca727864a&mcid=f275726fd2974ac5882d618e924b9629&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8213695655",
+    "title": "온더바디 코튼풋 발을 씻자 풋샴푸 쿨링",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/261150305342049-d37505bf-fcdf-4155-b07f-286f0e53b03a.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/261150305342049-d37505bf-fcdf-4155-b07f-286f0e53b03a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/270079178183858-946f230c-3328-4c3b-8367-87b638f0fe67.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/345051861514250-ee078e80-47c8-4d73-b0ab-e59bbd7ea0ba.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/583079468186727-5026f9a3-cdb9-4c15-8fac-3f79ea476c35.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/106560928776991-4627a88f-32b9-46f9-96fb-e23f15f634aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/345048734069104-50aecd80-b271-4483-832a-934b02bdeb85.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hlT7FL5kK4"
+    ],
+    "image_path": "images/02_온더바디_코튼풋_발을_씻자_풋샴푸_쿨링.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름에 발 냄새 신경 쓰이던 게 이거 쓰면서 좀 달라진 것 같아. 샤워할 때 발에 뿌리고 거품 내서 씻으면 쿨링감이 있어서 씻고 나서도 발이 시원한 느낌이 남더라 🦶",
+    "b": "운동하고 돌아와서 발 씻을 때 이거 뿌리는 게 루틴이 됨. 스프레이라 쫙 뿌리면 거품이 잘 나서 편한데, 민트 향이 확 올라오면서 기분까지 개운해지는 게 좋아 🌊"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "daily_my_hoo",
+    "url": "https://www.threads.com/@daily_my_hoo/post/Ddv3am1kz2g",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hml6ETRaQC",
+    "final_url": "https://www.coupang.com/vp/products/9706829718?itemId=29040431773&src=1139000&spec=10799999&addtag=400&ctag=9706829718&lptag=AF9419317&itime=20260929131240&pageType=PRODUCT&pageValue=9706829718&wPcid=17905526599079763164544&wRef=&wTime=20260929131240&redirect=landing&traceid=V0-101-da221619108b20d9&mcid=7cb2f523abb7410cad76fdf57d0c02fd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9706829718",
+    "title": "펜그로하우스 넘버블록스 시계놀이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1ba8/898d766ce5e0e11c066f81df47c52e70aaef51b5a558167196dd2e1b3565.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1ba8/898d766ce5e0e11c066f81df47c52e70aaef51b5a558167196dd2e1b3565.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hml6ETRaQC"
+    ],
+    "image_path": "images/03_펜그로하우스_넘버블록스_시계놀이.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애가 넘버블록스 좋아해서 시계 놀이 교구 샀는데 시간 개념 가르치기가 훨씬 쉬워짐. 알록달록 캐릭터 보면서 스스로 바늘 돌려보더니 이제 몇 시인지 말할 줄 알아 🕐✨",
+    "b": "집에서 놀이처럼 시계 배울 수 있는 거 찾다가 이거 득템함. 넘버블록스 캐릭터라 거부감 없이 가지고 노는데, 게임처럼 바늘 맞추면서 꽤 오래 집중하는 모습에 내가 더 놀람 🌈"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "nalbluesky33",
+    "url": "https://www.threads.com/@nalbluesky33/post/DdvO5TZktHU",
+    "views": 843,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/e8MOuJJYBw",
+    "final_url": "https://www.coupang.com/vp/products/8672569936?itemId=25176182348&src=1139000&spec=10799999&addtag=400&ctag=8672569936&lptag=AF8219156&itime=20260929131249&pageType=PRODUCT&pageValue=8672569936&wPcid=17905526599079763164544&wRef=&wTime=20260929131249&redirect=landing&traceid=V0-101-116e28fd22fe565e&mcid=c5d50f97ce6147d6b99dfc54d4103bbb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8672569936",
+    "title": "다향 다리두배 닭볶음탕용 닭고기 (냉장)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/ixaxhtxc/0c23af3a16214a0f9921ef05204eaf0e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ixaxhtxc/0c23af3a16214a0f9921ef05204eaf0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qdaq5hpt/55939ec74783475bbe4c5f335c65d71d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/g3w0wuw4/71111f00d1a946cfbc4f653db630015d.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vzibhtmq/5fad4499f571468a8701a33656967bb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xwwi2mas/acb7ca5176b14d70846de7d7e8c34392.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vgigukeo/f2fa80d4605d4f31bc5061007b833c3b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/g5oznjzy/829e4742cf164ef8ba8fb125fbaa5f58.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/e8MOuJJYBw"
+    ],
+    "image_path": "images/04_다향_다리두배_닭볶음탕용_닭고기_(냉장).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "닭볶음탕 하려고 시장 가기 귀찮을 때 이거 시키는데 진짜 다리가 두 배라 먹을 게 많음. 냉장이라 신선하고 손질도 되어 있어서 바로 냄비에 넣으면 돼서 너무 편해 🍗",
+    "b": "다리 부위가 넉넉해서 살이 두꺼워 간이 잘 배는데, 처음 해봤을 때 평소보다 훨씬 맛있게 됐던 기억이 있음. 그 뒤로 닭볶음탕은 그냥 이거로 고정해버렸어 🔥"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "it_goodgiraffe",
+    "url": "https://www.threads.com/@it_goodgiraffe/post/Ddvk4tkH1eV",
+    "views": 625,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hl96lPHTHM",
+    "final_url": "https://www.coupang.com/vp/products/9548597703?itemId=28488079110&src=1139000&spec=10799999&addtag=400&ctag=9548597703&lptag=AF3043312&itime=20260929131256&pageType=PRODUCT&pageValue=9548597703&wPcid=17905526599079763164544&wRef=&wTime=20260929131256&redirect=landing&traceid=V0-101-1ac0828f4979fa6f&mcid=286a4dcf2821468fa3a2bfd15a313be3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9548597703",
+    "title": "KUAHAI 롱레그 이동식 원터치 휴지통 20L 가정용 주방 고각 대용량 쓰레기통",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f5f3/ecac9a7da0b96892b9d7d134e0b722ba2b1588c74d8a70d20879592ac227.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f5f3/ecac9a7da0b96892b9d7d134e0b722ba2b1588c74d8a70d20879592ac227.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c933/c8f6b1e1f370af470ece1f87c43afd62d91c4bd95c164436052f61a4b08b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f6a3/8b2208b21a4c71b7a1a5330ff7794408e9fbbf0be2fb5a6a3b6882995602.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0be4/91968219ee60549376503cada6f050ddcd4d6b216b3ab243630a301b3f7a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/645b/c2e4ba076df3155072d404fbbdd5370eb819dded35c2374e001409ebcc0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4402/299363375d82361984af8e5e4a81ae6c86c057f708b91d12cba10f34c97c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/02c4/70b8b5f7107016ea7b42a35a3c2c9b9d88bb0191711c5e976377bf21c29b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5906/3cb0fea9ecde54ddba52d8db7984cbd491592b7878ba83cae8a57dcef535.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hl96lPHTHM"
+    ],
+    "image_path": "images/05_KUAHAI_롱레그_이동식_원터치_휴지통_20L_가정용_주방_고각_대용량.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "쓰레기통이 이렇게 예쁠 수가 있나 싶었음. 긴 다리에 바퀴까지 달려있어서 이동도 쉽고, 주방에 뒀는데 인테리어 해치지 않아서 오히려 더 눈에 잘 띄는 포인트가 됐어 🗑️",
+    "b": "쓰레기통 하나 바꿨을 뿐인데 주방 분위기가 달라진 것 같아. 높이가 있어서 허리 굽히지 않고 버릴 수 있는 게 생각보다 편하고, 청소할 때 바퀴로 밀면 돼서 좋더라 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "penguin.9626406",
+    "url": "https://www.threads.com/@penguin.9626406/post/DdvaIOQjjU0",
+    "views": 597,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hhAh1TKxye",
+    "final_url": "https://www.coupang.com/vp/products/8365738755?itemId=26215629897&src=1139000&spec=10799999&addtag=400&ctag=8365738755&lptag=AF7104712&itime=20260929131304&pageType=PRODUCT&pageValue=8365738755&wPcid=17905526599079763164544&wRef=&wTime=20260929131304&redirect=landing&traceid=V0-183-7be87125b695ee2a&mcid=0643960a20844406afb8d1984ffee87b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=myshop&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8365738755",
+    "title": "카무라라 창문 캣타워 투명둥지",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/01/12/7/96e9a70a-138c-48a0-a0a0-7ce4919ef7eb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/01/12/7/96e9a70a-138c-48a0-a0a0-7ce4919ef7eb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/01/12/1/d18d5ecc-01e0-4716-8345-43e87c261f22.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/01/12/8/f631ca2e-bbfe-434e-a6f8-0abb0e4ee2cc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/01/12/3/b8b7d26d-614e-4595-b5dd-cfd030d958d3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/01/12/0/b3de9d79-ff6c-4417-a481-65a435c00bdd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hhAh1TKxye"
+    ],
+    "image_path": "images/06_카무라라_창문_캣타워_투명둥지.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이가 창밖 보는 걸 좋아해서 이거 달아줬는데 붙자마자 들어가서 안 나옴. 투명 둥지라 고양이 배 보이는 게 너무 귀여워서 나도 맨날 쳐다보게 됨 🐱",
+    "b": "처음엔 경계하다가 한 번 들어간 뒤로 낮잠 자리가 거기로 바뀌어버림. 창밖 구경하면서 자는 모습이 진짜 힐링인데, 유리에 흡착식이라 설치도 생각보다 간단했어 🌿"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sallim_boddari",
+    "url": "https://www.threads.com/@sallim_boddari/post/Ddv3qzhgTQA",
+    "views": 397,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmlMgb48oC",
+    "final_url": "https://www.coupang.com/vp/products/9252211455?itemId=27366853308&src=1139000&spec=10799999&addtag=400&ctag=9252211455&lptag=AF3239584&itime=20260929131312&pageType=PRODUCT&pageValue=9252211455&wPcid=17905526599079763164544&wRef=&wTime=20260929131312&redirect=landing&traceid=V0-101-69165cbece1cd554&mcid=353c1d3ee71746738606b55382bffd9a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9252211455",
+    "title": "샐러디 바질 치즈 통밀 가득 치아바타 샌드위치 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/6cz4sdnj/f9ac73cc4b2846929dff6eda9e96cf92.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/6cz4sdnj/f9ac73cc4b2846929dff6eda9e96cf92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/6zmmbrgh/4e8dcf97d6ae4af4b2a97a710d8bd12b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/l0epsctn/5b991a39c5254677ae4dfc2f9dee33a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hkcjkzzu/17260ed7a4b6410b956b4d606dff25aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/latiumj5/7b97dc9aee184b498cf6d9c5129b266f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmlMgb48oC"
+    ],
+    "image_path": "images/07_샐러디_바질_치즈_통밀_가득_치아바타_샌드위치_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동 샌드위치인데 이게 진짜 맛있어서 좀 놀람. 에어프라이어에 돌리면 치즈 늘어나고 바질 향이 올라오는데, 바빠서 점심 대충 때울 때 이거 하나면 충분함 🥪",
+    "b": "아침마다 뭐 먹을지 고민될 때 냉동실에 이거 있으면 진짜 든든함. 통밀 치아바타라 식감이 꽤 있고 치즈 양이 생각보다 많아서 먹고 나면 배가 오래 찼어 🧀"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "kimseukku13",
+    "url": "https://www.threads.com/@kimseukku13/post/DdvO0xMD_re",
+    "views": 362,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hlWsbZo3qK",
+    "final_url": "https://www.coupang.com/vp/products/5912978260?itemId=10456923425&src=1139000&spec=10799999&addtag=400&ctag=5912978260&lptag=AF6776194&itime=20260929131319&pageType=PRODUCT&pageValue=5912978260&wPcid=17905526599079763164544&wRef=&wTime=20260929131319&redirect=landing&traceid=V0-101-df85ee4181c43fc2&mcid=e692ab03936f4d0880440e6f8e3ba442&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5912978260",
+    "title": "요이치 게이밍 마우스 장패드 800 x 300 x 5 mm",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc09/1658cc5bdfb18757afcc55f4b321281e0bcc9e216d82f898a95e1f445a6f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc09/1658cc5bdfb18757afcc55f4b321281e0bcc9e216d82f898a95e1f445a6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4723862134647577-3589b019-44be-4873-9579-0f5b461d37bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/780495901823835-d16776b1-1b6c-4f1b-a835-d2ed331c44fc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4723862174674672-8e5087c6-ea1c-484b-9159-83b09505169b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/780504937338975-eea0c7e5-f232-4de2-a115-42c2fd994611.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4723862343329467-7aa21c54-cfd1-469f-a839-ffb95694e0a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/498656249361805-71a886d6-b218-4595-8406-2d27146eb4da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/89629342036577-a6553835-da7d-403b-b41a-702584f4284b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hlWsbZo3qK"
+    ],
+    "image_path": "images/08_요이치_게이밍_마우스_장패드_800_x_300_x_5_mm.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마우스 패드 하나 바꿨을 뿐인데 책상이 정리된 느낌이 드는 게 신기함. 키보드까지 올려두고 쓰는데 두께감이 있어서 손목이 확실히 덜 피곤한 것 같아 🖱️",
+    "b": "게임할 때 마우스 움직임 느낌이 달라지는 게 체감됨. 표면이 매끄러워서 마우스가 부드럽게 미끄러지고, 팔 전체 올려두기에 넓어서 장시간 작업도 편해졌어 🎮"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "artb0001",
+    "url": "https://www.threads.com/@artb0001/post/DdvmTMigWwI",
+    "views": 313,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmaEfeIdum",
+    "final_url": "https://www.coupang.com/vp/products/9371774?itemId=15490006481&vendorItemId=88377366549&src=1139000&spec=10799999&addtag=400&ctag=9371774&lptag=AF3057089&itime=20260929131327&pageType=PRODUCT&pageValue=9371774&wPcid=17905526599079763164544&wRef=&wTime=20260929131327&redirect=landing&traceid=V0-181-90293e766f4ba76f&mcid=25e8c94a7a5443928ea58b1c2efb1189&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9371774",
+    "title": "코카콜라 오리지널, 190ml, 60개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/16431649450683-d10d9bdb-ec43-4a44-8630-fa97e86a6550.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16431649450683-d10d9bdb-ec43-4a44-8630-fa97e86a6550.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22333633361869-3d53feae-794b-4845-bda4-0c515e8fcbb5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22333540046743-fc6f46e1-b2e1-4de7-8997-3062d16eecad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22333416595125-bceef9fc-15a2-4353-858a-19b1f0178005.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22333311746911-c9675fc5-823f-4553-ab20-9ecd55fd8a48.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22333234878553-a06b05d1-fbde-439f-b3d0-a4db1d2db282.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmaEfeIdum"
+    ],
+    "image_path": "images/09_코카콜라_오리지널,_190ml,_60개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "콜라 60개 한꺼번에 시켰는데 진짜 한 달은 버티는 것 같음. 190ml 미니캔이라 한 번에 딱 한 캔 마시기 좋고, 냉장고에 쌓아두고 하나씩 꺼내 마시는 낙이 생겼어 🥤",
+    "b": "치킨 시킬 때마다 대용량 콜라 남기는 게 아쉬웠는데 이거 알고 나서 해결됨. 소분되어 있어서 딱 마실 만큼만 꺼낼 수 있고, 여럿이 나눠 마시기도 진짜 편해 🍕"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "life_myeongon",
+    "url": "https://www.threads.com/@life_myeongon/post/DdwC1BVifMe",
+    "views": 288,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/f1oowARS21",
+    "final_url": "https://www.coupang.com/vp/products/8552493941?itemId=24764828075&src=1139000&spec=10799999&addtag=400&ctag=8552493941&lptag=AF2414984&itime=20260929131406&pageType=PRODUCT&pageValue=8552493941&wPcid=17905526599079763164544&wRef=&wTime=20260929131406&redirect=landing&traceid=V0-101-d0151dcdae6692c1&mcid=a40caff51e7d4692a96078196156186e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=lifemyeongon&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8552493941",
+    "title": "[인기도서] 마흔에 읽는 쇼펜하우어 (300쇄 기념 리커버 에디션) + 미니수첩 증정",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a38/59a8ade0b19f2883384d481efc802b1a07648aee9ea31732091569171794.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9a38/59a8ade0b19f2883384d481efc802b1a07648aee9ea31732091569171794.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/f1oowARS21"
+    ],
+    "image_path": "images/10_[인기도서]_마흔에_읽는_쇼펜하우어_(300쇄_기념_리커버_에디션)_+_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "30대 후반에 이 책 펼쳤다가 밑줄 엄청 긋게 됨. 쇼펜하우어 철학이 딱딱할 줄 알았는데 생각보다 잘 읽히고, 덮고 나서 한동안 멍하게 생각하게 만드는 묘한 힘이 있어 📖",
+    "b": "마음이 복잡할 때 펼쳤는데 한 챕터 읽고 나면 뭔가 정리되는 느낌이 들었어. 나이 마흔이 아니어도 충분히 와닿고, 파란 표지도 책상에 올려두면 진짜 예쁨 🔵"
+   }
+  }
+ ]
+}
