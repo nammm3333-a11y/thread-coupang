@@ -1,0 +1,454 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-29T18:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-29T18:13:54"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "kyokyo2636",
+    "url": "https://www.threads.com/@kyokyo2636/post/Ddv-bl8kt8z",
+    "views": 23000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmp3Biou0O",
+    "final_url": "https://www.coupang.com/vp/products/7637205700?itemId=20282646422&src=1139000&spec=10799999&addtag=400&ctag=7637205700&lptag=AF3409718&itime=20260929180945&pageType=PRODUCT&pageValue=7637205700&wPcid=17905526599079763164544&wRef=&wTime=20260929180945&redirect=landing&traceid=V0-101-f247f6268265cb9d&mcid=893393d31d66474fa1bf8655a19ea9c8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7637205700",
+    "title": "토스키 아마레나 체리 시럽, 1L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/678200108452903-d13e4fee-3ef5-4097-b8a3-3274c0cd4109.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/678200108452903-d13e4fee-3ef5-4097-b8a3-3274c0cd4109.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/404612249947689-3831c80c-de0d-40b5-a550-854b71852230.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/641519229021881-52c3424a-e051-4530-a845-213efb06bebf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/391986323741943-3fdf0d6a-5d8c-4cfd-99c5-2e7983d9d949.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmp3Biou0O"
+    ],
+    "image_path": "images/01_토스키_아마레나_체리_시럽,_1L,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "홈카페 한다고 시럽 샀는데 이거 체리 향이 장난 아님... 탄산수에 조금만 넣었더니 완전 카페 음료 느낌나서 매일 아침 챙겨 마시고 있어 🍒",
+    "b": "냉동 체리 대신 이거 써봤는데 생각보다 훨씬 진해서 놀람. 아이스크림에 살짝 뿌렸을 때 그 맛이 진짜 소름이었고 이제 없으면 섭섭할 것 같아 🍨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "daily_my_hoo",
+    "url": "https://www.threads.com/@daily_my_hoo/post/Ddv3am1kz2g",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hml6ETRaQC",
+    "final_url": "https://www.coupang.com/vp/products/9706829718?itemId=29040431773&src=1139000&spec=10799999&addtag=400&ctag=9706829718&lptag=AF9419317&itime=20260929180953&pageType=PRODUCT&pageValue=9706829718&wPcid=17905526599079763164544&wRef=&wTime=20260929180953&redirect=landing&traceid=V0-101-da221619108b20d9&mcid=f48c52d2dc6b496d90d636bfeeb677d0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9706829718",
+    "title": "펜그로하우스 넘버블록스 시계놀이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1ba8/898d766ce5e0e11c066f81df47c52e70aaef51b5a558167196dd2e1b3565.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1ba8/898d766ce5e0e11c066f81df47c52e70aaef51b5a558167196dd2e1b3565.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hml6ETRaQC"
+    ],
+    "image_path": "images/02_펜그로하우스_넘버블록스_시계놀이.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애가 넘버블록스 엄청 좋아해서 샀는데 이걸로 시계 보는 법을 혼자 익히기 시작함. 전에는 숫자도 헷갈렸는데 요즘은 바늘 돌리면서 스스로 맞춰보고 있어 🕐",
+    "b": "그냥 장난감인 줄 알았는데 아이가 시간 개념 잡아가는 거 보고 진짜 신기했음. 알록달록한 색깔 덕분인지 질리지도 않고 매일 꺼내 가지고 노는 중 🌈"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "seak.books",
+    "url": "https://www.threads.com/@seak.books/post/DdxDhbOkaOo",
+    "views": 428,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmRZyO3llI",
+    "final_url": "https://www.coupang.com/vp/products/185841224?itemId=531400632&src=1139000&spec=10799999&addtag=400&ctag=185841224&lptag=AF5867585&itime=20260929181000&pageType=PRODUCT&pageValue=185841224&wPcid=17905526599079763164544&wRef=&wTime=20260929181000&redirect=landing&traceid=V0-101-9f05080c5f57ee29&mcid=711b08eb029f433da8ef67b0a16cd3e6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "185841224",
+    "title": "아주 작은 습관의 힘:최고의 변화는 어떻게 만들어지는가",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/392373357165089-63afa566-b95b-4312-aa70-0b65c47eea4e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/392373357165089-63afa566-b95b-4312-aa70-0b65c47eea4e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmRZyO3llI"
+    ],
+    "image_path": "images/03_아주_작은_습관의_힘_최고의_변화는_어떻게_만들어지는가.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "자기계발서 별로 안 좋아하는데 이건 술술 읽혔음... 읽고 나서 아침에 물 한 잔 마시는 거 하나만 습관 들였는데 그게 뭔가 달라지는 시작이 된 것 같아 📖",
+    "b": "친구가 진작 읽으라고 해서 미루다가 드디어 폈는데 중간부터 밑줄 그으면서 읽게 됨. 작은 거 하나씩 바꾸는 게 이렇게 설득력 있게 쓰여 있을 줄 몰랐어 ✏️"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "sallim_boddari",
+    "url": "https://www.threads.com/@sallim_boddari/post/Ddv3qzhgTQA",
+    "views": 397,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmlMgb48oC",
+    "final_url": "https://www.coupang.com/vp/products/9252211455?itemId=27366853308&src=1139000&spec=10799999&addtag=400&ctag=9252211455&lptag=AF3239584&itime=20260929181008&pageType=PRODUCT&pageValue=9252211455&wPcid=17905526599079763164544&wRef=&wTime=20260929181008&redirect=landing&traceid=V0-101-69165cbece1cd554&mcid=8a7bcfc3f79b4224bf281de47aa0e87b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9252211455",
+    "title": "샐러디 바질 치즈 통밀 가득 치아바타 샌드위치 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/6cz4sdnj/f9ac73cc4b2846929dff6eda9e96cf92.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/6cz4sdnj/f9ac73cc4b2846929dff6eda9e96cf92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/6zmmbrgh/4e8dcf97d6ae4af4b2a97a710d8bd12b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/l0epsctn/5b991a39c5254677ae4dfc2f9dee33a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hkcjkzzu/17260ed7a4b6410b956b4d606dff25aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/latiumj5/7b97dc9aee184b498cf6d9c5129b266f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmlMgb48oC"
+    ],
+    "image_path": "images/04_샐러디_바질_치즈_통밀_가득_치아바타_샌드위치_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동 샌드위치라 별 기대 안 했는데 바질 향이 생각보다 진해서 깜짝 놀람. 전자레인지에 돌렸더니 치즈도 쫙 녹아서 점심 대용으로 딱이고 계속 재주문 중 🥪",
+    "b": "다이어트 한다고 샐러디 시켜먹다가 냉동버전 보고 집에 쟁여놨는데 통밀빵이 생각보다 퍽퍽하지 않아서 놀람. 바질 향 덕분에 먹을 때마다 괜히 기분이 좋아져 😋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "seonil_ra",
+    "url": "https://www.threads.com/@seonil_ra/post/Ddv24sbmUVa",
+    "views": 337,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmldJMrbUG",
+    "final_url": "https://www.coupang.com/vp/products/8904685945?itemId=26005877520&src=1139000&spec=10799999&addtag=400&ctag=8904685945&lptag=AF4835402&itime=20260929181014&pageType=PRODUCT&pageValue=8904685945&wPcid=17905526599079763164544&wRef=&wTime=20260929181014&redirect=landing&traceid=V0-101-7cff96c66950a903&mcid=4c75ed9ff83f49a89201f0a7e176a7e8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8904685945",
+    "title": "센시안 핫앤쿨 바디테라피 겔 100ml, 1개, 1개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/12/12/10/0/598067cc-3dab-4938-a204-e29c7b1ab7f8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/12/12/10/0/598067cc-3dab-4938-a204-e29c7b1ab7f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/5w9mydro/d2d565a6b3a1413fb9099f013e5eaf7b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/imei9yel/a4d7a21601ec4e7b974afa26e132306f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lh1qbfhe/64c1c4d4752e4c678334e627cac2f7f2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ofk68b41/074915a7cc44475982b2e87c8503b066.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/h2tmvhn5/b807f0e18f21441ba6fad06581942d42.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/f6ojaneg/7dabcde45cab431b8bef497e0f65bd07.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/145323343647137-e6d00fdb-becd-4da1-afc9-dcc2866700fa.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmldJMrbUG"
+    ],
+    "image_path": "images/05_센시안_핫앤쿨_바디테라피_겔_100ml,_1개,_1개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "운동하고 나서 종아리가 터질 것 같을 때 이거 발랐더니 서늘하면서 은근히 따뜻해지는 느낌이 신기함. 자기 전에 마사지하면서 쓰는 게 어느새 루틴이 돼버렸어 🌿",
+    "b": "오래 앉아 있다가 허리 뻐근할 때 꺼내 바르는데 시원하게 올라오는 느낌이 좋음. 향도 강하지 않아서 자기 전에 써도 부담 없고 다음 날 개운한 느낌이 있어 💚"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "life_myeongon",
+    "url": "https://www.threads.com/@life_myeongon/post/DdwC1BVifMe",
+    "views": 288,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/f1oowARS21",
+    "final_url": "https://www.coupang.com/vp/products/8552493941?itemId=24764828075&src=1139000&spec=10799999&addtag=400&ctag=8552493941&lptag=AF2414984&itime=20260929181022&pageType=PRODUCT&pageValue=8552493941&wPcid=17905526599079763164544&wRef=&wTime=20260929181022&redirect=landing&traceid=V0-101-d0151dcdae6692c1&mcid=0658357ee83e46b9818112c0f1b84d3a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=lifemyeongon&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8552493941",
+    "title": "[인기도서] 마흔에 읽는 쇼펜하우어 (300쇄 기념 리커버 에디션) + 미니수첩 증정",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a38/59a8ade0b19f2883384d481efc802b1a07648aee9ea31732091569171794.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9a38/59a8ade0b19f2883384d481efc802b1a07648aee9ea31732091569171794.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/f1oowARS21"
+    ],
+    "image_path": "images/06_[인기도서]_마흔에_읽는_쇼펜하우어_(300쇄_기념_리커버_에디션)_+_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "제목에 '마흔'이라 써있어서 괜히 집어들었는데 읽다 보니 서른인 나한테도 해당되는 말이 너무 많음... 유독 지쳐있던 날 밑줄 엄청 그으면서 읽었어 📘",
+    "b": "파란 표지가 서재에 꽂혀 있으면 뭔가 있어 보이기도 하고ㅋㅋ 근데 진짜로 읽으면 내용이 묵직해서 한 챕터 읽고 덮고 한참 생각하게 됨 🔵"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sycrom30.works",
+    "url": "https://www.threads.com/@sycrom30.works/post/DdxGdaJFGHk",
+    "views": 286,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hm82DZZROS",
+    "final_url": "https://www.coupang.com/vp/products/9736071095?src=1139000&spec=10799999&addtag=400&ctag=9736071095&lptag=AF5006298&itime=20260929181029&pageType=PRODUCT&pageValue=9736071095&wPcid=17905526599079763164544&wRef=&wTime=20260929181029&redirect=landing&traceid=V0-183-0d32428df299ae48&mcid=61deb42c76f44cddaf7a95135885cdd5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=g8s4&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9736071095",
+    "title": "[당일 출고]밤 까는 도구 밤 까는 도구 1위 밤까기 가위 밤 까는 기계 가정용 밤 칼집 도구 만능 생밤 까는 기계, 1개, 원목색",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0ac1/bf1117f6bc7570c70b00ff95015c653e2162e3fc8b1ab73f8082149661e0.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ac1/bf1117f6bc7570c70b00ff95015c653e2162e3fc8b1ab73f8082149661e0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7833/6bcfc406014adaec9ab08bacf1dbbce25b18cb789ad4e50bae29f3db219b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hm82DZZROS"
+    ],
+    "image_path": "images/07_[당일_출고]밤_까는_도구_밤_까는_도구_1위_밤까기_가위_밤_까는_기계.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "가을마다 밤 까다가 손 다칠 뻔 한 게 한두번이 아닌데 이거 쓰니까 1초 만에 칼집 나서 황당함. 올해 처음으로 밤 까는 게 재미있어진 것 같아 🌰",
+    "b": "엄마한테 선물했더니 왜 진작 이런 거 안 샀냐고 함... 생밤 두세 봉지 까는 데 손 전혀 안 아프다고 대만족이라셨고 나도 하나 더 살까 고민 중 🌰"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "behappy_smile03",
+    "url": "https://www.threads.com/@behappy_smile03/post/Ddv5Ik7FMbz",
+    "views": 256,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-26",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gVH8ziOuPI",
+    "final_url": "https://www.coupang.com/vp/products/7811670952?itemId=25754828262&vendorItemId=91728036188&src=1139000&spec=10799999&addtag=400&ctag=7811670952&lptag=AF1646384&itime=20260929181037&pageType=PRODUCT&pageValue=7811670952&wPcid=17905526599079763164544&wRef=&wTime=20260929181037&redirect=landing&traceid=V0-181-bad9a85f2c5558ed&mcid=c6f2662dac864a07a355678ba291c689&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7811670952",
+    "title": "비비러쉬 새치 셀프 부분 버블 거품 염색약 본품(브러쉬 포함), N11 퓨어블랙(흑색), 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/14487bb765fbde3fb13cedd17fa1b678c7ebb96426d1da0c842103125da3_1781688150350.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/14487bb765fbde3fb13cedd17fa1b678c7ebb96426d1da0c842103125da3_1781688150350.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/efb4/a987f4b10e3fab972077c5104afc1620e631bce63c56bd0516e4a047b0b1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ca88/99ec082591f51e0cad20c93e85d446efbf740790126fbdbea5af026b046b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6ecf/5d83c7d361a4acd0d1fc8e741e85002cb0cfea139e7b678b3b7f764cbc01.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/21eb/a90709f2695a3d53caabc741a628e9746b18d184345dcd5b6e8549bd20bc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac9d/06a2e7a8a22ffef87e6a4c1d70b27d4a82e9c6d551011cc584e439796083.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=WAtb_s1bXxQ",
+     "https://www.youtube.com/watch?v=PWoRekqoLjk",
+     "https://www.youtube.com/watch?v=aE3gAeiPub0",
+     "https://www.youtube.com/watch?v=97ZSj8et730",
+     "https://www.youtube.com/watch?v=-P5uIunDTLk",
+     "https://www.youtube.com/watch?v=ufI0Y8Oa3Ds",
+     "https://www.youtube.com/watch?v=XJv87QiD8qQ",
+     "https://www.youtube.com/watch?v=sn-X47h_YGE",
+     "https://www.youtube.com/watch?v=AR0Tz7yygVo",
+     "https://www.youtube.com/watch?v=QrpEER9ZYos",
+     "https://www.youtube.com/watch?v=x12EN678o5k",
+     "https://www.youtube.com/watch?v=d8cH5MaAoEM"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/gVH8ziOuPI"
+    ],
+    "image_path": "images/08_비비러쉬_새치_셀프_부분_버블_거품_염색약_본품(브러쉬_포함),_N11_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "미용실 가기 귀찮아서 새치 부분만 이걸로 혼자 해봤는데 브러쉬 달려있어서 생각보다 훨씬 쉬웠음. 거품이라 흘러내리지도 않아서 셀프로도 충분하겠다 싶었어 🖤",
+    "b": "새치가 거슬려서 급하게 썼는데 발색도 깔끔하게 됐고 냄새도 덜해서 놀람. 외출 전에 부분만 쓱 커버하고 나갈 수 있어서 생각보다 쓸 일이 많더라 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "clsgkrp11",
+    "url": "https://www.threads.com/@clsgkrp11/post/DdyYUqTDT5i",
+    "views": 200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnX4bnrBCK",
+    "final_url": "https://www.coupang.com/vp/products/9140742849?itemId=26907659982&src=1139000&spec=10799999&addtag=400&ctag=9140742849&lptag=AF9120088&itime=20260929181046&pageType=PRODUCT&pageValue=9140742849&wPcid=17905526599079763164544&wRef=&wTime=20260929181046&redirect=landing&traceid=V0-101-c1453f9ce6f44344&mcid=b0d86c1ffb9c431d8e3c8d708f061d99&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9140742849",
+    "title": "크래프트 슈레드 파마산 치즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/rqwgawwi/8a680bb5b9d04dae9374a276e9404221.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/rqwgawwi/8a680bb5b9d04dae9374a276e9404221.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/kdckgmdr/bd6a2ac5b51b4c379efa54cc628b8432.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/rm0c9zas/2e3d9db603e94aa3bdb6df4289d4fd35.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/rhm2hozo/c3351a131ab649a98b32e8a0b59b753a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nigervxn/3e0cf4ec10d2479091cc0f9bcf5aeb49.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/yq7tntck/6204b01a26df43c7973ed0dfecc1440f.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_824bfa34-5eae-457c-a998-a308b10bc38c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnX4bnrBCK"
+    ],
+    "image_path": "images/09_크래프트_슈레드_파마산_치즈.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "파스타 위에 직접 갈아 뿌리는 거 귀찮아서 이거 쟁여뒀는데 솔직히 이게 더 편하고 맛도 충분함. 샐러드에도 뿌려봤더니 그 맛이 또 달라서 자꾸 쓰게 돼 🧀",
+    "b": "그라탕 만들 때 처음 써봤는데 잘 녹고 고소한 맛이 확 살아나서 이제 냉장고에 항상 있어야 하는 재료가 됨. 피자 위에도 뿌렸더니 완전 달라지더라 🍕"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "monday_insite",
+    "url": "https://www.threads.com/@monday_insite/post/DdxKqfIATgF",
+    "views": 159,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnbGx30lwq",
+    "final_url": "https://www.coupang.com/vp/products/9127106620?itemId=26852376663&vendorItemId=93822117596&src=1139000&spec=10799999&addtag=400&ctag=9127106620&lptag=AF6296400&itime=20260929181057&pageType=PRODUCT&pageValue=9127106620&wPcid=17905526599079763164544&wRef=&wTime=20260929181057&redirect=landing&traceid=V0-183-b41025232090054a&mcid=37f7c19c47e44358a329dbb37d2b79f2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=AF6296400&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9127106620",
+    "title": "[GAP인증/무농약] 그린피스농장 친환경 팽이버섯(농장 직배송), 10개, 150g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/76b2/43a677a427fe46abb37a5b6eb919ddb18f7a0a5acfe690f7a2c6850a8ee3.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/76b2/43a677a427fe46abb37a5b6eb919ddb18f7a0a5acfe690f7a2c6850a8ee3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/69f7/7081c0d196d7880e3a98aaa2b5445de5cc90ad5fc382b41555398b4a2986.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/31c8/28ec2931efabacec2608568f559d213c07487eba5334c1e16bd8f793f7dc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/14b0/9a4244940ae392b897f314342ea9068fa8878762666ba182a92dc18f0e24.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3066/a14b7859d9dee699ad0501ce693ed2cdbd6457fd58b0771ffefae59f4904.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/48a8/f6716a3402487c95ba4895eec989dc23de38f5fe910ce300ad19900175a3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnbGx30lwq"
+    ],
+    "image_path": "images/10_[GAP인증_무농약]_그린피스농장_친환경_팽이버섯(농장_직배송),_10개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "팽이버섯을 이렇게 자주 시켜먹을 줄 몰랐는데 냄새도 없고 상태가 너무 좋아서 계속 재주문하고 있음. 된장국에 넣었을 때 아삭함이 달라서 마트 거 못 사게 됐어 🍄",
+    "b": "무농약이라 믿고 사는 편인데 받아보면 포장도 단단하고 버섯 상태가 깔끔해서 좋음. 볶음 요리에 넣으면 숨이 적게 죽어서 식감이 살아있는 게 느껴져 🌿"
+   }
+  }
+ ]
+}
