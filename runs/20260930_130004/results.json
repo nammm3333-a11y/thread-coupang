@@ -1,0 +1,454 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-09-30T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-09-30T13:19:16"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "be_myself_onmyown",
+    "url": "https://www.threads.com/@be_myself_onmyown/post/DdymDuACUub",
+    "views": 27000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hn7Wll9luu",
+    "final_url": "https://www.coupang.com/vp/products/9358139698?itemId=27765033074&vendorItemId=94725612331&src=1191000&spec=10999999&addtag=400&ctag=9358139698&lptag=&itime=20260930131327&pageType=PRODUCT&pageValue=9358139698&wPcid=17905526599079763164544&wRef=&wTime=20260930131327&redirect=landing&traceId=&mcid=60342dfee6d74e6787a884ddd1c6b25c&sharesource=mycoupang&isshortened=&settlement=N",
+    "product_id": "9358139698",
+    "title": "세븐와이즈 스테인레스 2단 무타공 벽걸이형 욕실 비누 받침대 + 스티커 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/156635302471156-b94c5941-5278-4d6c-9303-33c10d8fd488.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/156635302471156-b94c5941-5278-4d6c-9303-33c10d8fd488.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/156682357672077-8f4aca7c-4883-40a0-b2e1-f2ffd0426d36.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/156682391762461-2c82cd33-8093-428c-926b-788496a2caa4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/155403680842018-93d49fba-bf66-491c-9229-e410f741079c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/244341218591612-8ac2339c-cbe8-42f1-8c3c-a40e42066511.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/155403707950687-3af9298b-c12b-4633-bca9-a8b56eaadc49.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/156682423235863-0ffa471e-147e-4ea8-8f5b-c49361f64e23.jpeg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=LcnRMfAVfNA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hn7Wll9luu"
+    ],
+    "image_path": "images/01_세븐와이즈_스테인레스_2단_무타공_벽걸이형_욕실_비누_받침대_+_스티커_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실 벽에 드릴 뚫기 싫어서 스티커형으로 골랐는데 2단이라 비누 두 개 올려도 여유로워. 녹 하나 없이 깔끔하고, 자리 잡고 나서 세면대 주변이 훨씬 정리된 느낌이라 뿌듯 🚿✨",
+    "b": "무타공이라 구멍 걱정 없이 딱 붙였는데 꽤 단단하게 고정돼 있어. 2단으로 비누 따로따로 올려두니까 욕실이 조금 더 깔끔해 보이는 게 신기하더라 😌"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "pantrypicks22",
+    "url": "https://www.threads.com/@pantrypicks22/post/DdyBjn7Ex8w",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnJ3be30cm",
+    "final_url": "https://www.coupang.com/vp/products/8527551531?itemId=25009300763&src=1139000&spec=10799999&addtag=400&ctag=8527551531&lptag=AF6177878&itime=20260930131338&pageType=PRODUCT&pageValue=8527551531&wPcid=17905526599079763164544&wRef=&wTime=20260930131338&redirect=landing&traceid=V0-101-09ed554d53d33be8&mcid=2d20113bc783410497e5a3cfd3356b97&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8527551531",
+    "title": "아임리얼 100 고농축 블루베리 주스, 120ml, 6개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1630759008496237-8a9bab0f-a6dd-484e-9713-33d9b6b3a9a9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1630759008496237-8a9bab0f-a6dd-484e-9713-33d9b6b3a9a9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnJ3be30cm"
+    ],
+    "image_path": "images/02_아임리얼_100_고농축_블루베리_주스,_120ml,_6개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "블루베리 주스 6개 묶음으로 사놓고 아침마다 꺼내 마시는 중인데 농축이라 맛이 진해서 만족스러워. 120ml라 한 번에 뚝딱 마실 수 있고 냉장고에 쌓아두면 왠지 든든한 기분 🫐",
+    "b": "블루베리 음료 여러 개 먹어봤는데 이거 맛이 묵직하게 진하게 나더라. 출근 전에 하나씩 들고 나가는 게 나름 루틴이 됐어, 작은 사이즈라 부담도 없음 🫐💜"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "00myth",
+    "url": "https://www.threads.com/@00myth/post/Ddx85YTDzUl",
+    "views": 640,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hmi4WUGb2i",
+    "final_url": "https://www.coupang.com/vp/products/8634354365?src=1139000&spec=10799999&addtag=400&ctag=8634354365&lptag=AF4608578&itime=20260930131346&pageType=PRODUCT&pageValue=8634354365&wPcid=17905526599079763164544&wRef=&wTime=20260930131346&redirect=landing&traceid=V0-183-eb6c036cf7ea80c4&mcid=b77bd29543e8481b992ad124b1cd3261&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8634354365",
+    "title": "5대째 양조장인이 만든 아다치조조 프리미엄 간장계란밥 간장 소스, 1개, 360ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/86ad5e76-e09a-4120-aa54-6ad2597c578c_fixing_v2_gemini_image_fixing_1782715096425.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/86ad5e76-e09a-4120-aa54-6ad2597c578c_fixing_v2_gemini_image_fixing_1782715096425.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be21/059142db7fd6dc9d694047a5ca3fe84cfcfdf98d6f4b17a5505d979ad5a6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d7e7/a7e473a8a3ed536d265dc9d8d2aa38e974fb3bb53740a796bf353a221138.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3fbc/42616fa2853074e32188e467db7af2d473bf116f7f11271b168ea56d556e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/711f/de4d8c6bc326ee4bac50b34053ef20780488ef61f290a158c0d3a2d3915f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hmi4WUGb2i"
+    ],
+    "image_path": "images/03_5대째_양조장인이_만든_아다치조조_프리미엄_간장계란밥_간장_소스,_1개,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "계란밥에 국간장 쓰다가 이걸로 바꿨더니 뭔가 달달하면서 깊은 맛이 나서 신기했어. 유리병 디자인도 예뻐서 식탁 위에 꺼내두고 쓰는데 보기에도 좋더라 🍳🥢",
+    "b": "귀찮을 때 밥에 계란 하나 올리고 이거 한 바퀴 둘러주면 그게 다야. 처음엔 단맛이 강하다 싶었는데 먹다 보니 이게 없으면 계란밥이 좀 아쉬운 느낌 🍚"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "salim_bomulchanggo",
+    "url": "https://www.threads.com/@salim_bomulchanggo/post/DdyBaFbgA86",
+    "views": 609,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/gYSrkkAjam",
+    "final_url": "https://www.coupang.com/vp/products/185900970?src=1139000&spec=10799999&addtag=400&ctag=185900970&lptag=AF0724254&itime=20260930131354&pageType=PRODUCT&pageValue=185900970&wPcid=17905526599079763164544&wRef=&wTime=20260930131354&redirect=landing&traceid=V0-183-099320fc3c3db696&mcid=43c8bcf41a0545f390f51eef187bd8bf&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "185900970",
+    "title": "(냉동) 잇츠쿡 모짜렐라 자연치즈 2.27kg",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/1857657a-fc62-4191-9c9c-c8895be88e8f_1772612487663.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/1857657a-fc62-4191-9c9c-c8895be88e8f_1772612487663.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/gYSrkkAjam"
+    ],
+    "image_path": "images/04_(냉동)_잇츠쿡_모짜렐라_자연치즈_2.jpg",
+    "my_link": "https://link.coupang.com/a/hdfujx7s84",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피자 만들 때 항상 치즈가 부족해서 답답했는데 대용량 하나 사놓으니까 치즈 걱정이 없어짐. 녹이면 쭉쭉 늘어나는 거 보는 재미도 있고 진짜 잘 산 것 같아 🧀🍕",
+    "b": "집에서 떡볶이나 토스트 해먹을 때 치즈 엄청 뿌리는 편인데 냉동이라 필요할 때 조금씩 꺼내 쓰면 돼서 편해. 2.27kg 처음 봤을 때 좀 놀랐는데 생각보다 금방 쓰고 있어 🧀"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "qqqlv08",
+    "url": "https://www.threads.com/@qqqlv08/post/DdyN5unkQo3",
+    "views": 427,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnRPsNxCnY",
+    "final_url": "https://www.coupang.com/vp/products/8773906801?itemId=25531248615&src=1139000&spec=10799999&addtag=400&ctag=8773906801&lptag=AF8824677&itime=20260930131401&pageType=PRODUCT&pageValue=8773906801&wPcid=17905526599079763164544&wRef=&wTime=20260930131401&redirect=landing&traceid=V0-101-678a70bad32b1163&mcid=598e63083465431186099bb3372c2503&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8773906801",
+    "title": "아쿠아시스 먹는샘물 무라벨, 2L, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/74510331583477-646fbf19-5958-429d-9565-895a4fed4086.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74510331583477-646fbf19-5958-429d-9565-895a4fed4086.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74390071548893-7bb0dea9-4209-43be-9160-62d1e83f0f7f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/199669143324656-d7a078f3-9a32-4baf-820b-2a4d58892163.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnRPsNxCnY"
+    ],
+    "image_path": "images/05_아쿠아시스_먹는샘물_무라벨,_2L,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "무라벨이라 라벨 뜯는 거 없어서 분리수거할 때 진짜 편해. 12개 박스로 쟁여두면 한동안 생수 걱정 없고 집에 쌓여있는 거 보면 왠지 마음이 든든한 게 있어 💧",
+    "b": "생수 편의점에서 사다 나르는 게 너무 귀찮아서 박스로 쟁여두기 시작했는데 2L 12개면 꽤 오래 가더라. 라벨 없는 게 처음엔 낯설었는데 이게 더 깔끔해 보여서 좋아 🌊"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "this.is.noonting",
+    "url": "https://www.threads.com/@this.is.noonting/post/DdyHxm2AYzx",
+    "views": 396,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnAwRELB0K",
+    "final_url": "https://www.coupang.com/vp/products/9653000548?itemId=28853155253&src=1139000&spec=10799999&addtag=400&ctag=9653000548&lptag=AF2783448&itime=20260930131408&pageType=PRODUCT&pageValue=9653000548&wPcid=17905526599079763164544&wRef=&wTime=20260930131408&redirect=landing&traceid=V0-101-86a5e3f2a906f026&mcid=96135de151dc4482a00d9be184c20eba&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9653000548",
+    "title": "사와라즈 플러스 이소메 미미즈 낚시 미끼 집게",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1f4b/6841d4e5f212aed9d278ce1d42d61a3d9b1cd25a42b173b4c8c037f69012.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f4b/6841d4e5f212aed9d278ce1d42d61a3d9b1cd25a42b173b4c8c037f69012.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dbef/202a1f236451b9fe5d7b7bc24be6b909f30abe32c32d80646fdfd539792a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0211/636cfd23f4f5e6a9a2efc7f22f9a74a87c6293856a5a87365c1ad44d0c24.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1c73/6fc7130c893b3d9091cf02bae962f90eaf6f8cb8f2627db4c1ba6db4fa40.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af22/b247053c784e443e668c8048d31305ea4229b27299382b8ff5ac2a22234d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/56db/23431d8845154b037cd850c618d24859aed6bb59887628a1e669e0a7b8f3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cfa3/968c53e814f5453dc8f662dc135b40b2e26381b635da5669a20c6fae2d1f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/abc4/fd101c207161f00d2c93a823992e9f011730ae141d1b90cdd30b9995766c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnAwRELB0K"
+    ],
+    "image_path": "images/06_사와라즈_플러스_이소메_미미즈_낚시_미끼_집게.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "갯지렁이 꿸 때마다 손에 다 묻혀서 너무 싫었는데 이거 쓰고 나서 진짜 손에 거의 안 묻어. 한 번 써보고 이제 없으면 낚시 못 갈 것 같다는 생각 들었음 🎣",
+    "b": "낚시 초보라 미끼 끼우는 게 제일 무서웠는데 이 집게 하나로 해결됨. 노란색이라 가방에서 바로 찾아지고, 손 깨끗하게 쓸 수 있어서 낚시가 훨씬 편해졌어 🐛🎣"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "ddu.__.day",
+    "url": "https://www.threads.com/@ddu.__.day/post/DdyKTHBAFgT",
+    "views": 376,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnwR9wNxAr",
+    "final_url": "https://www.coupang.com/vp/products/9426476693?itemId=28021599936&src=1139000&spec=10799999&addtag=400&ctag=9426476693&lptag=AF2783448&itime=20260930131414&pageType=PRODUCT&pageValue=9426476693&wPcid=17905526599079763164544&wRef=&wTime=20260930131414&redirect=landing&traceid=V0-101-e9b00852a1ab600c&mcid=3af12c0dc9b94335a3cc2736cf911925&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9426476693",
+    "title": "동명팜 오렌지맛 메로골드 그린 자몽 로얄과",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0c8f/87162baf45203974592cb57d855e9618f3c800a375989c47d71503d14422.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0c8f/87162baf45203974592cb57d855e9618f3c800a375989c47d71503d14422.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9894/e3962e4cd01342d7acb7324459d54b66445214dec3bea8e2f2b657581ff2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ef9/8e69bce278f36e5a570cae5112c98279b5a239d1aab6f86d83d558e3e695.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7f83/4885a84ffc1dea75fa20616b58f375c4f6704c51d35b098b86728a209b3e.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Di4xh4jI3LM"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hnwR9wNxAr"
+    ],
+    "image_path": "images/07_동명팜_오렌지맛_메로골드_그린_자몽_로얄과.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겉이 초록색이라 처음엔 덜 익은 건가 싶었는데 잘랐더니 속이 오렌지빛이라 좀 신기했어. 자몽인데 쓴맛이 적고 달달해서 과일 잘 안 먹는 사람도 의외로 잘 먹더라 🍊",
+    "b": "크기가 꽤 큰데 반 잘라서 두 번에 나눠 먹으면 딱이야. 맛이 은은하게 달달하고 상큼해서 요즘 아침에 이거 한 조각 먹는 게 소소한 낙이 됐어 🌿✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "sycrom30.works",
+    "url": "https://www.threads.com/@sycrom30.works/post/DdyDxw2CZjq",
+    "views": 338,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF5006298&pageKey=8193182091&itemId=25093136050&vendorItemId=93918894250&traceid=V0-153-50b5ff56487a7cfa&clickBeacon=db46ee30-ba43-11f1-a682-69cd5b0c42d1~3&requestid=20260927162002943043286188&token=31850C%7CMIXED&pt=1&slot=3",
+    "final_url": "https://www.coupang.com/vp/products/8193182091?itemId=25093136050&vendorItemId=93918894250&src=1139000&spec=10799999&addtag=400&ctag=8193182091&lptag=AF5006298&itime=20260930131453&pageType=PRODUCT&pageValue=8193182091&wPcid=17905526599079763164544&wRef=&wTime=20260930131453&redirect=landing&traceid=V0-153-50b5ff56487a7cfa&mcid=5d7bcc954aba49179bde824a79d4da10&pt=1&campaignid=&clickBeacon=db46ee30-ba43-11f1-a682-69cd5b0c42d1%7E3&imgsize=&slot=3&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20260927162002943043286188&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8193182091",
+    "title": "꼼지락 레고 미니 피규어 케이스",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4731/b290377bef4c079481fdf126286e03c3eff8301334c5755baf64a5fc84fa.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4731/b290377bef4c079481fdf126286e03c3eff8301334c5755baf64a5fc84fa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5709/5bd9a85fc981bd83a2c58372fadc31f0493f668ed43fbe2e365baf415fa3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0b4c/dc5868f981a2445b06c7da5ec9b99bcf5887dd3233345ebeedd4795c56a8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/04e1/5f65ac7b89ad364678e773d992e46d0b57e28d702eda7af92a7cb821c26f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF5006298&pageKey=8193182091&itemId=25093136050&vendorItemId=93918894250&traceid=V0-153-50b5ff56487a7cfa&clickBeacon=db46ee30-ba43-11f1-a682-69cd5b0c42d1~3&requestid=20260927162002943043286188&token=31850C%7CMIXED&pt=1&slot=3",
+     "https://link.coupang.com/a/hnLlyoZs2C",
+     "https://link.coupang.com/a/hnLlysLGrQ"
+    ],
+    "image_path": "images/08_꼼지락_레고_미니_피규어_케이스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "레고 피규어 맨날 서랍에 굴려두다 잃어버리는 게 일이었는데 이 케이스 사고 나서 얘네가 전시품이 됐어. 투명 덮개 씌워두면 먼지도 안 쌓이고 진짜 뿌듯 🧱",
+    "b": "계단식 베이스 플레이트에 피규어 세워두면 폼이 진짜 달라. 선반에 올려뒀더니 방 인테리어처럼 보여서 의외로 꽂혀버림 🏆✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "work22637",
+    "url": "https://www.threads.com/@work22637/post/DdyI3qwE5GG",
+    "views": 334,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnOp7F06fY",
+    "final_url": "https://www.coupang.com/vp/products/7199057517?itemId=22443100208&src=1139000&spec=10799999&addtag=400&ctag=7199057517&lptag=AF2855885&itime=20260930131459&pageType=PRODUCT&pageValue=7199057517&wPcid=17905526599079763164544&wRef=&wTime=20260930131459&redirect=landing&traceid=V0-101-7d3d3849149edd24&mcid=908fa9f205084f9e8bccce999d546d2f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7199057517",
+    "title": "헤라 센슈얼 파우더 매트 리퀴드 - 립스틱",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/10/27/13/3/0c8085f1-c9e7-4651-a50e-8ec4f6d3edf5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/10/27/13/3/0c8085f1-c9e7-4651-a50e-8ec4f6d3edf5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/10/27/13/7/a85239a0-862f-433c-9ad6-0346a30a98ae.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ianfjwtm/e8832748c07c4fa08a43e15b584f8e5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/10/27/13/3/8dea4b76-acbf-4476-8a13-3200e26f5f7f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/10/27/13/1/d829437a-e160-46d4-aeca-d1da347d4b82.jpg",
+     "https://image.coupangcdn.com/image/coupang/rlux/sdp/badge_19da917b062.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hnOp7F06fY"
+    ],
+    "image_path": "images/09_헤라_센슈얼_파우더_매트_리퀴드_-_립스틱.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이 색 진짜 일상에서 쓰기 딱 좋은 누드 브라운인데 바르면 너무 튀지 않아서 매일 집어들게 돼. 파우더 매트라 가루도 안 날리고 유지도 돼서 지금 제일 자주 손이 가는 립이야 💄",
+    "b": "민낯에 이것만 발라도 뭔가 있어 보이는 색이라 아침에 급할 때 진짜 유용해. 브러시 타입이라 바르기도 쉽고, 처음 써보고 나서 뚜껑 오래 못 닫았어 🤎💋"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "h.onestep.now2026",
+    "url": "https://www.threads.com/@h.onestep.now2026/post/DdyOXxvFCYk",
+    "views": 290,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hnRQPqyLMy",
+    "final_url": "https://www.coupang.com/vp/products/8797294996?itemId=26731601637&src=1139000&spec=10799999&addtag=400&ctag=8797294996&lptag=AF2738073&itime=20260930131526&pageType=PRODUCT&pageValue=8797294996&wPcid=17905526599079763164544&wRef=&wTime=20260930131526&redirect=landing&traceid=V0-101-9cb08951f2570779&mcid=9eee115dfd294311b6b06dd07f79632a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8797294996",
+    "title": "FODOSS 강아지 유모차 접이식 분리형 알루미늄 합금 개모차 야외 산책 옷감 고양이유모차, 블랙, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf38/2d4b590d42380866f621c5109a6361793c88bc6b24fb5e342f4bea2a1c6b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf38/2d4b590d42380866f621c5109a6361793c88bc6b24fb5e342f4bea2a1c6b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/47b6/b661eacd1794efdc4be8c08b8b26e422546aac6a307edb324586c1848a25.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3b21/66145f053314f6c6ad18ae34c164d5336f66474f2a5d9ba6709c81636608.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc49/549bfc3e009c479dacc50d3bfa3a2a34009ab30fb4f044c857547789ac03.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1d31/f869a85854f31b7cf41f9b2dd3dc871ffe07448d5db81787155b6082969d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bbb1/6a38201f90cb88a07cf08267f9550079ed3f401b6a977df79fdcfb2af9bb.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=2QixEf7Nq9E"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hnRQPqyLMy"
+    ],
+    "image_path": "images/10_FODOSS_강아지_유모차_접이식_분리형_알루미늄_합금_개모차_야외_산책.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "산책 나갈 때마다 안고 다니느라 팔이 너무 힘들었는데 이거 사고 나서 진짜 편해짐. 접으면 생각보다 작게 접혀서 베란다에 보관하기도 좋고 굴림도 부드러워 🐾",
+    "b": "애가 다리를 다쳐서 급하게 개모차 알아봤는데 분리형이라 캐리어처럼 들고 병원 갈 때도 써서 진짜 유용했어. 검정에 골드 프레임 조합이 생각보다 고급스러워 보여서 만족이야 🐶🖤"
+   }
+  }
+ ]
+}
