@@ -1,0 +1,439 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-02T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-02T08:20:28"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "aa17_57a",
+    "url": "https://www.threads.com/@aa17_57a/post/Dd2qIrsH2Lb",
+    "views": 864,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hqI3ajZOJU",
+    "final_url": "https://www.coupang.com/vp/products/7942991410?itemId=21884570987&src=1139000&spec=10799999&addtag=400&ctag=7942991410&lptag=AF2261283&itime=20261002081617&pageType=PRODUCT&pageValue=7942991410&wPcid=17905526599079763164544&wRef=&wTime=20261002081617&redirect=landing&traceid=V0-101-244007a2e84370cc&mcid=381721a533284ce2b012c12a8fea9680&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7942991410",
+    "title": "PELEG 발사믹 올리브유 빵 디핑접시 고래 바다 간장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e57/621c989148d57dfa89f73aae0c45c0b9aa140771a26ede82a1f3624e4eb5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e57/621c989148d57dfa89f73aae0c45c0b9aa140771a26ede82a1f3624e4eb5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hqI3ajZOJU"
+    ],
+    "image_path": "images/01_PELEG_발사믹_올리브유_빵_디핑접시_고래_바다_간장.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "올리브유 부었더니 접시 바닥 고래가 헤엄치는 것처럼 보여서 혼자 소름... 빵 찍어 먹는 게 이렇게 즐거운 일이 될 줄은 몰랐음 🐋",
+    "b": "손님한테 간장 담아서 냈더니 다들 이게 뭐냐고 신기해했음 ㅋㅋ 디자인이 너무 귀여워서 맨날 식탁에 꺼내두게 되는 게 생겼다 🌊"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "todays_shopping_1",
+    "url": "https://www.threads.com/@todays_shopping_1/post/Dd2f1NUieu8",
+    "views": 663,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hqBkRKNlDM",
+    "final_url": "https://www.coupang.com/vp/products/9298713249?src=1139000&spec=10799999&addtag=400&ctag=9298713249&lptag=AF8100434&itime=20261002081624&pageType=PRODUCT&pageValue=9298713249&wPcid=17905526599079763164544&wRef=&wTime=20261002081624&redirect=landing&traceid=V0-183-b1b55460c21c1a72&mcid=5264e12e725346c084ccfece7db3b1a9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9298713249",
+    "title": "ORDUNE 접이식 종이 이동식 파티션 가벽 인테리어 소품 가림막 사무실 칸막이 공간분리 셀프",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/21b7/27d9a9cb8e3e324f6008f57dbc96f59f250dffc98ad75b0e02c675d0fc8f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/21b7/27d9a9cb8e3e324f6008f57dbc96f59f250dffc98ad75b0e02c675d0fc8f.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=_Ug9wYjvb_c"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hqBkRKNlDM"
+    ],
+    "image_path": "images/02_ORDUNE_접이식_종이_이동식_파티션_가벽_인테리어_소품_가림막_사무실.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "재택하면서 공간 분리가 안 돼 답답했는데 이거 펼치니까 진짜 딴 방 느낌... 집 인테리어가 갑자기 카페처럼 보여서 좀 놀람 🏠",
+    "b": "접으면 얇아서 보관도 쉽고 베이지 색이 따뜻해서 공간이 살더라 한번 써보고 나서 하나 더 주문해버림 ✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "iblinstyle",
+    "url": "https://www.threads.com/@iblinstyle/post/Dd2VTdsEznY",
+    "views": 625,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hpKmMJJybk",
+    "final_url": "https://www.coupang.com/vp/products/9690002358?src=1139000&spec=10799999&addtag=400&ctag=9690002358&lptag=AF8059410&itime=20261002081631&pageType=PRODUCT&pageValue=9690002358&wPcid=17905526599079763164544&wRef=&wTime=20261002081631&redirect=landing&traceid=V0-183-f3a1f2cf690366bd&mcid=2e31efdace4044c8bfaa75c5d34c9761&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9690002358",
+    "title": "뉴뉴 고밀도 섬유 2in1 먼지떨이 정전기 흡착식 미세먼지 부러쉬, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8088/79be64f72a8c7c0ae28e3ef638cb5e3673c6d6e33a6d8bdd9e40ec3bb0f5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8088/79be64f72a8c7c0ae28e3ef638cb5e3673c6d6e33a6d8bdd9e40ec3bb0f5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0712/332ff7c9020c2b5ca28b605f33cab56437af6cbc09b12c867bfdec2e5335.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e340/d9db0ddfeb026bd73b788293f893688a514b7220581781dc2530b17384d4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6dc8/4cdc7763c6196ae2529bf08901000a2061176c1c034ff487178ade06c0f5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f2ac/5e5245e24f22c47ce1b43f798033380add77edaea81159beb7d47c6ec4c4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e4aa/0e4720a25e18f4406332429123ea2262892b6c5cae055083069373c2f931.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3a8d/9c53bd72f3ac7a81b5e115a4801cc99dd50b382537d61af7cc65bacbe67b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a713/19466659beff8cf8858cf4f896b0861cba08617c9327b54c4315578aee64.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hpKmMJJybk"
+    ],
+    "image_path": "images/03_뉴뉴_고밀도_섬유_2in1_먼지떨이_정전기_흡착식_미세먼지_부러쉬,_1세.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "저 파란 솔로 선반 한 번 쓸었더니 먼지가 날리지 않고 그냥 달라붙어버림... 매번 먼지 날려가며 청소하던 게 비효율이었던 거였어 🧹",
+    "b": "브러시랑 정전기 패드 같이 있어서 부위별로 쓸 수 있는 게 편함 TV 뒤에 쌓인 거 처음으로 제대로 닦았다 ✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "mintday583",
+    "url": "https://www.threads.com/@mintday583/post/Dd2z1nEj1zl",
+    "views": 446,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hqParePQaa",
+    "final_url": "https://www.coupang.com/vp/products/9438198196?itemId=28202212117&src=1139000&spec=10799999&addtag=400&ctag=9438198196&lptag=AF6702194&itime=20261002081641&pageType=PRODUCT&pageValue=9438198196&wPcid=17905526599079763164544&wRef=&wTime=20261002081641&redirect=landing&traceid=V0-101-0c155c6dba7dbef5&mcid=7d068200934d49508df50379baaa94e9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9438198196",
+    "title": "일본 비오레 오우치 de 에스테 딥 클레이 폼클렌징 180g 모공 블랙헤드 피지 각질 클레이 세안제, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1628/1edde6a88d06d0e5d7c7d102251144c97f26cea3aad65f5b0c4a7ab2ed3d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1628/1edde6a88d06d0e5d7c7d102251144c97f26cea3aad65f5b0c4a7ab2ed3d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hqParePQaa"
+    ],
+    "image_path": "images/04_일본_비오레_오우치_de_에스테_딥_클레이_폼클렌징_180g_모공_블랙헤.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "일본에서 직구하다가 이번에 국내로 샀는데 회색 클레이 질감이 진짜 독특함... 씻고 나서 얼굴 느낌이 달라서 저녁마다 기대하게 됨 🫧",
+    "b": "코 주변 신경 쓰여서 쓰기 시작했는데 세안 루틴이 바뀐 것 같아 짜서 나오는 회색 질감이 시각적으로도 재밌음 🌙"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "seak.books",
+    "url": "https://www.threads.com/@seak.books/post/Dd2XXfMjbbR",
+    "views": 357,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hkWQR6Af92",
+    "final_url": "https://www.coupang.com/vp/products/8562976?itemId=18128481&src=1139000&spec=10799999&addtag=400&ctag=8562976&lptag=AF5867585&itime=20261002081649&pageType=PRODUCT&pageValue=8562976&wPcid=17905526599079763164544&wRef=&wTime=20261002081649&redirect=landing&traceid=V0-101-accbeb375361f3ec&mcid=08eb5b376a914e18bbb2f2a3f27cf182&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8562976",
+    "title": "데미안",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5871/5680dc272788054d92b9dbd73ee9dd0198c4c502789015299d7c46a33e8b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5871/5680dc272788054d92b9dbd73ee9dd0198c4c502789015299d7c46a33e8b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hkWQR6Af92"
+    ],
+    "image_path": "images/05_데미안.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "학교 때 읽던 책인데 다시 폈더니 그때랑 전혀 다르게 읽힘... 지금 나이에 읽으니까 완전 다른 책 같아서 좀 무섭기도 함 📖",
+    "b": "이번에 밑줄 그은 부분이 예전이랑 완전 달라져있음 자기 자신을 찾는 얘기가 지금 이 나이에 더 와닿더라 🖤"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/Dd2XqA2kzo9",
+    "views": 295,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gtqRdUg2TZ",
+    "final_url": "https://www.coupang.com/vp/products/4769624307?itemId=6084032376&src=1139000&spec=10799999&addtag=400&ctag=4769624307&lptag=AF3704167&itime=20261002081656&pageType=PRODUCT&pageValue=4769624307&wPcid=17905526599079763164544&wRef=&wTime=20261002081656&redirect=landing&traceid=V0-101-2f849f7e30dd91e7&mcid=2c06d811be124e5cac458e80fd514ffb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4769624307",
+    "title": "일본 스마일 메이커 입꼬리 발음 처진 미소 웃는 얼굴 교정기 올리기 운동",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b1a2/3c3287fb261843b459fdcb27a2507f3f68e728b45bef0e210123f7cdb5dc.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b1a2/3c3287fb261843b459fdcb27a2507f3f68e728b45bef0e210123f7cdb5dc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac96/2b6c1a2931f54687b1f12508337ed1d2bdd183d23c92c6e4f828c0b02a14.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a7ba/f2fbdf713376e9f77ea5ab1ddbb6756bcb6ee47950dd5637adeb4e893bcb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fefc/9b18e3d7f93521bd1ea4d3c4d1d571f6d28849457309f6161efdf6328dda.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7a10/0d5d6932dce7ecb7509acbdddf3c1b79b282f9be48c514af79b4f2241d40.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gtqRdUg2TZ"
+    ],
+    "image_path": "images/06_일본_스마일_메이커_입꼬리_발음_처진_미소_웃는_얼굴_교정기_올리기_운동.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코미디 소품 같아서 반신반의로 샀는데 끼고 있으면 입꼬리 근육이 진짜 뻐근함... 운동이 되긴 하나보다 싶어서 꾸준히 하게 됨 😅",
+    "b": "혼자 끼고 있다가 거울 봤는데 표정 때문에 혼자 빵 터짐 ㅋㅋ 운동보다 기분 전환이 먼저 되는 것 같기도 함 🦆"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "mang_dunge2",
+    "url": "https://www.threads.com/@mang_dunge2/post/Dd2XmhJj4Ue",
+    "views": 272,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ho8SQ4lVQW",
+    "final_url": "https://www.coupang.com/vp/products/5721357276?itemId=28303648651&src=1139000&spec=10799999&addtag=400&ctag=5721357276&lptag=AF7358002&itime=20261002081705&pageType=PRODUCT&pageValue=5721357276&wPcid=17905526599079763164544&wRef=&wTime=20261002081705&redirect=landing&traceid=V0-101-b6fcb2d92e157808&mcid=e0616d12a4fc4f77afcd60759f629cdf&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5721357276",
+    "title": "나스카피 감성캠핑 앵두 LED 전구 10구, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/cc4d2a6c-f28c-417f-a486-0d617fc8df109806767877551886627.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/cc4d2a6c-f28c-417f-a486-0d617fc8df109806767877551886627.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/464905835855860-bc83812f-8b3b-4000-aa98-b7301d7a8ef1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/205792947795697-3dd18656-accb-4961-aadf-bcc28c145254.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/464906265318661-5d51070b-b5c3-4ef0-b3cc-9fb5f97475cf.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ho8SQ4lVQW"
+    ],
+    "image_path": "images/07_나스카피_감성캠핑_앵두_LED_전구_10구,_3개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "방 불 끄고 이거만 켜놨더니 공간이 완전 달라 보여서 진짜 놀람... 자기 전에 이것만 켜두는 게 습관이 됐음 🌙",
+    "b": "캠핑 텐트 안에 달았더니 사진이 진짜 감성 폭발이었음 불빛이 너무 따뜻해서 그냥 멍하니 보게 됨 ✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/Dd21DVVjihp",
+    "views": 221,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hpSd0vgOC4",
+    "final_url": "https://www.coupang.com/vp/products/104525337?itemId=317071175&src=1139000&spec=10799999&addtag=400&ctag=104525337&lptag=AF2377009&itime=20261002081715&pageType=PRODUCT&pageValue=104525337&wPcid=17905526599079763164544&wRef=&wTime=20261002081715&redirect=landing&traceid=V0-181-b61e23ef001a1026&mcid=f1fdbe7c1a3b40eab22bf20df9a8d431&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "104525337",
+    "title": "이노첸 푸드스틸러 쿡삼바리 조리도구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bb2f/24cebd4841299c9535b841a052368a3e80e495edc7a2e4db56f06cd56a95.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bb2f/24cebd4841299c9535b841a052368a3e80e495edc7a2e4db56f06cd56a95.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac92/4bb3a3403b0eeb25e2d7aac8f0c8c0794f0f2d5be78bdf124c7474dc36a6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b0c1/809b45a1870d36f5ad2315e49c7f5446f14c7d068631c0533ead0226fa41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bddf/e9704b85aa934aaff12e05c70e214096dfb9535b297ad087675f7265146e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hpSd0vgOC4"
+    ],
+    "image_path": "images/08_이노첸_푸드스틸러_쿡삼바리_조리도구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "생긴 게 특이해서 반신반의로 꽂아봤는데 냄비 바닥에 눌음이 확실히 줄었음... 귀찮았던 게 하나 해결되니까 요리가 덜 스트레스임 👍",
+    "b": "처음엔 장난감인 줄 알았는데 스프나 죽 끓일 때 완전 유용함 손 안 대도 되니까 설거지도 훨씬 편해졌어 🍲"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "littleangel.pick2",
+    "url": "https://www.threads.com/@littleangel.pick2/post/Dd7YRy6Ew4V",
+    "views": 216,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hsPseXZkqb",
+    "final_url": "https://www.coupang.com/vp/products/9715032802?src=1139000&spec=10799999&addtag=400&ctag=9715032802&lptag=AF1489473&itime=20261002081721&pageType=PRODUCT&pageValue=9715032802&wPcid=17905526599079763164544&wRef=&wTime=20261002081721&redirect=landing&traceid=V0-183-7132db2b5159fdf9&mcid=3a11883bb2d64b0b92d5bb975efa26ac&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715032802",
+    "title": "아늑앳홈 고중량 60수 순면 노홍철 호텔 베개, 호텔 베개 본품(솜+커버), 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/3eeaafb5-f012-4041-9311-023de64dd51610873612937024022461.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/3eeaafb5-f012-4041-9311-023de64dd51610873612937024022461.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d577/286be03d3bccbdd670e16f93ce277e45d065aac15ebc2f6aadbf74022cbf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c350/874da794019b05aefa271abefba2c241f17184eecc422ef56301c08190c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/02f3/f15b3d6288c02166b3b780cab3ed5a4237b0311831fa08f02bce83208ab8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/78de/677bb1f44b653f1f5b76fbe7d40c132cbe4d05a074055f9e2799ad1da525.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hsPseXZkqb"
+    ],
+    "image_path": "images/09_아늑앳홈_고중량_60수_순면_노홍철_호텔_베개,_호텔_베개_본품(솜+커버.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "첫날 베고 잤더니 다음 날 목이 안 뻐근해서 좀 충격이었음... 호텔 베개가 집에서 가능하다는 게 이런 느낌인가 싶었어 😮",
+    "b": "2개 세트 샀는데 하나는 베고 하나는 안고 자는 중 ㅋㅋ 순면 커버가 서걱거리지 않아서 여름에도 꽤 괜찮았어 🛏️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "newooni68",
+    "url": "https://www.threads.com/@newooni68/post/Dd21CoMjw1g",
+    "views": 181,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-09-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hqP0kUq1cq",
+    "final_url": "https://www.coupang.com/vp/products/7690240662?itemId=20563260541&src=1139000&spec=10799999&addtag=400&ctag=7690240662&lptag=AF8100720&itime=20261002081729&pageType=PRODUCT&pageValue=7690240662&wPcid=17905526599079763164544&wRef=&wTime=20261002081729&redirect=landing&traceid=V0-101-c6d5081b611be2a5&mcid=37bea2ffb7a04e7fa45d20c503660a15&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7690240662",
+    "title": "고래사어묵 어묵떡볶이 2인분 (쌀떡) (냉동), 520g, 1팩",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/260260218102880-b3bc3450-4bc5-4b93-bed1-f5af38509c34.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/260260218102880-b3bc3450-4bc5-4b93-bed1-f5af38509c34.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ub0t2ans/a0b4a8a79b9e4b92a283dce1ace0f747.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/pguc0fqc/aa983d2580964d25aa28f2133ed3e45e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/885438606045592-47e20562-fa24-49c7-8133-5d37253d4380.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1712612182043-c4ecfed8-dbb5-4689-b95c-b48bbfb93ef6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1715643426443-2c951a7b-110c-4305-9d83-73bb26d7d3a6.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_2b67dbc9-99c8-4801-a941-615734825e93.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hqP0kUq1cq"
+    ],
+    "image_path": "images/10_고래사어묵_어묵떡볶이_2인분_(쌀떡)_(냉동),_520g,_1팩.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동이라 별 기대 안 했는데 쌀떡 쫀득함이 살아있어서 진짜 놀람... 야식 생각날 때 이거 꺼내 끓이는 게 요즘 루틴이 됨 🍢",
+    "b": "어묵이 두 종류 들어있어서 먹는 재미가 있고 소스가 진하게 배어서 혼자 2인분 다 비웠음 ㅋㅋ 🌶️"
+   }
+  }
+ ]
+}
