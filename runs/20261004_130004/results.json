@@ -1,0 +1,451 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-04T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-04T13:21:33"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "todayx24",
+    "url": "https://www.threads.com/@todayx24/post/DeB2fbJGOUd",
+    "views": 14000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hy8Kelf76a",
+    "final_url": "https://www.coupang.com/vp/products/9715667060?itemId=29071858342&src=1139000&spec=10799999&addtag=400&ctag=9715667060&lptag=AF6215199&itime=20261004131637&pageType=PRODUCT&pageValue=9715667060&wPcid=17905526599079763164544&wRef=&wTime=20261004131637&redirect=landing&traceid=V0-101-79740294cb917ac5&mcid=38136cc960fc404b9f5096e3967811e6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715667060",
+    "title": "2027 에듀윌 지게차운전기능사 독학으로 필기끝장+9개년 기출문제:모의고사 10회+CBT 10회+핵심노트+핵심특강",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998638430335-ddb17055-fef2-4aea-b970-79684925bd65.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489781269980-8dbfbf81-befd-4d8f-84ee-325b6d36f8c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998598077056-7cd3f5a0-c0d7-4076-835a-6f3eb8a84f27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998641896281-8f9f6ea2-b9d2-47a4-8523-d28b200f539e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998635490413-18700225-652a-401a-b780-55e0140e0314.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998649006125-9e036ac4-8fb1-46f3-ab66-5d12ca9f6922.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489825673838-45229107-b86e-49de-8a9a-c35c15e16626.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hy8Kelf76a",
+     "https://link.coupang.com/a/hnFGMzezIW"
+    ],
+    "image_path": "images/01_2027_에듀윌_지게차운전기능사_독학으로_필기끝장+9개년_기출문제_모의고.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지게차 자격증 혼자 준비하려고 이거 샀는데 9개년 기출에 CBT까지 다 들어있어서 따로 더 살 게 없음. 모의고사 10회 풀고 나니까 자신감 생겨서 공부 루틴이 잡힌 게 신기함 📚",
+    "b": "독학이라 막막했는데 핵심노트가 따로 있어서 정리하는 시간이 확 줄었음. 문제 풀다 보면 패턴이 보이기 시작하는데 그때부터 진짜 재미가 붙더라 ✏️"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "hyuna00055",
+    "url": "https://www.threads.com/@hyuna00055/post/Dd8MT2_lLaz",
+    "views": 8100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hsTtTVrhKK",
+    "final_url": "https://www.coupang.com/vp/products/5654840286?itemId=11155674712&vendorItemId=93317575378&src=1139000&spec=10799999&addtag=400&ctag=5654840286&lptag=AF1123520&itime=20261004131645&pageType=PRODUCT&pageValue=5654840286&wPcid=17905526599079763164544&wRef=&wTime=20261004131645&redirect=landing&traceid=V0-183-7c11118d4b3fc188&mcid=3c83ce2847af4b2cb2676979715d79f1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5654840286",
+    "title": "허쉬 코코아 파우더",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/08/15/12/8/7768fa08-7c3a-455c-8441-5bd2d588fa12.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/15/12/8/7768fa08-7c3a-455c-8441-5bd2d588fa12.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/35190497039961-f0823356-6db7-40a0-8f2f-445b04cf0a83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/15/12/8/a2316625-6929-4593-b322-b55950bfe4ed.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34723624668950-0be1eaa8-1419-414e-95a6-95c58ffaf421.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/15/12/6/a9673477-dd73-4314-8149-0984de791823.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/08/15/12/6/69067dbb-8b01-4914-a987-83fb07c5a39c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/179239219888040-73642ccc-85a8-484f-86e8-753bef8ca4b3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/35192889795071-b9bd7979-057f-4641-ac0c-6820bb6d814f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hsTtTVrhKK"
+    ],
+    "image_path": "images/02_허쉬_코코아_파우더.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "달달한 코코아 생각하고 탔다가 무가당이라 많이 쓴데 그게 또 중독되는 맛임. 우유에 타먹는 게 하루 루틴이 돼버려서 이 캔이 냉장고에 항상 있게 됨 ☕",
+    "b": "베이킹에 쓰려고 샀다가 그냥 매일 마심. 진한 코코아 향이 퍼질 때 기분이 괜히 좋아지는 게 신기해서 요즘 아침마다 한 잔씩 챙겨 마시는 중 🍫"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "_worldpick_kr",
+    "url": "https://www.threads.com/@_worldpick_kr/post/Dd8dfC_k9Fi",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/husoLlM0OG",
+    "final_url": "https://www.coupang.com/vp/products/8066332016?itemId=21523530057&src=1139000&spec=10799999&addtag=400&ctag=8066332016&lptag=AF4313199&itime=20261004131652&pageType=PRODUCT&pageValue=8066332016&wPcid=17905526599079763164544&wRef=&wTime=20261004131652&redirect=landing&traceid=V0-101-2d6a630c1d2cae3d&mcid=d1f14d71828e4aad837eda3af0edc6d1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8066332016",
+    "title": "HALAL PLOV(PILAF) STEW SHOHONA 할랄 플로프 통조림, 2개, 400g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2ed/c65685fc04cd407df3e75593569fa140698960ad176ffc4a262cefdc52b7.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a2ed/c65685fc04cd407df3e75593569fa140698960ad176ffc4a262cefdc52b7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e2cf/f54fcc4e9abb6a67b5f86046400c92f7ab3952488232f018e8c1ff3236c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8727/d5ae9777e0fc733bd567d08fa714492192a511e4a01eb7d30b28340ba21e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/husoLlM0OG"
+    ],
+    "image_path": "images/03_HALAL_PLOV(PILAF)_STEW_SHOHONA_할랄_플로프_통조.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "중앙아시아 음식 궁금해서 캔 하나 열어봤는데 고기 들어간 필라프가 생각보다 진짜 맛있음. 혼밥할 때 데워 먹으면 밥 따로 안 해도 될 것 같은 든든함 🍚",
+    "b": "특이한 거 먹어보고 싶어서 시도해봤는데 쌀이랑 기름진 육류 맛이 꽤 개성 있어서 당황함. 한 번 먹고 나니까 또 생각나는 게 함정임 😮"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "koreabeautytools",
+    "url": "https://www.threads.com/@koreabeautytools/post/DeAloajk_yn",
+    "views": 1700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7941790478&itemId=21876558296&vendorItemId=92255829541&traceid=V0-153-8e0c300cd584a2c0&requestid=20261003055015119034249897&token=31850C%7CGM&pt=0&slot=10",
+    "final_url": "https://www.coupang.com/vp/products/7941790478?itemId=21876558296&vendorItemId=92255829541&src=1139000&spec=10799999&addtag=400&ctag=7941790478&lptag=AF2757296&itime=20261004131730&pageType=PRODUCT&pageValue=7941790478&wPcid=17905526599079763164544&wRef=&wTime=20261004131730&redirect=landing&traceid=V0-153-8e0c300cd584a2c0&mcid=bdffee79d6f3461b9b26d2c3d73e775e&pt=0&campaignid=&clickBeacon=&imgsize=&slot=10&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CGM&impressionid=&requestid=20261003055015119034249897&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7941790478",
+    "title": "위치비 브러쉬 건조대 고급형 26구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1589/d27d466d11b2c75ef1190a5b8e27a81c25cc066d73ffac38ed287234c9cb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1589/d27d466d11b2c75ef1190a5b8e27a81c25cc066d73ffac38ed287234c9cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e12a/c547bc13fa9b12793ac2fbd9cc0292eec2568f7d6234c1a5069783fac2c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d3c6/2be4059e1d9c4fa8f037d342ceb66c25780d596c9b4fa74445a6dcdb9605.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f488/5dc1060859a79ce4ede5d11fa4cc87e70f61153b7af98c3389f93fb892c5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7941790478&itemId=21876558296&vendorItemId=92255829541&traceid=V0-153-8e0c300cd584a2c0&requestid=20261003055015119034249897&token=31850C%7CGM&pt=0&slot=10"
+    ],
+    "image_path": "images/04_위치비_브러쉬_건조대_고급형_26구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "브러쉬 씻고 수건 위에 눕혀서 말렸는데 이거 쓰고부터 거꾸로 꽂아두니까 모양이 훨씬 잘 잡힘. 26구라 브러쉬 다 꽂아도 자리 남아서 여유로운 게 좋음 🖌️",
+    "b": "화장대 정리 안 된다고 스트레스받다가 이거 두고 나서 진짜 깔끔해짐. 세척 후 꽂아두면 다음날 완전히 말라 있어서 관리 습관이 달라진 게 제일 좋음 ✨"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "ggom_._._",
+    "url": "https://www.threads.com/@ggom_._._/post/Dd_Lni8DzWR",
+    "views": 984,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-02",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hwdTfzyjme",
+    "final_url": "https://www.coupang.com/vp/products/6441165013?itemId=13943647686&src=1139000&spec=10799999&addtag=400&ctag=6441165013&lptag=AF7872661&itime=20261004131736&pageType=PRODUCT&pageValue=6441165013&wPcid=17905526599079763164544&wRef=&wTime=20261004131736&redirect=landing&traceid=V0-101-8b7c56be06c893f7&mcid=4b89695779de4d94aca4b5f8adb76bf9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6441165013",
+    "title": "오마뎅 진짜 부산 떡볶이 (쌀떡) (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9173578694794-c3d6cce9-b01d-47a3-84ac-0275ee966db6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9173578694794-c3d6cce9-b01d-47a3-84ac-0275ee966db6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2022/03/15/16/8/22e698df-c6d7-43dd-a6db-83f188aa579b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2022/03/15/16/3/30079c99-a540-47b4-becd-a39abb8aa110.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/355181271706186-b7b3d71d-eb18-4428-8a34-d37f314ba1e9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67449388053597-69b8a715-f2b7-480f-9e68-563bde932fc9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1463112704286538-8de5fdb2-b889-4458-b16a-e037cf81f786.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67457206286005-58daa0bd-93bf-4c78-9a40-b248ad264517.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12317580576370-a4126586-25b3-4fab-984d-bb8e597e2113.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hwdTfzyjme"
+    ],
+    "image_path": "images/05_오마뎅_진짜_부산_떡볶이_(쌀떡)_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동 떡볶이가 이 정도일 줄은 몰랐음... 쌀떡이라 쫄깃함이 달라서 한 봉지 다 먹고 바로 또 주문함. 소스가 진짜 분식집 느낌이라 자꾸 생각나는 맛임 🌶️",
+    "b": "주말에 혼자 끓여 먹었는데 어묵까지 들어있어서 재료 따로 안 사도 됨. 국물이 걸쭉하고 칼칼해서 마지막 한 입까지 아쉬운 맛이라 자꾸 사게 됨 🍢"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "simpul_life3710",
+    "url": "https://www.threads.com/@simpul_life3710/post/Dd8F8YVE5T6",
+    "views": 531,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/huffrEuY3g",
+    "final_url": "https://www.coupang.com/vp/products/8668796070?itemId=25163151602&src=1139000&spec=10799999&addtag=400&ctag=8668796070&lptag=AF4351884&itime=20261004131744&pageType=PRODUCT&pageValue=8668796070&wPcid=17905526599079763164544&wRef=&wTime=20261004131744&redirect=landing&traceid=V0-101-6079e48ebd021ffc&mcid=9398a1ab56a44378b20591dd24a15d87&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8668796070",
+    "title": "채소한 포천 어린열무 싱싱 국내산 수확, 4kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9fb/553e5e3e22e366e31712fbf0fe1f9f556520a925ec588f596e8b73b16d20.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9fb/553e5e3e22e366e31712fbf0fe1f9f556520a925ec588f596e8b73b16d20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac89/1bba4ca8d4d10910b31bf5f23a18a2b0435d8f66a9de5efee32137fec6a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5e76/e0ad7adc6e1652874decae3a06a844d8c3df03b9ae685d47814e44061eb7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/873a/28dd70f796397c27dc93dea50cc945622b8b59d65cc6ac478588621097b1.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2b5b/aad20d733bf1233877048f9dde797f467b8dfe052b54aca3b604e4de81ec.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6be1/566fcf1bd708d1b7aefeb65aa469518101b22d0a965e0454af0710842d0c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/huffrEuY3g"
+    ],
+    "image_path": "images/06_채소한_포천_어린열무_싱싱_국내산_수확,_4kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "열무김치 해먹으려고 4kg 질렀는데 박스 열자마자 싱싱한 게 빽빽하게 들어있어서 기분 좋았음. 어리고 부드러워서 질기지 않아서 김치가 생각보다 잘 됨 🥬",
+    "b": "포천산 어린열무라 믿고 샀는데 향이 강하고 깨끗해서 나물로도 무쳐봄. 이렇게 신선한 거 먹고 나니까 마트 열무는 다시 못 사겠다 싶더라 🌿"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sichu.1234",
+    "url": "https://www.threads.com/@sichu.1234/post/Dd8DUjpIwcB",
+    "views": 315,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hucCPmP3ds",
+    "final_url": "https://www.coupang.com/vp/products/2155950105?itemId=14306223857&src=1139000&spec=10799999&addtag=400&ctag=2155950105&lptag=AF2949345&itime=20261004131751&pageType=PRODUCT&pageValue=2155950105&wPcid=17905526599079763164544&wRef=&wTime=20261004131751&redirect=landing&traceid=V0-101-c69049b08e9aa8ed&mcid=8102b8c601cc42e5927169a441eac229&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2155950105",
+    "title": "넥스케어 블레미쉬 패치 케어, 87개입, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/764561418314930-bfa8e639-c495-4d36-b6a5-5fe6242609d1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/764561418314930-bfa8e639-c495-4d36-b6a5-5fe6242609d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/442053920159091-cdc29a2d-1267-42a4-8e8c-096f920acd1e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2131389886680065-40aa9be3-5068-4eb0-ab93-ad594e5d7a6e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/442053913579188-97abae14-52f5-41ea-9e49-9168ce9e5762.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hucCPmP3ds"
+    ],
+    "image_path": "images/07_넥스케어_블레미쉬_패치_케어,_87개입,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "짜고 난 자리에 바로 붙이는데 얇고 투명해서 붙인 티가 잘 안 남. 87개짜리라 아껴 쓰는 스트레스 없이 막 쓸 수 있어서 그게 제일 마음 편함 🩹",
+    "b": "피부에 뭔가 올라오면 습관적으로 붙이게 됨. Easy Pick 방식이라 손에 안 묻히고 바로 떼어 쓸 수 있는 게 은근 편해서 침대 옆에 항상 있음 🌙"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "151027_ming",
+    "url": "https://www.threads.com/@151027_ming/post/Dd8K_BuEqbq",
+    "views": 223,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/huhmLzvnae",
+    "final_url": "https://www.coupang.com/vp/products/9273410420?itemId=27449402114&src=1139000&spec=10799999&addtag=400&ctag=9273410420&lptag=AF5241459&itime=20261004131758&pageType=PRODUCT&pageValue=9273410420&wPcid=17905526599079763164544&wRef=&wTime=20261004131758&redirect=landing&traceid=V0-101-d1503272e4c55123&mcid=683ebc2ed699478abb536c7cdde9b963&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9273410420",
+    "title": "아스토니쉬 뉴 제로클리너, 1개, 750ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6d2d/c9a965f50238d46bf56f87a8a68653dfbe30d320928007642a60b0194590.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6d2d/c9a965f50238d46bf56f87a8a68653dfbe30d320928007642a60b0194590.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/huhmLzvnae"
+    ],
+    "image_path": "images/08_아스토니쉬_뉴_제로클리너,_1개,_750ml.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "화장실 타일 청소할 때 뿌리고 잠깐 뒀다 닦으니까 묵은 때가 생각보다 잘 지워짐. 냄새가 독하지 않아서 환기 좀 시키면 부담 없이 쓸 수 있는 게 좋음 🧹",
+    "b": "변기랑 타일 틈새 찌든 때 때문에 샀는데 뿌리고 닦으면 꽤 개운해짐. 기대 크게 안 어긋나서 다 쓰면 재구매 각 잡고 있는 중 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "baedal_e_story.official",
+    "url": "https://www.threads.com/@baedal_e_story.official/post/Dd8gOvdmQUT",
+    "views": 201,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/huuluOevPE",
+    "final_url": "https://www.coupang.com/vp/products/8767457254?itemId=27375661208&src=1139000&spec=10799999&addtag=400&ctag=8767457254&lptag=AF5529394&itime=20261004131805&pageType=PRODUCT&pageValue=8767457254&wPcid=17905526599079763164544&wRef=&wTime=20261004131805&redirect=landing&traceid=V0-101-1a8aa9a9ea55aec6&mcid=c7edc6a6e2ff4dec9e7b774db8a9871c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8767457254",
+    "title": "파파이스 미국 스위트히트 너겟 양념소스 디핑소스 532ml x 2팩",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/95be/46331ec601563a2d57761fd0405b15be461cf85b635fa5a5fe7ccdc91e83.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/95be/46331ec601563a2d57761fd0405b15be461cf85b635fa5a5fe7ccdc91e83.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/huuluOevPE"
+    ],
+    "image_path": "images/09_파파이스_미국_스위트히트_너겟_양념소스_디핑소스_532ml_x_2팩.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "파파이스 가면 꼭 이 소스 받아오던 편이었는데 집에서도 먹을 수 있어서 진짜 기쁨. 닭튀김에 찍으면 달달하면서 살짝 매운 맛이 딱 내 취향이라 자꾸 손이 감 🔥",
+    "b": "치킨이랑 스위트히트 소스 조합이 요즘 제일 좋아하는 저녁임. 532ml 두 병이라 한참 쓸 수 있어서 자주 떨어질 걱정 없는 게 마음 편함 🍗"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "miso_picknote",
+    "url": "https://www.threads.com/@miso_picknote/post/Dd8h01mDspa",
+    "views": 166,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/huoAdhpihw",
+    "final_url": "https://www.coupang.com/vp/products/9525274797?itemId=28305826317&src=1139000&spec=10799999&addtag=400&ctag=9525274797&lptag=AF3727755&itime=20261004131811&pageType=PRODUCT&pageValue=9525274797&wPcid=17905526599079763164544&wRef=&wTime=20261004131811&redirect=landing&traceid=V0-101-6e861e0ffd02fe6e&mcid=d8b072d465024ea897aba1b5106ba997&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9525274797",
+    "title": "에테르코 핸디형 미니 물기제거 밀대 스퀴지, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ea65/e483ba1042daac205439012a3401c6557c45a3a773429ff02809d80c0a01.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ea65/e483ba1042daac205439012a3401c6557c45a3a773429ff02809d80c0a01.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ebbc/4000d6394ea013283d306a1c2aeca1a86f8c7ad3bf3049a1653a0d37d1d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d601/0a7e1ce5958d87b647329039efa2b3e6a2cf4bac20605618190ba97b3c37.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3e97/aa41e875e4380be4c11324818fc44b2077b557685466bca5c59835cf5c2f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a658/bb8f276d3ad9ed88e266848b873cc7598b9146400e5577b2e213a0111ff8.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=wL8o8GK0nhQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/huoAdhpihw"
+    ],
+    "image_path": "images/10_에테르코_핸디형_미니_물기제거_밀대_스퀴지,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세면대 쓰고 나서 물기 닦는 게 귀찮았는데 이거 하나 옆에 두고 쓱 밀면 끝이라 생활 습관이 달라짐. 미니 사이즈라 손에 딱 맞아서 쓰기 편한 게 신기함 🚿",
+    "b": "2개라서 하나는 세면대 옆, 하나는 샤워 부스에 뒀음. 작은데 고무가 바닥에 밀착이 잘 돼서 물기가 깔끔하게 밀려나는 게 생각보다 시원함 💧"
+   }
+  }
+ ]
+}
