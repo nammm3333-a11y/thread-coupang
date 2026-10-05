@@ -1,0 +1,453 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-05T22:00:07",
+  "stopped": false,
+  "finished_at": "2026-10-05T22:18:25"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "todayx24",
+    "url": "https://www.threads.com/@todayx24/post/DeB2fbJGOUd",
+    "views": 17000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-01",
+    "age_days": 4.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hy8Kelf76a",
+    "final_url": "https://www.coupang.com/vp/products/9715667060?itemId=29071858342&src=1139000&spec=10799999&addtag=400&ctag=9715667060&lptag=AF6215199&itime=20261005221253&pageType=PRODUCT&pageValue=9715667060&wPcid=17905526599079763164544&wRef=&wTime=20261005221253&redirect=landing&traceid=V0-101-79740294cb917ac5&mcid=ed15fde08263463a987f1dc2705ed741&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715667060",
+    "title": "2027 에듀윌 지게차운전기능사 독학으로 필기끝장+9개년 기출문제:모의고사 10회+CBT 10회+핵심노트+핵심특강",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998638430335-ddb17055-fef2-4aea-b970-79684925bd65.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489781269980-8dbfbf81-befd-4d8f-84ee-325b6d36f8c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998598077056-7cd3f5a0-c0d7-4076-835a-6f3eb8a84f27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998641896281-8f9f6ea2-b9d2-47a4-8523-d28b200f539e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998635490413-18700225-652a-401a-b780-55e0140e0314.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998649006125-9e036ac4-8fb1-46f3-ab66-5d12ca9f6922.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489825673838-45229107-b86e-49de-8a9a-c35c15e16626.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hy8Kelf76a"
+    ],
+    "image_path": "images/01_2027_에듀윌_지게차운전기능사_독학으로_필기끝장+9개년_기출문제_모의고.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "자격증 공부 시작한다고 했다가 결국 에듀윌 지게차 책 샀는데 기출문제가 9개년치나 들어있어서 양이 진짜 장난 아님... 그래도 CBT 모의고사까지 있어서 막막했던 게 좀 줄어든 느낌 📚",
+    "b": "독학으로 지게차 필기 준비 중인데 이 책 하나로 거의 다 해결됨... 핵심노트 따로 있어서 이동 중에 들고 다니기 편하고 정리가 생각보다 잘 돼 있어서 진도 빼는 게 덜 무서워짐 📖"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "koreabeautytools",
+    "url": "https://www.threads.com/@koreabeautytools/post/DeAloajk_yn",
+    "views": 1700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7941790478&itemId=21876558296&vendorItemId=92255829541&traceid=V0-153-8e0c300cd584a2c0&requestid=20261003055015119034249897&token=31850C%7CGM&pt=0&slot=10",
+    "final_url": "https://www.coupang.com/vp/products/7941790478?itemId=21876558296&vendorItemId=92255829541&src=1139000&spec=10799999&addtag=400&ctag=7941790478&lptag=AF2757296&itime=20261005221301&pageType=PRODUCT&pageValue=7941790478&wPcid=17905526599079763164544&wRef=&wTime=20261005221301&redirect=landing&traceid=V0-153-8e0c300cd584a2c0&mcid=f30fc474957f4ad1a827959859a9f355&pt=0&campaignid=&clickBeacon=&imgsize=&slot=10&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CGM&impressionid=&requestid=20261003055015119034249897&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7941790478",
+    "title": "위치비 브러쉬 건조대 고급형 26구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1589/d27d466d11b2c75ef1190a5b8e27a81c25cc066d73ffac38ed287234c9cb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1589/d27d466d11b2c75ef1190a5b8e27a81c25cc066d73ffac38ed287234c9cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e12a/c547bc13fa9b12793ac2fbd9cc0292eec2568f7d6234c1a5069783fac2c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d3c6/2be4059e1d9c4fa8f037d342ceb66c25780d596c9b4fa74445a6dcdb9605.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f488/5dc1060859a79ce4ede5d11fa4cc87e70f61153b7af98c3389f93fb892c5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7941790478&itemId=21876558296&vendorItemId=92255829541&traceid=V0-153-8e0c300cd584a2c0&requestid=20261003055015119034249897&token=31850C%7CGM&pt=0&slot=10"
+    ],
+    "image_path": "images/02_위치비_브러쉬_건조대_고급형_26구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "브러쉬 씻고 나서 맨날 눕혀놨는데 이거 쓰고 나서는 거꾸로 꽂아서 말리게 됨... 브러쉬 모양도 유지되는 것 같고 아침마다 괜히 뿌듯해지는 루틴이 생겼음 🖌️",
+    "b": "26구나 들어가니까 브러쉬 다 꽂아도 자리 남음... 세워서 말리고 나면 털 상태가 달라진 것 같기도 해서 이제 눕혀두는 건 못 할 것 같음 ✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "berserker.38",
+    "url": "https://www.threads.com/@berserker.38/post/DeB9PUPCHba",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx0Mt58o5Q",
+    "final_url": "https://www.coupang.com/vp/products/9544469771?itemId=28473297281&src=1139000&spec=10799999&addtag=400&ctag=9544469771&lptag=AF2343451&itime=20261005221309&pageType=PRODUCT&pageValue=9544469771&wPcid=17905526599079763164544&wRef=&wTime=20261005221309&redirect=landing&traceid=V0-101-08db38a2fa37e17d&mcid=265557f204e74e36a6c8146cd2d12961&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9544469771",
+    "title": "월드크린 일식 경량 빠루 120cm, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/13/14/9/d9cc2a1c-e2fb-43dc-b6e6-6328aa6774b7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/14/9/d9cc2a1c-e2fb-43dc-b6e6-6328aa6774b7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/7/ad8f4c3a-4d07-4762-8bf9-6b9379f1deef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/7/fb23445d-2066-49d9-a580-49968a6e5a17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/2/09d89991-d0d3-4659-8e78-c485e1794464.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/5/21ce00ed-b6c4-42de-bee3-b78d17920ec7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/2/71992f42-09a7-4216-a39c-4af68fc0dde7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx0Mt58o5Q"
+    ],
+    "image_path": "images/03_월드크린_일식_경량_빠루_120cm,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이사 때 바닥재 뜯어야 해서 빠루 처음 샀는데 120cm짜리라 힘 덜 들어가도 됨... 몸이 덜 힘드니까 작업도 생각보다 훨씬 빨리 끝났음 💪",
+    "b": "집 리모델링하면서 쓴 건데 경량이라 오래 들고 있어도 손목이 안 죽음... 못 뽑기부터 바닥재 들어내기까지 이거 하나로 다 했음 🔧"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DeDQAUykj7h",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hyfVG6EwOk",
+    "final_url": "https://www.coupang.com/vp/products/9211827260?itemId=27212686254&src=1139000&spec=10799999&addtag=400&ctag=9211827260&lptag=AF4955575&itime=20261005221317&pageType=PRODUCT&pageValue=9211827260&wPcid=17905526599079763164544&wRef=&wTime=20261005221317&redirect=landing&traceid=V0-101-2cc19794a445813c&mcid=8136d2c5fc994c74805bf7d6a0f24848&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9211827260",
+    "title": "20% 아/젤/라/산 크림 |피지 모공 잡티 개선 | 지성 민감성 피부| 무자극 데일리 톤업 크림, 4개, 15g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7098/695926e1321f08ecf44c2c5962a42b73366a94a49acefff7681bb426e214.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7098/695926e1321f08ecf44c2c5962a42b73366a94a49acefff7681bb426e214.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hyfVG6EwOk"
+    ],
+    "image_path": "images/04_20%_아_젤_라_산_크림_피지_모공_잡티_개선_지성_민감성_피부_무자극.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지성피부라 요즘 이 아젤라산 크림 쓰는 중인데 바르고 나서 피부가 좀 진정되는 느낌...? 자극 없이 쓸 수 있어서 매일 아침 루틴에 그냥 끼워 넣게 됨 🫧",
+    "b": "발림이 진짜 가벼워서 다른 거 덧바르기도 전혀 부담 없음... 피지 때문에 고민 많았는데 이거 쓰면서 뭔가 관리하고 있다는 느낌이 생겨서 루틴 지키게 됨 🌿"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "dhdlddyd",
+    "url": "https://www.threads.com/@dhdlddyd/post/DeDGCmfEwCW",
+    "views": 973,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gPaxIJd432",
+    "final_url": "https://www.coupang.com/vp/products/8640283168?itemId=28464108162&src=1139000&spec=10799999&addtag=400&ctag=8640283168&lptag=AF9573770&itime=20261005221325&pageType=PRODUCT&pageValue=8640283168&wPcid=17905526599079763164544&wRef=&wTime=20261005221325&redirect=landing&traceid=V0-183-38d0ce7e34ae4c74&mcid=186db3da106d4d13876f858d546fd196&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8640283168",
+    "title": "MUJI LABO 무인양품 라보 교토 향사이도 고체 향수 퍼퓸 샌달우드 23106658",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gPaxIJd432"
+    ],
+    "image_path": "images/05_MUJI_LABO_무인양품_라보_교토_향사이도_고체_향수_퍼퓸_샌달우드_.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvBIlha8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "무지 샌달우드 고체향수 그냥 틴케이스 귀여워서 샀는데 향이 생각보다 훨씬 은근하고 좋음... 가방에 던져넣고 다니다가 필요할 때 살짝 바르는 게 습관이 됨 🖤",
+    "b": "액체향수 들고 다니기 귀찮아서 바꿨는데 이거 묵직하고 은은한 샌달우드 향이 하루 종일 은근히 올라와서 좋음... 뚜껑 여닫을 때마다 기분이 좀 차분해지는 것 같음 🌿"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8Xmi6n5si",
+    "final_url": "https://www.coupang.com/vp/products/9542794349?itemId=28466432880&src=1139000&spec=10799999&addtag=400&ctag=9542794349&lptag=AF7862534&itime=20261005221332&pageType=PRODUCT&pageValue=9542794349&wPcid=17905526599079763164544&wRef=&wTime=20261005221332&redirect=landing&traceid=V0-101-0a867f35c101b34d&mcid=09e9d4b23cab4b1b9b62f117e2a921db&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9542794349",
+    "title": "제이비홈 무크 IH 냄비 2종 세트 (18편수+20양수)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/755cc187-1f4c-4c0b-8005-4a0231e3a94f_fixing_v2_1781763876556.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/755cc187-1f4c-4c0b-8005-4a0231e3a94f_fixing_v2_1781763876556.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f84/a31e0ab5cffa91d934f955c4035d10f40607e5d132e7a536f4ad95ad3a9e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3726/ab017698c2cdd4a7a75ff4694cb9abc059641b83ea9ffee912fc732a0899.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6958/131efcb70d64598affe56e3aa92beeec13354ce7fd628379be3f8c4a7562.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/64bb/c11f83c2e861e942b39132a9717ef46a252280eadc73e2f4dc2afe3dad27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e9fb/e5605c4806cfcacab1b7aa112e1e9cb1d88120a2feb68712ea8d3866cf4c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8Xmi6n5si"
+    ],
+    "image_path": "images/06_제이비홈_무크_IH_냄비_2종_세트_(18편수+20양수).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "블랙 냄비에 우드 손잡이 조합이 너무 예뻐서 결국 질러버림... 라면 끓이면서도 왠지 제대로 요리하는 사람이 된 기분이라 부엌에 서있는 시간이 늘었음 🍳",
+    "b": "편수랑 양수 세트라서 용도별로 딱 나눠 쓰기 좋음... 수납 안 하고 그냥 꺼내놓게 된 첫 번째 냄비인데 이게 있으니까 부엌이 달라 보임 🖤"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DeArTbrk7nK",
+    "views": 903,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hkL7hd5zpY",
+    "final_url": "https://www.coupang.com/vp/products/8760059134?itemId=25471711033&src=1139000&spec=10799999&addtag=400&ctag=8760059134&lptag=AF2377009&itime=20261005221340&pageType=PRODUCT&pageValue=8760059134&wPcid=17905526599079763164544&wRef=&wTime=20261005221340&redirect=landing&traceid=V0-181-c28e6b541787df37&mcid=e0042d819ce34a7f992d2338a59ddd54&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8760059134",
+    "title": "온러닝 클라우드 6 스포츠 스니커즈 - 스니커즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7c61/becebd0e04395a5e84083b1a787efe293dc7f242fa2be3ea8085a17187df.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c61/becebd0e04395a5e84083b1a787efe293dc7f242fa2be3ea8085a17187df.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/db5b/a48939823224ebbad74d6bbc03530aac585ce55541b03b3db01b8d6183c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d9e/661af556e767485e95778b1f1a2472a0ef3fe61f281b668e8efa11701189.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0375/d2793ca396cb8c777716044e995e298102538b5eff32832c8cb4b5400840.jpg",
+     "https://image.coupangcdn.com/image/badge/badge_1a0842d5e8c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hkL7hd5zpY"
+    ],
+    "image_path": "images/07_온러닝_클라우드_6_스포츠_스니커즈_-_스니커즈.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "온클라우드 6 올블랙 사고 나서 산책 나가는 횟수가 늘었음... 밑창 쿠션이 진짜 구름 같다는 말 괜히 나온 게 아니구나 싶어서 걷는 게 덜 귀찮아짐 🖤",
+    "b": "운동화인데 어디 신고 나가도 이상하지 않은 느낌이라 결국 데일리로 신는 중... 한 번 신고 나서 다른 운동화들이 다 왠지 존재감을 잃어버렸음 🏃"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "dunaan65",
+    "url": "https://www.threads.com/@dunaan65/post/DeDHrHZk6Iq",
+    "views": 584,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx9eWzwvrU",
+    "final_url": "https://www.coupang.com/vp/products/111180?itemId=2228430858&vendorItemId=90874987818&src=1139000&spec=10799999&addtag=400&ctag=111180&lptag=AF8120364&itime=20261005221407&pageType=PRODUCT&pageValue=111180&wPcid=17905526599079763164544&wRef=&wTime=20261005221407&redirect=landing&traceid=V0-181-d6e21d98740ccebd&mcid=b82a58dbe1744ea69f7f6dd2e1783ba6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "111180",
+    "title": "쓰리엠 포스트잇 콤보팩 KR-2001 디스펜서 + 팝업리필 100p+ 플래그 50p, 혼합색상, 2세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/940468303267126-5694ba12-ee23-4b0d-9d67-592c9eef79e9.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/940468303267126-5694ba12-ee23-4b0d-9d67-592c9eef79e9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2016/08/18/3000151705/a7d52fcf-ae56-4e8d-b129-40a2a5d5786f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943746398556-a437094f-d1b4-4ea7-8f55-d06c2a964749.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943772877661-420e79df-25e7-4744-84c4-93a97c7e106b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943798487369-0c2ec91c-a5d7-4519-81de-bdff8e54ae73.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943755902475-7a61b176-97f8-4626-895d-e3344c528bd5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/815352325320379-dc9fa07b-738c-403f-b72a-2e076478e51d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/936613783008232-f91979c5-66e5-424f-aa21-41fe51b2b01d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx9eWzwvrU"
+    ],
+    "image_path": "images/08_쓰리엠_포스트잇_콤보팩_KR-2001_디스펜서_+_팝업리필_100p+_플.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상 위에 포스트잇 디스펜서 올려놨더니 생각보다 훨씬 자주 쓰게 됨... 플래그까지 같이 있어서 노트 표시하기도 편하고 책상이 뭔가 정돈된 사람 같아 보임 📝",
+    "b": "콤보팩이라 디스펜서에 리필이랑 플래그 다 같이 와서 따로 살 필요가 없었음... 이거 쓰고 나서 할 일 적는 습관이 생긴 것 같기도 함 🗒️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "today_objet",
+    "url": "https://www.threads.com/@today_objet/post/DeCtmAlgfUH",
+    "views": 413,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hxhI8UdCMu",
+    "final_url": "https://www.coupang.com/vp/products/8670129070?src=1139000&spec=10799999&addtag=400&ctag=8670129070&lptag=AF8057894&itime=20261005221415&pageType=PRODUCT&pageValue=8670129070&wPcid=17905526599079763164544&wRef=&wTime=20261005221415&redirect=landing&traceid=V0-183-efba01e8de30b691&mcid=0c1caaea566a4770a411b974b7e69c17&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8670129070",
+    "title": "26년산 국산 토종 앉은뱅이 통밀가루(강력분) 앉은키 밀가루, 1개, 700g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d323/6e0a20a0bdbf6229b40ae2086d69e6022db765a5482dc50c6be187ebd698.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d323/6e0a20a0bdbf6229b40ae2086d69e6022db765a5482dc50c6be187ebd698.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hxhI8UdCMu"
+    ],
+    "image_path": "images/09_26년산_국산_토종_앉은뱅이_통밀가루(강력분)_앉은키_밀가루,_1개,_7.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수제비 해먹으려고 산 건데 반죽하면서 올라오는 고소한 냄새가 진짜 다름... 이거 쓴 뒤로 집에서 국물 요리할 때 통밀 수제비 추가하는 게 당연해짐 🌾",
+    "b": "빵 구울 때 써봤는데 맛이 뭔가 더 고소하고 묵직한 게 달라서 신기했음... 700g 다 쓰고 나서 바로 또 주문한 거 보면 뭔가 있긴 한 것 같음 🍞"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "__god1sgood",
+    "url": "https://www.threads.com/@__god1sgood/post/DeA7h25mKBA",
+    "views": 238,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hsyAppEYBo",
+    "final_url": "https://www.coupang.com/vp/products/8794050242?itemId=25599349839&src=1139000&spec=10799999&addtag=400&ctag=8794050242&lptag=AF4112174&itime=20261005221455&pageType=PRODUCT&pageValue=8794050242&wPcid=17905526599079763164544&wRef=&wTime=20261005221455&redirect=landing&traceid=V0-101-6c4f7aabbc3123da&mcid=a406e6510f744a0a8a4bf7933e59c90f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8794050242",
+    "title": "제자리Finder 슬라이드 304 스텐 행주건조대",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6cae/a1ddb43207317d8012bbd381459db530be3f1b3385f4e1136f5d5ded5467.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6cae/a1ddb43207317d8012bbd381459db530be3f1b3385f4e1136f5d5ded5467.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6e5f/ca4c6f2b375bbbb11200d18782600aa5fecbda280b49d216cd0ebf5376d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0505/588df9b73dc7cca39a44d51a8dcd24edc77e59f19238b98612b13ffe268d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cc51/b6b63f6ab02409b627bfae9d498ca0748715b0a7947b7f0a34c83710d8a3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c56/68e9012b15e759cf867ca495dfa7aa001222793fdc5392a22bd764617bc9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ab9c/79e08995de031ba87f58e8c380051ba79a4ee6e1a833e5f77a814011cb6d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/04fe/595630f225970e944f562694acb8a3d0ccdf520f508eaba31d0c5f4cf7b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cbde/fd8154572e7ff24c986a869d7e5ffd73005536b57b2c64dd7ede28e67a18.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=nJumwAZC81E",
+     "https://www.youtube.com/watch?v=zQtvcXaw7B8",
+     "https://www.youtube.com/watch?v=QBoF5aqIh5M"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hsyAppEYBo"
+    ],
+    "image_path": "images/10_제자리Finder_슬라이드_304_스텐_행주건조대.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "싱크대 아래 공간에 붙였는데 행주 걸어두기 딱 좋음... 슬라이드로 밀어서 접히니까 필요할 때만 꺼낼 수 있고 주방이 뭔가 정리된 느낌이 확 달라짐 ✨",
+    "b": "행주 맨날 싱크대 가장자리에 걸쳐놨는데 이거 달고 나서 그 버릇이 없어짐... 304 스텐이라 녹 걱정 없고 붙이기도 간단해서 괜히 뿌듯했음 🧼"
+   }
+  }
+ ]
+}
