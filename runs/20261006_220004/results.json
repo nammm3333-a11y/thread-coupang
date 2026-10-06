@@ -1,0 +1,461 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-06T22:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-06T22:19:39"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "yejin0012",
+    "url": "https://www.threads.com/@yejin0012/post/DeEM5xTmJv5",
+    "views": 4700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gjR5UGbk1k",
+    "final_url": "https://www.coupang.com/vp/products/1079437505?itemId=2031103868&src=1139000&spec=10799999&addtag=400&ctag=1079437505&lptag=AF7224416&itime=20261006221416&pageType=PRODUCT&pageValue=1079437505&wPcid=17905526599079763164544&wRef=&wTime=20261006221416&redirect=landing&traceid=V0-181-adc4135cb8efaedd&mcid=e0175dcd5ee14119a11b86a8bbd2a256&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1079437505",
+    "title": "사랑과정성 사랑담은 불고기랑갈비랑, 230g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/445010879380361-17c829cf-1c7a-42b8-bf88-9241fc557104.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445010879380361-17c829cf-1c7a-42b8-bf88-9241fc557104.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3387770721838961-deb4d6e3-817b-4b8b-8414-6ad43c37850d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3389562789772071-44b448cd-0061-4d0c-8fa1-8ddf84944e8f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3387770814366344-0410bf87-515a-49ce-9b72-1029219953dd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445015644613445-03120ae9-6c57-4aac-8ceb-45687414b527.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445015606562504-6d296274-3a76-4054-8215-a07a527541d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/136373197892161-6b7e61b1-38ed-49fb-9870-c7c1b0e3cb0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/136872350280015-77a6e276-1573-4a17-a0ab-329957b72fc4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gjR5UGbk1k"
+    ],
+    "image_path": "images/01_사랑과정성_사랑담은_불고기랑갈비랑,_230g,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고에 이거 있으면 주말 고기 반찬 걱정 없음. 그냥 재워두면 되는데 맛이 생각보다 훨씬 깊어서 놀랐음. 요즘 집밥이 덜 귀찮아진 게 이 소스 덕분인 것 같음 🍖",
+    "b": "불고기 소스 이것저것 써봤는데 이 맛이 제일 내 취향임. 갈비랑 불고기를 한 병으로 해결할 수 있는 것도 너무 편하고. 한 번 쓰고 나서 다른 거 손이 안 가더라 😋"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DeDQAUykj7h",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hyfVG6EwOk",
+    "final_url": "https://www.coupang.com/vp/products/9211827260?itemId=27212686254&src=1139000&spec=10799999&addtag=400&ctag=9211827260&lptag=AF4955575&itime=20261006221426&pageType=PRODUCT&pageValue=9211827260&wPcid=17905526599079763164544&wRef=&wTime=20261006221426&redirect=landing&traceid=V0-101-2cc19794a445813c&mcid=f981ae9922d64664b6cdd9223113ec1c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9211827260",
+    "title": "ClarityX 20% 아/젤/라/산 크림 |피지 모공 잡티 개선 | 지성 민감성 피부| 무자극 데일리 톤업 크림, 4개, 15g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/caf4/16da364df8d07ec769e65444e41f8f34d2e7556a99a84296585a028f7dfe.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/caf4/16da364df8d07ec769e65444e41f8f34d2e7556a99a84296585a028f7dfe.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b373/9f2106c2de39d1f1710690c962c7017039e10862224412352cb7740f72b6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1719/3e79e0766b483ec8aa38bdf3f511cb26d4ebb17a250c93dca9d48444e0bd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f09c/c7ba35104473e7e86a4d60d5c6d8015a5f0c1f17bb4d9b88985349c8a2c5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/030d/9d488b85fe90ec42506ba8a1f1d16a88ed5e37888fef10e54a98632cb747.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hyfVG6EwOk"
+    ],
+    "image_path": "images/02_ClarityX_20%_아_젤_라_산_크림_피지_모공_잡티_개선_지성_민.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지성 피부라 크림 바르는 게 항상 찝찝했는데 이건 바르고 나서 번들거림이 덜해서 신기했음. 모공 부분이 전보다 덜 거슬리는 것 같아서 계속 쓰게 됨. 스킨케어 마지막 단계가 부담 없어진 게 달라진 점 🌿",
+    "b": "자기 전에 얇게 펴 바르고 자는 루틴 생긴 게 요즘 유일한 피부 관리. 잡티 있는 부분에 집중적으로 쓰고 있는데 피부가 전보다 차분해진 느낌. 튜브 용량이 작아서 여행 갈 때도 챙기기 딱 좋음 ✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "bowco38",
+    "url": "https://www.threads.com/@bowco38/post/DeFw8PCE9dO",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hzfmT8K34u",
+    "final_url": "https://www.coupang.com/vp/products/8747090213?itemId=25425670349&src=1139000&spec=10799999&addtag=400&ctag=8747090213&lptag=AF3751848&itime=20261006221433&pageType=PRODUCT&pageValue=8747090213&wPcid=17905526599079763164544&wRef=&wTime=20261006221433&redirect=landing&traceid=V0-101-bc34f1f71adf6260&mcid=156639d5fe5d47f5a34579bdbb1c188f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8747090213",
+    "title": "자동차 덮개 사계절 햇빛 차단 가리개 전동 자동회수 태양열 커버 폴리에스터 790T",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aea0/b3e75e596c5f5bc31da9d927ddd4baf471dfa4b1c4bf1921c002495a54b6.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/478d/018df8a4ca60881f8d41f9f0f4083e6579647d639cf0259b31f51fecf787.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0bce/f01d8dc53aabd1e663ec52a5210797c01465881f3c5d374402af44eb9778.jpeg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=VfBsBzqPVxk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hzfmT8K34u"
+    ],
+    "image_path": "images/03_자동차_덮개_사계절_햇빛_차단_가리개_전동_자동회수_태양열_커버_폴리에스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름마다 차 탈 때 찜통이었는데 이거 달고 나서 그 느낌이 좀 달라짐. 태양열로 자동 작동되니까 선 연결 없이 쓸 수 있는 게 제일 편하고. 주차할 때마다 손으로 가리개 펴던 번거로움이 사라짐 ☀️",
+    "b": "자동으로 커버가 펼쳐지고 걷히는 거 처음 보고 진짜 신기했음. 직사광선 맞는 시간이 줄어드니까 차에 타자마자 에어컨 풀로 틀던 게 조금 줄었음. 솔라패널이 지붕에 딱 붙는 디자인이라 생각보다 안정적임 🚗"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "dhdlddyd",
+    "url": "https://www.threads.com/@dhdlddyd/post/DeDGCmfEwCW",
+    "views": 977,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gPaxIJd432",
+    "final_url": "https://www.coupang.com/vp/products/8640283168?itemId=28464108162&src=1139000&spec=10799999&addtag=400&ctag=8640283168&lptag=AF9573770&itime=20261006221440&pageType=PRODUCT&pageValue=8640283168&wPcid=17905526599079763164544&wRef=&wTime=20261006221440&redirect=landing&traceid=V0-183-38d0ce7e34ae4c74&mcid=0aefac502eec4d98a06439b5642c810c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8640283168",
+    "title": "MUJI LABO 무인양품 라보 교토 향사이도 고체 향수 퍼퓸 샌달우드 23106658",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gPaxIJd432"
+    ],
+    "image_path": "images/04_MUJI_LABO_무인양품_라보_교토_향사이도_고체_향수_퍼퓸_샌달우드_.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvBIlha8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고체 향수 처음 써봤는데 뿌리는 향수보다 훨씬 은은하게 퍼져서 오히려 좋더라. 샌달우드가 진할 줄 알았는데 따뜻하고 차분한 느낌이라 부담이 없음. 가방에 넣고 다니면서 손목에 살짝 찍는 게 요즘 루틴 됨 🖤",
+    "b": "틴 케이스가 작고 묵직해서 들고 다니기 딱임. 향이 오래 지속되진 않는데 그게 오히려 은은해서 마음에 들었음. 사람 많은 곳에서도 민폐 없이 쓸 수 있는 향수가 생긴 것 자체가 만족 🌿"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83TtKHB1M",
+    "final_url": "https://www.coupang.com/vp/products/29703270?itemId=113474995&src=1139000&spec=10799999&addtag=400&ctag=29703270&lptag=AF7862534&itime=20261006221448&pageType=PRODUCT&pageValue=29703270&wPcid=17905526599079763164544&wRef=&wTime=20261006221448&redirect=landing&traceid=V0-101-5a0e727551f51354&mcid=6485eea4e5394f32a2423739bc9db03b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "29703270",
+    "title": "기꼬만 판코 스타일 코팅",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2017/08/02/15/0/35076d74-9c4b-48da-94dd-4b5c61227a44.JPG",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/0/35076d74-9c4b-48da-94dd-4b5c61227a44.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/2/ee909314-8de6-476c-8a28-25e85888e821.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/0/dba8d0e7-c028-454e-b1ed-7cb2082c339a.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/4/b0e1a1b4-a0c6-4e3e-97f6-a4706676862a.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/0/fe93a38e-db9d-4273-8ce7-e28e2ae62a4f.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/2/1125c9ea-d7ee-471a-8d54-034987a0bd1e.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2017/08/02/15/3/871cde63-8969-4625-818f-90dc384e68c2.JPG",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g83TtKHB1M"
+    ],
+    "image_path": "images/05_기꼬만_판코_스타일_코팅.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 튀김 할 때 이 빵가루 쓰니까 바삭함이 진짜 달라짐. 새우튀김 해봤는데 튀김집 느낌 나는 거 실화였음. 글루텐프리인 줄 나중에 알고 더 자주 쓰게 됐음 🍤",
+    "b": "빵가루가 다 비슷한 줄 알았는데 이건 결이 달라서 입혔을 때 두께감이 있음. 치킨 만들 때 써봤더니 겉이 훨씬 바삭하게 나와서 놀랐음. 리씰 가능한 봉투라 보관도 편함 😮"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "solokitchen___",
+    "url": "https://www.threads.com/@solokitchen___/post/DeFrw9jEweD",
+    "views": 870,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7388300623&itemId=19096876650&vendorItemId=86395954361&traceid=V0-153-77f0066665cbd748&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a~3&requestid=20261005044100175052503071&token=31850C%7CMIXED&pt=1&slot=5",
+    "final_url": "https://www.coupang.com/vp/products/7388300623?itemId=19096876650&vendorItemId=86395954361&src=1139000&spec=10799999&addtag=400&ctag=7388300623&lptag=AF2757296&itime=20261006221526&pageType=PRODUCT&pageValue=7388300623&wPcid=17905526599079763164544&wRef=&wTime=20261006221526&redirect=landing&traceid=V0-153-77f0066665cbd748&mcid=929b16a97be84598b377b0b20e4b87ee&pt=1&campaignid=&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a~3&imgsize=&slot=5&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261005044100175052503071&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7388300623",
+    "title": "슈마카프트 일본산 스텐 샐러드 파스타 집게, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1304928208531406-e506e4d6-190d-4be5-8995-d129be86bb0b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1304928208531406-e506e4d6-190d-4be5-8995-d129be86bb0b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vgbwluvm/30e3bfac9535418ca2147f7a6f118312.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/sr9fkvb6/e502377a9daa43f997e8a950afa9962b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/1jdc9nvp/172a5cd3355c4d1b8d7cb6a1cbd33a5a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/975226634019422-f739e7a1-5aca-4ef4-b7df-7d8931a50874.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54265633845297-d22506b2-0d52-41ca-a4cb-d57403226c83.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54265633845391-5e368317-f04b-48c3-8be8-13cb51d0d48f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1234418692477566-59260f29-fb5a-4acd-9c3b-0818e9357f56.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7388300623&itemId=19096876650&vendorItemId=86395954361&traceid=V0-153-77f0066665cbd748&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a~3&requestid=20261005044100175052503071&token=31850C%7CMIXED&pt=1&slot=5"
+    ],
+    "image_path": "images/06_슈마카프트_일본산_스텐_샐러드_파스타_집게,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "파스타 담을 때 포크로 뒤적이던 게 얼마나 불편했는지 이 집게 쓰고 나서야 깨달음. 한쪽은 평평하고 한쪽은 포크형이라 면이 잘 잡히고. 스텐이라 녹 걱정 없이 쓸 수 있는 게 제일 좋음 🍝",
+    "b": "샐러드 버무릴 때 손 안 대도 돼서 진짜 편함. 심플한 디자인인데 설거지가 쉬워서 쓰고 나서 부담이 없음. 주방에 그냥 두면 뭔가 있어 보이는 느낌도 은근 있음 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "go2233_2233",
+    "url": "https://www.threads.com/@go2233_2233/post/DeF68yvEr1X",
+    "views": 857,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hg29OSUjAa",
+    "final_url": "https://www.coupang.com/vp/products/9068648263?itemId=26631509857&src=1139000&spec=10799999&addtag=400&ctag=9068648263&lptag=AF6081996&itime=20261006221534&pageType=PRODUCT&pageValue=9068648263&wPcid=17905526599079763164544&wRef=&wTime=20261006221534&redirect=landing&traceid=V0-101-7d113b6035977c22&mcid=8ab7bbd75a3a451792c8be8a4052af2c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9068648263",
+    "title": "돌 뉴질랜드산 Right Now 바로먹는 후숙 아보카도, 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229763880393663-a8204e4b-0876-4ad6-9ab6-f414ee65ae31.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/318818200399338-942cc334-4a4e-462d-abc0-45a5fc5032c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/crikzzal/79c7525028114f65b551692daa7dc638.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229769480627468-e6e23be6-8ec8-462e-a159-d1079b5ef30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67491843505722-4c1f9dc2-7695-40d3-bf6a-f17e357a6f8b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67495169283535-a72963ee-e6b4-4720-bd4e-93e9e4aa4bf9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67498450501444-65661c8c-0e93-4b9d-8e13-950222c606d4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hg29OSUjAa"
+    ],
+    "image_path": "images/07_돌_뉴질랜드산_Right_Now_바로먹는_후숙_아보카도,_1kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아보카도 사면 딱딱하게 와서 며칠 기다리는 게 스트레스였는데 이건 진짜 받자마자 바로 먹을 수 있음. 결이 부드럽고 맛도 딱 좋아서 밥이랑 먹었더니 너무 맛있었음. 후숙 걱정 없이 아보카도 먹을 수 있게 된 게 제일 달라진 점 🥑",
+    "b": "1kg이라 양이 꽤 많아서 샐러드에도 넣고 토스트에도 얹고 일주일 내내 쓸 수 있었음. 껍질이 진한 거 골라 쓰면 딱 익은 거 먹을 수 있어서 좋고. 후숙 완료된 거 바로 오는 게 이렇게 편한 건 줄 몰랐음 🥑"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DeEqrlDCfqS",
+    "views": 766,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hhnMLYmLjE",
+    "final_url": "https://www.coupang.com/vp/products/7846637857?itemId=21375432528&vendorItemId=88432554646&src=1139000&spec=10799999&addtag=400&ctag=7846637857&lptag=AF2377009&itime=20261006221541&pageType=PRODUCT&pageValue=7846637857&wPcid=17905526599079763164544&wRef=&wTime=20261006221541&redirect=landing&traceid=V0-181-b619629df4070669&mcid=05216290f52b4782b7d978f279492158&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7846637857",
+    "title": "코스트코 오스트레일리안 보태니컬 핸드워시 + 더메이런알콜티슈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fec2/593e1a318539cb7a8754907a374e752c11ca7cccd00427b07d59773dc276.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fec2/593e1a318539cb7a8754907a374e752c11ca7cccd00427b07d59773dc276.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5411/da49f71bb3bcb66ffc202129dbc5582be378bf1e24b40625d6addeaf715e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8536/ef570016c93ea24cf71c019f61cfe4ebbcbd81ac7654c9b656a5e628e8bb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4797/0ba2cf53b573c024623fe047babf1dc48b7e21cbee6b8ca45a8df954d9f1.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hhnMLYmLjE"
+    ],
+    "image_path": "images/08_코스트코_오스트레일리안_보태니컬_핸드워시_+_더메이런알콜티슈.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "손 씻을 때마다 레몬그라스 향이 올라오는데 이게 생각보다 기분이 좋음. 향이 너무 강하지 않아서 씻고 나서도 부담 없는 게 포인트. 용량이 커서 리필 걱정 없이 쓰는 게 제일 편함 🌿",
+    "b": "욕실에 초록 병 두 개 놓으니까 분위기가 달라 보이는 건 기분 탓인가. 레몬그라스 향이 생각보다 상쾌해서 아침에 손 씻을 때마다 기분이 좀 나아지는 느낌. 거품도 풍성하게 잘 나와서 만족스러움 🍋"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "dunaan65",
+    "url": "https://www.threads.com/@dunaan65/post/DeDHrHZk6Iq",
+    "views": 587,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx9eWzwvrU",
+    "final_url": "https://www.coupang.com/vp/products/111180?itemId=2228430858&vendorItemId=90874987818&src=1139000&spec=10799999&addtag=400&ctag=111180&lptag=AF8120364&itime=20261006221620&pageType=PRODUCT&pageValue=111180&wPcid=17905526599079763164544&wRef=&wTime=20261006221620&redirect=landing&traceid=V0-181-d6e21d98740ccebd&mcid=f66cd1f197af48909fc5db20778ffbaa&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "111180",
+    "title": "쓰리엠 포스트잇 콤보팩 KR-2001 디스펜서 + 팝업리필 100p+ 플래그 50p, 혼합색상, 2세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/940468303267126-5694ba12-ee23-4b0d-9d67-592c9eef79e9.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/940468303267126-5694ba12-ee23-4b0d-9d67-592c9eef79e9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2016/08/18/3000151705/a7d52fcf-ae56-4e8d-b129-40a2a5d5786f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943746398556-a437094f-d1b4-4ea7-8f55-d06c2a964749.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943772877661-420e79df-25e7-4744-84c4-93a97c7e106b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943798487369-0c2ec91c-a5d7-4519-81de-bdff8e54ae73.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1553943755902475-7a61b176-97f8-4626-895d-e3344c528bd5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/815352325320379-dc9fa07b-738c-403f-b72a-2e076478e51d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/936613783008232-f91979c5-66e5-424f-aa21-41fe51b2b01d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx9eWzwvrU"
+    ],
+    "image_path": "images/09_쓰리엠_포스트잇_콤보팩_KR-2001_디스펜서_+_팝업리필_100p+_플.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상 위에 올려두니까 생각날 때마다 바로 한 장 뜯어 쓸 수 있어서 메모 습관이 생겼음. 플래그도 같이 있어서 서류에 표시할 때 따로 안 찾아도 돼. 팝업 방식이라 한 장씩 딱 나오는 게 생각보다 쾌감 있음 📝",
+    "b": "파란 디스펜서 디자인이 귀여워서 책상 위 인테리어 소품처럼 두게 됨. 포스트잇이 디스펜서에 담겨 있으니까 구겨질 일도 없고 찾을 필요도 없어서 편함. 2세트라 하나 여유분으로 두고 쓸 수 있는 것도 좋음 💙"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "unic.130",
+    "url": "https://www.threads.com/@unic.130/post/DeFsJazk5Fu",
+    "views": 476,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hvZoE4lTl6",
+    "final_url": "https://www.coupang.com/vp/products/7159058367?src=1139000&spec=10799999&addtag=400&ctag=7159058367&lptag=AF7137092&itime=20261006221629&pageType=PRODUCT&pageValue=7159058367&wPcid=17905526599079763164544&wRef=&wTime=20261006221629&redirect=landing&traceid=V0-183-a20fd69dede2b3df&mcid=2f226c8e13464c7991a650f01f95dd67&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7159058367",
+    "title": "[모라독] Moradok 스위트 칠리소스, 2개, 600ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d3ae/1382305d888948ad9bb3b6aef0c515d52c294697b8a1d378537aa862ffc7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d3ae/1382305d888948ad9bb3b6aef0c515d52c294697b8a1d378537aa862ffc7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0909/7aa5774b25e52b20d21dcdc2a2487efcc250eefa5a3c953109d27b74a2a3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0804/37e69263f1777b533d81e2fa0e832ac64e63f9c05e5f3a24e6fb4c8b6ccb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hvZoE4lTl6"
+    ],
+    "image_path": "images/10_[모라독]_Moradok_스위트_칠리소스,_2개,_600ml.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "스프링롤 찍어 먹으려고 샀다가 지금은 이것저것 다 찍어 먹는 중. 달달한 거 안에 칠리 향이 적당히 있어서 질리지가 않음. 2개 세트라 하나 남겨두면서 넉넉하게 쓸 수 있는 게 딱 좋음 🌶️",
+    "b": "집에서 튀김 만들 때 이거 꺼내면 완전 태국 식당 분위기 남. 달콤한 맛이라 매운 거 못 먹는 사람도 같이 먹을 수 있어서 좋았음. 600ml짜리라 한 병 다 쓰는 데 꽤 오래 걸려서 가성비 있음 😋"
+   }
+  }
+ ]
+}
