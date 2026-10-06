@@ -1,0 +1,454 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-06T18:00:08",
+  "stopped": false,
+  "finished_at": "2026-10-06T18:18:16"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "todayx24",
+    "url": "https://www.threads.com/@todayx24/post/DeB2fbJGOUd",
+    "views": 10000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hy8Kelf76a",
+    "final_url": "https://www.coupang.com/vp/products/9715667060?itemId=29071858342&src=1139000&spec=10799999&addtag=400&ctag=9715667060&lptag=AF6215199&itime=20261006181352&pageType=PRODUCT&pageValue=9715667060&wPcid=17905526599079763164544&wRef=&wTime=20261006181352&redirect=landing&traceid=V0-101-79740294cb917ac5&mcid=779d8e79b5e24f1da558a0e7d7998079&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9715667060",
+    "title": "2027 에듀윌 지게차운전기능사 독학으로 필기끝장+9개년 기출문제:모의고사 10회+CBT 10회+핵심노트+핵심특강",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/22/14/6/478b31d5-5083-4df2-9435-9583e306c25e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998638430335-ddb17055-fef2-4aea-b970-79684925bd65.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489781269980-8dbfbf81-befd-4d8f-84ee-325b6d36f8c4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998598077056-7cd3f5a0-c0d7-4076-835a-6f3eb8a84f27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998641896281-8f9f6ea2-b9d2-47a4-8523-d28b200f539e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998635490413-18700225-652a-401a-b780-55e0140e0314.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/267998649006125-9e036ac4-8fb1-46f3-ab66-5d12ca9f6922.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1325489825673838-45229107-b86e-49de-8a9a-c35c15e16626.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hy8Kelf76a"
+    ],
+    "image_path": "images/01_2027_에듀윌_지게차운전기능사_독학으로_필기끝장+9개년_기출문제_모의고.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지게차 자격증 따야 해서 이거 집어들었는데, 기출문제에 CBT까지 다 들어있어서 생각보다 알차더라. 이거 하나로 진짜 시험장 가도 되겠다 싶은 느낌 🚜",
+    "b": "독학으로 붙을 수 있을까 걱정했는데 핵심노트랑 무료특강이 같이 있으니까 훨씬 수월하게 공부되더라. 매일 조금씩 풀다 보니 어느새 익숙해지는 중 📚"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "yejin0012",
+    "url": "https://www.threads.com/@yejin0012/post/DeEM5xTmJv5",
+    "views": 4700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gjR5UGbk1k",
+    "final_url": "https://www.coupang.com/vp/products/1079437505?itemId=2031103868&src=1139000&spec=10799999&addtag=400&ctag=1079437505&lptag=AF7224416&itime=20261006181359&pageType=PRODUCT&pageValue=1079437505&wPcid=17905526599079763164544&wRef=&wTime=20261006181359&redirect=landing&traceid=V0-181-adc4135cb8efaedd&mcid=c7764a2704a64796a9f5fbb3667d58cc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1079437505",
+    "title": "사랑과정성 사랑담은 불고기랑갈비랑, 230g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/445010879380361-17c829cf-1c7a-42b8-bf88-9241fc557104.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445010879380361-17c829cf-1c7a-42b8-bf88-9241fc557104.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3387770721838961-deb4d6e3-817b-4b8b-8414-6ad43c37850d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3389562789772071-44b448cd-0061-4d0c-8fa1-8ddf84944e8f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3387770814366344-0410bf87-515a-49ce-9b72-1029219953dd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445015644613445-03120ae9-6c57-4aac-8ceb-45687414b527.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/445015606562504-6d296274-3a76-4054-8215-a07a527541d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/136373197892161-6b7e61b1-38ed-49fb-9870-c7c1b0e3cb0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/136872350280015-77a6e276-1573-4a17-a0ab-329957b72fc4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gjR5UGbk1k"
+    ],
+    "image_path": "images/02_사랑과정성_사랑담은_불고기랑갈비랑,_230g,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주말에 고기 구우려고 이거 한 병 뿌렸더니 진짜 집에서 이 맛이 나도 되나 싶었음. 이제 냉장고에 이거 있는지 먼저 확인하고 장 봐 🍖",
+    "b": "양념 만들기 귀찮아서 불고기에 그냥 부어 재웠더니 가족들이 오늘 뭐 다르게 했냐고 물어봄. 소스 하나로 밥상 분위기가 달라진 게 느껴져서 자꾸 손이 가 😋"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "berserker.38",
+    "url": "https://www.threads.com/@berserker.38/post/DeB9PUPCHba",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx0Mt58o5Q",
+    "final_url": "https://www.coupang.com/vp/products/9544469771?itemId=28473297281&src=1139000&spec=10799999&addtag=400&ctag=9544469771&lptag=AF2343451&itime=20261006181407&pageType=PRODUCT&pageValue=9544469771&wPcid=17905526599079763164544&wRef=&wTime=20261006181407&redirect=landing&traceid=V0-101-08db38a2fa37e17d&mcid=ac2ec68988214868b8d8d36629899ceb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9544469771",
+    "title": "월드크린 일식 경량 빠루 120cm, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/13/14/9/d9cc2a1c-e2fb-43dc-b6e6-6328aa6774b7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/14/9/d9cc2a1c-e2fb-43dc-b6e6-6328aa6774b7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/7/ad8f4c3a-4d07-4762-8bf9-6b9379f1deef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/7/fb23445d-2066-49d9-a580-49968a6e5a17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/2/09d89991-d0d3-4659-8e78-c485e1794464.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/5/21ce00ed-b6c4-42de-bee3-b78d17920ec7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/13/15/2/71992f42-09a7-4216-a39c-4af68fc0dde7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx0Mt58o5Q"
+    ],
+    "image_path": "images/03_월드크린_일식_경량_빠루_120cm,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "장판 뜯을 일 있어서 빠루 처음 써봤는데 120cm라 허리 안 구부려도 돼서 진짜 편하더라. 이게 있고 없고가 이렇게 차이 날 줄은 몰랐음 💪",
+    "b": "가볍다고 해서 반신반의했는데 실제로 들어보니 진짜 가벼워서 오래 써도 손목이 안 아프더라. 이런 거 하나 있으면 집에서 소소한 작업할 때 든든해 🔧"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DeDQAUykj7h",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hyfVG6EwOk",
+    "final_url": "https://www.coupang.com/vp/products/9211827260?itemId=27212686254&src=1139000&spec=10799999&addtag=400&ctag=9211827260&lptag=AF4955575&itime=20261006181414&pageType=PRODUCT&pageValue=9211827260&wPcid=17905526599079763164544&wRef=&wTime=20261006181414&redirect=landing&traceid=V0-101-2cc19794a445813c&mcid=285d28e315614d9abe7743b9bf049d5a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9211827260",
+    "title": "ClarityX 20% 아/젤/라/산 크림 |피지 모공 잡티 개선 | 지성 민감성 피부| 무자극 데일리 톤업 크림, 4개, 15g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/caf4/16da364df8d07ec769e65444e41f8f34d2e7556a99a84296585a028f7dfe.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/caf4/16da364df8d07ec769e65444e41f8f34d2e7556a99a84296585a028f7dfe.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b373/9f2106c2de39d1f1710690c962c7017039e10862224412352cb7740f72b6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1719/3e79e0766b483ec8aa38bdf3f511cb26d4ebb17a250c93dca9d48444e0bd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f09c/c7ba35104473e7e86a4d60d5c6d8015a5f0c1f17bb4d9b88985349c8a2c5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/030d/9d488b85fe90ec42506ba8a1f1d16a88ed5e37888fef10e54a98632cb747.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hyfVG6EwOk"
+    ],
+    "image_path": "images/04_ClarityX_20%_아_젤_라_산_크림_피지_모공_잡티_개선_지성_민.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피지 때문에 고민이었는데 세안 후에 발랐더니 낮에 번들거리는 느낌이 좀 달라지더라. 텍스처가 생각보다 가벼워서 부담 없이 쓰고 있는 중 🌿",
+    "b": "모공이 신경 쓰여서 써봤는데 자극이 없어서 민감한 피부인 나도 거슬리는 느낌 없이 잘 쓰고 있어. 꾸준히 써봐야겠다 싶어서 4개 쟁여놓음 ✨"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "bowco38",
+    "url": "https://www.threads.com/@bowco38/post/DeFw8PCE9dO",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hzfmT8K34u",
+    "final_url": "https://www.coupang.com/vp/products/8747090213?itemId=25425670349&src=1139000&spec=10799999&addtag=400&ctag=8747090213&lptag=AF3751848&itime=20261006181422&pageType=PRODUCT&pageValue=8747090213&wPcid=17905526599079763164544&wRef=&wTime=20261006181422&redirect=landing&traceid=V0-101-bc34f1f71adf6260&mcid=b7ed7a35429c48228b1c515b5a34039b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8747090213",
+    "title": "자동차 덮개 사계절 햇빛 차단 가리개 전동 자동회수 태양열 커버 폴리에스터 790T",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d019/d759a71d60ee4d77770baefc251c4579172f3dbaf56ce7004293a137346e.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aea0/b3e75e596c5f5bc31da9d927ddd4baf471dfa4b1c4bf1921c002495a54b6.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/478d/018df8a4ca60881f8d41f9f0f4083e6579647d639cf0259b31f51fecf787.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0bce/f01d8dc53aabd1e663ec52a5210797c01465881f3c5d374402af44eb9778.jpeg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=VfBsBzqPVxk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hzfmT8K34u"
+    ],
+    "image_path": "images/05_자동차_덮개_사계절_햇빛_차단_가리개_전동_자동회수_태양열_커버_폴리에스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "야외 주차할 때 차 안이 너무 뜨거워서 이거 써봤는데 버튼 누르면 자동으로 걷혀서 생각보다 편하더라. 이제 이거 없으면 허전할 것 같음 ☀️",
+    "b": "태양열로 자동회수된다길래 반신반의했는데 실제로 되더라. 아침에 급하게 출발할 때 손으로 개지 않아도 돼서 그게 제일 마음에 들어 🚗"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "dhdlddyd",
+    "url": "https://www.threads.com/@dhdlddyd/post/DeDGCmfEwCW",
+    "views": 977,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-04",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gPaxIJd432",
+    "final_url": "https://www.coupang.com/vp/products/8640283168?itemId=28464108162&src=1139000&spec=10799999&addtag=400&ctag=8640283168&lptag=AF9573770&itime=20261006181429&pageType=PRODUCT&pageValue=8640283168&wPcid=17905526599079763164544&wRef=&wTime=20261006181429&redirect=landing&traceid=V0-183-38d0ce7e34ae4c74&mcid=406edb31460c46d3b9b277959a3fb633&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8640283168",
+    "title": "MUJI LABO 무인양품 라보 교토 향사이도 고체 향수 퍼퓸 샌달우드 23106658",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gPaxIJd432"
+    ],
+    "image_path": "images/06_MUJI_LABO_무인양품_라보_교토_향사이도_고체_향수_퍼퓸_샌달우드_.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvBIlha8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "향수 뿌리는 거 불편해서 고체 타입 처음 써봤는데 가방에 넣고 다니면서 손목에 살짝 찍어 쓰기 딱이더라. 샌달우드 향이 은근하게 오래 가서 나중에 또 살 것 같아 🪵",
+    "b": "뚜껑 열면 은은한 나무향이 나서 기분이 차분해지는 느낌인데, 포장도 군더더기 없이 깔끔해서 마음에 들어. 요즘 출근 전에 꼭 찍고 나가는 루틴이 생겼음 🖤"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "solokitchen___",
+    "url": "https://www.threads.com/@solokitchen___/post/DeFrw9jEweD",
+    "views": 870,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7388300623&itemId=19096876650&vendorItemId=86395954361&traceid=V0-153-77f0066665cbd748&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a~3&requestid=20261005044100175052503071&token=31850C%7CMIXED&pt=1&slot=5",
+    "final_url": "https://www.coupang.com/vp/products/7388300623?itemId=19096876650&vendorItemId=86395954361&src=1139000&spec=10799999&addtag=400&ctag=7388300623&lptag=AF2757296&itime=20261006181436&pageType=PRODUCT&pageValue=7388300623&wPcid=17905526599079763164544&wRef=&wTime=20261006181436&redirect=landing&traceid=V0-153-77f0066665cbd748&mcid=c960c16a8b464476852104972f8eb7ef&pt=1&campaignid=&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a%7E3&imgsize=&slot=5&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261005044100175052503071&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7388300623",
+    "title": "슈마카프트 일본산 스텐 샐러드 파스타 집게, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1304928208531406-e506e4d6-190d-4be5-8995-d129be86bb0b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1304928208531406-e506e4d6-190d-4be5-8995-d129be86bb0b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vgbwluvm/30e3bfac9535418ca2147f7a6f118312.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/sr9fkvb6/e502377a9daa43f997e8a950afa9962b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/1jdc9nvp/172a5cd3355c4d1b8d7cb6a1cbd33a5a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/975226634019422-f739e7a1-5aca-4ef4-b7df-7d8931a50874.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54265633845297-d22506b2-0d52-41ca-a4cb-d57403226c83.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54265633845391-5e368317-f04b-48c3-8be8-13cb51d0d48f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1234418692477566-59260f29-fb5a-4acd-9c3b-0818e9357f56.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=7388300623&itemId=19096876650&vendorItemId=86395954361&traceid=V0-153-77f0066665cbd748&clickBeacon=86c489b0-c02b-11f1-bd4f-e94dbd495b1a~3&requestid=20261005044100175052503071&token=31850C%7CMIXED&pt=1&slot=5"
+    ],
+    "image_path": "images/07_슈마카프트_일본산_스텐_샐러드_파스타_집게,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "파스타 뒤적일 때 쓰려고 샀는데 스테인리스라 씻어도 냄새 안 배고 위생적인 게 느껴져서 기분 좋더라. 샐러드 버무릴 때도 이게 은근 잘 맞음 🍝",
+    "b": "집게 쪽이 포크처럼 생겨서 면이 잘 잡히고 안 미끄러지더라. 생각보다 가벼워서 매일 꺼내 쓰게 되는 주방 템이 됐어 🥗"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "go2233_2233",
+    "url": "https://www.threads.com/@go2233_2233/post/DeF68yvEr1X",
+    "views": 857,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hg29OSUjAa",
+    "final_url": "https://www.coupang.com/vp/products/9068648263?itemId=26631509857&src=1139000&spec=10799999&addtag=400&ctag=9068648263&lptag=AF6081996&itime=20261006181443&pageType=PRODUCT&pageValue=9068648263&wPcid=17905526599079763164544&wRef=&wTime=20261006181443&redirect=landing&traceid=V0-101-7d113b6035977c22&mcid=8bfd859087db47eb9264b4c1267c251b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9068648263",
+    "title": "돌 뉴질랜드산 Right Now 바로먹는 후숙 아보카도, 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229763880393663-a8204e4b-0876-4ad6-9ab6-f414ee65ae31.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/318818200399338-942cc334-4a4e-462d-abc0-45a5fc5032c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/crikzzal/79c7525028114f65b551692daa7dc638.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229769480627468-e6e23be6-8ec8-462e-a159-d1079b5ef30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67491843505722-4c1f9dc2-7695-40d3-bf6a-f17e357a6f8b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67495169283535-a72963ee-e6b4-4720-bd4e-93e9e4aa4bf9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67498450501444-65661c8c-0e93-4b9d-8e13-950222c606d4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hg29OSUjAa"
+    ],
+    "image_path": "images/08_돌_뉴질랜드산_Right_Now_바로먹는_후숙_아보카도,_1kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아보카도 사면 딱딱해서 며칠 기다려야 했는데 이건 받자마자 잘라서 먹을 수 있어서 진짜 편했음. 속이 크림처럼 부드러워서 샐러드에 올리니까 맛있더라 🥑",
+    "b": "후숙이라고 해서 다 무를까 봐 걱정했는데 상태가 일정하게 괜찮더라. 아침에 빵이랑 먹는 루틴 생긴 게 이거 덕분인 것 같음 🌿"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "solartem2026",
+    "url": "https://www.threads.com/@solartem2026/post/DeCGHHWkzu2",
+    "views": 832,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx6cHxuRLU",
+    "final_url": "https://www.coupang.com/vp/products/9366966281?itemId=26956743820&src=1139000&spec=10799999&addtag=400&ctag=9366966281&lptag=AF8075159&itime=20261006181451&pageType=PRODUCT&pageValue=9366966281&wPcid=17905526599079763164544&wRef=&wTime=20261006181451&redirect=landing&traceid=V0-101-164a13f340b13743&mcid=ad7bd72d9b5140f392eaf470b22d1aa1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9366966281",
+    "title": "칼라미 (Calamee) 메이크업 스퀘어 팩 (페이스 마스크 페이스 팩 피지 컨트롤) 50 매, 1개, 50개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1a4c/716d04d2ca4fd0e9a5f72051ca905981b11abecb6694e55a79f1f8b3edb9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1a4c/716d04d2ca4fd0e9a5f72051ca905981b11abecb6694e55a79f1f8b3edb9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx6cHxuRLU"
+    ],
+    "image_path": "images/09_칼라미_(Calamee)_메이크업_스퀘어_팩_(페이스_마스크_페이스_팩_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침 메이크업 전에 이거 써봤더니 낮 동안 번들거리는 게 달라진 느낌이었음. 50매라 매일 쓰기 부담 없고 피부 자극도 별로 없어서 계속 쓰는 중 🌸",
+    "b": "화장 전에 잠깐 올려뒀다 떼는 거라 귀찮을 것 같았는데 생각보다 간단해서 매일 하게 되더라. 피지가 좀 잡히는 느낌에 요즘 빠뜨리기 싫어진 루틴 💆"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "jiji.pick",
+    "url": "https://www.threads.com/@jiji.pick/post/DeCBR3gGKAK",
+    "views": 654,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-03",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx2817dE8j",
+    "final_url": "https://www.coupang.com/vp/products/9719628879?itemId=29086241281&src=1139000&spec=10799999&addtag=400&ctag=9719628879&lptag=AF0891539&itime=20261006181530&pageType=PRODUCT&pageValue=9719628879&wPcid=17905526599079763164544&wRef=&wTime=20261006181530&redirect=landing&traceid=V0-101-49a806bab31ae8fe&mcid=ccb24481bdd24ea7b294283a7d243a9e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719628879",
+    "title": "온러닝 클라우드러너 와이드 런닝 슈즈 운동화 런닝화 조깅화 5298639 FLEXILEXI",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a7ae/e305968f6ab919256a9b7fe9bcb30a202086b1116bddbc30005e07b88f81.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a7ae/e305968f6ab919256a9b7fe9bcb30a202086b1116bddbc30005e07b88f81.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hx2817dE8j"
+    ],
+    "image_path": "images/10_온러닝_클라우드러너_와이드_런닝_슈즈_운동화_런닝화_조깅화_5298639.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발볼이 넓어서 신발 고르는 게 항상 고민이었는데 와이드라 발이 답답하지 않고 좋더라. 밑창 쿠션이 독특하게 생겼는데 걷다 보니 발이 편해지는 게 느껴짐 👟",
+    "b": "전체 블랙이라 운동할 때도 외출할 때도 두루 신을 수 있어서 자꾸 손이 가는 신발이 됨. 처음 신는 날부터 발에 무리가 없어서 그게 제일 마음에 들었어 🖤"
+   }
+  }
+ ]
+}
