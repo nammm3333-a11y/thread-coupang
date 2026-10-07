@@ -1,0 +1,451 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-08T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-08T08:24:08"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "1min_tmi",
+    "url": "https://www.threads.com/@1min_tmi/post/DeHRnS3j6Jy",
+    "views": 3000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBq4v37euG",
+    "final_url": "https://www.coupang.com/vp/products/9696836170?src=1139000&spec=10799999&addtag=400&ctag=9696836170&lptag=AF2449492&itime=20261008081814&pageType=PRODUCT&pageValue=9696836170&wPcid=17905526599079763164544&wRef=&wTime=20261008081814&redirect=landing&traceid=V0-183-a568adb02f1e58e8&mcid=1870248ba8a04287a6866334d3f389f0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9696836170",
+    "title": "칼 융의 내면수업 [쁘띠수첩+책갈피]",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3b52/f2f9fbde633b8567c8906f2d53140c571b1127aa9b8dce45c40b4a8f39f7.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3b52/f2f9fbde633b8567c8906f2d53140c571b1127aa9b8dce45c40b4a8f39f7.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBq4v37euG"
+    ],
+    "image_path": "images/01_칼_융의_내면수업_[쁘띠수첩+책갈피].jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "자기 전에 한 챕터씩 읽기 시작했는데 어느새 밑줄이 반 이상 됨. 쁘띠수첩이랑 세트라 읽다가 바로 메모하게 되는 게 좋더라. 요즘 이 책 없이 자는 날이 없어 📖",
+    "b": "내가 왜 이런 행동을 하는지 계속 궁금했는데 이 책 읽으면서 뭔가 조금씩 풀리는 기분이야. 책갈피까지 같이 오니까 괜히 소장 욕심이 생겨버렸어 🌿"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "yuji.ni1122",
+    "url": "https://www.threads.com/@yuji.ni1122/post/DeHMDo1k6fH",
+    "views": 2600,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/dHkOzg",
+    "final_url": "https://www.coupang.com/vp/products/9144094542?itemId=26918461832&src=1139000&spec=10799999&addtag=400&ctag=9144094542&lptag=AF9126904&itime=20261008081823&pageType=PRODUCT&pageValue=9144094542&wPcid=17905526599079763164544&wRef=&wTime=20261008081823&redirect=landing&traceid=V0-101-747c62e166d14488&mcid=45959e83dcd8428ba1ff7a458f0098af&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9144094542",
+    "title": "뉴발란스 204L 남녀공용 핑크 블라썸 U204LMMD",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a675/f9fadcf4ce4efe649244be8528e5af48a8f0b065ca0bf54e3594bc995023.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a675/f9fadcf4ce4efe649244be8528e5af48a8f0b065ca0bf54e3594bc995023.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d813/797eecd4223236351cdf13c4c25d333709fb51fe720e0091141a2a1789f4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6347/f6be4998599549a279ac81bb7d66f2ad04298ef2a24143198e4d1d5d66f6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f46d/b0a2bd1f222dd3a95d9584abc5c7b202f8c121c4cf9b38ad7db92ec21f07.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/dHkOzg"
+    ],
+    "image_path": "images/02_뉴발란스_204L_남녀공용_핑크_블라썸_U204LMMD.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이 핑크 색깔 보고 그냥 질렀는데 신발장에서 꺼낼 때마다 기분이 올라가는 게 신기해. 흰 끈이랑 핑크 끈 두 가지 다 들어있어서 그날 기분에 따라 바꿔 신고 있어 🩷",
+    "b": "운동화인데 옷 코디할 때 자꾸 이것만 손이 가서 당황스러움ㅋㅋ 핑크 컬러가 생각보다 다양한 옷에 다 잘 어울리더라. 발도 편해서 결국 매일 신고 있어 🌸"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "go2233_2233",
+    "url": "https://www.threads.com/@go2233_2233/post/DeF68yvEr1X",
+    "views": 870,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hg29OSUjAa",
+    "final_url": "https://www.coupang.com/vp/products/9068648263?itemId=26631509857&src=1139000&spec=10799999&addtag=400&ctag=9068648263&lptag=AF6081996&itime=20261008081901&pageType=PRODUCT&pageValue=9068648263&wPcid=17905526599079763164544&wRef=&wTime=20261008081901&redirect=landing&traceid=V0-101-7d113b6035977c22&mcid=842411f454eb4227acd96d934e58bc38&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9068648263",
+    "title": "돌 뉴질랜드산 Right Now 바로먹는 후숙 아보카도, 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/70917771182306-4efe4389-98a8-4e06-9433-6abfd6b467ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229763880393663-a8204e4b-0876-4ad6-9ab6-f414ee65ae31.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/318818200399338-942cc334-4a4e-462d-abc0-45a5fc5032c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/crikzzal/79c7525028114f65b551692daa7dc638.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229769480627468-e6e23be6-8ec8-462e-a159-d1079b5ef30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67491843505722-4c1f9dc2-7695-40d3-bf6a-f17e357a6f8b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67495169283535-a72963ee-e6b4-4720-bd4e-93e9e4aa4bf9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67498450501444-65661c8c-0e93-4b9d-8e13-950222c606d4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hg29OSUjAa"
+    ],
+    "image_path": "images/03_돌_뉴질랜드산_Right_Now_바로먹는_후숙_아보카도,_1kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아보카도 사서 후숙 타이밍 놓치고 버린 게 한두 번이 아닌데 이건 바로 잘라서 먹으니까 진짜 편해. 딱 알맞게 익어있어서 소름이었고 이제 이것만 살 것 같아 🥑",
+    "b": "밥이랑 간장이랑 아보카도 한 숟갈이면 점심 해결인데 후숙 타이밍 걱정 없이 바로 꺼내 먹을 수 있어서 너무 좋더라. 1kg이라 꽤 오래 먹을 수 있는 것도 마음에 들어 🥑"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "oppa_trip_camp",
+    "url": "https://www.threads.com/@oppa_trip_camp/post/DeGo-GIgIj1",
+    "views": 708,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hA1VKwzFQa",
+    "final_url": "https://www.coupang.com/vp/products/9692333134?itemId=28988919384&src=1139000&spec=10799999&addtag=400&ctag=9692333134&lptag=AF6429232&itime=20261008081941&pageType=PRODUCT&pageValue=9692333134&wPcid=17905526599079763164544&wRef=&wTime=20261008081941&redirect=landing&traceid=V0-101-6c0bb417726bc6a0&mcid=1d0f56196741444185458d09ec999350&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9692333134",
+    "title": "VOLTIX 볼틱스 셀가드 충전기 완충분리기 C타입 케이블 충격보호 단선방지",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/291b54a634e56ecd9775fb411c36c3f34271f5c09d4e8c50ce0895febd5f_1791347235249.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/291b54a634e56ecd9775fb411c36c3f34271f5c09d4e8c50ce0895febd5f_1791347235249.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0c9e/e4d59e1db57d8b7ceac61ff8d3d0df05200e98f2f1f7e5755e0664ef277d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d8ae/3099d74333e259f63c09c0b3f99218df85a9d1f0442627c7a7cfd5f8b9ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/21b8/6e6484f1329211bcd6247b598d96acd6886dc89fdc0e52093f32d724220b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/022c/fc383417aa9832394587afba86db075aa85868136a901bd2ab297c3dbd16.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7f5a/9225d90711bb474121cc5fc5454281b5d9b6c51e54ace67c7a08cedb2569.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b4fd/291b54a634e56ecd9775fb411c36c3f34271f5c09d4e8c50ce0895febd5f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hA1VKwzFQa"
+    ],
+    "image_path": "images/04_VOLTIX_볼틱스_셀가드_충전기_완충분리기_C타입_케이블_충격보호_단선.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "맨날 완충됐는데도 꽂아두는 버릇이 있었는데 이거 달고 나서 알아서 끊어주니까 이제 신경을 안 써도 돼. 이렇게 작은 게 이렇게 쓸모 있을 줄 몰랐어 ⚡",
+    "b": "자기 전에 꽂고 과충전 걱정 없이 자니까 그게 제일 편하더라. C타입에 딱 꽂히는 크기라 선 없이도 깔끔하고 케이블 연결도 안정적인 느낌이야 🔌"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "better00iu",
+    "url": "https://www.threads.com/@better00iu/post/DeGZdJdmBZ3",
+    "views": 651,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hARjiTJEmO",
+    "final_url": "https://www.coupang.com/vp/products/9716584592?itemId=21358613515&src=1139000&spec=10799999&addtag=400&ctag=9716584592&lptag=AF8789480&itime=20261008081948&pageType=PRODUCT&pageValue=9716584592&wPcid=17905526599079763164544&wRef=&wTime=20261008081948&redirect=landing&traceid=V0-101-4e84b67b13eece74&mcid=c98bc65c954d4910937e988c6f3914ce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9716584592",
+    "title": "몽쉘 생크림케이크 카카오, 204g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/607125559814194-96f7e399-2f8b-4031-897d-639e65d3d06d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/607125559814194-96f7e399-2f8b-4031-897d-639e65d3d06d.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hARjiTJEmO"
+    ],
+    "image_path": "images/05_몽쉘_생크림케이크_카카오,_204g,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "퇴근하고 지쳐서 집 왔을 때 이거 하나 꺼내 먹으면 진짜 살 것 같은 기분임. 카카오 생크림 조합이 생각보다 훨씬 진하고 부드러워서 자꾸 손이 가더라 🍫",
+    "b": "커피랑 같이 먹으면 진짜 카페 온 것 같은 느낌ㅋㅋ 2개 묶음이라 많나 싶었는데 생각보다 빨리 없어져서 충격이었어 🍫☕"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "nara_3690",
+    "url": "https://www.threads.com/@nara_3690/post/DeF8-QZEx-4",
+    "views": 597,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g6LzE051hc",
+    "final_url": "https://www.coupang.com/vp/products/9729253115?itemId=29114764220&src=1139000&spec=10799999&addtag=400&ctag=9729253115&lptag=AF2523031&itime=20261008081956&pageType=PRODUCT&pageValue=9729253115&wPcid=17905526599079763164544&wRef=&wTime=20261008081956&redirect=landing&traceid=V0-101-dcea490a24c9a19a&mcid=276248c4df644154b5c54f130db58fee&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9729253115",
+    "title": "Apple 아이폰 18 Pro 자급제",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/09/10/7/9/21df501a-988e-431d-98e6-fcb2efe152e2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/09/10/7/9/21df501a-988e-431d-98e6-fcb2efe152e2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/fdg4qrpv/2d476262037d4e2cbce96737bde950ea.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/8pzh2kag/7e3d86e65dee4aa08af66af3182dc31a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hdwrldc6/db1b7830ca5d4aeb9e49469e2c07dd15.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/rthncjbv/527767ab7c22431f9229ab9ddb7bad19.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/yiqywg8x/500df6b91d6a4058b7816061f5380bad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hhvzqld0/a78683a8d6784e6db91758c5170d06f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/f2ujuipz/15e938a450d74f83af056af9ab2519a0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g6LzE051hc"
+    ],
+    "image_path": "images/06_Apple_아이폰_18_Pro_자급제.jpg",
+    "my_link": "https://link.coupang.com/a/hcykchKTBY",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 저질렀다 아이폰 18 프로... 카메라 들고 나가던 날이 많았는데 이걸로 대충 찍어도 결과물이 너무 좋아서 가방이 가벼워짐. 블랙 색상이 진짜 고급스러워서 만족 중 🖤",
+    "b": "자급제로 사니까 통신사 눈치 볼 필요 없어서 그게 제일 좋았어. 카메라 세 개 달려있으니까 일상 사진 찍는 게 재밌어진 것 같아 📸"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "dong57857",
+    "url": "https://www.threads.com/@dong57857/post/DeG2lFPABHo",
+    "views": 584,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hzNdZ555wG",
+    "final_url": "https://www.coupang.com/vp/products/9750676972?src=1139000&spec=10799999&addtag=400&ctag=9750676972&lptag=AF9549677&itime=20261008082004&pageType=PRODUCT&pageValue=9750676972&wPcid=17905526599079763164544&wRef=&wTime=20261008082004&redirect=landing&traceid=V0-183-6d013e500ef9e8df&mcid=727fc4b58cd541d09fd0ea0debd1a7a0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9750676972",
+    "title": "주방 코너 삼각형 스탠드 양념 정리대 다층 조리대 수납 선반 벽걸이형 심플 디자인",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5cef/f440980313d1cd941a4cac983aefbca2471e6a581a3042163d8b3d532bb6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5cef/f440980313d1cd941a4cac983aefbca2471e6a581a3042163d8b3d532bb6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e144/a766cc4834e2ba04f35efc5b55a4a474ce0d478a33cdbbc33782adbd4ad9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8718/100007b750cd8a01dae325970e68aece9fd4c6fbef2a154ea9572b4f7e91.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c967/40334fe760f2715931939e7919f9e2dc391bd5d9ac756ff701376e0dbf7e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86ea/a7e0970b8663877f635a479eaf5cef60f3e1712f887602e69182a52523cd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hzNdZ555wG"
+    ],
+    "image_path": "images/07_주방_코너_삼각형_스탠드_양념_정리대_다층_조리대_수납_선반_벽걸이형_심.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주방 코너가 맨날 비어있었는데 이거 딱 맞게 넣으니까 양념이랑 오일이 다 들어가더라. 2단이라 크기별로 나눠서 정리하니까 요리할 때 꺼내쓰기도 훨씬 편해졌어 🍳",
+    "b": "목재랑 철제 조합이라 주방 인테리어 느낌도 나고 코너 공간 낭비 없는 게 진짜 마음에 들어. 이거 두고 나서 주방 들어가는 게 좀 더 즐거워진 것 같아 ✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "giraffe.2886695",
+    "url": "https://www.threads.com/@giraffe.2886695/post/DeHKLpjifJl",
+    "views": 553,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBn9a2siMC",
+    "final_url": "https://www.coupang.com/vp/products/276992207?itemId=19282510504&src=1139000&spec=10799999&addtag=400&ctag=276992207&lptag=AF2096877&itime=20261008082011&pageType=PRODUCT&pageValue=276992207&wPcid=17905526599079763164544&wRef=&wTime=20261008082011&redirect=landing&traceid=V0-101-80a989cd5ab28459&mcid=6ede13e45e0640e19b07649ac9dbbaa2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "276992207",
+    "title": "한성기업 속초식 명태초무침, 1kg, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3690192762962231-3610b7d0-ce85-4601-9e97-c90320b98f4b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3690192762962231-3610b7d0-ce85-4601-9e97-c90320b98f4b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/08/08/15/6/02b2035e-8b0c-45fc-ae2f-9d6546ebba1d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/08/08/15/8/6c3bfc25-fbd8-43c8-b947-98341ed4881c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1654464540987314-b6994943-129a-43e4-a3a0-4943b6542bd0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/08/08/15/2/b8d9219b-6f00-43af-ad13-aee6854c12b3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/08/08/15/7/3bb27953-8158-476a-85e2-8041428d9400.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/374249385279670-f939d8b0-2f7a-4d02-befc-a641be953d3a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/646631183275920-4cd2e426-5519-4b09-805d-9e24a95467e6.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBn9a2siMC"
+    ],
+    "image_path": "images/08_한성기업_속초식_명태초무침,_1kg,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "속초에서 먹었던 맛이랑 비슷할까 싶어서 반신반의로 시켰는데 진짜 비슷해서 소름이었어. 밥 위에 올려서 비벼 먹으면 한 그릇 순삭이라 이제 냉장고에 항상 있어야 할 것 같아 🍚",
+    "b": "매콤새콤한 거 당길 때 딱인데 양이 1kg이라 한동안 꺼내 먹을 수 있어서 좋더라. 두부랑 같이 먹어봤는데 그 조합이 은근 좋아서 자꾸 생각나는 맛이야 🌶️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "themoney7481",
+    "url": "https://www.threads.com/@themoney7481/post/DeGbaUuCb5K",
+    "views": 521,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-05",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hztMNGcwV2",
+    "final_url": "https://www.coupang.com/vp/products/9036714971?itemId=26510770097&src=1139000&spec=10799999&addtag=400&ctag=9036714971&lptag=AF8120364&itime=20261008082018&pageType=PRODUCT&pageValue=9036714971&wPcid=17905526599079763164544&wRef=&wTime=20261008082018&redirect=landing&traceid=V0-181-0e237cc98190bda8&mcid=62b0cd88ea1a44a585c8086a9f1d8830&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9036714971",
+    "title": "DIY 타공판 주방 서랍 접시 그릇 정리 꽂이 선반 거치대",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2001/d1e9ddd60b97ffefcce450b1c4f0459ac4fa97d6616c4a41a308be5ad927.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2001/d1e9ddd60b97ffefcce450b1c4f0459ac4fa97d6616c4a41a308be5ad927.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a4c4/1de4f2fc40b20f6839d12c9a452c57f088af3b7ad3e6daf27360b31dedd2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e417/d06c8e14a4ad414cdb6416636b057cfe85378ac89a6ac46c571101ba6156.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/65be/0310dc92b38a488480492b9004adb818630f6f94d85b03560b5bafab6982.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c1a1/052b031e36ed27c3841504d87fb5f2a371a3e323582b7b8a347533e4d665.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hztMNGcwV2"
+    ],
+    "image_path": "images/09_DIY_타공판_주방_서랍_접시_그릇_정리_꽂이_선반_거치대.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "서랍에 그릇 쌓아뒀다가 꺼낼 때마다 부딪히는 게 스트레스였는데 이거 깔고 세워서 꽂아두니까 꺼내기가 훨씬 편해졌어. 서랍 안이 이렇게 정돈되는 게 이렇게 기분 좋을 줄 몰랐음 🍽️",
+    "b": "타공판이라 서랍 크기에 맞게 잘라 쓸 수 있어서 딱 맞게 커스텀했더니 진짜 마음에 들어. 접시 세워두니까 개수도 한눈에 보이고 꺼낼 때도 깔끔해서 매일 쓰는 게 즐거워졌어 ✂️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DeISBH_k_wP",
+    "views": 496,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-06",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hB5L1oDiOy",
+    "final_url": "https://www.coupang.com/vp/products/9616401230?itemId=28713731103&src=1139000&spec=10799999&addtag=400&ctag=9616401230&lptag=AF6894579&itime=20261008082026&pageType=PRODUCT&pageValue=9616401230&wPcid=17905526599079763164544&wRef=&wTime=20261008082026&redirect=landing&traceid=V0-101-6d55ee437dca2469&mcid=684eb346762747dd9685e660c65735ce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9616401230",
+    "title": "[한정수량] 나우스팩 고양이 포대 바스락 숨숨봉투",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5d69/daaf357c7a7174f1afac2082592ed142b3f89888821a22a2b5f372df84c7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5d69/daaf357c7a7174f1afac2082592ed142b3f89888821a22a2b5f372df84c7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8065/caabb09898442fc7a9322aca8224758e0a1d83c6c14af7a7764b90598641.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hB5L1oDiOy"
+    ],
+    "image_path": "images/10_[한정수량]_나우스팩_고양이_포대_바스락_숨숨봉투.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이거 바닥에 놓자마자 고양이가 먼저 달려가서 들어갔는데 바스락 소리 들으면서 혼자 신난 거 보고 웃음 터짐. 집사 입장에서 이거보다 가성비 있는 장난감이 없는 것 같아 🐱",
+    "b": "새 장난감 사도 이틀이면 질리는 애인데 이 봉투는 바스락 소리 때문인지 꽤 오래 들어가서 놀더라. 숨어있다가 갑자기 손 내밀고 공격하는 거 보면 매일 봐도 귀여워 🐾"
+   }
+  }
+ ]
+}
