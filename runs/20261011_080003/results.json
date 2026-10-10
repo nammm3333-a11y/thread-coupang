@@ -1,0 +1,466 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-11T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-11T08:22:21"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "raracoco13",
+    "url": "https://www.threads.com/@raracoco13/post/DeOikigCbch",
+    "views": 2600,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gPnHknrV3Q",
+    "final_url": "https://www.coupang.com/vp/products/9387627725?itemId=27875074074&src=1139000&spec=10799999&addtag=400&ctag=9387627725&lptag=AF9642764&itime=20261011081619&pageType=PRODUCT&pageValue=9387627725&wPcid=17905526599079763164544&wRef=&wTime=20261011081619&redirect=landing&traceid=V0-101-cddc4365aeda8efa&mcid=bb70b94b5fe440f986a55f4be72b93a1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9387627725",
+    "title": "에스쁘아 블러 웨어 블러쉬 6g, 1개, 1호 누 핑크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/03/06/17/1/2082bf3d-7106-4a43-9166-191a70db30f1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/03/06/17/1/2082bf3d-7106-4a43-9166-191a70db30f1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/03/06/17/5/1eb1fc66-f568-4f76-86f6-d42c50b36f1e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/03/06/17/7/62331e41-7779-4543-9e53-437fbff0ac68.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/03/06/17/5/eecc8798-aa4c-4daa-b2f0-eb36dcc83204.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/200595393110014-6cbdfb46-4b30-4bf9-8f0a-093a8d69048e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/145443560383394-16a9b5f2-29d8-40be-b432-b916c38c5ced.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/146160480503205-335699dc-7660-4224-93e3-14747949f21a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gPnHknrV3Q"
+    ],
+    "image_path": "images/01_에스쁘아_블러_웨어_블러쉬_6g,_1개,_1호_누_핑크.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요즘 이 블러셔 하나로 화장 다 마무리하는 중... 손가락으로 탁탁 두드리면 자연스럽게 스며드는 느낌이라 아침 시간이 엄청 줄었어 🌸",
+    "b": "누 핑크 색상이 생각보다 훨씬 내 피부랑 잘 어울려서 깜짝 놀람 블러 질감이라 경계선 없이 펴지니까 뭔가 피부가 더 맑아 보이는 것 같더라 🩷"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "ggumi7777",
+    "url": "https://www.threads.com/@ggumi7777/post/DeO4zGIjSt5",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hAWSm0yM3w",
+    "final_url": "https://www.coupang.com/vp/products/7728625433?src=1139000&spec=10799999&addtag=400&ctag=7728625433&lptag=AF8449055&itime=20261011081628&pageType=PRODUCT&pageValue=7728625433&wPcid=17905526599079763164544&wRef=&wTime=20261011081628&redirect=landing&traceid=V0-183-f895bd700db5f4c4&mcid=0261edf4b3674058892a409723a29f31&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7728625433",
+    "title": "청정원 대나무숙성 멸치액젓, 750g, 5개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344402648940189-2321139a-9186-46e3-a548-7820abd14543.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/344402648940189-2321139a-9186-46e3-a548-7820abd14543.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/79206028612689-8589ca24-43aa-4199-9eb2-bf8177a457b2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1013710218703422-61853f62-1bc4-4e92-8c5b-bc76282559b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/921841055152-eeece6e3-d628-4be1-beac-f24cf41ca7e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1013690810374484-4cf91767-4da2-4f1f-8d21-031204e75847.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1137878266875-0223e1b7-cf4a-461e-87c6-80f98ad4cd5b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1648213554204352-45ccbabf-df60-49ed-aaff-61f8a735a6c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1648127688167301-1d0bd442-3369-4ecd-861d-60d8493eb5d1.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hAWSm0yM3w"
+    ],
+    "image_path": "images/02_청정원_대나무숙성_멸치액젓,_750g,_5개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "김치 담그려고 처음 써봤는데 액젓이 이렇게 차이 나는지 몰랐음... 국물 깊이가 달라져서 이제 이것만 쓰게 될 것 같아 🥬",
+    "b": "5개 묶음으로 사두니까 떨어질 걱정 없어서 너무 좋고 나물 무칠 때 조금씩 넣으니까 감칠맛이 확 살아나더라 😋"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "whatttobuytoday",
+    "url": "https://www.threads.com/@whatttobuytoday/post/DeO6XR5E7u5",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hGmpa79kMC",
+    "final_url": "https://www.coupang.com/vp/products/8717707055?itemId=25320784590&src=1139000&spec=10799999&addtag=400&ctag=8717707055&lptag=AF1970336&itime=20261011081707&pageType=PRODUCT&pageValue=8717707055&wPcid=17905526599079763164544&wRef=&wTime=20261011081707&redirect=landing&traceid=V0-101-605b0009f8292922&mcid=637e1f0394ef49389c05bbab7f08faf1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8717707055",
+    "title": "마치홈 스텐레스 무타공 욕실선반 바스켓, 1개, 스테인리스 스틸",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f56/5a7c77ac717c8034cf2662aee4e06b3e8c84e7963db7e14cf00fe8f3d627.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f56/5a7c77ac717c8034cf2662aee4e06b3e8c84e7963db7e14cf00fe8f3d627.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/181e/2874f047ac0598d0e13f6f85f8737176ded2a45344bc71dfe0396ad2821c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bb9f/bc17c975916becbdd57a5e360f574b4af44738b19063e6af7b7d3927c0de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fa9d/637e3be45cbf52ee85e186b81a8494a9d61af415eb75e9d7a0e5efd51ff3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/208a/bb0e6765b235f01a25645da5dc5109d99614b87eef67aa5f4c059db2b3be.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8763/26fa4e77b8769ddc29895f5153098c01e695cf281c1cb46ce38ff668cb40.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f9ab/8b50a063de8c5769e7e06b87efe68752cdc9587dcf0e420af957052fbea6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a02c/466c9983feb7770fd2c893eca19fe4f1dd38dd61f11a3634f0fc0d10a8c1.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=HjV26VCVhAI"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hGmpa79kMC"
+    ],
+    "image_path": "images/03_마치홈_스텐레스_무타공_욕실선반_바스켓,_1개,_스테인리스_스틸.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실 뚫기 싫어서 무타공으로 샀는데 생각보다 튼튼해서 샴푸 바디워시 다 걸어놔도 끄떡없음 세면대 위 공간이 드디어 정리됐다 🛁",
+    "b": "스테인리스라 물 맞아도 녹 걱정 없고 걸이대에 딱 거는 방식이라 설치도 진짜 쉬웠어 욕실이 한결 깔끔해진 게 매일 기분 좋아 ✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "bongbong_ggultem",
+    "url": "https://www.threads.com/@bongbong_ggultem/post/DeO62v9Aojq",
+    "views": 700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hDffHdIWsK",
+    "final_url": "https://www.coupang.com/vp/products/5453138176?itemId=27876610802&src=1139000&spec=10799999&addtag=400&ctag=5453138176&lptag=AF6312364&itime=20261011081745&pageType=PRODUCT&pageValue=5453138176&wPcid=17905526599079763164544&wRef=&wTime=20261011081745&redirect=landing&traceid=V0-101-00d265a6a58c9e72&mcid=7376487dab5f411e9f3120b9b10d0308&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5453138176",
+    "title": "자석 창문 닦이 아파트 베란다 청소 유리 거실 유리창 외창(5-25mm용), 1개, 성인용, 그레이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5da6/d8fdbe62573b99c530e3190f47cf09152bef4b49d7745258ca9502e77753.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5da6/d8fdbe62573b99c530e3190f47cf09152bef4b49d7745258ca9502e77753.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/954c/dfce07612f7e2b708cd0eecd52a4a514b185c3d599c147307846a9311e60.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3b6b/6a0d1540556d58361500155fd42c39a117f7895bd294644c55a71ae6373e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a6bb/dc311c46c2aae3ef9b7ea736a2fbba8622ea2b8707fc8e4fd14bb1fc264d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6b8a/06256de73d25f33fa1fc3fcc1c024c146324904862b0b1be4bb44aea41fa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hDffHdIWsK"
+    ],
+    "image_path": "images/04_자석_창문_닦이_아파트_베란다_청소_유리_거실_유리창_외창(5-25mm용.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "베란다 유리 닦는 게 너무 귀찮아서 질러봤는데 안팎에서 자석으로 붙어 같이 움직이는 거 보고 진짜 신기해서 혼자 감탄함 🪟",
+    "b": "외창을 어떻게 닦나 항상 고민이었는데 이거 쓰고 나서 그 고민이 사라짐 두께 조절 다이얼이 있어서 유리 두께 맞추기도 편해 😮"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "waahuee_pick",
+    "url": "https://www.threads.com/@waahuee_pick/post/DeQn2yaDh7A",
+    "views": 688,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-09",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hHrCqHzY3E",
+    "final_url": "https://www.coupang.com/vp/products/9761163674?itemId=29219207394&src=1139000&spec=10799999&addtag=400&ctag=9761163674&lptag=AF8976335&itime=20261011081753&pageType=PRODUCT&pageValue=9761163674&wPcid=17905526599079763164544&wRef=&wTime=20261011081753&redirect=landing&traceid=V0-181-774677ea28bd4e39&mcid=2ccd018936a4474eacf41ebe548151c6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9761163674",
+    "title": "롱삼 르 카덴스 고현정 가방 버킷 백 S 스몰 WSIIROON 10393HJZ",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4fc7/48894b822d75ec9eb06b3c928d266c11252005991b580417137a149a0bd4.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4fc7/48894b822d75ec9eb06b3c928d266c11252005991b580417137a149a0bd4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eaaf/8ff381e6793b7d80328c8c70a9669719d51063787aae86f67b9b8909fcac.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/983c/3aa68dbf834d153083875a07cddbaa97f7992568a58fa705eb801991019e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/89fd/be4fc4a608e949aa343b5a0424923b092317bd9ae1c2541441573874bfaa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4ac6/decf21624bc707df69cefcc424b25247d9d7fdb1fa6ade4349651d8dc150.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hHrCqHzY3E"
+    ],
+    "image_path": "images/05_롱삼_르_카덴스_고현정_가방_버킷_백_S_스몰_WSIIROON_10393.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 질러버렸다 블랙에 골드 버클 조합이 너무 예뻐서... 숄더랑 크로스 둘 다 되니까 하루에도 여러 번 바꿔 들게 되더라 🖤",
+    "b": "사이즈가 딱 데일리용이라 뭐든 넣어도 지저분해 보이지 않고 가죽 결이 생각보다 고급스러워서 들고 나갈 때마다 기분이 달라 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "sensible_day",
+    "url": "https://www.threads.com/@sensible_day/post/DePGoB6AasQ",
+    "views": 547,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hGoHxcMob6",
+    "final_url": "https://www.coupang.com/vp/products/8589911170?src=1139000&spec=10799999&addtag=400&ctag=8589911170&lptag=AF4407755&itime=20261011081800&pageType=PRODUCT&pageValue=8589911170&wPcid=17905526599079763164544&wRef=&wTime=20261011081800&redirect=landing&traceid=V0-183-f0dbf70f430c3a9e&mcid=f4ab92c6b55144fe955ec106599c9083&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8589911170",
+    "title": "존슨즈베이비 오일, 500ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0189/1c794ea81580f541ba4aed0007b8a61c4dff9207e82608f7c34f669ea228.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0189/1c794ea81580f541ba4aed0007b8a61c4dff9207e82608f7c34f669ea228.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c71/c059a6ed1052f5081c2188f162aa17a545799f8776b0e5cba20ddb1d303f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ec69/4feb213b7037ac2ce52c5ac735e6309e731c6f8bdcf419345e079b47188f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/46ba/62c9859623d4108a45e99031d8afa2f10887e295d0fa2a81faaf2f0d2b3b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/14ad/41a316563040a60a4a04af02d16b74559da4037d5bee0d9a5f8ac59fe609.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8781/13f8c81ee360c461ce727fd49fae3007edff52e2854ed5b6d09308818be4.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hGoHxcMob6"
+    ],
+    "image_path": "images/06_존슨즈베이비_오일,_500ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아기한테 쓰려고 샀다가 나도 같이 쓰는 중... 샤워 직후에 살짝 발라주면 보들보들한 느낌이 하루 종일 가는 것 같아 🍼",
+    "b": "향도 은은하고 자극 없어서 민감한 피부인 나도 부담 없이 쓰고 있음 500ml라 용량 넉넉해서 온 가족이 같이 써도 오래가더라 🌸"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DeSk_owEwcN",
+    "views": 546,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-10",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hIIUYoEO2C",
+    "final_url": "https://www.coupang.com/vp/products/6326075123?itemId=13209020537&vendorItemId=80467495346&src=1139000&spec=10799999&addtag=400&ctag=6326075123&lptag=AF9111886&itime=20261011081808&pageType=PRODUCT&pageValue=6326075123&wPcid=17905526599079763164544&wRef=&wTime=20261011081808&redirect=landing&traceid=V0-181-ef487966e610fdfd&mcid=a7f2e384383441b8a6783dea1c29ff03&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6326075123",
+    "title": "오리온 진한 디저트 케익 오뜨 치즈, 156g, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11920667541771-89f37190-efbd-41b8-89c0-fe2d2a7420c0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11920667541771-89f37190-efbd-41b8-89c0-fe2d2a7420c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53713600691158-92d468a0-fcfe-41cd-bc3a-f43d97d0d90a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84947133940221-3a77e18a-bce3-4b45-8a82-f4c79e6cf2b0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84946431968582-2b5dcd26-162a-4f44-b880-3df3b3e8bd1d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/863289072697901-93996444-5f26-47cf-a487-b24c2ba132fa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/863289683789813-c2198c08-83e4-4fbf-9e0a-7a37c6b3f7d6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/69448763959103-b4723844-d942-4ea5-8c1a-a5a8bcc9c24e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84947126417374-9acbc120-20e5-4c0e-9a9a-f8e01876cd13.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hIIUYoEO2C"
+    ],
+    "image_path": "images/07_오리온_진한_디저트_케익_오뜨_치즈,_156g,_4개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "회사 서랍에 박스 하나 넣어뒀는데 동료들이 먼저 다 먹어버림... 달지 않고 치즈 맛이 진해서 커피랑 같이 먹으면 진짜 맛있어 🧀",
+    "b": "오후 3시쯤 되면 꼭 이거 하나 꺼내게 됨 케이크 같은 촉촉한 식감에 짭조름한 치즈가 은근 중독성 있어서 한 개로 안 끝나 😅"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "work22637",
+    "url": "https://www.threads.com/@work22637/post/DeO_aH0E6vT",
+    "views": 328,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hGpu6nwP5U",
+    "final_url": "https://www.coupang.com/vp/products/8147237499?itemId=23806703563&src=1139000&spec=10799999&addtag=400&ctag=8147237499&lptag=AF2855885&itime=20261011081918&pageType=PRODUCT&pageValue=8147237499&wPcid=17905526599079763164544&wRef=&wTime=20261011081918&redirect=landing&traceid=V0-101-854009e3ab10efbf&mcid=aed1ec839fc846cf97af2517b938dea7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8147237499",
+    "title": "꿀천지 아카시아꿀 벌꿀, 1개, 300g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/6f5d380278f113161e1c30d571a534ccbd3862aac1ca31b87ffe106a38a4_1747632134370.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/6f5d380278f113161e1c30d571a534ccbd3862aac1ca31b87ffe106a38a4_1747632134370.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c2c/91a2b3b7aca2cfd9da955686e660537f7268c22f776d06f075acd673ccc4.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/758e/85584dfb014ddb765ded44b6be66ff6919a1484e046e102b7f146f761908.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/acf5/80b2ed616d4d7c57eb5d258fa3b8edffc3fcbb5486e0c0eaae48f02cf777.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hGpu6nwP5U"
+    ],
+    "image_path": "images/08_꿀천지_아카시아꿀_벌꿀,_1개,_300g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요거트에 한 바퀴 뿌렸는데 향이 은은하고 텁텁하지 않아서 아침마다 이걸로 시작하는 게 작은 낙이 돼버렸음 🍯",
+    "b": "짜기 편한 용기라 흘릴 걱정 없어서 좋고 빵에 발라먹어도 단맛이 너무 세지 않아서 자꾸 손이 가게 되더라 🐝"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "b.l.a.c.k_cat1981",
+    "url": "https://www.threads.com/@b.l.a.c.k_cat1981/post/DeQEH2ND9zh",
+    "views": 260,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-09",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hG6y4MyajY",
+    "final_url": "https://www.coupang.com/vp/products/9493928998?itemId=28278185562&src=1139000&spec=10799999&addtag=400&ctag=9493928998&lptag=AF9627768&itime=20261011081926&pageType=PRODUCT&pageValue=9493928998&wPcid=17905526599079763164544&wRef=&wTime=20261011081926&redirect=landing&traceid=V0-101-ba4bb43a5543c193&mcid=d88170637bb8429e949b492d87f325c9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9493928998",
+    "title": "추억의과자 세트 옛날 불량식품 사무실간식",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/048d/fc3ddd8064a48b585431a5a32a3237bee9dfb851181c98f3af323afc6cc7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/048d/fc3ddd8064a48b585431a5a32a3237bee9dfb851181c98f3af323afc6cc7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5ab/526785636a33e6eb05d81c2c50bfa4898f5b0a21d04b3897910b8b47e073.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/367d/38bcf68b7405f6197bf71b52fc4fef97da3a46d7a3022824717adfd8719b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be89/af2c04ddfdaa0dd872836f710aecec6e776ef925b051be71af9c8deacc59.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hG6y4MyajY",
+     "https://link.coupang.com/a/hG6vho6W04"
+    ],
+    "image_path": "images/09_추억의과자_세트_옛날_불량식품_사무실간식.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "박스 열자마자 사이다 소다맛 사탕이랑 뻥튀기 보고 어릴 때 기억이 막 올라옴... 친구들이랑 같이 뜯었는데 다들 추억 얘기하느라 난리났어 😆",
+    "b": "사무실에 이거 하나 풀어놨더니 분위기가 순식간에 개판됨ㅋㅋ 각자 좋아하는 거 찾느라 바빠서 점심 후 쉬는 시간이 제일 기다려지게 됐어 🍬"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "baek_2mo",
+    "url": "https://www.threads.com/@baek_2mo/post/DeOAS90kue1",
+    "views": 259,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fhW1xz5BZs",
+    "final_url": "https://www.coupang.com/vp/products/8207856682?itemId=26907389236&src=1139000&spec=10799999&addtag=400&ctag=8207856682&lptag=AF7569771&itime=20261011081933&pageType=PRODUCT&pageValue=8207856682&wPcid=17905526599079763164544&wRef=&wTime=20261011081933&redirect=landing&traceid=V0-101-0cdf8a0b818f8f7b&mcid=147a3b25a0f14a36a481255109f106b3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8207856682",
+    "title": "도브 센서티브 모이스처라이징 크림 뷰티 바, 106g, 16개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/650f/f97f61a9c6613c2cce437a10c75d80f3423e543815081db93724bf28f7b3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/650f/f97f61a9c6613c2cce437a10c75d80f3423e543815081db93724bf28f7b3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/61b9/1473f0750fecee9e954fcd9ac73fd15465c9d5bf7793144c2e2441453497.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a857/8f07ffa77f62eeb41c29e5d150022568d650beffc4d212207de790bce79c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c47/ccc304ddee673e2f44849b37c6c6b3047dfaca456fe7fdd94cd50c9e942a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/71c1/efac9d5a51f49680d3eb9261e59d8833925f57406bc021d3ca95d24e82ff.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3894/98a874cf0f2d49720a2ed19c919f5cede92aaeba4fb7a5229d94294c8727.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/US_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fhW1xz5BZs"
+    ],
+    "image_path": "images/10_도브_센서티브_모이스처라이징_크림_뷰티_바,_106g,_16개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "향 없는 비누 찾다가 이거 써봤는데 세안하고 나서 당기는 느낌이 전보다 덜해서 신기했어 16개 묶음이라 당분간 비누 걱정 없이 쓸 수 있어 🕊️",
+    "b": "피부 예민해서 비누 고를 때 항상 조심스러웠는데 이건 무향이고 순해서 샤워 끝나고 피부가 한결 편안한 느낌이라 꾸준히 쓰게 되더라 🫧"
+   }
+  }
+ ]
+}
