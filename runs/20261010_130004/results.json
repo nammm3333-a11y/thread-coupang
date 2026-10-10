@@ -1,0 +1,449 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-10T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-10T13:17:04"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "coupiselliy",
+    "url": "https://www.threads.com/@coupiselliy/post/DeMaLJyESV7",
+    "views": 2700,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hEKpw6qz7Y",
+    "final_url": "https://www.coupang.com/vp/products/8717638686?itemId=25320513449&src=1139000&spec=10799999&addtag=400&ctag=8717638686&lptag=AF9102536&itime=20261010131312&pageType=PRODUCT&pageValue=8717638686&wPcid=17905526599079763164544&wRef=&wTime=20261010131312&redirect=landing&traceid=V0-101-12c59bb30152dca9&mcid=38acc535579a424c9479431c2f6cd852&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8717638686",
+    "title": "윌슨 블레이드 98 16 x 19 V9 2그립 라켓 305g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7dd0/dbad9d564108a763ac70c5a8f320b3a4c9f25c9859a93b37074ea1f3f42a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7dd0/dbad9d564108a763ac70c5a8f320b3a4c9f25c9859a93b37074ea1f3f42a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c55/6a77c59faaef53ba5c31ce3bd8ba4381e3347ead3a6651d90bed93003a92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb09/6af739b3dd2b47f3e97adfa54bf4470983d3a74c7b051a937739d7fb1d7d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7060/2cab62f7694840d6aef4cdf7effe653926b026a82e9a7fbaa515e5f041f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f30e/ba3826a994e3fda2f46fa0c406bdd2379587a97537f0bc513130f8e98513.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f16f/ebe7c9f731155cb7d8c1bbb721b6dd0133c167359d63344b836e7bbcad0a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b88c/9a81e8d52b7d8232d6a11c11e531c05675f55545f6d341ded64171a7db62.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf0b/7c22854c7bf7b83a76039e28a78751bcfb40a90510536d19b7bd1151d431.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hEKpw6qz7Y"
+    ],
+    "image_path": "images/01_윌슨_블레이드_98_16_x_19_V9_2그립_라켓_305g.jpg",
+    "my_link": "https://link.coupang.com/a/hffwPFmhb2",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "드디어 블레이드 V9 질렀다... 처음 치는데 손에 감기는 느낌이 진짜 달라서 놀람. 딥 그린 컬러가 너무 예뻐서 코트에서 꺼낼 때마다 기분 좋음 🎾",
+    "b": "라켓 바꾸고 나서 코트 나가는 게 더 기대되더라 솔직히. 묵직하면서도 스윙이 가볍게 빠지는 느낌이라 신기했고, 치고 나서 팔 덜 피곤한 것 같음 🎾"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "vevepin01",
+    "url": "https://www.threads.com/@vevepin01/post/DeNcEXDCho5",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hEVJOrwzim",
+    "final_url": "https://www.coupang.com/vp/products/9653191276?src=1139000&spec=10799999&addtag=400&ctag=9653191276&lptag=AF3645421&itime=20261010131319&pageType=PRODUCT&pageValue=9653191276&wPcid=17905526599079763164544&wRef=&wTime=20261010131319&redirect=landing&traceid=V0-183-b62828bd7205f6ce&mcid=2df45a0f2a824e299599667ef94e339d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9653191276",
+    "title": "에너딕 넥가드 목 스트레칭 홈케어",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e8bb/edcd863c6d5fd06a3604f63a997ccc31d31f2634cf061294b163733d2d99.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e8bb/edcd863c6d5fd06a3604f63a997ccc31d31f2634cf061294b163733d2d99.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6fad/75ad6fdf88c2203fc5e2b218fa9b9fec2551bc9d511fdcf980b2c42cdf19.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/722c/6a599a65204bf6eae40deb7b75e19b83ec27650264ac68ab724bfc27004b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d4ce/de9b743832865278382ff7c678f61334f3f4fe4046678cde78649d745238.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/122a/735485d0ddaa3083e3f095892023ef4c219212300ff2a56ce73cb459089c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c212/58f198f95c2d3fd629b7d28d7af3cf72b1198bc5c8ac28ae71dcdd024115.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c293/04325ce1ebe6470c962cfb562c4b4c306b222141dddada981d93db17ab79.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/91d2/7b60df97a86a7dd96f616567bfcee0fc7b7a25e44fab060382d1c145005c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hEVJOrwzim"
+    ],
+    "image_path": "images/02_에너딕_넥가드_목_스트레칭_홈케어.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "하루 종일 컴퓨터 하고 목 뻐근할 때 이거 깔고 누우면 나도 모르게 눈 감김. 넥 라인에 딱 맞게 파여 있어서 따로 자세 잡을 필요가 없어서 편함 💆",
+    "b": "폼롤러 사놓고 안 쓰던 나인데 이건 진짜 매일 꺼냄... 그냥 바닥에 누워서 목 올려두기만 하면 되니까. 퇴근하고 5분 이게 루틴 돼버림 😮‍💨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 1.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83Yfch1S8",
+    "final_url": "https://www.coupang.com/vp/products/2449120?itemId=24285956178&src=1139000&spec=10799999&addtag=400&ctag=2449120&lptag=AF7862534&itime=20261010131329&pageType=PRODUCT&pageValue=2449120&wPcid=17905526599079763164544&wRef=&wTime=20261010131329&redirect=landing&traceid=V0-101-5c6446fc722e4fac&mcid=dd353c1e079243bc9828d187b46d16ad&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2449120",
+    "title": "하인즈 우스터 소스, 532ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/12/27/9/1/7e916b98-dd14-49f3-a12c-8db4bc54ab5c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/27/9/1/7e916b98-dd14-49f3-a12c-8db4bc54ab5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/662131923135018-918c2864-5973-4d4b-bd3b-119b4970f992.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/588585641174516-8ab6fb2e-7cf2-497c-99e4-4d52d25269df.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/662219312178822-cd8687bf-3d32-4486-a84b-8e72da32c333.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/45924738397904-253de329-7306-49b9-88ef-1f58c02498cd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/588635042673901-3a27db99-cec8-4001-a4c0-39b3dae30e55.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/662181798797585-e4ce1cbd-b4d5-4baa-93d7-a78d8b46b3d9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/12/27/9/8/01bb191b-82b4-4b6c-81e4-40ca3ae453d3.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g83Yfch1S8"
+    ],
+    "image_path": "images/03_하인즈_우스터_소스,_532ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 함박스테이크 만들 때 이거 조금 넣었더니 맛이 완전 달라짐... 뭔가 깊고 은근한 맛이 생기는 느낌이라 신기했음. 이제 없으면 허전할 것 같음 🍳",
+    "b": "오므라이스 소스에 몇 방울 넣었는데 그냥 집밥인데 레스토랑 느낌 남 솔직히. 큰 병이라 한 번 사면 오래 쓸 수 있어서 괜히 든든한 기분 🫙"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "ggultem_saja",
+    "url": "https://www.threads.com/@ggultem_saja/post/DeL0csJibFp",
+    "views": 943,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hsib4Cos2u",
+    "final_url": "https://www.coupang.com/vp/products/9661706605?itemId=28883622727&vendorItemId=95873695121&src=1139000&spec=10799999&addtag=400&ctag=9661706605&lptag=AF2417417&itime=20261010131336&pageType=PRODUCT&pageValue=9661706605&wPcid=17905526599079763164544&wRef=&wTime=20261010131336&redirect=landing&traceid=V0-181-d25ab249507cf77a&mcid=029498e7d64f4bd0a9a0b74e2940c9ce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9661706605",
+    "title": "쿠리풀 아이그림 보관 액자, 1개, 블랙",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf84/d873efa372cb5facfc26bcbbd203dc17ef63acc24a17746b49888e65325a.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf84/d873efa372cb5facfc26bcbbd203dc17ef63acc24a17746b49888e65325a.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hsib4Cos2u"
+    ],
+    "image_path": "images/04_쿠리풀_아이그림_보관_액자,_1개,_블랙.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애 그림 버리기가 너무 미안해서 이거 샀는데 100장이 다 들어간다는 게 진심임... 겉엔 그날 그림 딱 하나 걸어두니까 인테리어도 되더라 🖼️",
+    "b": "그림 쌓여가는 거 볼 때마다 어쩌지 싶었는데 이거 생기고 나서 애가 자기 그림 직접 넣는 재미에 푹 빠짐. 블랙 프레임이라 방에 놔도 촌스럽지 않음 🎨"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "jjus.hsu",
+    "url": "https://www.threads.com/@jjus.hsu/post/DeLxehriMBd",
+    "views": 933,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hDikdX2Avc",
+    "final_url": "https://www.coupang.com/vp/products/9691122537?itemId=28984494991&src=1139000&spec=10799999&addtag=400&ctag=9691122537&lptag=AF3000507&itime=20261010131344&pageType=PRODUCT&pageValue=9691122537&wPcid=17905526599079763164544&wRef=&wTime=20261010131344&redirect=landing&traceid=V0-101-1a0ad0a6ca672700&mcid=888164b4396c412197ce5e291dbabcc7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9691122537",
+    "title": "쭁쭁이네 아이스크림 3D 피젯 토이 늘어나는 촉감 스트레스 해소 데스크 장난감 1+1, 2개, 화이트+레인보우",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4798/aad186da9f060e75e9543ea2237dd0a11f2e4bc162e845f94929191f07cd.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4798/aad186da9f060e75e9543ea2237dd0a11f2e4bc162e845f94929191f07cd.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hDikdX2Avc"
+    ],
+    "image_path": "images/05_쭁쭁이네_아이스크림_3D_피젯_토이_늘어나는_촉감_스트레스_해소_데스크_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 아이스크림 모양 장난감이 왜 이렇게 귀여운지... 손으로 주물럭거리다 보면 어느새 멍 때리고 있음. 화이트랑 레인보우 두 개라 고를 재미도 있음 🍦",
+    "b": "레인보우 색깔이 너무 예뻐서 그냥 올려만 둬도 기분이 좋아짐. 애 것 사줬는데 결국 내가 더 자주 만지작거리고 있더라 😂"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ggultem_home_",
+    "url": "https://www.threads.com/@ggultem_home_/post/DeMgVrTkyWW",
+    "views": 849,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hEOaVl56u4",
+    "final_url": "https://www.coupang.com/vp/products/5924322174?itemId=10509342522&vendorItemId=77790992198&src=1139000&spec=10799999&addtag=400&ctag=5924322174&lptag=AF2704743&itime=20261010131351&pageType=PRODUCT&pageValue=5924322174&wPcid=17905526599079763164544&wRef=&wTime=20261010131351&redirect=landing&traceid=V0-183-0784906d78556d96&mcid=34149aae1466406190df3669a6090564&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5924322174",
+    "title": "상우문화사 알록달록 양면색종이 30 x 30 cm 100p",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/54186520189168-bef828fb-c514-4617-b1af-aafaa5b45299.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54186520189168-bef828fb-c514-4617-b1af-aafaa5b45299.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/89852709525208-21af5507-f0e5-4152-b39a-5c71a429203b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/71862037083889-66144e18-1064-4a07-b6b9-cfc738ef7e75.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/89891521273636-a0cdb265-b40f-4470-8fec-49c5914aa80d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/71868435047031-7017c081-ce8c-4ef0-b39f-294d3aef3146.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/71909230267281-aa471566-9285-49f0-8a80-0c68f73524da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/89920384268379-8e8bc61a-becd-4ebb-8b69-e18467e0c125.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/44856050899522-8b5375f3-6fec-4dcc-99d7-62cb200304fa.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hEOaVl56u4"
+    ],
+    "image_path": "images/06_상우문화사_알록달록_양면색종이_30_x_30_cm_100p.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "30cm 색종이라 큼직하게 접을 수 있어서 애들이 진짜 좋아함. 양면이라 뒤집어도 색이 살아있어서 완성작이 훨씬 예쁘게 나옴 🌈",
+    "b": "미술 수업 준비물로 샀는데 색이 진하고 종이가 단단해서 맘에 들었음. 아이가 꽃 접기 하면서 한 시간 넘게 혼자 놀더라 ✂️"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DeLdvI2DIge",
+    "views": 821,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hDmqFrEQiO",
+    "final_url": "https://www.coupang.com/vp/products/5684066857?itemId=19167012018&src=1139000&spec=10799999&addtag=400&ctag=5684066857&lptag=AF4955575&itime=20261010131359&pageType=PRODUCT&pageValue=5684066857&wPcid=17905526599079763164544&wRef=&wTime=20261010131359&redirect=landing&traceid=V0-101-7c0ebd07a6cd2edf&mcid=9826001823a64f04abc4e27b8bea476d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5684066857",
+    "title": "코스트코 커클랜드 미디엄 로스트 커피",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/ff77643c-3f7f-4d76-98d3-10c4fccdf616_composition_base_0.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/ff77643c-3f7f-4d76-98d3-10c4fccdf616_composition_base_0.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hDmqFrEQiO"
+    ],
+    "image_path": "images/07_코스트코_커클랜드_미디엄_로스트_커피.jpg",
+    "my_link": "https://link.coupang.com/a/hmvCtBIs9Y",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 한 스푼 타서 마시는 루틴이 생겨버렸음... 인스턴트인데 쓴맛이 덜하고 마시기 편해서 신기했음. 병이 커서 한번 사두면 한참 가는 것도 좋음 ☕",
+    "b": "코스트코 못 가는 기간에 이거로 버티고 있는데 생각보다 맛 차이 안 느껴짐 솔직히. 뚜껑 닫아두면 냄새도 안 날아가서 오래 먹어도 괜찮더라 ☕"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "ancco_7710",
+    "url": "https://www.threads.com/@ancco_7710/post/DeL9mTFAUuR",
+    "views": 647,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hEo6xsY6ma",
+    "final_url": "https://www.coupang.com/vp/products/8403517046?itemId=24292599389&vendorItemId=91308698508&src=1139000&spec=10799999&addtag=400&ctag=8403517046&lptag=AF4773223&itime=20261010131407&pageType=PRODUCT&pageValue=8403517046&wPcid=17905526599079763164544&wRef=&wTime=20261010131407&redirect=landing&traceid=V0-183-a2a912c84964be75&mcid=afaaa4713e1f421d881b5d7a4812f24f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8403517046",
+    "title": "어버너 넥타이 무광 헤링본 클래식 7color",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0f76/5483e085e0dca143dbd21da6da33614cf32f7860912e6d1bf5ff097a216f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f76/5483e085e0dca143dbd21da6da33614cf32f7860912e6d1bf5ff097a216f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/836e/c5eef59a6d31fe77639b33f951e4a4ed940f07c3fa9744d84458432eb2b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0825/d98bae497811e5ba836d0abf7f8e24043026c13db3be2cd8650324630eb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c9c/7ebfade242f321d940348d682cb6733e6b3a3b65b8b91888ac90b31f65c9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hEo6xsY6ma"
+    ],
+    "image_path": "images/08_어버너_넥타이_무광_헤링본_클래식_7color.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "면접 날 처음 매봤는데 헤링본 결이 은근히 고급스러워 보여서 좋았음. 무광이라 번들거리지 않고 정장이랑 자연스럽게 어울리더라 👔",
+    "b": "넥타이 고르는 게 늘 어려웠는데 차콜 컬러라 어떤 정장에도 무난하게 맞음. 소재가 부드러워서 매듭 잡기도 편하고 하루 종일 흐트러지지 않더라 🖤"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DeLf0KZD4D2",
+    "views": 580,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-07",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hD9VycltJY",
+    "final_url": "https://www.coupang.com/vp/products/9648097024?itemId=28834917369&vendorItemId=95769278925&src=1139000&spec=10799999&addtag=400&ctag=9648097024&lptag=AF9111886&itime=20261010131414&pageType=PRODUCT&pageValue=9648097024&wPcid=17905526599079763164544&wRef=&wTime=20261010131414&redirect=landing&traceid=V0-181-500fb35c6bd9db15&mcid=2ef7a6bd808c4a978472725604149e3d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9648097024",
+    "title": "에스트라 아토베리어 365 하이드로 수딩크림",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/07/13/15/2/42c86866-c6c0-48fb-837e-66de8e14d9f3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/13/15/2/42c86866-c6c0-48fb-837e-66de8e14d9f3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/96ccbpxh/317939b382604ff1b7b262c6b3d8fc51.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/9i22ym4w/08bccf3740b640c1a291257131f3b44c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/13/15/9/be205e13-bba1-4dcb-9b75-70a299fb7f48.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/13/15/0/ce18bb4b-6d00-4c06-bd9d-a4963ef51ab0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/13/15/2/96b77626-d701-4811-8fc5-1b4ff5ac4122.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hD9VycltJY"
+    ],
+    "image_path": "images/09_에스트라_아토베리어_365_하이드로_수딩크림.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지성 피부라 크림 바르면 무거운 느낌 싫었는데 이건 발리면 산뜻하게 흡수되는 편이라 계속 쓰게 됨. 자극 없이 쓸 수 있어서 환절기에 더 찾게 되더라 🌿",
+    "b": "피부 예민해지면 뭘 발라도 따갑거나 빨개졌는데 이건 그런 게 없어서 신기했음. 튜브 타입이라 필요한 만큼만 딱 짜 쓸 수 있어서 위생적으로 좋음 💙"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "kimseukku13",
+    "url": "https://www.threads.com/@kimseukku13/post/DeNaZ_iDxr7",
+    "views": 566,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-08",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hFozmYDLZA",
+    "final_url": "https://www.coupang.com/vp/products/7256976923?itemId=28328988747&src=1139000&spec=10799999&addtag=400&ctag=7256976923&lptag=AF6776194&itime=20261010131421&pageType=PRODUCT&pageValue=7256976923&wPcid=17905526599079763164544&wRef=&wTime=20261010131421&redirect=landing&traceid=V0-101-3c8b77928d5622f4&mcid=50f5e01ae0fe4e41bf42f29bc97b7b8c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7256976923",
+    "title": "프리미엄골드3겹 데코 화장지 천연펄프 함유, 30m, 30롤, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1dc3/adad2baa6f5570d584fbf1266981ee3bf3d3a87af15066a484f89740de62.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1dc3/adad2baa6f5570d584fbf1266981ee3bf3d3a87af15066a484f89740de62.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ddd/c3d310f24d1de09294e3859dc332c604570d86d43bb1caad7986f18fd46e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hFozmYDLZA"
+    ],
+    "image_path": "images/10_프리미엄골드3겹_데코_화장지_천연펄프_함유,_30m,_30롤,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "화장지 바꿨을 뿐인데 진짜 부드러운 거 체감이 됨... 3겹이라 한 장씩 써도 충분하고, 두 팩 묶음이라 한동안 안 사도 되는 게 제일 좋음 🌸",
+    "b": "보라색 패키지가 예뻐서 욕실에 쌓아뒀는데 그것도 나름 인테리어 됨. 쓸 때 감촉이 일반 화장지랑 확실히 다르긴 해서 한 번 쓰면 돌아가기 싫더라 🌸"
+   }
+  }
+ ]
+}
