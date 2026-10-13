@@ -1,0 +1,408 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-13T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-13T13:19:23"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "gj.buffet",
+    "url": "https://www.threads.com/@gj.buffet/post/DeVq-yTnYco",
+    "views": 10000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hKIv6FEpdk",
+    "final_url": "https://www.coupang.com/vp/products/8444603392?src=1139000&spec=10799999&addtag=400&ctag=8444603392&lptag=AF0600644&itime=20261013131434&pageType=PRODUCT&pageValue=8444603392&wPcid=17905526599079763164544&wRef=&wTime=20261013131434&redirect=landing&traceid=V0-183-df7e044f427c786f&mcid=1e51cfd83a124d95a27dbd732ba1a2ec&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8444603392",
+    "title": "조영태 정해진 미래",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2ab6/e5aa700931155efc05989f8be60736349323d13a52d83ebb68d39c231c9e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2ab6/e5aa700931155efc05989f8be60736349323d13a52d83ebb68d39c231c9e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hKIv6FEpdk"
+    ],
+    "image_path": "images/01_조영태_정해진_미래.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DeVby12k8UY",
+    "views": 2300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eCuBf7kVdk",
+    "final_url": "https://www.coupang.com/vp/products/7410129020?itemId=19197858047&src=1139000&spec=10799999&addtag=400&ctag=7410129020&lptag=AF2377009&itime=20261013131544&pageType=PRODUCT&pageValue=7410129020&wPcid=17905526599079763164544&wRef=&wTime=20261013131544&redirect=landing&traceid=V0-181-b71d5465a640f6fd&mcid=7c2281ea01fc496d959bb20c1a8467b6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7410129020",
+    "title": "레드빈 7in1 스마트 디바이스 클리닝 브러쉬 청소키트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85463298326248-cbc32bf8-e1d6-4d9c-af7a-1292609f6436.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85463298326248-cbc32bf8-e1d6-4d9c-af7a-1292609f6436.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715293095948-07e0d885-517b-478f-843a-4030746016a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715367051770-46f35984-99a6-4912-b5b7-bfaa26d6b0ef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715444454038-4b9d1e57-2ccd-4203-b94a-5dd9482de404.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715529534084-9c9a7727-b528-406b-8849-bcfc9700a478.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715599817927-23c0b7e2-cf1b-4cf5-9969-5c67fa44c48e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715672288840-733a08ae-b33b-45a9-a28b-3a346803d005.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eCuBf7kVdk"
+    ],
+    "image_path": "images/02_레드빈_7in1_스마트_디바이스_클리닝_브러쉬_청소키트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "sensible_day",
+    "url": "https://www.threads.com/@sensible_day/post/DeTtFIMispb",
+    "views": 1500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hIT8yl11tk",
+    "final_url": "https://www.coupang.com/vp/products/6396355700?src=1139000&spec=10799999&addtag=400&ctag=6396355700&lptag=AF4407755&itime=20261013131551&pageType=PRODUCT&pageValue=6396355700&wPcid=17905526599079763164544&wRef=&wTime=20261013131551&redirect=landing&traceid=V0-183-2c5bf3b0cfb52633&mcid=196e2014c3714590baeb24482610cd50&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6396355700",
+    "title": "헬로키티 입체 실리콘 마들렌틀 몰드 버터떡틀 (4구), 1개, 핫핑크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/aa27/7f8c0587e78639a190fbed756d2a814f4d8f2ea9e0b0423d223540ed6013.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aa27/7f8c0587e78639a190fbed756d2a814f4d8f2ea9e0b0423d223540ed6013.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hIT8yl11tk"
+    ],
+    "image_path": "images/03_헬로키티_입체_실리콘_마들렌틀_몰드_버터떡틀_(4구),_1개,_핫핑크.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "sallimalchemy.home",
+    "url": "https://www.threads.com/@sallimalchemy.home/post/DeTsEIgExzH",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hIhxb2iFMq",
+    "final_url": "https://www.coupang.com/vp/products/8913575135?itemId=26040698806&vendorItemId=95625794708&src=1139000&spec=10799999&addtag=400&ctag=8913575135&lptag=AF4474793&itime=20261013131559&pageType=PRODUCT&pageValue=8913575135&wPcid=17905526599079763164544&wRef=&wTime=20261013131559&redirect=landing&traceid=V0-181-cb3d6669b08dba28&mcid=6af608a4c89f413fa7ca324b25c8ac58&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8913575135",
+    "title": "[병행 수입품] CASIO Bluetooth ABL-100WE-1A [카시오] 디지털 손목 시계 모바일 링크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0019/52a3e95d0278bb6a80c6b98bf92fedb3132e1576cc8d11fa3c1d6c49988c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0019/52a3e95d0278bb6a80c6b98bf92fedb3132e1576cc8d11fa3c1d6c49988c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f7a9/42075e20cb9546b91d1636651550d66805df33be9bed028ca2da785a115e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30ce/71ca63596d4cb56b9f212c0511ce6428d688d8f786cb3f0e65bbc38eb04b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4650/d1e59cdc266a89406d9ad25c87f75196ee937bc68bf586ca16888be60842.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hIhxb2iFMq"
+    ],
+    "image_path": "images/04_[병행_수입품]_CASIO_Bluetooth_ABL-100WE-1A_[카.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "serim.ta",
+    "url": "https://www.threads.com/@serim.ta/post/DeTjE0eEY8W",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-10",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hJlJFrF9Bk",
+    "final_url": "https://www.coupang.com/vp/products/261192458?itemId=7633145557&src=1139000&spec=10799999&addtag=400&ctag=261192458&lptag=AF5370005&itime=20261013131606&pageType=PRODUCT&pageValue=261192458&wPcid=17905526599079763164544&wRef=&wTime=20261013131606&redirect=landing&traceid=V0-101-5875e3f7a89a609b&mcid=a6e0213dc08d4ecb9a6803ad27067fa5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "261192458",
+    "title": "코멧 순백 3겹 라벤더 바닐라 롤화장지, 30m, 30개입, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/101541717288379-1e216573-e4d2-492f-af77-61c51d2f198b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/101541717288379-1e216573-e4d2-492f-af77-61c51d2f198b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125890896561125-2721c21c-c6a4-4db5-b347-a755687a364c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1588325496094400-107d4c6e-e778-4d45-b0b4-d3501a7eb06b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1588330066123376-8a932f8d-7fac-423c-9edc-a1ff8d28a02d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1588334022037597-483fd7cb-373c-439e-9c53-0ae060b73dab.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/101500396557207-0b2fc4c0-341d-4e21-b117-9db399247a7e.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_96cf5044-8c95-4a03-ad0f-3d41b39a690d.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hJlJFrF9Bk"
+    ],
+    "image_path": "images/05_코멧_순백_3겹_라벤더_바닐라_롤화장지,_30m,_30개입,_2개.jpg",
+    "my_link": "https://link.coupang.com/a/g3Ya2s2J40",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "dhdlddyd",
+    "url": "https://www.threads.com/@dhdlddyd/post/DeVL72PExmu",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gPaxIJd432",
+    "final_url": "https://www.coupang.com/vp/products/8640283168?itemId=28464108162&src=1139000&spec=10799999&addtag=400&ctag=8640283168&lptag=AF9573770&itime=20261013131645&pageType=PRODUCT&pageValue=8640283168&wPcid=17905526599079763164544&wRef=&wTime=20261013131645&redirect=landing&traceid=V0-183-38d0ce7e34ae4c74&mcid=7690919c054f45428fa173323631661e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8640283168",
+    "title": "MUJI LABO 무인양품 라보 교토 향사이도 고체 향수 퍼퓸 샌달우드 23106658",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f15f/eb289e347d84c0a0bc844cb1aaa0654f6d4c29fed88d69611134fb2afb85.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gPaxIJd432"
+    ],
+    "image_path": "images/06_MUJI_LABO_무인양품_라보_교토_향사이도_고체_향수_퍼퓸_샌달우드_.jpg",
+    "my_link": "https://link.coupang.com/a/hbAvBIlha8",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-12",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83Ummxyq4",
+    "final_url": "https://www.coupang.com/vp/products/2436662?itemId=18080730364&src=1139000&spec=10799999&addtag=400&ctag=2436662&lptag=AF7862534&itime=20261013131651&pageType=PRODUCT&pageValue=2436662&wPcid=17905526599079763164544&wRef=&wTime=20261013131651&redirect=landing&traceid=V0-101-d46741052e8af04f&mcid=18359aea1e1342deb26d5feea433277b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2436662",
+    "title": "이금기 중화 두반장, 226g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282903216727671-5d4d577b-3b27-4e36-ab7d-182411127478.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902179985-96b7fce6-b696-4008-9e1b-e12f3aa5e73b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902266868-1b1ab45f-084d-48c6-92eb-d918a9105087.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2267163333477127-a32ad6ac-a4ae-442f-820e-f09b637efe7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/431443278880437-ce022740-0b12-419d-bd9b-09056eadabf0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112536073917-818d0021-0481-4c33-9476-a977a8cfb39f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112539162364-64cbe5ea-7e26-4944-871b-2898e130b1ec.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=H1wLUOd9HoA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/g83Ummxyq4"
+    ],
+    "image_path": "images/07_이금기_중화_두반장,_226g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "ancco_7710",
+    "url": "https://www.threads.com/@ancco_7710/post/DeVK4tXD9El",
+    "views": 909,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eZN5A8yWOq",
+    "final_url": "https://www.coupang.com/vp/products/8987595223?itemId=28269630632&src=1139000&spec=10799999&addtag=400&ctag=8987595223&lptag=AF4773223&itime=20261013131659&pageType=PRODUCT&pageValue=8987595223&wPcid=17905526599079763164544&wRef=&wTime=20261013131659&redirect=landing&traceid=V0-183-354a27f1e42e9e21&mcid=cde86bdcd72940ebb1578eb5ea4fcb20&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8987595223",
+    "title": "null - 일반거치대",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eZN5A8yWOq"
+    ],
+    "image_path": "images/08_null_-_일반거치대.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "bobajea",
+    "url": "https://www.threads.com/@bobajea/post/DeVuTbgERiF",
+    "views": 827,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hKKz6cG41Q",
+    "final_url": "https://www.coupang.com/vp/products/7714330256?itemId=21063508485&src=1139000&spec=10799999&addtag=400&ctag=7714330256&lptag=AF8848564&itime=20261013131733&pageType=PRODUCT&pageValue=7714330256&wPcid=17905526599079763164544&wRef=&wTime=20261013131733&redirect=landing&traceid=V0-183-4d9597e7e1a0a3e3&mcid=1dd5f50213c24cec888ce8df267f5a3a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=acc5_1016_c_1791690255778_1&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7714330256",
+    "title": "미니쿠퍼 기어 쉬프트 미니 후드티 커버 기어봉 커버 전차종 공용, 블랙, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b44a/905b12db694a16c1efe53fa6e643921129c6124b2a5a0db26c9af9a535fe.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b44a/905b12db694a16c1efe53fa6e643921129c6124b2a5a0db26c9af9a535fe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af90/12633c92ba4e64a49d5ae564de2b484e3b60752e9aab55739c709d2b6832.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9fd5/cd212b2589f417090598253e7b2ff750bf7a8d04bf18dcac2ecbd4caa700.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d59a/64c0d59cea79366ab08751e2c7c4b32d1dabe32a8aa4d9de4267556bee90.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0dab/543f324222b1e853e62cd557df067a6e67a0791a732e6f3fb9ff9c3f49b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/db86/e4bd4715762965b29b27d33ec6e40a4815b6a3f894af439d3271045ffd98.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b39/ad694f35d4391b4014e70b7ca8c295f96f9726b7cc157edc434a1d1c8550.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e34b/b3bf52571838ce53211b896d7a74ef65cc1fa198e9c3170bdede4b27451b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hKKz6cG41Q"
+    ],
+    "image_path": "images/09_미니쿠퍼_기어_쉬프트_미니_후드티_커버_기어봉_커버_전차종_공용,_블랙,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "iceholic2626",
+    "url": "https://www.threads.com/@iceholic2626/post/DeVIALck2ra",
+    "views": 728,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hfz9TX02Fw",
+    "final_url": "https://www.coupang.com/vp/products/8553020909?itemId=29169233273&vendorItemId=95675631694&src=1139000&spec=10799999&addtag=400&ctag=8553020909&lptag=AF9573770&itime=20261013131812&pageType=PRODUCT&pageValue=8553020909&wPcid=17905526599079763164544&wRef=&wTime=20261013131812&redirect=landing&traceid=V0-181-30efc476e9cc68d1&mcid=c59794c9e61f4860a9c99df97fc04214&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8553020909",
+    "title": "바이리얼베리어 세라베이스 카밍 모이스처라이징 크림 + 코즈멧 미니 스파츌라 세트, 1개, 50ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a0c9/f39475a12e92b2912bb12f8c6ec701eba3319c098144cec5c2ee16d5f8cf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cf00/1e3a2c23547981da58e1897cb564a6e223ae4975a37fa2dcd12d1e43b7f1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/101b/82a20034208ac8a7013183149d44097e0ab21dc975f6cdb6b715426e66b4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5a9/611740ebd03069203882b3db6488616379dc616a93f6907e355532c9f87f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8497/260e56c3a93a6ceb81218d3addf55e3b2f492260eed2cbc84e463c2895b3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/100a/ba40303d9dba15eb2ffd6b9f0e805682b9cafc8fab6e97326a853847864b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f07e/06fd46df8f18d1cca0f6b4bab89e6d7d3a8c7b925ff4e5bf766e92244e89.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hfz9TX02Fw"
+    ],
+    "image_path": "images/10_바이리얼베리어_세라베이스_카밍_모이스처라이징_크림_+_코즈멧_미니_스파츌.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  }
+ ]
+}
