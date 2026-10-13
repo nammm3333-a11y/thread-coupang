@@ -1,0 +1,422 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-14T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-14T08:19:38"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "jinsistersfater",
+    "url": "https://www.threads.com/@jinsistersfater/post/DeVwA65jPcu",
+    "views": 45000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hJULwjhO32",
+    "final_url": "https://www.coupang.com/vp/products/7747797534?itemId=20862008630&vendorItemId=88255396833&src=1139000&spec=10799999&addtag=400&ctag=7747797534&lptag=AF7290482&itime=20261014081516&pageType=PRODUCT&pageValue=7747797534&wPcid=17905526599079763164544&wRef=&wTime=20261014081516&redirect=landing&traceid=V0-181-0477018c6cb88e2a&mcid=5faa76656d514e238b2694bcaf06c69d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7747797534",
+    "title": "아마드티 아쌈 홍차",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/01/03/17/2/9cefcc02-0990-4a8c-b203-259bf312b61f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/01/03/17/2/9cefcc02-0990-4a8c-b203-259bf312b61f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1324375360954312-13fde43f-c37d-49be-9587-27c29c02d3df.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1287161244628599-0fea0aa3-7072-4670-91d8-8fef9c1c3560.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1324375305381852-85136683-832e-41ef-bd00-ded4a0b1d77d.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1324374816452947-fa97f017-5ecf-44b2-b915-d604b0de6715.PNG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hJULwjhO32"
+    ],
+    "image_path": "images/01_아마드티_아쌈_홍차.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "gj.buffet",
+    "url": "https://www.threads.com/@gj.buffet/post/DeVq-yTnYco",
+    "views": 10000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hKIv6FEpdk",
+    "final_url": "https://www.coupang.com/vp/products/8444603392?src=1139000&spec=10799999&addtag=400&ctag=8444603392&lptag=AF0600644&itime=20261014081524&pageType=PRODUCT&pageValue=8444603392&wPcid=17905526599079763164544&wRef=&wTime=20261014081524&redirect=landing&traceid=V0-183-df7e044f427c786f&mcid=cee13ac73d24474c8b846118b3214171&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8444603392",
+    "title": "조영태 정해진 미래",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2ab6/e5aa700931155efc05989f8be60736349323d13a52d83ebb68d39c231c9e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2ab6/e5aa700931155efc05989f8be60736349323d13a52d83ebb68d39c231c9e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hKIv6FEpdk"
+    ],
+    "image_path": "images/02_조영태_정해진_미래.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DeVby12k8UY",
+    "views": 2300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/eCuBf7kVdk",
+    "final_url": "https://www.coupang.com/vp/products/7410129020?itemId=19197858047&src=1139000&spec=10799999&addtag=400&ctag=7410129020&lptag=AF2377009&itime=20261014081634&pageType=PRODUCT&pageValue=7410129020&wPcid=17905526599079763164544&wRef=&wTime=20261014081634&redirect=landing&traceid=V0-181-b71d5465a640f6fd&mcid=1bd015908cf04176844d0f9d4fc79d82&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7410129020",
+    "title": "레드빈 7in1 스마트 디바이스 클리닝 브러쉬 청소키트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/85463298326248-cbc32bf8-e1d6-4d9c-af7a-1292609f6436.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85463298326248-cbc32bf8-e1d6-4d9c-af7a-1292609f6436.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715293095948-07e0d885-517b-478f-843a-4030746016a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715367051770-46f35984-99a6-4912-b5b7-bfaa26d6b0ef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715444454038-4b9d1e57-2ccd-4203-b94a-5dd9482de404.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715529534084-9c9a7727-b528-406b-8849-bcfc9700a478.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715599817927-23c0b7e2-cf1b-4cf5-9969-5c67fa44c48e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/371715672288840-733a08ae-b33b-45a9-a28b-3a346803d005.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/eCuBf7kVdk"
+    ],
+    "image_path": "images/03_레드빈_7in1_스마트_디바이스_클리닝_브러쉬_청소키트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "cocounni.01",
+    "url": "https://www.threads.com/@cocounni.01/post/DeXt4dRjrd8",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-12",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hJJkjuvfZA",
+    "final_url": "https://www.coupang.com/vp/products/9236597465?src=1139000&spec=10799999&addtag=400&ctag=9236597465&lptag=AF8744109&itime=20261014081713&pageType=PRODUCT&pageValue=9236597465&wPcid=17905526599079763164544&wRef=&wTime=20261014081713&redirect=landing&traceid=V0-183-208c78c490aa935a&mcid=d7dd6f797d164adb865caf3ec73ad7c7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9236597465",
+    "title": "홈앤니즈 휴대용 충전식 밀봉기 스마트 미니 실링기 가정용",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/be76/40fa65661e0cfa5045d25f66d17d4523115e2c08602d4da740deb13237fa.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be76/40fa65661e0cfa5045d25f66d17d4523115e2c08602d4da740deb13237fa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c9ea/675b6860365432edd8936b40dbecb1d3d3d4b07ca7574891b5834fe31708.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7eca/440e6adccfde672c6cfe05cded2f902de09d734adb0f69e894b6ea2f033c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e438/8dad53f2eafcae9fb10752544379ae6d77a483d2f38a8ae5268e679ec422.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a2b3/a2df36b555be172f91bf8077c254de921cb6ccbd4430c844a9ae196daea8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3fb7/42d763f641ec9fa68055e11a24c59e99efb0d242bf9c0a867ff78779199e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1559/f4264319c802084dd636ccd98292727363e68f0cd9c14f7a818c46002a4b.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hJJkjuvfZA"
+    ],
+    "image_path": "images/04_홈앤니즈_휴대용_충전식_밀봉기_스마트_미니_실링기_가정용.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "jjus.hsu",
+    "url": "https://www.threads.com/@jjus.hsu/post/DeYAOUejI6O",
+    "views": 6600,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-12",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hLFtT1iQWi",
+    "final_url": "https://www.coupang.com/vp/products/9322895140?itemId=27633366155&src=1139000&spec=10799999&addtag=400&ctag=9322895140&lptag=AF3000507&itime=20261014081752&pageType=PRODUCT&pageValue=9322895140&wPcid=17905526599079763164544&wRef=&wTime=20261014081752&redirect=landing&traceid=V0-101-fd8a2ec7dba98fff&mcid=33304f0e83f1400c81db800fb7402800&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9322895140",
+    "title": "뽀글이 라면 면기 라면기 용기 거치대 휴대용 그릇 1+1 세트 포크 포함 여행용 필드용 등산용",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/288dbf2f16ed1fb92424e5f73397cd539cee272f21f956544bd52ecbf07c_1782289488844.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/288dbf2f16ed1fb92424e5f73397cd539cee272f21f956544bd52ecbf07c_1782289488844.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d859/a6f0fc4bf781bc1ed62eb5c3832dd5ddbda2e8b2eb2d200e8c117ddd246c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c918/78195396b821819d8d9f86494c7660ce8c8b827f3cab54f2c4457cfa1154.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c7dd/4168450775b94a75ee487cff3e996fb388e9e34c48f195dedfb0a3301059.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b0b0/74aaf17f5704eeb717c1f6799e60b04a85cd8033ae8b6b0354337a39b60f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a04b/288dbf2f16ed1fb92424e5f73397cd539cee272f21f956544bd52ecbf07c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd10/9aeeceb4b80a09bf8edd2ff385dc7827a7fa06d61efe7bea424601cc9c64.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d5b/f59696b846bfe40047616b67658018314005a68124bfd93138b7e4055761.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=psLvdBdg7Zo"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hLFtT1iQWi"
+    ],
+    "image_path": "images/05_뽀글이_라면_면기_라면기_용기_거치대_휴대용_그릇_1+1_세트_포크_포함.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "hayun_94",
+    "url": "https://www.threads.com/@hayun_94/post/DeWJXH9jQop",
+    "views": 902,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hJUXsEPP0S",
+    "final_url": "https://www.coupang.com/vp/products/9218776855?itemId=27239363351&src=1139000&spec=10799999&addtag=400&ctag=9218776855&lptag=AF9543543&itime=20261014081759&pageType=PRODUCT&pageValue=9218776855&wPcid=17905526599079763164544&wRef=&wTime=20261014081759&redirect=landing&traceid=V0-101-1d2550085cfd7792&mcid=a935d0cde3ba4663bd497803cdafbd7a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9218776855",
+    "title": "스페인산 피쿠알 포마스 올리브오일 올리브유",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/19f92994432a070a251c3f2b72a4cf34545c214e4e7e1772189394912266_1767340482720.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/19f92994432a070a251c3f2b72a4cf34545c214e4e7e1772189394912266_1767340482720.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/220d/183dd4e46932e42ee5ddee156885a043dbf89a1909a76bce76057c5b5d03.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0077/19f92994432a070a251c3f2b72a4cf34545c214e4e7e1772189394912266.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9dbd/b1d41e90f4aa9f285dfaa4df989196520851becb425f6f89793d0e6cdabc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/788d/de8571a8e1b6d72125f2aaac2233b8d83afef26c93cc0d6bd3253c21bbc0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c81e/6b5d7e54a22b3ee56a20920c1b5d8af5fe0da911d45140947d1a9359aa81.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e07f/c883204d0f5e5d8869e4c55859dccface170cf0b8a239694890605a67561.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/38e1/64853c9952ce8bd65baaffe9f20f60aef0b0d7df4fe3140ae757ed6254f2.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=mH0g8xgFiis",
+     "https://www.youtube.com/watch?v=Zf84af1owS4"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hJUXsEPP0S"
+    ],
+    "image_path": "images/06_스페인산_피쿠알_포마스_올리브오일_올리브유.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sallimalchemy.home",
+    "url": "https://www.threads.com/@sallimalchemy.home/post/DeWL0LdERrP",
+    "views": 892,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hHI1QyOUmG",
+    "final_url": "https://www.coupang.com/vp/products/9054655589?itemId=26578331959&vendorItemId=93551778784&src=1139000&spec=10799999&addtag=400&ctag=9054655589&lptag=AF4474793&itime=20261014081806&pageType=PRODUCT&pageValue=9054655589&wPcid=17905526599079763164544&wRef=&wTime=20261014081806&redirect=landing&traceid=V0-181-6563724bb84ce5b2&mcid=94ddd8af2eeb4e9a98958e6b499de178&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9054655589",
+    "title": "가상 레이저 키보드 블루투스 무선 터치 프로젝터 키보드",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c754/ff5ede2b45de4e40a77291059dbd3c145094d2c52612102440ff5eb97188.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c754/ff5ede2b45de4e40a77291059dbd3c145094d2c52612102440ff5eb97188.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5602/397f8f82379dba8d976f1214bf4558cf4e6fd5b7c618d41a704079233e4e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6550/155f40963ed3b5e0776ba6818be430dfdb5b0a118b8ffdb83bf7c6497a6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f12/10be2f55c406ac4db4ba914dafec7a6f72ff4abd9918d3fa8a02419fd0b7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/26b4/cad019e6e631983b2ae7e75ed5dc6d519c67e588f8139e9959dd06b942be.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e1e9/f29337467d08a6288ae9be4a7e403901d3a7abd342f78a6d3955bcf7d482.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hHI1QyOUmG"
+    ],
+    "image_path": "images/07_가상_레이저_키보드_블루투스_무선_터치_프로젝터_키보드.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "bobajea",
+    "url": "https://www.threads.com/@bobajea/post/DeVuTbgERiF",
+    "views": 827,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hKKz6cG41Q",
+    "final_url": "https://www.coupang.com/vp/products/7714330256?itemId=21063508485&src=1139000&spec=10799999&addtag=400&ctag=7714330256&lptag=AF8848564&itime=20261014081813&pageType=PRODUCT&pageValue=7714330256&wPcid=17905526599079763164544&wRef=&wTime=20261014081813&redirect=landing&traceid=V0-183-4d9597e7e1a0a3e3&mcid=f47b444dff004841a47d502daf477675&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=acc5_1016_c_1791690255778_1&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7714330256",
+    "title": "미니쿠퍼 기어 쉬프트 미니 후드티 커버 기어봉 커버 전차종 공용, 블랙, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b44a/905b12db694a16c1efe53fa6e643921129c6124b2a5a0db26c9af9a535fe.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b44a/905b12db694a16c1efe53fa6e643921129c6124b2a5a0db26c9af9a535fe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af90/12633c92ba4e64a49d5ae564de2b484e3b60752e9aab55739c709d2b6832.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9fd5/cd212b2589f417090598253e7b2ff750bf7a8d04bf18dcac2ecbd4caa700.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d59a/64c0d59cea79366ab08751e2c7c4b32d1dabe32a8aa4d9de4267556bee90.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0dab/543f324222b1e853e62cd557df067a6e67a0791a732e6f3fb9ff9c3f49b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/db86/e4bd4715762965b29b27d33ec6e40a4815b6a3f894af439d3271045ffd98.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b39/ad694f35d4391b4014e70b7ca8c295f96f9726b7cc157edc434a1d1c8550.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e34b/b3bf52571838ce53211b896d7a74ef65cc1fa198e9c3170bdede4b27451b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hKKz6cG41Q"
+    ],
+    "image_path": "images/08_미니쿠퍼_기어_쉬프트_미니_후드티_커버_기어봉_커버_전차종_공용,_블랙,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DeVzf5xj8rO",
+    "views": 769,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hKNRRK73dI",
+    "final_url": "https://www.coupang.com/vp/products/7331962296?itemId=20542610236&vendorItemId=95429255130&src=1139000&spec=10799999&addtag=400&ctag=7331962296&lptag=AF9111886&itime=20261014081821&pageType=PRODUCT&pageValue=7331962296&wPcid=17905526599079763164544&wRef=&wTime=20261014081821&redirect=landing&traceid=V0-181-0dd62d69759f284c&mcid=7746467f131b44c7b182f2b2cc3b646e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7331962296",
+    "title": "홈스타 락스와 세제 3X 폼 스프레이 후로랄, 500ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/13929166511944-7cabbe29-5319-4548-aa71-d860c82841a1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qg8knsgd/a42c754b768d452bb55e28e31f7b8bb8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ak28w0h3/3e81330fa2c34bec9618db1f872c4939.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/14/10/4/4c8d0cb7-7b0f-48ae-a1c5-8b8731232bfa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/14/10/2/e9c35960-d4bd-4cd5-a276-cd1579182621.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/14/10/5/bc3a9a79-e395-4d72-a209-ad5493fc5ac2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hKNRRK73dI"
+    ],
+    "image_path": "images/09_홈스타_락스와_세제_3X_폼_스프레이_후로랄,_500ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "threads__market",
+    "url": "https://www.threads.com/@threads__market/post/DeXvFfrk9gc",
+    "views": 699,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-12",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hLVjFHBAwS",
+    "final_url": "https://www.coupang.com/vp/products/9223996858?itemId=27284748339&src=1139000&spec=10799999&addtag=400&ctag=9223996858&lptag=AF7712608&itime=20261014081830&pageType=PRODUCT&pageValue=9223996858&wPcid=17905526599079763164544&wRef=&wTime=20261014081830&redirect=landing&traceid=V0-183-b77ff033a743d560&mcid=e87c32d1d3f843c59cb457cb205df301&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9223996858",
+    "title": "그린스 디럭스 프로틴 팬케이크 쉐이크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9a80/865a00c3f0ac916cdc935fe44508a4fd8a197c586da1db9410724f7a9a9f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9a80/865a00c3f0ac916cdc935fe44508a4fd8a197c586da1db9410724f7a9a9f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hLVjFHBAwS"
+    ],
+    "image_path": "images/10_그린스_디럭스_프로틴_팬케이크_쉐이크.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  }
+ ]
+}
