@@ -1,0 +1,473 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-15T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-15T22:18:29"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "hayun_94",
+    "url": "https://www.threads.com/@hayun_94/post/Debs5n0FU2X",
+    "views": 5000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hLt7B5skqy",
+    "final_url": "https://www.coupang.com/vp/products/8610479353?itemId=24973654402&src=1139000&spec=10799999&addtag=400&ctag=8610479353&lptag=AF9543543&itime=20261015221222&pageType=PRODUCT&pageValue=8610479353&wPcid=17905526599079763164544&wRef=&wTime=20261015221222&redirect=landing&traceid=V0-101-872656900697b0a5&mcid=4fff6fe0a2c24f07a180020d3d3eef1b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8610479353",
+    "title": "하이포크 무항생제 인증 한돈 앞다리 제육용 (냉장), 1개, 300g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/394397037424369-7621be8b-2322-4d4a-afbc-1b4909d98451.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/394397037424369-7621be8b-2322-4d4a-afbc-1b4909d98451.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/3w1khsgc/356d9ec4e4c14b7c8d625a0cb7db8003.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/m05vwbaf/5f3907eaa131492daa6d161069d34b24.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/s0stph5n/b65d8ddb95084c4eace91697f2fc23c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/57141951052942-7b6c61f3-95cf-41f9-a3bb-e92c5d04a9bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/394387124895257-decfc1ab-510d-44fe-9a36-be45eaf1913a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/fkmfeyeg/82fa46accf5c49cba92b37a0f56975b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/394382169733441-11bb4334-687b-492f-92fc-7756788886eb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hLt7B5skqy"
+    ],
+    "image_path": "images/01_하이포크_무항생제_인증_한돈_앞다리_제육용_(냉장),_1개,_300g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "제육볶음 하려고 꺼냈는데 고기 색이 진짜 예뻐서 괜히 설레더라. 무항생제라 잡내가 없고 볶고 나서 순식간에 사라짐. 주말마다 이걸로 해먹게 될 것 같은 예감 🍖",
+    "b": "자취하면서 혼자 제육 해먹는 날이 늘었는데 300g 양이 딱임. 질기지 않고 볶으면 육즙이 있어서 혼자 흡족하게 먹었음. 앞으로 고기는 이 브랜드로 시킬 것 같음 🐷"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "jiseonna0707",
+    "url": "https://www.threads.com/@jiseonna0707/post/DeaXe_4lcrX",
+    "views": 4800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hMZNsVdOw0",
+    "final_url": "https://www.coupang.com/vp/products/5507537?src=1139000&spec=10799999&addtag=400&ctag=5507537&lptag=AF8481519&itime=20261015221231&pageType=PRODUCT&pageValue=5507537&wPcid=17905526599079763164544&wRef=&wTime=20261015221231&redirect=landing&traceid=V0-183-7772a964858e8d81&mcid=421f58e863d244258025154976b96f6f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5507537",
+    "title": "다리야 살롱드프로무향료헤어칼라 부분염색약 여성용3개세트 밝은 새치염색 새치커버 흰머리염색 일본염색약, 2호아주밝은갈색, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7df1/1ebc6e2196061b071f6ea738cbe8e784a4dd33207e8c8e713a1003cd20b2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7df1/1ebc6e2196061b071f6ea738cbe8e784a4dd33207e8c8e713a1003cd20b2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af22/a2ed1cea9cf4c05a701bba8265731468e9e4ba159c12a3bf9ad3f171fedf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6e80/2354f6ad528c5d2893250df31fd31ce1537514a7a281a7b5f911dab55fe8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a19e/5873ede0a76076a1448588a0fea2b88283f33092e5153e3b1aabe3fc68da.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hMZNsVdOw0"
+    ],
+    "image_path": "images/02_다리야_살롱드프로무향료헤어칼라_부분염색약_여성용3개세트_밝은_새치염색_새.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "미용실 예약하기 귀찮아서 그냥 집에서 새치 커버 해봤는데 냄새가 진짜 거의 안 남. 암모니아 프리라더니 확실히 숨참고 할 필요가 없어서 편했음. 앞머리 쪽 새치가 자연스럽게 커버돼서 만족 💆‍♀️",
+    "b": "엄마한테 이거 선물했더니 혼자서도 쉽게 했다고 연락 왔음. 부분용이라 필요한 데만 쓰고 남기면 되는 게 편하다고 하셨음. 3개 세트라 한동안 미용실 안 가도 될 것 같다고 좋아하심 💛"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "yozmbox",
+    "url": "https://www.threads.com/@yozmbox/post/DeaZtzyjQMU",
+    "views": 2800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hhm8ez08xo",
+    "final_url": "https://www.coupang.com/vp/products/9633953383?itemId=28779567640&vendorItemId=95716555560&src=1139000&spec=10799999&addtag=400&ctag=9633953383&lptag=AF2377009&itime=20261015221239&pageType=PRODUCT&pageValue=9633953383&wPcid=17905526599079763164544&wRef=&wTime=20261015221239&redirect=landing&traceid=V0-181-15514d0683d25ce7&mcid=51d9892efdea42218982da517f4038c0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thgreeny&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9633953383",
+    "title": "걸리쥬 무타공 밀폐용기 뚜껑 정리 걸이 수납",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3d07/96745699d5f98feb3cbb36c07908e0eb98ae266509fb57986c8e48aa6ca5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3d07/96745699d5f98feb3cbb36c07908e0eb98ae266509fb57986c8e48aa6ca5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e236/5569a28f4a7869bdd6c91275beb6df1dead0df150e245f49c81c2cb4b42d.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d78e/18a5c32af11d986ecb884ed221be6b2022f1862ef3aeded865b182a235fd.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/46cd/050777572a1f2163c424245e2867056b98cc18183153a3aa744707039393.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/63d8/a17483faafa681b78b182290c64501e514aa4e29c83caae004133f507af6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hhm8ez08xo"
+    ],
+    "image_path": "images/03_걸리쥬_무타공_밀폐용기_뚜껑_정리_걸이_수납.jpg",
+    "my_link": "https://link.coupang.com/a/hbVLBpV3rU",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밀폐용기 뚜껑 찾으려고 매번 서랍 뒤지는 게 일과였는데 이거 달고 나서 그 스트레스가 사라짐. 타공 없이도 단단히 붙어있어서 믿음직스럽고 주방이 딴 집 된 것 같은 느낌임 🤍",
+    "b": "이사하고 주방 정리하다가 충동으로 시킨 건데 진짜 잘 산 것 중 하나임. 뚜껑들 걸어두면 한눈에 보여서 요리할 때 빠르게 꺼낼 수 있어서 달라짐. 싱크대 문 공간 활용이 이렇게 될 줄 몰랐음 👍"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "real.mamazzang",
+    "url": "https://www.threads.com/@real.mamazzang/post/DebVKGQjhDz",
+    "views": 2800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hM765WNNOm",
+    "final_url": "https://www.coupang.com/vp/products/9673369695?itemId=28923507240&src=1139000&spec=10799999&addtag=400&ctag=9673369695&lptag=AF9936464&itime=20261015221249&pageType=PRODUCT&pageValue=9673369695&wPcid=17905526599079763164544&wRef=&wTime=20261015221249&redirect=landing&traceid=V0-101-0a52495255e2a75d&mcid=d4e25c182d6f47d79b11e44831cc9c35&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9673369695",
+    "title": "지애랑 냄새차단 스텐 싱크대 걸이형 음식물 쓰레기통 JL",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a1c6/b8407234b8a4dd778d98891880404d3a1eb04f3122173629d843fbab015b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a1c6/b8407234b8a4dd778d98891880404d3a1eb04f3122173629d843fbab015b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ca37/67609a1c29df90289bff3c9604c4f19d4a023041e2477ba6e58f727e70b4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a385/1c57b66e30841d8ba0b4f1b2657ada078f9b2a77349bf8c73129384156a4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1827/844061a79049b4007b1713aa2e6d62d3b1e2635bad3b1e85b4d69f754959.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f1d/0efd79c5d9838f9e2d8dcf1967652c018d1397e003380fca25a504a62cbb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ffeb/b05a024091f3460391200aa4acedabf18a299b4c1172b55a9013a144dadf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7871/c4bd976ed189cdb3697b0488817286105732e03358f5fb3f2495d6744aff.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6f18/089208a825e558c2b60a53c0a8eb54151c350217a8670c4f5c401a7cd428.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=E1X-e4ExY3E",
+     "https://www.youtube.com/watch?v=OcjibUBSX-Q",
+     "https://www.youtube.com/watch?v=qxcfDzU4Xu4",
+     "https://www.youtube.com/watch?v=ffN5ZnDq8Nw",
+     "https://www.youtube.com/watch?v=LvBJFfRvx70",
+     "https://www.youtube.com/watch?v=rvgF4-0miwU",
+     "https://www.youtube.com/watch?v=rkXKsmm83PQ",
+     "https://www.youtube.com/watch?v=8TFYB72x2XA",
+     "https://www.youtube.com/watch?v=i_f_ddt4idQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hM765WNNOm"
+    ],
+    "image_path": "images/04_지애랑_냄새차단_스텐_싱크대_걸이형_음식물_쓰레기통_JL.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름 되면 음식물 냄새가 진짜 고역이었는데 이거 쓰고 나서 주방 공기가 달라진 것 같음. 스텐이라 씻기도 쉽고 싱크대에 딱 걸리니까 자리도 안 잡아서 좋음. 매일 쓰는 거라 이게 얼마나 중요한지 새삼 느낌 🗑️",
+    "b": "플라스틱 통 쓸 때는 뚜껑 열 때마다 냄새 폭발이었는데 이건 진짜 잘 막힘. 걸이형이라 도마질하고 바로 쓸어담을 수 있어서 생각보다 편함. 싱크대 옆에 딱 자리잡으니 주방 동선이 한결 나아진 느낌 😮"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "m1n.__.ju",
+    "url": "https://www.threads.com/@m1n.__.ju/post/Deb2yTuE0nZ",
+    "views": 1500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOHGSKBrjM",
+    "final_url": "https://www.coupang.com/vp/products/8830227246?itemId=451180258&src=1139000&spec=10799999&addtag=400&ctag=8830227246&lptag=AF7466022&itime=20261015221258&pageType=PRODUCT&pageValue=8830227246&wPcid=17905526599079763164544&wRef=&wTime=20261015221258&redirect=landing&traceid=V0-101-633f779b26448467&mcid=cfe5aabf287c44c2bf820f3efc41cfaa&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8830227246",
+    "title": "다향 1등급 훈제 오리 슬라이스, 600g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5458851699897-3ce4e405-5f06-408a-952b-e424a0a534a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/643272399982-004b13a9-4fa7-4456-8521-206fdf73d7b0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/463899362162163-0e1d7e52-fd37-44d5-9739-bf245f1d473d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/643289971809-e8fcfa1f-b538-4324-85a9-7b1ba50d4c6b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/64121867387103-70a528a7-dc4f-43cf-b89f-0f3ed6d19c32.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74081910082751-c247302e-aa6f-41ab-98ee-400897fce5aa.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOHGSKBrjM"
+    ],
+    "image_path": "images/05_다향_1등급_훈제_오리_슬라이스,_600g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고에 이거 있으면 그날 저녁은 그냥 결정남. 슬라이스라 바로 구워먹으면 되고 1등급이라 그런지 퍽퍽하지 않고 촉촉한 편임. 요즘 저녁 준비가 부담 없어진 게 이것 덕분인 것 같음 🦆",
+    "b": "운동하고 단백질 챙기려고 시킨 건데 매번 꺼내먹는 게 귀찮지 않음. 냉이에 싸서 먹으니까 집에서 오리구이집 감성 나와서 혼자 흡족함. 600g이라 한 번 시키면 한동안 든든함 😋"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ggumi7777",
+    "url": "https://www.threads.com/@ggumi7777/post/DebVqzLiGiY",
+    "views": 845,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hAWSBNYlr2",
+    "final_url": "https://www.coupang.com/vp/products/8636312824?src=1139000&spec=10799999&addtag=400&ctag=8636312824&lptag=AF8449055&itime=20261015221310&pageType=PRODUCT&pageValue=8636312824&wPcid=17905526599079763164544&wRef=&wTime=20261015221310&redirect=landing&traceid=V0-183-e7dcbebe6396ebed&mcid=5a76432a568d4384bd22073a7d975254&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8636312824",
+    "title": "지아 앤쵸비 페이스트, 60g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/04/03/3142804905/c700a351-f50f-40f8-9314-e2583b2d80a9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2019/04/03/3142804905/c700a351-f50f-40f8-9314-e2583b2d80a9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2017/06/12/3142804905/672a7782-1eea-43c7-968c-2c5ca3d9e0fd.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2017/06/12/3142804905/14db09b4-41a6-49e4-98ab-5dd67fb3527b.JPG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hAWSBNYlr2"
+    ],
+    "image_path": "images/06_지아_앤쵸비_페이스트,_60g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "파스타 소스 만들 때 이거 조금만 짜 넣으면 감칠맛이 확 달라짐. 멸치액젓 대신 쓰는 건데 냉장고에 넣어두고 조금씩 쓰면 오래 감. 이거 있으면 뭘 만들어도 뭔가 있어 보이는 맛이 남 🍝",
+    "b": "유럽 요리 레시피 따라 하다가 처음 써봤는데 생각보다 거부감 없었음. 드레싱에 살짝 섞으니까 레스토랑 같은 맛이 나는 것 같아서 뿌듯함. 튜브형이라 짜서 쓰기 편하고 낭비도 없음 🐟"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/Deb0j67D_GA",
+    "views": 712,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOGjbNrzVY",
+    "final_url": "https://www.coupang.com/vp/products/1376984966?itemId=14811758737&vendorItemId=82051424068&src=1139000&spec=10799999&addtag=400&ctag=1376984966&lptag=AF9111886&itime=20261015221350&pageType=PRODUCT&pageValue=1376984966&wPcid=17905526599079763164544&wRef=&wTime=20261015221350&redirect=landing&traceid=V0-181-1d9300178c003cce&mcid=6a5a1b395adf43ffbb5d7bd8331bfaf5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1376984966",
+    "title": "테리파머 호텔 수건 200g 30수 면사, 베이비핑크, 10개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1754038449749/54dd5cad-3345-45f9-ab68-72f5dfdc5df3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1754038449749/54dd5cad-3345-45f9-ab68-72f5dfdc5df3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1486367848617417-7bf8d67d-8a29-43b5-96f5-c8b0053ed871.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1486370318083323-668744fa-0b86-4fad-a895-18dca070027b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/463875868412620-aa43d355-b423-4c7b-a746-12410d07e8be.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/463877226124922-700d0596-e85b-40ac-8b41-fcb8171e3876.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/i5tupq3x/3847ab405561428c9c9dea841d0b4d7b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jf0cq93j/5e80cade633e49ce88264ed4fbe07bab.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/bczfzw4h/96ac9d6497a64af2a26864eb80c5012b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOGjbNrzVY"
+    ],
+    "image_path": "images/07_테리파머_호텔_수건_200g_30수_면사,_베이비핑크,_10개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수건 색 하나로 욕실 분위기가 이렇게 달라질 줄 몰랐음. 베이비핑크가 생각보다 훨씬 예쁘고 10개라 넉넉해서 매일 세탁 걱정 없어짐. 아침마다 수건 꺼낼 때 기분이 좋아진 게 제일 큰 변화 🩷",
+    "b": "호텔 가면 수건이 왜 이렇게 보송한가 했는데 집에서도 그 느낌 날 수 있구나 싶었음. 몇 번 빨아도 보슬보슬한 게 유지돼서 욕실 들어갈 맛이 남. 10개라 집들이 선물로도 딱 좋을 것 같음 🤍"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "jigupo_werr",
+    "url": "https://www.threads.com/@jigupo_werr/post/DeaXdslgBYT",
+    "views": 652,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hNevGzz616",
+    "final_url": "https://www.coupang.com/vp/products/7155937714?itemId=27517679773&vendorItemId=94482510288&src=1139000&spec=10799999&addtag=400&ctag=7155937714&lptag=AF9079916&itime=20261015221358&pageType=PRODUCT&pageValue=7155937714&wPcid=17905526599079763164544&wRef=&wTime=20261015221358&redirect=landing&traceid=V0-181-1491f124f4a29350&mcid=decad5ba37934c6da09af0aa4f9abaf7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7155937714",
+    "title": "덴티스테 민트볼, 2g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/ef6502e3-b613-4545-909e-75e9303da45f12326570781158611806.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/ef6502e3-b613-4545-909e-75e9303da45f12326570781158611806.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/553757337554093-00fe77ea-d8d2-41bc-b8c2-b1b195762e66.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/skapma3a/6d5a37337fca40d09db17c113e3f33bc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/01/06/13/9/f8853ff1-979c-432f-a47e-c83a2648b1b8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/553715873551692-ff1981f1-3433-4b77-b17e-386357fa35fc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/553726957728852-296686d5-474c-44ef-8d82-32ceb408ee5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qbpjo7ft/ddf3fd90f7d143c69ddd2da66aea2a07.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2486188570593710-8fde66d4-e3d1-4b46-be37-4422054ec0de.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hNevGzz616"
+    ],
+    "image_path": "images/08_덴티스테_민트볼,_2g,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "회의 전에 하나 톡 씹었는데 입안이 순식간에 민트로 가득 참. 3초 만에 이렇게 시원해지는 거 처음이라 캡슐 터지는 느낌이 중독성 있음. 이제 가방에 항상 챙기게 된 아이템임 🌿",
+    "b": "크기가 진짜 작아서 파우치 구석에 쑤셔넣기 딱 좋음. 밥 먹고 양치 못할 때 이거 하나면 해결되는 것 같아서 외출할 때 특히 유용함. 2개 세트라 하나는 집에 하나는 가방에 넣어둠 💚"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "won707070h",
+    "url": "https://www.threads.com/@won707070h/post/DeawBpkEq5A",
+    "views": 288,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hNZBQcUhvE",
+    "final_url": "https://www.coupang.com/vp/products/9694709051?itemId=28996963274&src=1139000&spec=10799999&addtag=400&ctag=9694709051&lptag=AF5125116&itime=20261015221406&pageType=PRODUCT&pageValue=9694709051&wPcid=17905526599079763164544&wRef=&wTime=20261015221406&redirect=landing&traceid=V0-101-cd1ade50c84aa315&mcid=622a3d2f69d944fe94b0973cbaca1804&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9694709051",
+    "title": "708090 여성용 숏 루즈핏 두툼한 다운 캐주얼 자켓",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/004e/24d5a0d9b6974d62a1663c5220eee54b12bd42d89c4eb3cb1cfbf77a3b5e.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/004e/24d5a0d9b6974d62a1663c5220eee54b12bd42d89c4eb3cb1cfbf77a3b5e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5273/385df803ad4742388d40372b2fc77fc124879ccca72070cd8c76a1bf9424.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hNZBQcUhvE"
+    ],
+    "image_path": "images/09_708090_여성용_숏_루즈핏_두툼한_다운_캐주얼_자켓.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이보리 색이 실물이 더 예뻐서 입고 나가면 기분이 좋아짐. 숏 기장이라 하의 매치가 편하고 두툼한데 생각보다 무겁지 않아서 계속 손이 감. 이거 입고 나서 겨울 외출이 덜 귀찮아진 것 같음 🤍",
+    "b": "청바지에 걸쳤는데도 뭔가 갖춰 입은 것처럼 보여서 신기함. 후드 달려있어서 바람 많이 부는 날도 목까지 따뜻하게 됨. 올겨울 아우터 고민 끝이라는 생각이 드는 옷임 🧥"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "salimcheatkey.kr",
+    "url": "https://www.threads.com/@salimcheatkey.kr/post/Deayhw9E7k1",
+    "views": 273,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-13",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hH9XBTGucf",
+    "final_url": "https://www.coupang.com/vp/products/8075396096?itemId=22746611403&src=1139000&spec=10799999&addtag=400&ctag=8075396096&lptag=AF4109158&itime=20261015221415&pageType=PRODUCT&pageValue=8075396096&wPcid=17905526599079763164544&wRef=&wTime=20261015221415&redirect=landing&traceid=V0-101-e0e48b39d57f9f49&mcid=1b5f838570724188b5c9ce5fecf2e71d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8075396096",
+    "title": "트루쿡 인덕션 IH 세라믹 대형 계란말이팬 + 실리콘 자이언트 뒤집개 세트 베이지",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fe59/1f1619e7a9abe02305edfd365caa3f691c4c3dc47ad2e9964fcdf1f28148.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe59/1f1619e7a9abe02305edfd365caa3f691c4c3dc47ad2e9964fcdf1f28148.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a5aa/eac13c65f6e930dda2dd8c350d862a6db6faf3f26855421fa6495a721057.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac14/2ba4adaf2e516fe65c8cd3ea604d4edfddf74b64f69f2a31227cb2d373b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5ee2/5441589f6e836b8e1a9e495620ff4f6ffe810d291dc2a1fad296d749806e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f48/99cd8d15e32a846878535c6c8e5244d996bcee1c94c738fabb120d7a9547.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ab9a/be2f561744749709743e9d80ef055a2a7bbaeca99820ef019de6c2758700.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/079f/d4951ffe2c7ef6095f471734ba2d712a9a9a60224d783a86341bacab939b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/82e1/4deea0b858a86fd8364bcbd1ca43c2935a38f3e4c94dc12d54f61268bd18.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=0yGfLmSBVS4"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hH9XBTGucf"
+    ],
+    "image_path": "images/10_트루쿡_인덕션_IH_세라믹_대형_계란말이팬_+_실리콘_자이언트_뒤집개_세.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "계란말이 할 때마다 팬 크기가 애매해서 고생했는데 이 사이즈가 딱 맞음. 세라믹이라 기름 조금만 둘러도 안 달라붙고 뒤집개까지 세트라 따로 안 사도 됨. 이거 쓰고 나서 아침 도시락 준비가 훨씬 편해짐 🍳",
+    "b": "아이 도시락에 계란말이 예쁘게 안 돼서 스트레스였는데 이 팬 쓰고 나서 좀 나아짐. 베이지 색이 진짜 이뻐서 주방에 꺼내뒀는데 인테리어 된 것 같음. 뒤집개 크기도 팬에 딱 맞아서 세트로 사길 잘했음 🥚"
+   }
+  }
+ ]
+}
