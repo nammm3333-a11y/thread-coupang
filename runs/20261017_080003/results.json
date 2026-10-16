@@ -1,0 +1,463 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-17T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-17T08:22:30"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "daily_6aaaaaaaaaa",
+    "url": "https://www.threads.com/@daily_6aaaaaaaaaa/post/DeeKpzyEzyp",
+    "views": 37000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hP3pFZGsYm",
+    "final_url": "https://www.coupang.com/vp/products/9302247685?src=1139000&spec=10799999&addtag=400&ctag=9302247685&lptag=AF0600644&itime=20261017081659&pageType=PRODUCT&pageValue=9302247685&wPcid=17905526599079763164544&wRef=&wTime=20261017081659&redirect=landing&traceid=V0-183-3f734e7f91874e9d&mcid=1cff9564a4d0404296cb0b761a260562&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9302247685",
+    "title": "핑크풋 하루 하루 공부습관 스터디플래너 3종 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/01/12/12/3/60b764d4-158e-4a5d-a9ab-50679e5e8cf7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/01/12/12/3/60b764d4-158e-4a5d-a9ab-50679e5e8cf7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/88eccirg/f460a9465a474d2fb2cf80a9a4796799.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/wx7zqd92/32ae5136fe1b4d7d9afc0b67c13169b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/limxourx/d7f2244435bc474d836012a5be31c393.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lnspufxv/9e8cf313886f4cbca4b1fab6b580a501.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ae0scjhj/66ff156d80024fa0866e679da065642e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/433321798847625-e15605b5-b653-4932-9cf9-1749fe631c46.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/433321713602677-66ec1563-59dd-4aa4-9022-f22dc641cd1a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hP3pFZGsYm"
+    ],
+    "image_path": "images/01_핑크풋_하루_하루_공부습관_스터디플래너_3종_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "공부 시작하기 전에 플래너 펼치는 게 이제 루틴이 됐음. 표지 일러스트가 너무 사랑스러워서 책상에 두기만 해도 기분이 달라져. 베이지·네이비·라벤더 색이 다 달라서 고르는 맛도 있음 📒✨",
+    "b": "밤에 공부 끝내고 플래너 한 칸씩 채울 때 뿌듯함이 진짜임. 귀여운 표지 덕에 펼치기 싫은 날도 어떻게든 손이 가더라. 결국 3종 다 쓰게 된 건 예상 못 했음 🩷"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g8W2eBxs84",
+    "final_url": "https://www.coupang.com/vp/products/9200119576?itemId=27170772019&src=1139000&spec=10799999&addtag=400&ctag=9200119576&lptag=AF7862534&itime=20261017081707&pageType=PRODUCT&pageValue=9200119576&wPcid=17905526599079763164544&wRef=&wTime=20261017081707&redirect=landing&traceid=V0-101-05802a6aac2c13e1&mcid=3c72380fe1424c04926ab65b8f067634&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9200119576",
+    "title": "딜라잇가든 바리스타 코코넛 밀크, 2개, 1L",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/83e036bb-9512-47ee-a5af-04fb94c0b61212306753875521590428.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/83e036bb-9512-47ee-a5af-04fb94c0b61212306753875521590428.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/92453136742583-c48a43bf-cd76-4548-9f89-2f423f13dc18.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/21/10/0/484089ad-133c-46a6-8e67-f89fa957654c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/21/10/3/11667602-62f8-4377-a244-0cf04c3cbe83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/21/10/2/a0543f2f-5694-4b69-a3c3-c73116b35a77.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/21/10/0/0bc21d33-4126-4458-99ab-3fd163c31405.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12777593125092-627032d9-e050-427a-9b40-fb829c4ae1f5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12777664278136-13972926-2fbf-46e2-b06b-8a446794349d.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/g8W2eBxs84"
+    ],
+    "image_path": "images/02_딜라잇가든_바리스타_코코넛_밀크,_2개,_1L.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 에스프레소에 이거 부어 코코넛라떼 만들었는데 카페 맛 나서 진짜 당황함. 이거 쓰고 나서 카페 갈 일이 확 줄었어. 1L 두 개 묶음이라 부담 없이 마구 쓸 수 있어 좋음 🥥☕",
+    "b": "카레 만들 때 넣어봤는데 고소함이 확 올라와서 이제 빠질 수가 없게 됨. 베트남 원산지라 그런지 코코넛 향이 제대로 나서 요리할 때 기분까지 좋아짐. 냉장고에 두고 이것저것 다 섞어 쓰는 만능템 됨 🌴"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "dongne_laptop",
+    "url": "https://www.threads.com/@dongne_laptop/post/DedeLQHGXpX",
+    "views": 618,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hPGBfhe2Wy",
+    "final_url": "https://www.coupang.com/vp/products/8915336552?itemId=25966035145&vendorItemId=92878395305&src=1139000&spec=10799999&addtag=400&ctag=8915336552&lptag=AF2034469&itime=20261017081746&pageType=PRODUCT&pageValue=8915336552&wPcid=17905526599079763164544&wRef=&wTime=20261017081746&redirect=landing&traceid=V0-181-2e512fccc1252bff&mcid=f7ab2c4c96b3447586565b6fa0f2c3ce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8915336552",
+    "title": "닌텐도 스위치2 본체 BEE-001",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/27/14/5/af529f5a-7df6-4cdc-854a-0cb1b203ba08.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/27/14/5/af529f5a-7df6-4cdc-854a-0cb1b203ba08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/258210067587765-85c45478-a758-43c7-a51b-7319f65396c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/338882023841255-17231af0-d132-4f04-a49e-7ca5bc741f30.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/498950143700812-652150ce-8d37-4509-b50e-7884f4475902.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/338860656063268-64c398a6-279e-4f3f-8e7f-51e63587c9a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/427217233573953-8d80376e-edec-4262-8995-ac88e7f4209f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/27/14/4/882c69c8-835f-44e1-bd1f-c44502967b7a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/338825675686488-aabcb103-203c-4e3d-b5e2-2fbeb651aab0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hPGBfhe2Wy",
+     "https://link.coupang.com/a/hPHLCBAzgi",
+     "https://link.coupang.com/a/hPGFum9cXc",
+     "https://link.coupang.com/a/hPGIiZP0WO",
+     "https://link.coupang.com/a/hPHhEWjC3g",
+     "https://link.coupang.com/a/hPHwXtszYa",
+     "https://link.coupang.com/a/hPHFXA6hK8",
+     "https://link.coupang.com/a/hPHGIQOcjQ"
+    ],
+    "image_path": "images/03_닌텐도_스위치2_본체_BEE-001.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "박스 뜯는 순간 손 떨렸음 진짜로. 화면이 확실히 커진 게 느껴지고 조이콘 그립이 전작보다 훨씬 손에 잘 맞아. 이거 사고 나서 주말이 어디 사라졌는지 모르겠어 🎮",
+    "b": "지하철에서 들고 나가는 자유로움이 진짜 이 기계 사는 이유임. 배터리가 생각보다 오래 가서 출퇴근 내내 켜뒀는데 집에 와서야 충전했어. 박스 열기 전부터 이미 설레는 거 알지 🕹️✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "goodz1005",
+    "url": "https://www.threads.com/@goodz1005/post/DedebmrE_P8",
+    "views": 355,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hN8O9aWrdI",
+    "final_url": "https://www.coupang.com/vp/products/9179115933?itemId=27066499540&src=1139000&spec=10799999&addtag=400&ctag=9179115933&lptag=AF6459818&itime=20261017081753&pageType=PRODUCT&pageValue=9179115933&wPcid=17905526599079763164544&wRef=&wTime=20261017081753&redirect=landing&traceid=V0-101-7d3d0bebf5a4445b&mcid=e5324ab8976a482f9176276f1e524ff3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9179115933",
+    "title": "MONT-BELL 몽벨 샤미스 머플러 초경량 캠핑러 필수품 목도리",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4ca3/21667788cccec249a04a0f2c469bdf1c03ee83c8cbcd73a9658a630f9e04.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4ca3/21667788cccec249a04a0f2c469bdf1c03ee83c8cbcd73a9658a630f9e04.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hN8O9aWrdI"
+    ],
+    "image_path": "images/04_MONT-BELL_몽벨_샤미스_머플러_초경량_캠핑러_필수품_목도리.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "처음 받았을 때 이게 목도리 맞나 싶을 만큼 너무 가벼워서 놀람. 근데 목에 두르면 의외로 따뜻해서 캠핑장 아침마다 꼭 꺼내게 됨. 다크 그레이라 뭐랑 매치해도 안 튀어서 자꾸 손이 가 🧣",
+    "b": "배낭에 넣어도 자리 거의 안 차지해서 여행할 때 꼭 챙기는 아이템이 됨. 샤미스 소재가 생각보다 부드럽고 보송해서 착용감이 좋아. 몽벨 각인이 조그맣게 박힌 것도 은근 마음에 들어 🍂"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "cucumbershome",
+    "url": "https://www.threads.com/@cucumbershome/post/DeeTMSiE-_-",
+    "views": 352,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hQhs6Bks0a",
+    "final_url": "https://www.coupang.com/vp/products/9517529563?itemId=28368795678&src=1139000&spec=10799999&addtag=400&ctag=9517529563&lptag=AF7196191&itime=20261017081801&pageType=PRODUCT&pageValue=9517529563&wPcid=17905526599079763164544&wRef=&wTime=20261017081801&redirect=landing&traceid=V0-101-8180a3f0e915dd95&mcid=9cceb41b8afd4dc79946fabaa5b0b1da&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9517529563",
+    "title": "살림치트키 미니 밀대걸레 물기제거 스펀지 행주",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/f9db754f43ff41e51a3eec5d1706ca07d2f896a574d759fb040269b54a27_1779437706903.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/f9db754f43ff41e51a3eec5d1706ca07d2f896a574d759fb040269b54a27_1779437706903.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=MqD5IBdRPM0"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hQhs6Bks0a"
+    ],
+    "image_path": "images/05_살림치트키_미니_밀대걸레_물기제거_스펀지_행주.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "싱크대 옆 닦을 때 허리 굽히는 게 싫었는데 이거 쓰고 서서 하게 됨. 스펀지가 물 흡수를 잘 해서 닦고 나면 손에 물이 거의 안 묻어. 허리 안 아픈 청소가 이런 거구나 싶었음 🧹",
+    "b": "주방 기름기 닦을 때 써봤는데 생각보다 깔끔하게 닦여서 좋음. 교체형 스펀지라 오래 쓸 수 있고 세워두면 자리도 안 잡아. 이거 쓰고 나서 밀대 두 개 들고 다니던 시절이 없어짐 🫧"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "kkokkosalrim",
+    "url": "https://www.threads.com/@kkokkosalrim/post/Ded60DPn-wR",
+    "views": 333,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hP1TsSHBsa",
+    "final_url": "https://www.coupang.com/vp/products/7420809688?itemId=18446079238&src=1139000&spec=10799999&addtag=400&ctag=7420809688&lptag=AF4419557&itime=20261017081808&pageType=PRODUCT&pageValue=7420809688&wPcid=17905526599079763164544&wRef=&wTime=20261017081808&redirect=landing&traceid=V0-101-127dbb70570409f8&mcid=0f8c361c3edb4118ba8d3e5f71a294c4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7420809688",
+    "title": "하늘보리 에코 무라벨, 500ml, 20개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/381711721875626-f63d3efa-506b-42b8-9515-f19e338b5d79.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1318443018093259-7fa19daa-7951-412c-a257-386566bb845b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/61014021775632-af75a704-2dac-4733-a50c-045fd993b97f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1320384210976846-f025e619-e8bb-4435-9bc1-bdb85f1253bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/47104374079235-f26ab463-d203-4770-aeb9-cefedfca2e16.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/61013716596166-fdd22022-b9e3-42dd-b034-ead63702d922.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/211623907163170-dfb4bfc2-3bc7-4aba-a2e6-999b9b5ae561.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_2373cc9b-9a81-4172-bd19-f579aacd9d98.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hP1TsSHBsa"
+    ],
+    "image_path": "images/06_하늘보리_에코_무라벨,_500ml,_20개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "물 대신 하루 종일 이거 마시는 게 어느새 습관이 됐어. 보리 향이 은은해서 질리지 않고 계속 손이 가는 게 신기함. 무라벨이라 분리수거할 때 뚜껑만 빼면 돼서 진짜 편해졌어 🌾",
+    "b": "회사 탕비실에 박스 하나 갖다 뒀더니 팀원 반응이 엄청났음. 차갑게 마시면 시원하고 깔끔해서 한 번 마시면 자꾸 손이 가게 됨. 20개가 생각보다 금방 없어지는 게 함정 🧉"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "pass.husband",
+    "url": "https://www.threads.com/@pass.husband/post/DedeTIaGlBL",
+    "views": 304,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hPKq2fTJAa",
+    "final_url": "https://www.coupang.com/vp/products/7903047040?itemId=21664876405&src=1139000&spec=10799999&addtag=400&ctag=7903047040&lptag=AF8883126&itime=20261017081817&pageType=PRODUCT&pageValue=7903047040&wPcid=17905526599079763164544&wRef=&wTime=20261017081817&redirect=landing&traceid=V0-101-b62deda00b2ef7bf&mcid=91ce47678a394d169436443bfc701fef&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7903047040",
+    "title": "밤까기 군밤 까는 도구 밤칼집가위 십자칼, 1개, 은색 고급형",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1ce8/a77e3252fb076ceacf0aac0e9f690bf7485b5595560680df92150830185c.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1ce8/a77e3252fb076ceacf0aac0e9f690bf7485b5595560680df92150830185c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0954/e534ca5da26542087b33321f29b83294345b1640ccfba25c621f40def3c2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc97/8c928e2a056bbda93d27be55ad8681d3515b2bbe4408ff8a88217eb6cd77.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7cee/f83e35fba1a92a5078890c200e61a20210a735063c4052466a3f86ffca77.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Lqipz999HKs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hPKq2fTJAa",
+     "https://link.coupang.com/a/hPKqpQENoW"
+    ],
+    "image_path": "images/07_밤까기_군밤_까는_도구_밤칼집가위_십자칼,_1개,_은색_고급형.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "군밤 살 때마다 껍질 까다 손 아파서 포기했었는데 이거 쓰고 그런 일이 없어짐. 집게처럼 쥐고 꽉 누르면 십자로 칼집이 나서 진짜 신기해. 은색 고급형이 생각보다 묵직하고 든든함 🌰",
+    "b": "에어프라이어 돌리기 전에 이걸로 칼집 내면 터질 걱정도 없고 껍질도 술술 까짐. 원래 칼로 하다 손 베인 적 있었는데 이거 쓰고 그런 일이 없어졌어. 밤 철엔 없으면 안 될 것 같은 템 됨 🍂"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "whatttobuytoday",
+    "url": "https://www.threads.com/@whatttobuytoday/post/DedTlS3k4VQ",
+    "views": 255,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hPDzQ1bwhU",
+    "final_url": "https://www.coupang.com/vp/products/8360224105?itemId=24160039293&src=1139000&spec=10799999&addtag=400&ctag=8360224105&lptag=AF1970336&itime=20261017081826&pageType=PRODUCT&pageValue=8360224105&wPcid=17905526599079763164544&wRef=&wTime=20261017081826&redirect=landing&traceid=V0-101-2bb413b26f776042&mcid=04ad4b846e5143cebff4ca9fdc60db81&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8360224105",
+    "title": "트리스토어 고무나무 실내화 거치대, 브라운, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/yocsipjg/5413b31ecbdd4969afa27a0c8f82ffae.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/yocsipjg/5413b31ecbdd4969afa27a0c8f82ffae.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/134165342506283-6cd37a45-4ae6-414d-b988-484602f17d87.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/31655380467553-25d27f31-f2bf-41b0-b6e9-65b6e2bce3e5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/895701441066268-a92532a4-372e-422f-860d-11c06d59e7a0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/31655403031607-792fbf9c-a1fb-462c-a24f-146ba0f505e7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/134165334135818-963ef810-1eed-426b-8bc1-9bf055213a7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/31655392314749-fe86b4f2-28b2-4c00-b1b9-e3769f6a002f.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hPDzQ1bwhU"
+    ],
+    "image_path": "images/08_트리스토어_고무나무_실내화_거치대,_브라운,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "현관에 슬리퍼가 맨날 굴러다녔는데 이거 두고 나서 진짜 깔끔해짐. 고무나무 색이 따뜻해서 공간이 카페 느낌으로 달라진 것 같아. 실내화 딱 두 켤레 올려두니 맞게 떨어져서 좋음 🪵",
+    "b": "크기가 작아서 좁은 현관에도 무리 없이 들어가는 게 진짜 포인트임. 브라운 컬러가 인테리어랑 잘 맞아서 뒀더니 어디서 샀냐고 자꾸 물어봄. 원목 느낌이라 싸 보이지 않아서 마음에 듦 🌿"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "jumsuni_1006",
+    "url": "https://www.threads.com/@jumsuni_1006/post/DeeUzD6lGcY",
+    "views": 225,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hQicDvgfdY",
+    "final_url": "https://www.coupang.com/vp/products/8574756509?src=1139000&spec=10799999&addtag=400&ctag=8574756509&lptag=AF1849500&itime=20261017081834&pageType=PRODUCT&pageValue=8574756509&wPcid=17905526599079763164544&wRef=&wTime=20261017081834&redirect=landing&traceid=V0-183-d85eef48abd4f20c&mcid=f2a8eda383aa4c0a8ac36d2cefdc5569&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8574756509",
+    "title": "실리콘 매직 손잡이 커버, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e432/df9e36f8d8ed94e132a759be192d2fc40fd59ff597a777f6fd4f1f48c30d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e432/df9e36f8d8ed94e132a759be192d2fc40fd59ff597a777f6fd4f1f48c30d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hQicDvgfdY"
+    ],
+    "image_path": "images/09_실리콘_매직_손잡이_커버,_1세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "스텐 냄비 손잡이 뜨거워서 행주로 잡다가 몇 번 놓쳤는데 이거 끼우고 그런 일이 사라짐. 실리콘이라 그립도 잘 잡히고 씻기도 편해서 주방 필수템 됨. 이게 이렇게 편한 줄 진짜 몰랐음 🍳",
+    "b": "냄비 들다 손잡이 뜨거워서 식탁에 쿵 내려놓은 날 바로 주문했음ㅋㅋ 회색이라 주방이랑 잘 어울리고 끼웠다 뺐다 쉬워서 두 개 다 유용하게 쓰고 있음. 요리 중 스트레스가 이거 하나로 확 줄었어 🔥"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "meokbap.zip",
+    "url": "https://www.threads.com/@meokbap.zip/post/Dedeaoik4xE",
+    "views": 217,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-14",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hq3xhWndim",
+    "final_url": "https://www.coupang.com/vp/products/9642382659?itemId=28812537152&vendorItemId=96042437716&src=1139000&spec=10799999&addtag=400&ctag=9642382659&lptag=AF9493462&itime=20261017081841&pageType=PRODUCT&pageValue=9642382659&wPcid=17905526599079763164544&wRef=&wTime=20261017081841&redirect=landing&traceid=V0-183-012b38b84e91f1f4&mcid=6d187a70034846729010fa256ba4c2c5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9642382659",
+    "title": "메디힐 레티놀 콜라겐 캡슐 패치, 1개, 60개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/10d5/a541d1731f2a15844f3ef40a85c08b82df4a1ba8ff3811ba28acd0fca572.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/10d5/a541d1731f2a15844f3ef40a85c08b82df4a1ba8ff3811ba28acd0fca572.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/58e8/d90c2082323cefa03a126b80610df3ae5a4c9db0eb39ffe0f3aed3a069f3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c51b/356989b032014bbc09c4be63bca0d777a4e7e9b53e520ccc4e7cfdc822ed.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8845/30a32678e77077ee54c169f370ff06ac9d94868bf87cda280ad790456ad1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b1d2/3bedf50c1adbe69d81ce46058317bab28adf528a8e13a2e16a012824d079.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hq3xhWndim"
+    ],
+    "image_path": "images/10_메디힐_레티놀_콜라겐_캡슐_패치,_1개,_60개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "눈가가 좀 당기는 느낌이 있어서 자기 전에 붙이기 시작했어. 아침에 떼고 나서 살짝 촉촉한 느낌이 있어서 요즘 꾸준히 쓰는 중. 분홍 케이스가 예뻐서 화장대에 두고만 봐도 기분이 좋음 🩷",
+    "b": "야근하고 들어온 날 눈 밑이 퍼석해서 붙여봤는데 아침에 일어났을 때 느낌이 달랐어. 60개 들어 있어서 매일 써도 두 달 가더라. 케이스 열었을 때 패치가 예쁘게 담겨 있어서 괜히 설렜음 ✨"
+   }
+  }
+ ]
+}
