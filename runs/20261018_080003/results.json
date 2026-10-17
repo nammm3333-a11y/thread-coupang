@@ -1,0 +1,444 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-18T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-18T08:20:13"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "iceholic2626",
+    "url": "https://www.threads.com/@iceholic2626/post/Dehvekqkkwn",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hfz9TX02Fw",
+    "final_url": "https://www.coupang.com/vp/products/8553020909?itemId=29169233273&vendorItemId=95675631694&src=1139000&spec=10799999&addtag=400&ctag=8553020909&lptag=AF9573770&itime=20261018081548&pageType=PRODUCT&pageValue=8553020909&wPcid=17905526599079763164544&wRef=&wTime=20261018081548&redirect=landing&traceid=V0-181-30efc476e9cc68d1&mcid=d3b519f7be58424abbc1e24d237dc2cf&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8553020909",
+    "title": "바이리얼베리어 세라베이스 카밍 모이스처라이징 크림 + 코즈멧 미니 스파츌라 세트, 1개, 50ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a0c9/f39475a12e92b2912bb12f8c6ec701eba3319c098144cec5c2ee16d5f8cf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cf00/1e3a2c23547981da58e1897cb564a6e223ae4975a37fa2dcd12d1e43b7f1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/101b/82a20034208ac8a7013183149d44097e0ab21dc975f6cdb6b715426e66b4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5a9/611740ebd03069203882b3db6488616379dc616a93f6907e355532c9f87f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8497/260e56c3a93a6ceb81218d3addf55e3b2f492260eed2cbc84e463c2895b3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/100a/ba40303d9dba15eb2ffd6b9f0e805682b9cafc8fab6e97326a853847864b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f07e/06fd46df8f18d1cca0f6b4bab89e6d7d3a8c7b925ff4e5bf766e92244e89.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hfz9TX02Fw"
+    ],
+    "image_path": "images/01_바이리얼베리어_세라베이스_카밍_모이스처라이징_크림_+_코즈멧_미니_스파츌.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세라베이스 크림 바르고 잤더니 다음날 아침 피부가 덜 당기는 느낌이었어. 스파츌라도 같이 들어있어서 손 안 대고 덜어 쓸 수 있는 게 생각보다 너무 편하더라 🌿",
+    "b": "피부 예민할 때 이것저것 바르기 싫어서 이 크림 하나만 발랐는데 발리는 느낌 자체가 되게 순해서 자꾸 생각나더라고. 자기 전에 듬뿍 발랐더니 다음날 피부가 좀 얌전해진 느낌 🐚"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83Ummxyq4",
+    "final_url": "https://www.coupang.com/vp/products/2436662?itemId=18080730364&src=1139000&spec=10799999&addtag=400&ctag=2436662&lptag=AF7862534&itime=20261018081557&pageType=PRODUCT&pageValue=2436662&wPcid=17905526599079763164544&wRef=&wTime=20261018081557&redirect=landing&traceid=V0-101-d46741052e8af04f&mcid=1a4e1762a2a74477bebd0b9116ebe943&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2436662",
+    "title": "이금기 중화 두반장, 226g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282903216727671-5d4d577b-3b27-4e36-ab7d-182411127478.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902179985-96b7fce6-b696-4008-9e1b-e12f3aa5e73b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902266868-1b1ab45f-084d-48c6-92eb-d918a9105087.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2267163333477127-a32ad6ac-a4ae-442f-820e-f09b637efe7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/431443278880437-ce022740-0b12-419d-bd9b-09056eadabf0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112536073917-818d0021-0481-4c33-9476-a977a8cfb39f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112539162364-64cbe5ea-7e26-4944-871b-2898e130b1ec.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=H1wLUOd9HoA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/g83Ummxyq4"
+    ],
+    "image_path": "images/02_이금기_중화_두반장,_226g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이금기 두반장 한 숟갈 넣었더니 집 볶음 요리 맛이 완전 달라지더라고. 칼칼하고 진한 맛이 자꾸 생각나서 이제 냉장고에 늘 있어야 하는 재료가 됨 🔥",
+    "b": "마파두부 만들려고 두반장 처음 써봤는데 이거 하나로 맛이 확 잡히는 거 실화임. 한 병 있으면 중식 요리 할 때 여기저기 다 쓰게 되는 것 같아 🍜"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "solokitchen___",
+    "url": "https://www.threads.com/@solokitchen___/post/DeiAgQ4Ew_S",
+    "views": 691,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=8550861116&itemId=24759872816&vendorItemId=95908679639&traceid=V0-153-2933e7301daeddc9&requestid=20261016034244559134752565&token=31850C%7CMIXED&pt=0&slot=9",
+    "final_url": "https://www.coupang.com/vp/products/8550861116?itemId=24759872816&vendorItemId=95908679639&src=1139000&spec=10799999&addtag=400&ctag=8550861116&lptag=AF2757296&itime=20261018081605&pageType=PRODUCT&pageValue=8550861116&wPcid=17905526599079763164544&wRef=&wTime=20261018081605&redirect=landing&traceid=V0-153-2933e7301daeddc9&mcid=ed403a07fca94f15a026b71c257a7d7c&pt=0&campaignid=&clickBeacon=&imgsize=&slot=9&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261016034244559134752565&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8550861116",
+    "title": "프리라이프 - 고정밀 당도 측정기 휴대용 디지털 당도계 0-55% 브릭스 측정",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b876/c48bffa836a0141ff5d6590510b3f5ea8c5b2d1bf983bb18000737931f49.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b876/c48bffa836a0141ff5d6590510b3f5ea8c5b2d1bf983bb18000737931f49.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=8550861116&itemId=24759872816&vendorItemId=95908679639&traceid=V0-153-2933e7301daeddc9&requestid=20261016034244559134752565&token=31850C%7CMIXED&pt=0&slot=9"
+    ],
+    "image_path": "images/03_프리라이프_-_고정밀_당도_측정기_휴대용_디지털_당도계_0-55%_브릭스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마트에서 수박 살 때마다 맨날 찍어서 후회했는데 이 당도계 있으니까 집에서 직접 재볼 수 있어서 진짜 편해. 숫자 딱 나오니까 믿음이 가더라고 🍉",
+    "b": "친구가 과일 가져왔을 때 이걸로 재봤는데 다들 신기해서 구경하느라 난리남ㅋㅋ 생각보다 숫자 보는 재미도 있어서 매번 꺼내 쓰게 되는 것 같아 😄"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "kkul.8902",
+    "url": "https://www.threads.com/@kkul.8902/post/DegDAJ5GIOG",
+    "views": 643,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gQrvyciBTo",
+    "final_url": "https://www.coupang.com/vp/products/9572209556?itemId=28570917931&src=1139000&spec=10799999&addtag=400&ctag=9572209556&lptag=AF2510124&itime=20261018081611&pageType=PRODUCT&pageValue=9572209556&wPcid=17905526599079763164544&wRef=&wTime=20261018081611&redirect=landing&traceid=V0-101-8a0018bf4a14ffb4&mcid=5337ace8733c4ebd9ff3cbc2bc498a4d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9572209556",
+    "title": "[공식/정품] 모공 탄력 세럼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/45ac/ff69552b3136c4bdfeaf8a2d4fe669f133eac6e8738f9e30d52777256534.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/45ac/ff69552b3136c4bdfeaf8a2d4fe669f133eac6e8738f9e30d52777256534.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gQrvyciBTo"
+    ],
+    "image_path": "images/04_[공식_정품]_모공_탄력_세럼.jpg",
+    "my_link": "https://link.coupang.com/a/hncMXL2Hca",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 세럼 바르는 거 귀찮아서 맨날 빼먹었는데 펌프 타입이라 한 번에 딱 나와서 이제는 안 거르게 됨. 바르고 나면 피부가 좀 정돈된 느낌이 들어서 기분이 좋더라 ✨",
+    "b": "데이로션이라 가볍게 발려서 메이크업 전에 쓰기 딱 좋더라고. 며칠 쓰다 보니 이게 아침 루틴으로 자리 잡혀서 없으면 뭔가 빠진 느낌이 남 🌼"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "m1n.__.ju",
+    "url": "https://www.threads.com/@m1n.__.ju/post/DegXSNck8le",
+    "views": 598,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hRBp2mJeCa",
+    "final_url": "https://www.coupang.com/vp/products/9769626517?itemId=29242125230&src=1139000&spec=10799999&addtag=400&ctag=9769626517&lptag=AF7466022&itime=20261018081619&pageType=PRODUCT&pageValue=9769626517&wPcid=17905526599079763164544&wRef=&wTime=20261018081619&redirect=landing&traceid=V0-101-a05ad42abcc35984&mcid=fdae550acbf64ab49a9a7992c8304035&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9769626517",
+    "title": "치플레 X 몽쉘 리치치즈n카라멜, 222g, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0ae9/ba2ee921c12d37a9bdc57fd95813ae82b9ad565ba3a8e6d8d53c19075b31.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ae9/ba2ee921c12d37a9bdc57fd95813ae82b9ad565ba3a8e6d8d53c19075b31.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hRBp2mJeCa"
+    ],
+    "image_path": "images/05_치플레_X_몽쉘_리치치즈n카라멜,_222g,_4개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "몽쉘 원래도 좋아했는데 치즈카라멜 버전은 좀 다른 맛이라 한 개 먹고 또 손이 가더라. 4박스 샀는데 생각보다 금방 없어질 것 같아서 좀 무서움 😅",
+    "b": "퇴근하고 커피랑 같이 먹었는데 카라멜 크림이 진하고 달달해서 완전 힐링됨. 간식 고민할 때 이걸로 마음이 다 해결됐어 ☕🧡"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "leopard.4413978",
+    "url": "https://www.threads.com/@leopard.4413978/post/DegDco7ga21",
+    "views": 401,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOL0sVa192",
+    "final_url": "https://www.coupang.com/vp/products/9528931454?itemId=28415004540&src=1139000&spec=10799999&addtag=400&ctag=9528931454&lptag=AF5216733&itime=20261018081627&pageType=PRODUCT&pageValue=9528931454&wPcid=17905526599079763164544&wRef=&wTime=20261018081627&redirect=landing&traceid=V0-101-ae5be0cd52e62922&mcid=1d65c1b60bdd4d6faf42c0e7fb128814&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9528931454",
+    "title": "온더바디 코튼풋 발을 씻자 풋샴푸 비누향",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/79755075065113-54595a01-b9ab-4b4e-bd7d-7af1e0f73d38.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/79755075065113-54595a01-b9ab-4b4e-bd7d-7af1e0f73d38.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOL0sVa192"
+    ],
+    "image_path": "images/06_온더바디_코튼풋_발을_씻자_풋샴푸_비누향.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발 씻을 때 그냥 바디워시 쓰다가 이 풋샴푸 쓰기 시작했는데 발만 따로 케어하는 느낌이 들어서 루틴이 바뀌었음. 비누향이 은은하게 남는 것도 좋더라 🛁",
+    "b": "스프레이로 쫙 뿌리고 문지르면 되는 구조라 샤워할 때 발에 집중하기가 훨씬 편해졌어. 예전엔 그냥 대충 헹궜는데 이제 발 씻는 게 귀찮지 않음 🌸"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "heyrong11",
+    "url": "https://www.threads.com/@heyrong11/post/DegDSL3iFwp",
+    "views": 293,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hM69bmQTdc",
+    "final_url": "https://www.coupang.com/vp/products/157660176?itemId=453658908&src=1139000&spec=10799999&addtag=400&ctag=157660176&lptag=AF2407278&itime=20261018081635&pageType=PRODUCT&pageValue=157660176&wPcid=17905526599079763164544&wRef=&wTime=20261018081635&redirect=landing&traceid=V0-101-93b7fa0698e8830a&mcid=66479e712c934fb5a25db128d9f0e9dc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "157660176",
+    "title": "닥터원더 세라믹 포켓 큐티클 리무버, 1.5g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/36ae0e83-eefc-469f-9eff-05913fda71aa_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/36ae0e83-eefc-469f-9eff-05913fda71aa_fixing_v2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16383692749401-74994d8b-58a6-43a4-829a-c23ac673e624.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12570040221335893-e380c5f9-e251-4e24-80b3-54912846bb29.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12570040167083040-44d62652-15df-4fa0-b173-23a2a9103c0f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1087545602734658-3447d4a3-6fcd-4581-8aff-c514d3be54db.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16383591481765-26e9de7f-07a8-4de6-918a-4d17a1b04039.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1087545643328790-305cda7f-ad97-48e5-8d10-1c0d56de58dc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16383604555541-5780b5c2-34ef-4e49-9606-f249403a535f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hM69bmQTdc"
+    ],
+    "image_path": "images/07_닥터원더_세라믹_포켓_큐티클_리무버,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "큐티클 정리하는 게 제일 귀찮았는데 이 리무버 펜 하나로 진짜 간단하게 됨. 손이 훨씬 깔끔해 보여서 매니큐어 안 발라도 정돈된 느낌이라 자꾸 쓰게 되더라 💜",
+    "b": "가방에 쏙 들어가는 크기라 외출하다가 큐티클 신경 쓰일 때 꺼내 쓸 수 있어서 편하더라고. 생각보다 이런 소소한 게 일상에서 제일 많이 쓰이는 것 같아 ✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "positivepangpang",
+    "url": "https://www.threads.com/@positivepangpang/post/DegDSrQgWX5",
+    "views": 239,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hRh08KRulE",
+    "final_url": "https://www.coupang.com/vp/products/9536070402?itemId=29100483340&src=1139000&spec=10799999&addtag=400&ctag=9536070402&lptag=AF8940793&itime=20261018081643&pageType=PRODUCT&pageValue=9536070402&wPcid=17905526599079763164544&wRef=&wTime=20261018081643&redirect=landing&traceid=V0-101-eff3778e0ebeee82&mcid=d5990bc7afa24e0f8a3be27820641957&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9536070402",
+    "title": "자칠 가정용 양면 패널 다기능 간편식 토스트 빵 프레스 샌드위치 메이커",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1196/0864d88d49538108abff00072d1ad1a6fadfcb38703e78610bfb518d1b15.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1196/0864d88d49538108abff00072d1ad1a6fadfcb38703e78610bfb518d1b15.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3011/91df54f0be5f82a21574c548362baa7e00fb7131061fef7b04f2c7b7507a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d952/ee5c69b61c6d258db06e38919e106a647073314fb10aaeee7fb38b785519.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hRh08KRulE"
+    ],
+    "image_path": "images/08_자칠_가정용_양면_패널_다기능_간편식_토스트_빵_프레스_샌드위치_메이커.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 식빵이랑 치즈 넣고 눌러봤는데 뚜껑 닫으면 알아서 눌려지는 게 너무 간단해서 매일 쓰게 됨. 겉이 바삭하게 눌리는 게 생각보다 맛있어서 놀람 🍞",
+    "b": "이렇게 심플하게 생긴 샌드위치 메이커가 있는 줄 몰랐는데 색이랑 디자인이 주방에 두기 딱 좋아서 꺼내놓게 됨. 주말 아침에 이걸로 하나 만들어 먹으면 기분이 달라지더라 ☕"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "namju7979",
+    "url": "https://www.threads.com/@namju7979/post/DegasI7ExqC",
+    "views": 214,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hRDX7BzOq4",
+    "final_url": "https://www.coupang.com/vp/products/9131584242?itemId=26877160553&src=1139000&spec=10799999&addtag=400&ctag=9131584242&lptag=AF6387664&itime=20261018081650&pageType=PRODUCT&pageValue=9131584242&wPcid=17905526599079763164544&wRef=&wTime=20261018081650&redirect=landing&traceid=V0-101-a715f4dd3e7b3b4a&mcid=9f372c56c8b746f798aad7e5c142cb2b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9131584242",
+    "title": "차오차이 직화 수타식 짜장면 720g 2인분, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/232293254436435-2fd27792-aee0-486f-85c8-06abf2f01fb5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232293254436435-2fd27792-aee0-486f-85c8-06abf2f01fb5.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=j7e1Q2wLYV0"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hRDX7BzOq4"
+    ],
+    "image_path": "images/09_차오차이_직화_수타식_짜장면_720g_2인분,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 짜장면 만들기 귀찮아서 이거 샀는데 수타면이라 그런지 면이 생각보다 쫄깃해서 놀랐음. 소스도 같이 들어있어서 진짜 아무것도 안 해도 되는 수준 🍜",
+    "b": "혼자 저녁 먹을 때 이거 끓여 먹었는데 냄새부터 맛있어서 기대보다 훨씬 잘 나왔음. 2인분이라 든든하게 먹고 남긴 거 다음 날 또 먹었는데 그것도 맛있더라 😋"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "hajin_iu",
+    "url": "https://www.threads.com/@hajin_iu/post/DegDSliE6Yg",
+    "views": 203,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hPKOtz7HUa",
+    "final_url": "https://www.coupang.com/vp/products/8674945800?src=1139000&spec=10799999&addtag=400&ctag=8674945800&lptag=AF9129724&itime=20261018081658&pageType=PRODUCT&pageValue=8674945800&wPcid=17905526599079763164544&wRef=&wTime=20261018081658&redirect=landing&traceid=V0-183-56802bc3172d2cc0&mcid=c6c9370c18824595a6f9b8f53a004f73&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8674945800",
+    "title": "라비에르 록스 크로스백 숄더 볼링백 여자 여성가방 핸드백 가죽 데일리 직장인",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/bfb867cd77e7fabf244ec08d73d07ddc37eb4390cc2db0b242c161eeab75_1791360721896.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/bfb867cd77e7fabf244ec08d73d07ddc37eb4390cc2db0b242c161eeab75_1791360721896.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/46d1/bfb867cd77e7fabf244ec08d73d07ddc37eb4390cc2db0b242c161eeab75.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c4ac/9e9a402672619faadf7e65de2276e4f2828ff32be3791596c26bc951cee9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/82a6/88dbb37827b334b9c80f6e439fefd1e08435b2ac44d6952e35fefdc74ccf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1091/99b47fa7c029277d033949a70852b348ea3c049d858349852baf03669ce9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5275/98e4ae4c8c6d2e8869fb9c0a99d92fdc6ef0dde2168d52439e237930ed4a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hPKOtz7HUa"
+    ],
+    "image_path": "images/10_라비에르_록스_크로스백_숄더_볼링백_여자_여성가방_핸드백_가죽_데일리_직.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "실버 볼링백 어떻게 들고 다니나 했는데 막상 들어보니 코디 포인트로 너무 잘 됨. 평범한 옷에 이것만 들어도 뭔가 달라 보이는 느낌이라 자꾸 손이 가더라 👜",
+    "b": "크기가 딱 적당해서 직장 다닐 때 들고 다니기 좋더라고. 실버 색이 부담스러울 줄 알았는데 은근히 다양한 코디에 다 어울려서 거의 매일 들고 나가게 됨 ✨"
+   }
+  }
+ ]
+}
