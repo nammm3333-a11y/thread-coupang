@@ -1,0 +1,476 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-18T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-18T18:15:24"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "daily_6aaaaaaaaaa",
+    "url": "https://www.threads.com/@daily_6aaaaaaaaaa/post/Deik5FzHbKq",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hS2iCrXqpw",
+    "final_url": "https://www.coupang.com/vp/products/9749083082?src=1139000&spec=10799999&addtag=400&ctag=9749083082&lptag=AF0600644&itime=20261018181052&pageType=PRODUCT&pageValue=9749083082&wPcid=17905526599079763164544&wRef=&wTime=20261018181052&redirect=landing&traceid=V0-183-2cf8102766b13161&mcid=4682fd2c06ba41479af6ade7d2ab00bc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thread04&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9749083082",
+    "title": "다산에듀 기적의 서울대 쌍둥이 공부법 - 최상위권으로 올라서는 일대일 맞춤 공부 전략",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/683c/d88ef99211a6c8791cdcd5c47e714526c570045e307404867b20f3c4e9f3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/683c/d88ef99211a6c8791cdcd5c47e714526c570045e307404867b20f3c4e9f3.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=2HDUfnLFf-c"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hS2iCrXqpw"
+    ],
+    "image_path": "images/01_다산에듀_기적의_서울대_쌍둥이_공부법_-_최상위권으로_올라서는_일대일_맞.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이 성적 고민하다 이 책 펼쳤는데, 쌍둥이 저자들이 직접 겪은 얘기라 그런지 진짜 공감됨. 학원 없이 집에서 어떻게 잡아줬는지 나와있어서 밑줄 엄청 그었어 📖",
+    "b": "유튜브에서 서울대 쌍둥이 봤다가 책까지 사버림. 아이 유형별로 방법이 달리 나와있어서 우리 애한테 맞는 거 찾는 재미가 있고, 읽다 보니 나도 몰랐던 습관들이 보이더라 📚"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "luv_dodone",
+    "url": "https://www.threads.com/@luv_dodone/post/Deih11skyjM",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hS0nKNRfHw",
+    "final_url": "https://www.coupang.com/vp/products/184626091?itemId=528358887&src=1139000&spec=10799999&addtag=400&ctag=184626091&lptag=AF2885313&itime=20261018181100&pageType=PRODUCT&pageValue=184626091&wPcid=17905526599079763164544&wRef=&wTime=20261018181100&redirect=landing&traceid=V0-101-b2755f52564f9ff6&mcid=52dc4ba332034fee97db730c73e9276e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "184626091",
+    "title": "매일유업 테너베이스 오렌지, 1.2kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/buvzvacc/0075bc6bf3f84181806d0b481654195a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/buvzvacc/0075bc6bf3f84181806d0b481654195a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/mefbom0y/46ede80336d74863adafe31ffdf6e472.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/b6zjiexd/fa7c11f1ce49465bb3d27193ca86b01c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/9l3vsxp9/708342dacbd044bf82fb692883b01ca4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/owme6jld/5cc8ee37d4f24fceabd422ad5e0b951e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hS0nKNRfHw"
+    ],
+    "image_path": "images/02_매일유업_테너베이스_오렌지,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 오렌지에이드 해먹고 싶어서 샀는데 탄산수에 넣으면 진짜 카페 느낌이야. 양이 꽤 많아서 한동안 잘 쓰고, 만들 때마다 색 예쁘게 나와서 괜히 뿌듯함 🍊",
+    "b": "카페 에이드 맛 내려고 이것저것 써봤는데 이게 제일 비슷해. 얼음 많이 넣고 탄산수랑 섞으면 분위기 나고, 생각보다 농도 조절이 쉬워서 실패한 적이 없어 🧡"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "iceholic2626",
+    "url": "https://www.threads.com/@iceholic2626/post/Dehvekqkkwn",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hfz9TX02Fw",
+    "final_url": "https://www.coupang.com/vp/products/8553020909?itemId=29169233273&vendorItemId=95675631694&src=1139000&spec=10799999&addtag=400&ctag=8553020909&lptag=AF9573770&itime=20261018181107&pageType=PRODUCT&pageValue=8553020909&wPcid=17905526599079763164544&wRef=&wTime=20261018181107&redirect=landing&traceid=V0-181-30efc476e9cc68d1&mcid=64006e8269ef4a00a3db821d73fb818e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8553020909",
+    "title": "바이리얼베리어 세라베이스 카밍 모이스처라이징 크림 + 코즈멧 미니 스파츌라 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8234/97d25424568ecb85a856c7225fcc94253390bb8c9dd72bdbc318ebf50a4d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a0c9/f39475a12e92b2912bb12f8c6ec701eba3319c098144cec5c2ee16d5f8cf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cf00/1e3a2c23547981da58e1897cb564a6e223ae4975a37fa2dcd12d1e43b7f1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/101b/82a20034208ac8a7013183149d44097e0ab21dc975f6cdb6b715426e66b4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5a9/611740ebd03069203882b3db6488616379dc616a93f6907e355532c9f87f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8497/260e56c3a93a6ceb81218d3addf55e3b2f492260eed2cbc84e463c2895b3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/100a/ba40303d9dba15eb2ffd6b9f0e805682b9cafc8fab6e97326a853847864b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f07e/06fd46df8f18d1cca0f6b4bab89e6d7d3a8c7b925ff4e5bf766e92244e89.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hfz9TX02Fw"
+    ],
+    "image_path": "images/03_바이리얼베리어_세라베이스_카밍_모이스처라이징_크림_+_코즈멧_미니_스파츌.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피부 예민할 때 뭐 발라도 따끔거려서 고민이었는데 이 크림은 그냥 편하게 쓸 수 있어. 스파츌라 같이 오는 게 위생 신경 쓰는 나한테 딱 맞더라고 🌿",
+    "b": "발린 느낌이 너무 무거우면 싫은데 이건 촉촉하게 마무리되는 느낌이야. 자기 전에 바르고 자면 아침에 땅기는 느낌이 덜해져서 요즘 매일 꺼내 쓰고 있음 💙"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "megicban",
+    "url": "https://www.threads.com/@megicban/post/DeiwtqjDzye",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hTcVHQL552",
+    "final_url": "https://www.coupang.com/vp/products/8880272565?src=1139000&spec=10799999&addtag=400&ctag=8880272565&lptag=AF9023713&itime=20261018181115&pageType=PRODUCT&pageValue=8880272565&wPcid=17905526599079763164544&wRef=&wTime=20261018181115&redirect=landing&traceid=V0-183-8cedc709b5557f2c&mcid=c5d13d7142584b1fa0752820ff578ad1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8880272565",
+    "title": "주먹밥틀 주먹밥도시락 주먹밥만들기 주먹밥 메이커 중형(M)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a208/19e97548545904f0badd47a3988a38b8dab09108c904ea09d54773aa33fd.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a208/19e97548545904f0badd47a3988a38b8dab09108c904ea09d54773aa33fd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/87c0/e3e17333fb73dd5408bdf0479c8548e53b0fd765ab21d28ef18d5c15b162.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ad25/7f377673d130503288d82b93cfa916d17cadfd700817136d9c5e438407d2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/14e0/e2789bafe2473ccb9d2f435b6a041401c8c5927c61a5b1826be685b82858.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d0ba/b1ae6a7cfa3ea3574c0e35ba04ce0c10e4cb16894fc76662e6639c6b5d88.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ddc2/94846c1a427cdfc1c12c7bd6d5aa06ac249322e5fa36970dec27d751be97.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ce97/194d74903e2f6eb681244900c47b8b4f74bc9eeaf37dd0a4dedee21ab527.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/17f6/c955bdfca5478a078b994d10b8ab9b29300f16cfb4d6b7698a57561512e5.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=PAp7Qcv275s",
+     "https://www.youtube.com/watch?v=AhqLQDUtOXc"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hTcVHQL552"
+    ],
+    "image_path": "images/04_주먹밥틀_주먹밥도시락_주먹밥만들기_주먹밥_메이커_중형(M).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애 도시락 싸는 게 귀찮았는데 이거 쓰니까 주먹밥 여섯 개가 후딱 만들어짐. 한 번 눌러서 빼기만 하면 돼서 아침에 진짜 편하고, 모양도 예뻐서 애가 다 먹고 옴 🍙",
+    "b": "손으로 주먹밥 만들면 온도도 뜨겁고 모양도 제각각이었는데 이거 쓰면 일정하게 나와서 좋더라. 소풍 전날 밤에 미리 만들어뒀다가 도시락 쌌는데 나름 뿌듯했음 😊"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "oopsbought",
+    "url": "https://www.threads.com/@oopsbought/post/DeizNCAn2Dw",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hTbj00JWOO",
+    "final_url": "https://www.coupang.com/vp/products/9742222338?itemId=29160575516&vendorItemId=96082773980&src=1139000&spec=10799999&addtag=400&ctag=9742222338&lptag=AF7331173&itime=20261018181125&pageType=PRODUCT&pageValue=9742222338&wPcid=17905526599079763164544&wRef=&wTime=20261018181125&redirect=landing&traceid=V0-801-b98732153e8ebbd7&mcid=38ea0b23c7a1498ba23debbc82484728&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=0396bbb292&subid=&campaigntype=&puid=&ctime=1792129158&portal=CREATOR&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9742222338",
+    "title": "ZARA 자라 여성 소프트 셔링 로퍼 블랙",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f4c8/4f76894ebf5cdf01163053adfadae9b9ceac729fa4752aba46e78f744acc.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f4c8/4f76894ebf5cdf01163053adfadae9b9ceac729fa4752aba46e78f744acc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/90a0/51991040c9bbbdd1ffd52c8f5139c53f13922add62e3c94772a7ed194d7c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/753b/2ecf63ebcb02e4e606379615542611551f254ff6b16c9869c3dfc34cde0b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9f1/7f3776a6f95770938986472eb77cd0696ea87fcd430f8ac51220023b7eea.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hTbj00JWOO"
+    ],
+    "image_path": "images/05_ZARA_자라_여성_소프트_셔링_로퍼_블랙.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발볼이 넓어서 로퍼 맞는 게 없었는데 이건 소프트해서 그런지 편하게 신겼어. 블랙이라 뭐랑 입어도 무난하게 어울리는 게 제일 마음에 들고 질려서 안 신게 될 것 같지 않음 🖤",
+    "b": "출퇴근용 로퍼 찾다가 골랐는데, 셔링 처리된 부분이 발을 잘 잡아줘서 생각보다 안 흘러내려. 많이 걷는 날에도 크게 불편한 적 없어서 자꾸 꺼내 신게 됨 👟"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83Ummxyq4",
+    "final_url": "https://www.coupang.com/vp/products/2436662?itemId=18080730364&src=1139000&spec=10799999&addtag=400&ctag=2436662&lptag=AF7862534&itime=20261018181132&pageType=PRODUCT&pageValue=2436662&wPcid=17905526599079763164544&wRef=&wTime=20261018181132&redirect=landing&traceid=V0-101-d46741052e8af04f&mcid=725e89a3be2c400f89aa48120a7b42fd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2436662",
+    "title": "이금기 중화 두반장, 226g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282903216727671-5d4d577b-3b27-4e36-ab7d-182411127478.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902179985-96b7fce6-b696-4008-9e1b-e12f3aa5e73b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902266868-1b1ab45f-084d-48c6-92eb-d918a9105087.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2267163333477127-a32ad6ac-a4ae-442f-820e-f09b637efe7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/431443278880437-ce022740-0b12-419d-bd9b-09056eadabf0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112536073917-818d0021-0481-4c33-9476-a977a8cfb39f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112539162364-64cbe5ea-7e26-4944-871b-2898e130b1ec.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=H1wLUOd9HoA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/g83Ummxyq4"
+    ],
+    "image_path": "images/06_이금기_중화_두반장,_226g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마파두부 해먹으려고 두반장 샀는데 이게 맵고 향이 진해서 적게 넣어도 맛이 확 남. 냉장고에 하나 있으면 중화 요리 할 때마다 손이 가서 어느새 절반 썼더라 🌶️",
+    "b": "볶음밥에 두반장 조금 넣었더니 맛이 완전 달라지는 거 알고 나서 매번 넣게 됨. 뭔가 빠진 느낌 나던 중화 요리가 이게 들어가니까 풍미가 확 살아나더라고 🥘"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "solokitchen___",
+    "url": "https://www.threads.com/@solokitchen___/post/DeiAgQ4Ew_S",
+    "views": 691,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=8550861116&itemId=24759872816&vendorItemId=95908679639&traceid=V0-153-2933e7301daeddc9&requestid=20261016034244559134752565&token=31850C%7CMIXED&pt=0&slot=9",
+    "final_url": "https://www.coupang.com/vp/products/8550861116?itemId=24759872816&vendorItemId=95908679639&src=1139000&spec=10799999&addtag=400&ctag=8550861116&lptag=AF2757296&itime=20261018181140&pageType=PRODUCT&pageValue=8550861116&wPcid=17905526599079763164544&wRef=&wTime=20261018181140&redirect=landing&traceid=V0-153-2933e7301daeddc9&mcid=0f5bca4666d344fea3076276698ab38e&pt=0&campaignid=&clickBeacon=&imgsize=&slot=9&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261016034244559134752565&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8550861116",
+    "title": "프리라이프 - 고정밀 당도 측정기 휴대용 디지털 당도계 0-55% 브릭스 측정",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b876/c48bffa836a0141ff5d6590510b3f5ea8c5b2d1bf983bb18000737931f49.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b876/c48bffa836a0141ff5d6590510b3f5ea8c5b2d1bf983bb18000737931f49.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=8550861116&itemId=24759872816&vendorItemId=95908679639&traceid=V0-153-2933e7301daeddc9&requestid=20261016034244559134752565&token=31850C%7CMIXED&pt=0&slot=9"
+    ],
+    "image_path": "images/07_프리라이프_-_고정밀_당도_측정기_휴대용_디지털_당도계_0-55%_브릭스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수박 잘랐더니 싱겁던 경험 있어서 이거 샀는데, 당도 수치로 딱 나오니까 고를 때 기준이 생긴 느낌이야. 생각보다 작고 가벼워서 들고 다니기도 편해 🍉",
+    "b": "과일 살 때마다 싱거울까봐 불안했는데 이거 있으면 그 고민이 좀 줄어. 숫자로 딱 나오니까 애매한 느낌 없이 바로 판단할 수 있고, 요즘은 장 볼 때 챙겨 나감 😄"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "jiyeoni_1209",
+    "url": "https://www.threads.com/@jiyeoni_1209/post/DejcKkAEwkJ",
+    "views": 434,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hTAQbzNLBQ",
+    "final_url": "https://www.coupang.com/vp/products/9653225331?itemId=28853951805&src=1139000&spec=10799999&addtag=400&ctag=9653225331&lptag=AF7283270&itime=20261018181147&pageType=PRODUCT&pageValue=9653225331&wPcid=17905526599079763164544&wRef=&wTime=20261018181147&redirect=landing&traceid=V0-101-7f8bf3422dcd5f96&mcid=b105268c539146b4a36ccec823696127&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9653225331",
+    "title": "Toruva 3단 벽걸이 준비접시 선반 타공 불필요 주방 요리재료 정리대",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4fa5/5c9d7c2a7e8614523ca73e0d598181a10939e820b660613014c561736ab2.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4fa5/5c9d7c2a7e8614523ca73e0d598181a10939e820b660613014c561736ab2.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/660e/c01787979d0ef76be25a8709258ebd8338759a4011c92faa1e861d9b9475.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/87ab/b3a351796eaa38333193993ea5eae80a8eb90891b84d590ffceb6463345b.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5685/e3ce6d9c2341e88ff7346efdd48f58a9818cff362ce998307de83940e4c7.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/92d2/238cacf939a22d97c2ed51837758754891b98f44532654a68d2d1f78ca74.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fd70/c1b6e0a2126a7588fb46797d7c96eadfdf01d4ad370b24ab69f4f4dbf5be.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/69ed/b30ad0bdb97465e74c9dc73635ffe134ed78ed87deb752bac9c7b726ab88.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hTAQbzNLBQ"
+    ],
+    "image_path": "images/08_Toruva_3단_벽걸이_준비접시_선반_타공_불필요_주방_요리재료_정리대.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요리할 때 손질 재료 접시 둘 곳이 없어서 조리대가 항상 난장판이었는데 이거 벽에 붙이고 나서 확 넓어졌어. 타공 없이 붙이는 거라 망설였는데 생각보다 잘 고정되더라고 🍽️",
+    "b": "찌개 재료 미리 손질해두면 둘 곳이 없어서 매번 불편했는데, 이 선반 달고 나서 그게 해결됨. 접시 층층이 올려두고 요리하니까 주방 일이 훨씬 수월해진 게 체감돼 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ririaed",
+    "url": "https://www.threads.com/@ririaed/post/DejImjyE_9D",
+    "views": 228,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hTonKurlbE",
+    "final_url": "https://www.coupang.com/vp/products/9136765770?itemId=26891344906&src=1139000&spec=10799999&addtag=400&ctag=9136765770&lptag=AF5327681&itime=20261018181154&pageType=PRODUCT&pageValue=9136765770&wPcid=17905526599079763164544&wRef=&wTime=20261018181154&redirect=landing&traceid=V0-101-ee3cce0cf02bd4bb&mcid=07b31cb284ea4258b4148013ba86fb9d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9136765770",
+    "title": "나리몽 밀크박스 젖병소독기 분유포트 보온 분유쉐이커 올인원",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a62e/c558637c7ede680555f874d362338246460c7fa9abb27dbf5d040a98b885.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a62e/c558637c7ede680555f874d362338246460c7fa9abb27dbf5d040a98b885.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/601e/c687ecc17e91c60bfb87aba6c235d65382bfc526e3b41c41c63f7853d95f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8a8d/9cddafa83b7f2ef5b56a71ee87b9c138ba263721dc01ad60e3977dc6b2e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/823a/63db6b68342fdb15e8955839ff9ee0c43a10079288f0848705ea429aab75.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dbe7/0fc95039013fb9a8c0c4c6f6018ba02962fc0ffb865e46844e2838e0a408.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a637/ebf51f2082c77bf864d45375ba835f18b8ce0ca78f80405bb0aee1f50cda.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5ba/46915e626bb823f8e0b533031e41af4e1cf8148c8c1e15a3dad20202a63a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c687/932b2702913ca630775be78d5a05ed7385f2c613126a9f25c4c31f3c705e.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=79Dgk9sADzk",
+     "https://www.youtube.com/watch?v=3Ot8ne8M0qE",
+     "https://www.youtube.com/watch?v=Tbzgiu2Rlqc",
+     "https://www.youtube.com/watch?v=f6JwuBmh__8",
+     "https://www.youtube.com/watch?v=kISddpfhpz0",
+     "https://www.youtube.com/watch?v=e6uLnV6u_M0",
+     "https://www.youtube.com/watch?v=WnB4lPmztKM",
+     "https://www.youtube.com/watch?v=IwXvQlAyMAo",
+     "https://www.youtube.com/watch?v=RxJl9rNviLU"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hTonKurlbE"
+    ],
+    "image_path": "images/09_나리몽_밀크박스_젖병소독기_분유포트_보온_분유쉐이커_올인원.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "신생아 때 밤마다 분유 타려고 일어나는 게 진짜 힘들었는데 이거 쓰고 나서 그나마 덜 힘들어짐. 온도 맞춰서 바로 나오니까 아이 울다가 기다리는 시간이 줄었어 🍼",
+    "b": "젖병 소독이랑 분유 타는 게 따로따로라 번거로웠는데 이게 한 번에 다 돼서 너무 편해. 쓰기 전이랑 확실히 새벽 루틴이 간단해졌어서 지금은 이것 없으면 어떻게 했나 싶어 🌙"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "eumsanghoe",
+    "url": "https://www.threads.com/@eumsanghoe/post/DeibPrPH445",
+    "views": 191,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-16",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hSWx8DUcU0",
+    "final_url": "https://www.coupang.com/vp/products/8995873613?itemId=26356167691&src=1139000&spec=10799999&addtag=400&ctag=8995873613&lptag=AF1746730&itime=20261018181202&pageType=PRODUCT&pageValue=8995873613&wPcid=17905526599079763164544&wRef=&wTime=20261018181202&redirect=landing&traceid=V0-101-9c28f5fc5cd8d8d6&mcid=f5d6fe115a3646749ff9766f645f1749&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8995873613",
+    "title": "[한일김밥 본점] 통영 프리미엄 충무김밥, 700g, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2005/bff5648b500ecee7a1b50dfba3b3cab52b6db9e83cada883dada1e171a98.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2005/bff5648b500ecee7a1b50dfba3b3cab52b6db9e83cada883dada1e171a98.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4fce/e81c47792620725fa8cfc9b571bde2dbff25425698eeb963230a4760aae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d0b/4de06f046b1e5fc01072739757b845913790df4352d89f30202218f0df90.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/79ca/9472d2f93d35c2fae6bf493dbcb839ee7627bb4fd571f8a95e0c1fd187de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8a40/1b0172c91a4806a1457faeb5d0329ed4950735ca7da63a9ae479248d5e14.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9a2b/48997a15a7ad249342ba2a2c63913d852666e1c9816fe9950810a542266c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d464/54962650841d931cc94f53c5f1e74e95a29bf629b09ff631dd511d132d9e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3e07/3c809da5cdad96d6cbb50ee9358aac8c1317cd761b6368aee9361584bb92.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hSWx8DUcU0"
+    ],
+    "image_path": "images/10_[한일김밥_본점]_통영_프리미엄_충무김밥,_700g,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "통영 충무김밥 진짜 먹고 싶었는데 거기까지 못 가니까 이거 시켜봤더니, 꼴뚜기랑 깍두기 조합이 생각했던 그 맛이야. 냉동인데 이 정도면 잘 만든 거라 주기적으로 주문하게 됨 🍱",
+    "b": "자취방에서 혼자 충무김밥 먹어봤는데 한 끼 분량 딱 맞아서 좋았어. 매콤한 무무침이랑 같이 먹으면 진짜 맛있어서 그날 혼자 다 해치웠음 😋"
+   }
+  }
+ ]
+}
