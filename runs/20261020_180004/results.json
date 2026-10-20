@@ -1,0 +1,469 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-20T18:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-20T18:16:17"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "squirrel.6991204",
+    "url": "https://www.threads.com/@squirrel.6991204/post/Del71DtgTkP",
+    "views": 40000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-17",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hVbYrDNcwS",
+    "final_url": "https://www.coupang.com/vp/products/9074729503?itemId=26654117572&src=1139000&spec=10799999&addtag=400&ctag=9074729503&lptag=AF4536703&itime=20261020181215&pageType=PRODUCT&pageValue=9074729503&wPcid=17905526599079763164544&wRef=&wTime=20261020181215&redirect=landing&traceid=V0-101-afce5984c695af36&mcid=d23a4b17778e41b2ba1f8af1ff605ab6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9074729503",
+    "title": "코쿠요 사쿠사 글루레스 가위 사무용 문구용 SAXA 삭사 280 A100",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b19d/d2619da6111af1bd4ddd416f7c3355001d22b94c88e3051f3b11d7d877cd.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b19d/d2619da6111af1bd4ddd416f7c3355001d22b94c88e3051f3b11d7d877cd.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hVbYrDNcwS"
+    ],
+    "image_path": "images/01_코쿠요_사쿠사_글루레스_가위_사무용_문구용_SAXA_삭사_280_A100.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "테이프 자르고 나서도 칼날에 끈적이가 하나도 안 남는 게 진짜 신기함... 색깔도 민트라서 책상에 올려두니까 괜히 기분까지 좋아졌어 ✂️",
+    "b": "매번 가위 쓰고 나면 끈적해서 닦느라 번거로웠는데 이거 쓰고부터 그런 일이 없음. 손잡이 크기도 딱 맞아서 오래 써도 손이 안 피로해 ✂️✨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "daily_6aaaaaaaaaa",
+    "url": "https://www.threads.com/@daily_6aaaaaaaaaa/post/DelxEbOHeCM",
+    "views": 9400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-17",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hU5Nle2Cm4",
+    "final_url": "https://www.coupang.com/vp/products/9749620148?src=1139000&spec=10799999&addtag=400&ctag=9749620148&lptag=AF0600644&itime=20261020181224&pageType=PRODUCT&pageValue=9749620148&wPcid=17905526599079763164544&wRef=&wTime=20261020181224&redirect=landing&traceid=V0-183-71800410966b7928&mcid=55f1b8ca807c42c28dc3b92ee626c452&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thread04&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9749620148",
+    "title": "롱테일북스 새벽달 엄마표 영어 20년 보고서 - 읽고 듣고 쓰고 말하는 우리 아이 영어의 시작과 끝",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9312/e71dbf31a514b1c5050f4284b952af18ec1c001580a550f3b72e50ebafd1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9312/e71dbf31a514b1c5050f4284b952af18ec1c001580a550f3b72e50ebafd1.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hU5Nle2Cm4"
+    ],
+    "image_path": "images/02_롱테일북스_새벽달_엄마표_영어_20년_보고서_-_읽고_듣고_쓰고_말하는_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "영어 학원 보내야 하나 고민하다가 이 책 먼저 읽었는데 방향이 좀 잡히는 느낌이었어. 20년 경험이 담겨 있어서 읽으면서 메모를 엄청 했음 📖",
+    "b": "집에서 영어 어떻게 시작해야 할지 막막했는데 이 책 보고 나서 뭔가 해볼 수 있겠다 싶었어. 현실적인 이야기가 많아서 중간에 덮기가 어려웠음 📚"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "daily____wizdom",
+    "url": "https://www.threads.com/@daily____wizdom/post/DenChNmk3SY",
+    "views": 4300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hVUEGTrcDQ",
+    "final_url": "https://www.coupang.com/vp/products/8736843000?src=1139000&spec=10799999&addtag=400&ctag=8736843000&lptag=AF0600644&itime=20261020181232&pageType=PRODUCT&pageValue=8736843000&wPcid=17905526599079763164544&wRef=&wTime=20261020181232&redirect=landing&traceid=V0-183-10f1bc9f78f0455f&mcid=ce5ad3e583f743cf8dd9167b29150946&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=thread01&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8736843000",
+    "title": "머미쿨쿨 국내생산 메쉬 무소음 스와들 스트랩 수트 여름 속싸개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7639/39219505d796f8e97cfa2cfe8cd02438b049e0c146ef8b6038d5ba36e6fe.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c9ce/c7dfb7858e71007f278330585873d16b2c00ccf0ab5b355761bd6ee20339.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/776e/1fcd815a0d83cb3cc8f77237409efcb1ee12821d6ef59aab794f3e1de923.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c1e6/9aca64da388f6c5d531f4071d8329b427aa7774ef89aed0344bcdae96c84.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f642/415819fe1a9d19e6610349aece619a979f2589d746de9fa3f807b13a3ea7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e398/3058991537b7dc3a82ecb316e63c6cab766c1e7beb562c83a0d1d488eb4b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/969a/444ec63a5fac03649c405aff92d957765a403061413fe0d0b0e1e56795b8.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=GfXgt22Yzjk"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hVUEGTrcDQ"
+    ],
+    "image_path": "images/03_머미쿨쿨_국내생산_메쉬_무소음_스와들_스트랩_수트_여름_속싸개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름에 신생아 속싸개 뭐 써야 하나 고민했는데 메쉬라서 통기가 확실히 되는 느낌임. 애가 땀 덜 흘리고 자는 것 같아서 나도 좀 편안해졌어 🌙",
+    "b": "소음 없이 여밀 수 있어서 자다가 아기 깨울까봐 조마조마할 일이 없어졌음. 입혀놓으면 포대기 싼 것처럼 얌전하게 자는 게 진짜 귀엽다 🍼"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "bebe202020222",
+    "url": "https://www.threads.com/@bebe202020222/post/DelyNHpE-uh",
+    "views": 2500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-17",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hU6lX4PkLk",
+    "final_url": "https://www.coupang.com/vp/products/8579527815?itemId=18333821673&src=1139000&spec=10799999&addtag=400&ctag=8579527815&lptag=AF0856237&itime=20261020181239&pageType=PRODUCT&pageValue=8579527815&wPcid=17905526599079763164544&wRef=&wTime=20261020181239&redirect=landing&traceid=V0-101-f4ab3aa6a906c0a1&mcid=a2a0c87290454358bffa2f3e2a5e7435&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8579527815",
+    "title": "석관동떡볶이 모듬튀김 (냉동), 660g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/987327666587973-be406fe4-32e0-4c66-b75e-cf848477af0c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/987327666587973-be406fe4-32e0-4c66-b75e-cf848477af0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53336590941166-530bd910-a6f7-4f26-9ea7-34b0e5355954.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53336537753897-25197298-ebc9-4c86-9507-41d0265d9736.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/987342020724858-8436b872-5236-4259-9857-09755fdd1d1c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/987342016984923-a22a673b-6c2b-4c7f-ae78-3effa462e477.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/96899881076630-b72c2197-dfb5-4a78-a4aa-a93ee48209e3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hU6lX4PkLk"
+    ],
+    "image_path": "images/04_석관동떡볶이_모듬튀김_(냉동),_660g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어프라이어에 돌렸더니 고구마튀김이 진짜 바삭하게 되면서 분식집 생각났음. 김말이에 야채튀김에 생선까지 다 들어있어서 혼자 먹기 아까울 정도야 🍟",
+    "b": "냉동인데 이 정도면 솔직히 사 먹는 거랑 차이가 별로 없었어. 떡볶이 해먹을 때 같이 내놨더니 튀김 먼저 다 없어졌음 😋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "ddooddoo.zip",
+    "url": "https://www.threads.com/@ddooddoo.zip/post/DemAhdmCISK",
+    "views": 2000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-17",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBwSipFyBE",
+    "final_url": "https://www.coupang.com/vp/products/5843630503?itemId=10148535595&src=1139000&spec=10799999&addtag=400&ctag=5843630503&lptag=AF0783645&itime=20261020181246&pageType=PRODUCT&pageValue=5843630503&wPcid=17905526599079763164544&wRef=&wTime=20261020181246&redirect=landing&traceid=V0-101-15bedcc3da228293&mcid=916a532cfab04aaeb575af4874d328d0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5843630503",
+    "title": "바겐슈타이거 버큄 스텐 믹싱볼 3종 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/59381317766958-03092e09-e942-4969-9c3f-6f969f1a9432.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/59381317766958-03092e09-e942-4969-9c3f-6f969f1a9432.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/x0aafdse/79c5d12adc1246719e8f2da33dbc0b42.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xqduzhtm/1414f30682d540b59f769ef5e965bbb8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/8939452225597259-9d6328c5-cbf9-4ae6-b0e8-bf3a25833789.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/8934737305133514-66ecf05c-5286-4d13-b3d3-588478b87703.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vdhonc8e/1a96acc74b474f43ae6c996ffa6247a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/8939452291962079-7525be32-47bc-4981-98e2-80601da5a9e8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/u7ror2hw/273d6885e4cf4872bae5ee50b84371e0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBwSipFyBE"
+    ],
+    "image_path": "images/05_바겐슈타이거_버큄_스텐_믹싱볼_3종_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "베이킹할 때 볼 크기 애매해서 매번 불편했는데 세 사이즈 다 생기니까 진짜 편해졌어. 스텐이라 냄새도 안 배고 세척도 훨씬 쉬워서 자꾸 쓰게 됨 🍳",
+    "b": "안쪽에 계량 눈금 있어서 재료 넣으면서 바로 확인할 수 있는 게 생각보다 너무 유용함. 쓰면 쓸수록 하나만 쓰던 때가 불편하게 느껴져 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "honbab_dinner",
+    "url": "https://www.threads.com/@honbab_dinner/post/DdcawSkEz8o",
+    "views": 948,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/g83Ummxyq4",
+    "final_url": "https://www.coupang.com/vp/products/2436662?itemId=18080730364&src=1139000&spec=10799999&addtag=400&ctag=2436662&lptag=AF7862534&itime=20261020181254&pageType=PRODUCT&pageValue=2436662&wPcid=17905526599079763164544&wRef=&wTime=20261020181254&redirect=landing&traceid=V0-101-d46741052e8af04f&mcid=76ad9a3d6ecc40c58e64fe94e2f20355&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2436662",
+    "title": "이금기 중화 두반장, 226g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/f8a4/5973fda4fccad311600fe0ff1e131d75dc0649137787afe72ef17d448ae1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282903216727671-5d4d577b-3b27-4e36-ab7d-182411127478.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902179985-96b7fce6-b696-4008-9e1b-e12f3aa5e73b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/282901902266868-1b1ab45f-084d-48c6-92eb-d918a9105087.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2267163333477127-a32ad6ac-a4ae-442f-820e-f09b637efe7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/431443278880437-ce022740-0b12-419d-bd9b-09056eadabf0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112536073917-818d0021-0481-4c33-9476-a977a8cfb39f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/453112539162364-64cbe5ea-7e26-4944-871b-2898e130b1ec.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=H1wLUOd9HoA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/g83Ummxyq4"
+    ],
+    "image_path": "images/06_이금기_중화_두반장,_226g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마파두부 만들 때 이거 한 숟갈 넣었더니 식당 맛이 났음. 향이 진해서 조금만 써도 충분한데, 냉장고에 있으니까 괜히 중화요리 해먹고 싶어짐 🌶️",
+    "b": "두반장 여러 개 써봤는데 이게 발효향이 제일 깊더라. 볶음밥에 조금 넣었을 뿐인데 맛이 달라진 느낌이라 요즘 자꾸 손이 가 🌶️😋"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "honsal_note",
+    "url": "https://www.threads.com/@honsal_note/post/DemLbxEmwqw",
+    "views": 655,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hTwSxAgojk",
+    "final_url": "https://www.coupang.com/vp/products/8777239360?itemId=25545966717&src=1139000&spec=10799999&addtag=400&ctag=8777239360&lptag=AF4794396&itime=20261020181301&pageType=PRODUCT&pageValue=8777239360&wPcid=17905526599079763164544&wRef=&wTime=20261020181301&redirect=landing&traceid=V0-101-48c589f4bf4d1cf4&mcid=a97ec6b78ebf4f4bb4ae0da194477be1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8777239360",
+    "title": "퓨어르 국산 전자레인지 파스타 쿠커 BPA Free, 1개, 화이트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4f79/911a6e48e0506bf8021f299e56e0dd3a1e4d41d9a6333efe52bd1bca54d6.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f79/911a6e48e0506bf8021f299e56e0dd3a1e4d41d9a6333efe52bd1bca54d6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f14f/b22e9bffeb6b9b8e1c41e560145fe9fc49746b6eaf673bd99cfa49b7bf64.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/03d1/2a9ee80e4d78e3a153d7c9cb0f8898e50996a6091d83bedbd847bed899d9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a916/4292f5b33e137770be33e4443d37a4e866601dfd5943f0192ccfc694e085.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ea1c/b98012ea78bc34e9f42dc6dea91b58a5b242d9894fed9d2baef8678f0c7d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/853a/2d04bb6bb9beb7cd00442382f735b20ab49dbd5da561309cd30fa1a6ea13.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/99af/9b43cc832960fe0dc497df6a5b4f4f0ee66ab935a5f1b3961e556c6731a9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ad16/620d5c93b953032d3826e92c8c93f0c68c5dd0a9f2983c42a5975dd43b7d.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=FwfyXp6wRnY"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hTwSxAgojk"
+    ],
+    "image_path": "images/07_퓨어르_국산_전자레인지_파스타_쿠커_BPA_Free,_1개,_화이트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냄비에 물 끓이기 귀찮아서 샀는데 전자레인지에 돌리면 진짜 파스타 면이 됨. 혼밥할 때 설거지도 줄어서 생각보다 훨씬 자주 쓰게 됨 🍝",
+    "b": "이거 쓰기 전엔 파스타 끓이면서 물 넘칠까봐 지켜봐야 했는데 이제 돌려놓고 소스 만들면 됨. 싱크대 앞에서 시간 버리는 일이 줄어서 뿌듯해 🍝✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "duly_ringring",
+    "url": "https://www.threads.com/@duly_ringring/post/DenLPDmE73k",
+    "views": 571,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hVmT3cuL36",
+    "final_url": "https://www.coupang.com/vp/products/9754877939?src=1139000&spec=10799999&addtag=400&ctag=9754877939&lptag=AF1369944&itime=20261020181309&pageType=PRODUCT&pageValue=9754877939&wPcid=17905526599079763164544&wRef=&wTime=20261020181309&redirect=landing&traceid=V0-183-c102dd8e4a5e0d87&mcid=a2fa978ce5f549cab8928da6563599d7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9754877939",
+    "title": "불사조 아이폰 듀오 Duo 슈퍼힌지 무빙 맥세이프 케이스",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5a45/abe9665f9b987c4b174d8d5c2ddbfa854441cb71d9a18c2c6e1c60555415.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5a45/abe9665f9b987c4b174d8d5c2ddbfa854441cb71d9a18c2c6e1c60555415.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/25de/020b38a630987ec9ab02342178cc611a45f97d3589a6db4ce69e577434a5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c20/db32db965ab629084e43b627797c360c3e97acff8ebd13db34ee9bae45d3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3dcd/5eb6799dc167da87d3e6ed401c9ef27c7e3f373b7ac4129447cc6d3ce5f6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9f80/b9fe4a6bb6df1e3e804d3c2bd23eccb6ff6b577d38ccfddd179b8d079ee7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a561/1791cbfdd6bc33b47a88df07893a477cc29b0b772bde43cf48f76813dfa7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0aa1/1cee1fea0b720a2deff112da8497e2bdc3c085b74172bb961f44e28d162b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30d2/920b8bc7b5172542126bd8477d8947f00e24d814862210c9cb67f54d4f49.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Q9pjOMGzSKI",
+     "https://www.youtube.com/watch?v=Ntx7tGg6cuw",
+     "https://www.youtube.com/watch?v=YcKOPFNTQv0",
+     "https://www.youtube.com/watch?v=nPX0DlXpMZI"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hVmT3cuL36"
+    ],
+    "image_path": "images/08_불사조_아이폰_듀오_Duo_슈퍼힌지_무빙_맥세이프_케이스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이폰 듀오 케이스 선택지가 별로 없어서 고민이었는데 힌지 마감이 깔끔해서 만족함. 투명이라 폰 색깔 그대로 살고 맥세이프도 잘 붙어 📱",
+    "b": "접었다 폈다 할 때 힌지 부분이 걸리거나 튕기는 느낌 없이 자연스러움. 투명 케이스라 지문 탈까 걱정했는데 의외로 크게 티 안 나 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "delight_ringring",
+    "url": "https://www.threads.com/@delight_ringring/post/DenKqfnkzqz",
+    "views": 374,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hVmTzu8ThA",
+    "final_url": "https://www.coupang.com/vp/products/9749140265?src=1139000&spec=10799999&addtag=400&ctag=9749140265&lptag=AF1369944&itime=20261020181317&pageType=PRODUCT&pageValue=9749140265&wPcid=17905526599079763164544&wRef=&wTime=20261020181317&redirect=landing&traceid=V0-183-72d44441cbfb8269&mcid=53cb42ba858e4766b925864f1659b827&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9749140265",
+    "title": "더세이프 아이폰 듀오 고품질 TPU EPU 프라이버시 내면액정2P 전면액정2P 사생활보호필름",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/71db/b207f3c79b3faaaa46c3cbed9a123e59fe26f2ad2a3b7e7f75852c50f04f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/71db/b207f3c79b3faaaa46c3cbed9a123e59fe26f2ad2a3b7e7f75852c50f04f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/96fa/76d2f4370af54684bc3db72497da9c7eeac645a6cbde841ea312b46e3508.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9b7/995a6ceffc44418f69fd51c8fdf95c94497d8f6bfae1fae70efaf00a3c3f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bcfe/1aa7a558b20da3f0557b88a1807e721f403fc1908431ba091e11a2a97296.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e757/34a9655b15b88132ce0ceb95a405830ba744816415ec2662e3a85224972c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e84/7ada40e3bb05d990b0a37a494f27fc6df1ae80da852c4015b7c4011756e8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bcde/a74d857192b8d5cd47e3d1266e4fc18a644e64b976f99c565ee439a234d9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9ad8/92f8984e0b3f5da62ad582e2ef4aa4563308f194e8c8966723e8a6a9140c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hVmTzu8ThA"
+    ],
+    "image_path": "images/09_더세이프_아이폰_듀오_고품질_TPU_EPU_프라이버시_내면액정2P_전면액.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "지하철에서 폰 볼 때 옆 사람 시선이 신경 쓰였는데 이거 붙이고 나서 그런 스트레스가 없어짐. 아이폰 듀오 전면 내면 다 커버돼서 더 좋아 🔒",
+    "b": "폴더블이라 필름 붙이기 까다로울 거라 생각했는데 생각보다 잘 붙었음. 사생활 보호 각도가 확실해서 카페에서 폰 볼 때 훨씬 편함 🛡️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "dear10jj",
+    "url": "https://www.threads.com/@dear10jj/post/DeoOFGwmVOq",
+    "views": 331,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hWFZsQ28m4",
+    "final_url": "https://www.coupang.com/vp/products/8883183561?itemId=28235053486&src=1139000&spec=10799999&addtag=400&ctag=8883183561&lptag=AF1965191&itime=20261020181325&pageType=PRODUCT&pageValue=8883183561&wPcid=17905526599079763164544&wRef=&wTime=20261020181325&redirect=landing&traceid=V0-101-63cc523c9cd7470f&mcid=e31282800f2b408ba34b64c767091c48&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8883183561",
+    "title": "알로 블랙 트러플 하몽 크래커 11p, 1개, 319g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/04/10/17/3/c87001c8-76fb-488a-b0d2-2eefc38879df.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/04/10/17/3/c87001c8-76fb-488a-b0d2-2eefc38879df.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/04/10/17/0/94ec1d5f-e906-4e06-9f9d-9eedae1949f8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hWFZsQ28m4"
+    ],
+    "image_path": "images/10_알로_블랙_트러플_하몽_크래커_11p,_1개,_319g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "트러플 향이 은은하게 나서 와인 없어도 혼자 한 봉지 다 먹음... 크래커가 바삭하면서 두께감이 있어서 먹을수록 손이 자꾸 가 🧀",
+    "b": "커피 마시면서 이거 하나씩 꺼먹으니까 카페 간 기분 남. 하몽 향이 살짝 나는데 느끼하지 않아서 11팩이 생각보다 금방 없어져 🍪☕"
+   }
+  }
+ ]
+}
