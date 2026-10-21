@@ -1,0 +1,437 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-21T18:00:04",
+  "stopped": false,
+  "finished_at": "2026-10-21T18:16:00"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DepzI0AEzL0",
+    "views": 14000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hXgMNFQKYu",
+    "final_url": "https://www.coupang.com/vp/products/7826310148?itemId=21272523711&src=1139000&spec=10799999&addtag=400&ctag=7826310148&lptag=AF4955575&itime=20261021181023&pageType=PRODUCT&pageValue=7826310148&wPcid=17905526599079763164544&wRef=&wTime=20261021181023&redirect=landing&traceid=V0-101-b7c5239ce7168045&mcid=0c044b5d1bd94aba8010f2ee3c66fc13&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7826310148",
+    "title": "작아도 맛있는 양배추",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2596932496894413-40b1dba0-49f1-4f9d-8ef6-b97ceb909004.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2596932496894413-40b1dba0-49f1-4f9d-8ef6-b97ceb909004.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2596936475083855-c366a5be-58fe-4cd1-b09e-6fe32821ad6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1050117470008622-d5317290-32f6-41a6-9709-da397c647de7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1050117551394874-faa13a8b-0427-48f2-a9e3-38782ba4a115.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/197112524159375-63c833e7-8876-4e67-8ec9-9c63ebaa39e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/249013216362392-bc26e43b-7db1-4522-9e1c-7ac15a5839b7.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_96cf5044-8c95-4a03-ad0f-3d41b39a690d.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hXgMNFQKYu"
+    ],
+    "image_path": "images/01_작아도_맛있는_양배추.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "작은 양배추 귀엽다 싶어서 집어들었는데 잘라보니 속이 꽉 차서 깜짝 놀람. 달고 아삭해서 쌈으로 먹었는데 생각보다 훨씬 맛있음. 혼자 먹기 딱 좋은 사이즈라 한 통 다 해치웠어 🥬",
+    "b": "근데 이 작은 거 어떻게 이렇게 달아... 큰 거 사면 남겨서 버리는 경우 많았는데 이 사이즈는 딱 맞게 다 쓰게 됨. 이제 양배추는 무조건 이 크기로만 살 것 같음 🥬"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "what.eatt",
+    "url": "https://www.threads.com/@what.eatt/post/Deq1Q36DWyD",
+    "views": 1100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hUIpbn417Y",
+    "final_url": "https://www.coupang.com/vp/products/8060571285?itemId=17599609311&src=1139000&spec=10799999&addtag=400&ctag=8060571285&lptag=AF7222124&itime=20261021181101&pageType=PRODUCT&pageValue=8060571285&wPcid=17905526599079763164544&wRef=&wTime=20261021181101&redirect=landing&traceid=V0-101-2e57cb870565c709&mcid=e58844c1dd004428b3f557b362a9ab08&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8060571285",
+    "title": "초정탄산수, 190ml, 30개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/f36172b0-1cd6-4702-a69a-6ee52fa86fb1_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/f36172b0-1cd6-4702-a69a-6ee52fa86fb1_fixing_v2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hUIpbn417Y"
+    ],
+    "image_path": "images/02_초정탄산수,_190ml,_30개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밥 먹고 나서 작은 캔 하나 따는 게 요즘 낙임... 초정탄산수 탄산이 생각보다 강해서 의외였음. 요즘 식후에 이거 없으면 좀 허전한 느낌이 드는 게 어느새 루틴이 됨 🫧",
+    "b": "칼로리 신경 쓰일 때 뭔가 마시고 싶으면 이거 뜯음. 0kcal인데 탄산이 있으니까 그냥 물보다 훨씬 낫고 만족감이 다름. 30캔 박스로 사두니까 당분간 음료 고민이 없어진 게 제일 좋음 💧"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "moose.9747199",
+    "url": "https://www.threads.com/@moose.9747199/post/Deohqhpghpm",
+    "views": 976,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hWt5Lc4Gmy",
+    "final_url": "https://www.coupang.com/vp/products/108352446?itemId=327978224&vendorItemId=5146676573&src=1139000&spec=10799999&addtag=400&ctag=108352446&lptag=AF9815160&itime=20261021181111&pageType=PRODUCT&pageValue=108352446&wPcid=17905526599079763164544&wRef=&wTime=20261021181111&redirect=landing&traceid=V0-181-f9190c9144aa7c9d&mcid=57fd503900eb4026a638c34d60428a2b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "108352446",
+    "title": "이케아 인기있는 생활용품 모음",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2018/07/25/11/5/a7245bd5-51bf-40c2-86b4-b61346432708.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2018/07/25/11/5/a7245bd5-51bf-40c2-86b4-b61346432708.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hWt5Lc4Gmy"
+    ],
+    "image_path": "images/03_이케아_인기있는_생활용품_모음.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "소파 옆에 작은 테이블 하나 놓고 싶어서 고민하다 결국 이케아 트레이 테이블 삼. 커피잔이랑 폰 올려두니까 생활이 진짜 편해짐. 색깔도 여러 가지라 방 분위기 맞춰서 고를 수 있는 게 좋더라 ☕",
+    "b": "방에 캔들이랑 책 올려둘 자리가 없어서 이거 들여놨는데 갑자기 방이 카페 느낌남. 조립도 간단하고 트레이 분리되는 게 생각보다 유용함. 이케아 감성이 이거구나 싶었음 🕯️"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "picktemzip",
+    "url": "https://www.threads.com/@picktemzip/post/DeqyB4xkikU",
+    "views": 733,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hYenAARP2a",
+    "final_url": "https://www.coupang.com/vp/products/7580810604?itemId=20011326045&vendorItemId=89609828536&src=1139000&spec=10799999&addtag=400&ctag=7580810604&lptag=AF4811109&itime=20261021181149&pageType=PRODUCT&pageValue=7580810604&wPcid=17905526599079763164544&wRef=&wTime=20261021181149&redirect=landing&traceid=V0-181-173b73482c26be63&mcid=1a5d3815d69441178946a365be0f239b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7580810604",
+    "title": "빈센트 미니이젤 탁상용 소형 이젤 액자거치대 그림받침대 VC-200N",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c660/b1000f0a3a3805c5f628c330e17a8edf59ca814af33d46959d5456362596.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c660/b1000f0a3a3805c5f628c330e17a8edf59ca814af33d46959d5456362596.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hYenAARP2a",
+     "https://link.coupang.com/a/hYeDivhDzM"
+    ],
+    "image_path": "images/04_빈센트_미니이젤_탁상용_소형_이젤_액자거치대_그림받침대_VC-200N.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 좋아하는 사진 세워두고 싶어서 이 나무 이젤 샀는데 질감이 따뜻하고 예뻐서 만족함. 생각보다 안정적으로 잘 서 있어서 걱정했던 것보다 훨씬 괜찮음. 덕분에 책상 위가 갑자기 감성 충만해짐 🖼️",
+    "b": "액자 걸 벽이 없어서 탁상형 이젤 찾다가 여기 정착했는데 크기도 딱 맞음. 엽서나 그림 세워두면 소품샵 느낌 나서 기분이 좋아짐. 작고 저렴한데 공간 분위기를 꽤 바꿔주더라 🌿"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "hot.deal.now",
+    "url": "https://www.threads.com/@hot.deal.now/post/Deqywa7FPMt",
+    "views": 711,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hYkEL0tAHs",
+    "final_url": "https://www.coupang.com/vp/products/13288248?itemId=22347693123&vendorItemId=80936473995&src=1139000&spec=10799999&addtag=400&ctag=13288248&lptag=AF6474080&itime=20261021181157&pageType=PRODUCT&pageValue=13288248&wPcid=17905526599079763164544&wRef=&wTime=20261021181157&redirect=landing&traceid=V0-181-28ba1f5c68f94f9a&mcid=51fb1890a4f74758af5747361b457d2d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "13288248",
+    "title": "오징어땅콩, 30g, 22개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/67902070672419-1dbf1bac-15dd-4b0b-95b6-19adc5c52491.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/67902070672419-1dbf1bac-15dd-4b0b-95b6-19adc5c52491.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2700472387991567-8959b465-d4b5-40b0-9561-2fc1d146b858.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/118653615550760-a2f46166-7bbb-4f5f-ae79-55f47aba44ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/8644472848912-7cd7bfc0-3a12-4c93-817f-1a240a37db00.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2700472387070940-d14df3a4-dded-4f71-adf5-749f5a94d9ef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/466982415610272-b4db5709-ced2-4637-a937-b90c8820c7d8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hYkEL0tAHs"
+    ],
+    "image_path": "images/05_오징어땅콩,_30g,_22개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "박스로 사두니까 하나씩 꺼내 먹는 재미가 있음... 30g짜리라 딱 한 봉지 먹고 끝낼 수 있어서 오히려 조절이 됨. 집에 쟁여놓으니까 간식 뭐 먹지 고민 자체가 없어진 게 제일 편함 🦑",
+    "b": "어릴 때부터 먹던 건데 박스로 사고 나서 손이 더 자주 감. 오징어랑 땅콩 맛이 같이 오는 조합이 중독적이라 하나 뜯으면 끝까지 가게 됨. 이 클래식한 과자 진짜 시간이 지나도 안 질림 🥜"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "mkkim0416",
+    "url": "https://www.threads.com/@mkkim0416/post/Deq1IM_nWcQ",
+    "views": 637,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hYl98EgmhU",
+    "final_url": "https://www.coupang.com/vp/products/8175173252?itemId=23361286368&src=1139000&spec=10799999&addtag=400&ctag=8175173252&lptag=AF9564260&itime=20261021181206&pageType=PRODUCT&pageValue=8175173252&wPcid=17905526599079763164544&wRef=&wTime=20261021181206&redirect=landing&traceid=V0-101-b5f6640eb5720a42&mcid=28bb786a7d3942588fb09cc3c11a4830&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8175173252",
+    "title": "DTF 전사지제작 의류전사지 출력 A4 커스텀인쇄",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1757127083341/5ece1113-1d4e-4f17-bf42-34ca79bf7ea6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1757127083341/5ece1113-1d4e-4f17-bf42-34ca79bf7ea6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3c0f/a8f156366cdd5fd65df382f7e2cbf8fb58eafd386f21d3ef80dbe7a63531.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1748/c4250e281d96241475333f68496b78bdf79b03a7a31832de849a1677d8da.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cc2f/1102282a8abc80f3c45ca11e238bb847cedc4d83aafa078a9d7a08f1a563.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a0e1/cd7c3b7b5b42c6b17b3591a46d6cfdd95d70bef94cecc8561c9bd7ee7e5e.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=amWjg4cBHd0"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hYl98EgmhU"
+    ],
+    "image_path": "images/06_DTF_전사지제작_의류전사지_출력_A4_커스텀인쇄.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "내가 만든 그림을 옷에 붙여보고 싶어서 처음 써봤는데 검정 티에도 발색이 선명하게 살아서 놀람. 전사 과정도 생각보다 어렵지 않아서 혼자 해볼 만함. 완성하고 나서 진짜 뿌듯해서 또 만들고 싶어짐 🎨",
+    "b": "아이 옷에 좋아하는 캐릭터 프린트 해주려고 시도해봤는데 퀄리티가 나쁘지 않았음. 세탁 몇 번 해도 크게 벗겨지지 않아서 다행이었고, 아이가 진짜 좋아해서 보람 있었음 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "rhino.88893698",
+    "url": "https://www.threads.com/@rhino.88893698/post/DeotzmzgjB5",
+    "views": 456,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hWpXx62MgK",
+    "final_url": "https://www.coupang.com/vp/products/9542802731?itemId=28466466277&src=1139000&spec=10799999&addtag=400&ctag=9542802731&lptag=AF8120364&itime=20261021181213&pageType=PRODUCT&pageValue=9542802731&wPcid=17905526599079763164544&wRef=&wTime=20261021181213&redirect=landing&traceid=V0-181-333f427a4e34956e&mcid=2ca3cf6df70d46c0af53adea38e11c57&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9542802731",
+    "title": "미세스마이어스 다목적 세정제 (본품 + 리필 2개) 코스트코 라벤더",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/43a4/8d6e3df7359654e04729b03ae469300eb466c45a71d0820726384843ae52.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/43a4/8d6e3df7359654e04729b03ae469300eb466c45a71d0820726384843ae52.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9ce6/c599160caa54bb23f6969354f3f1735b02a30f9a51a5369ecad83993fb47.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hWpXx62MgK"
+    ],
+    "image_path": "images/07_미세스마이어스_다목적_세정제_(본품_+_리필_2개)_코스트코_라벤더.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "청소하다가 라벤더 향이 올라오는 게 미세스마이어스 쓰고 생긴 변화임. 화장실 닦고 나서 향이 한동안 남아있으니까 청소하는 게 덜 귀찮아짐. 리필 두 개 포함이라 오래 쓸 수 있는 것도 마음에 들어 🌿",
+    "b": "주방이랑 욕실 둘 다 이거 하나로 닦고 있음. 스프레이 뿌리면 거품도 잘 되고 헹굼도 수월해서 한 번에 싹 닦히는 느낌. 향이 좋으니까 청소하면서 기분이 좀 나아지는 게 신기함 🧴"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "solokitchen___",
+    "url": "https://www.threads.com/@solokitchen___/post/Depu472k0Pa",
+    "views": 318,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=58056703&itemId=201443452&vendorItemId=3478315079&traceid=V0-153-6d72a800317d5126&requestid=20261019034206179135791768&token=31850C%7CMIXED&pt=0&slot=6",
+    "final_url": "https://www.coupang.com/vp/products/58056703?itemId=201443452&vendorItemId=3478315079&src=1139000&spec=10799999&addtag=400&ctag=58056703&lptag=AF2757296&itime=20261021181220&pageType=PRODUCT&pageValue=58056703&wPcid=17905526599079763164544&wRef=&wTime=20261021181220&redirect=landing&traceid=V0-153-6d72a800317d5126&mcid=61f1ad23c96d4908886e9222764bd010&pt=0&campaignid=&clickBeacon=&imgsize=&slot=6&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261019034206179135791768&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "58056703",
+    "title": "모나미 중간글씨용 네임펜 Fine, 흑색, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/412653593420164-67bf3b3c-f079-49b4-850d-370dddfa46f1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/412653593420164-67bf3b3c-f079-49b4-850d-370dddfa46f1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2018/02/26/3478315079/e408df3f-ffd0-4433-8c8c-b45ff6858574.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/978970673419758-1c7f76d7-f647-43b5-ae61-c482fc92185a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/product/image/vendoritem/2019/03/07/3478315079/d4520d61-62f2-4e87-9141-b3f5683ae1cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/550300149330930-58073361-e5eb-4127-b058-55c37e5bbbec.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/194139688876264-e9168122-b188-42d7-bacd-d608894f85b2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF2757296&pageKey=58056703&itemId=201443452&vendorItemId=3478315079&traceid=V0-153-6d72a800317d5126&requestid=20261019034206179135791768&token=31850C%7CMIXED&pt=0&slot=6"
+    ],
+    "image_path": "images/08_모나미_중간글씨용_네임펜_Fine,_흑색,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "택배 박스 정리할 때마다 네임펜 찾아 헤매다가 12개 세트 사버림... 집 여기저기 꽂아뒀더니 이제 항상 손 닿는 데 있음. 잉크가 진해서 한 번에 딱 써지는 게 생각보다 쾌감 있음 🖊️",
+    "b": "애 이름 써야 할 일이 많아서 세트로 샀는데 중간 굵기가 뭐든 쓰기 딱 좋음. 쓰다 보니 박스에 내용물 적는 것도 이걸로 하게 됨. 이 네임펜 하나 있으면 집에서 진짜 두루두루 쓰임 ✏️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "hanadihana002",
+    "url": "https://www.threads.com/@hanadihana002/post/DeqWKsGjsq5",
+    "views": 306,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-19",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hXSbosUQYm",
+    "final_url": "https://www.coupang.com/vp/products/9724970020?src=1139000&spec=10799999&addtag=400&ctag=9724970020&lptag=AF5590363&itime=20261021181230&pageType=PRODUCT&pageValue=9724970020&wPcid=17905526599079763164544&wRef=&wTime=20261021181230&redirect=landing&traceid=V0-183-739f0d20ce4568fd&mcid=7d391019bf3b46b190ab04e98e24bca6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9724970020",
+    "title": "대형 제설장비 눈삽 도구 바퀴달린 빗자루 이중봉 B, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/76d7/7cf24bda5eb5ad1d3bc26ef0c81f7670f5bad7b14cd8b9479fb1110ee138.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/76d7/7cf24bda5eb5ad1d3bc26ef0c81f7670f5bad7b14cd8b9479fb1110ee138.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e95e/d386947c6fe049a09dd3bc2e34bdd03c51bcd3e6352ffb8d8f8eca91c6b9.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/31d3/f5d6d0e0d7f782994913dbdf65a73c63aa976c6be4a857cc7be577973777.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/312a/8e36cb5f46aeb0dff327be11509ce5cf358a3d2c5dd2209aca254baf1521.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hXSbosUQYm"
+    ],
+    "image_path": "images/09_대형_제설장비_눈삽_도구_바퀴달린_빗자루_이중봉_B,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "눈 많이 오는 동네라 올겨울 이거 진지하게 장만했는데, 바퀴 달려 있으니까 밀면 그냥 눈이 쭉 밀려나감. 허리 안 굽혀도 돼서 작년이랑 체감이 완전히 다름 ❄️",
+    "b": "삽으로 눈 치우다가 허리 나갔던 이후로 이거 알아봤는데 진작 살 걸. 판 크기가 넓어서 한 번 밀면 넓은 면적이 한 번에 정리됨. 올 겨울은 폭설 예보 떠도 좀 덜 무섭더라 🌨️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "ggultip.note",
+    "url": "https://www.threads.com/@ggultip.note/post/Deou-Miks7l",
+    "views": 291,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-18",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOlW4hqxvE",
+    "final_url": "https://www.coupang.com/vp/products/8405640794?itemId=24300749866&vendorItemId=91316693306&src=1139000&spec=10799999&addtag=400&ctag=8405640794&lptag=AF2417417&itime=20261021181237&pageType=PRODUCT&pageValue=8405640794&wPcid=17905526599079763164544&wRef=&wTime=20261021181237&redirect=landing&traceid=V0-181-6d82045aa3c9b494&mcid=a11c66585d8347f29e6e758057fd4c51&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8405640794",
+    "title": "매트리스 이불 정리 주걱형 도구, 1개, 그린",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e1b0/3f2d6b8ca1bd14563612df73d5d9812e0c9640ebdc3753950c8d8243a885.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e1b0/3f2d6b8ca1bd14563612df73d5d9812e0c9640ebdc3753950c8d8243a885.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOlW4hqxvE"
+    ],
+    "image_path": "images/10_매트리스_이불_정리_주걱형_도구,_1개,_그린.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "매트리스 밑에 이불 밀어넣을 때 손 끼여서 짜증났는데 이 초록 주걱 쓰고 나서 해결됨. 쑥 들어가서 깔끔하게 정리되고 침대 메이킹 시간이 확 줄어든 게 느껴짐. 이런 도구가 있는 줄 진작 알았으면 좋았을 텐데 🛏️",
+    "b": "투명 초록색이라 생각보다 예뻐서 꺼내두기도 괜찮음. 이불 각 잡는 게 귀찮아서 대충 살았는데 이거 쓰면서 침대 정리하는 게 좀 재밌어짐. 침구 정리에 이런 게 있다는 게 신기했음 ✨"
+   }
+  }
+ ]
+}
