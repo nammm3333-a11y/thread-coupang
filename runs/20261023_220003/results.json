@@ -1,0 +1,444 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-23T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-23T22:19:38"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "eunkk.kek",
+    "url": "https://www.threads.com/@eunkk.kek/post/Deu5zO1Ew9n",
+    "views": 5400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/gXzB8YR2R2",
+    "final_url": "https://www.coupang.com/vp/products/9096590598?itemId=28577550744&src=1139000&spec=10799999&addtag=400&ctag=9096590598&lptag=AF6956660&itime=20261023221405&pageType=PRODUCT&pageValue=9096590598&wPcid=17905526599079763164544&wRef=&wTime=20261023221405&redirect=landing&traceid=V0-101-2140d16005b581bd&mcid=616f740d8bdb4ed99f5b468779aca200&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9096590598",
+    "title": "몬스터겔 초강력 마르지 않는 캐치앤락 도톰한 물걸레 청소포 리필 24p, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/29/14/7/ea3447f5-3664-4a88-9e08-ccc2ec18b032.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/29/14/7/ea3447f5-3664-4a88-9e08-ccc2ec18b032.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jkcwopma/bee4167e720a4b39b2f459be62dbb81e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/onrawy82/0f063971b567446aa79b0908a39c60e3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xtnq7v77/75140ae9aa46495dbe407cf3c5be4562.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lwkdm0jw/506986b33a2745bfac8aea72c779bfd3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cz6oybxe/12adacbbc66e40568507c361ff911251.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/bwj0w21b/abf3b46b3cec4bf0ac7d1505786ca16e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lh2t479r/ee602b3e5e0343a7b4f12fb6197e5146.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/gXzB8YR2R2"
+    ],
+    "image_path": "images/01_몬스터겔_초강력_마르지_않는_캐치앤락_도톰한_물걸레_청소포_리필_24p,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "물걸레질 할 때마다 물 뚝뚝 떨어지는 거 싫었는데 이거 쓰고 그 고민 사라짐... 도톰해서 한 장으로 거실 다 밀어도 안 찢겨. 청소하는 빈도가 이상하게 늘었어 🧹✨",
+    "b": "안 마른다는 말 반신반의했는데 쓰다 딴짓 해도 포가 살아있음... 캐치앤락이라 먼지가 흩어지지 않고 잡히는 게 신기함. 한 번 써보고 나서 다른 거 못 씀 🫧"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "sallimalchemy.home",
+    "url": "https://www.threads.com/@sallimalchemy.home/post/DewBTYSE0JB",
+    "views": 1800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hYUcVYMGGW",
+    "final_url": "https://www.coupang.com/vp/products/9677380492?itemId=28936884851&vendorItemId=95867914033&src=1139000&spec=10799999&addtag=400&ctag=9677380492&lptag=AF4474793&itime=20261023221414&pageType=PRODUCT&pageValue=9677380492&wPcid=17905526599079763164544&wRef=&wTime=20261023221414&redirect=landing&traceid=V0-181-b4ce329c578698d5&mcid=6746814bf3cc4eb4b5f38eca58822abd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9677380492",
+    "title": "지문인식 USB 암호 인식 비밀번호 저장공간 고속 지문 스마트키지갑 데이터보호",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/48e0/037acd4ed9ae6b71b20618d20a39850b0ad5e79762862833dabe14a5c6bf.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/48e0/037acd4ed9ae6b71b20618d20a39850b0ad5e79762862833dabe14a5c6bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/12c6/fdc00a3a8ad805827111d5815fdc2e96f9353da8b6d693b6b0447d778d84.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a3bf/3466acc42c9c3a0497e3295c38f7bc69fc9e7729eccf73567d675737163d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eeab/8cfa21c77668b57687e191bf885ff0023605828890b3278571249204d25c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9ff6/cdbacb518ba3a01a659d6c75bccc21dd449a9d85aca0bfa0b27e979490f1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb13/a67c68b1177db23fea0c55185393243e2759521724906fc5b9a7e241ac5e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hYUcVYMGGW"
+    ],
+    "image_path": "images/02_지문인식_USB_암호_인식_비밀번호_저장공간_고속_지문_스마트키지갑_데이.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "개인 파일 보관할 USB 찾다가 지문인식 되는 거 발견하고 냅다 질렀음... 황금색 디자인이 너무 멋있어서 소장 욕구가 생겼음. 지문 갖다 대면 바로 열리는 게 생각보다 빨라서 신기함 🔐",
+    "b": "USB 꺼냈더니 주변에서 그게 뭐냐고 다들 물어봄... Type-C라서 폰에 바로 꽂을 수 있는 것도 편함. 중요한 파일 넣어두고 나서 왠지 안심이 되는 느낌 😎"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "sensible_day",
+    "url": "https://www.threads.com/@sensible_day/post/Deu9sMkDbgj",
+    "views": 504,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZ2UgRiusK",
+    "final_url": "https://www.coupang.com/vp/products/8807013204?src=1139000&spec=10799999&addtag=400&ctag=8807013204&lptag=AF4407755&itime=20261023221421&pageType=PRODUCT&pageValue=8807013204&wPcid=17905526599079763164544&wRef=&wTime=20261023221421&redirect=landing&traceid=V0-183-aae3df30d9a280f9&mcid=d93ced8330794a348c3965dc0e9e8494&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8807013204",
+    "title": "Modong 휴대용 전기 주전자 직수 접이식 여행 U UN 포트 원미",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/70cc/3e31bd88c14b0b8303757d9bccc6014a1f28e6a041014b144b3c369b39ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/70cc/3e31bd88c14b0b8303757d9bccc6014a1f28e6a041014b144b3c369b39ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c51b/4725d25bdb57c96dc641e90ef90c03e034ac089abe219f0d02bbc8a24c8f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/23e4/a50c2174ce5a6535a8cc8f87ceb81cbed159576b34ff5a063f1eefecc137.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2483/f4c781a13e141d33e9b30734478ee04888ec8f1e86f03d2e5312627bad0e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZ2UgRiusK"
+    ],
+    "image_path": "images/03_Modong_휴대용_전기_주전자_직수_접이식_여행_U_UN_포트_원미.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여행 중에 커피 마시려고 챙겼다가 이제 집에서도 씀... 접이식이라 가방에 쏙 들어가고 304 스테인리스라 걱정 없이 씀. 호텔 뜨거운 물 기다리는 시간이 없어진 게 제일 편함 ☕",
+    "b": "출장 갈 때 이거 챙기고 나서 진짜 달라짐... 크기 작아서 배낭에 넣어도 자리 별로 안 차지하고 금방 끓음. 숙소에서 라면 끓여 먹은 그 순간이 여행 중 제일 행복했음 😄"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "shopping_map_jiyoung",
+    "url": "https://www.threads.com/@shopping_map_jiyoung/post/Deu-KeAEryn",
+    "views": 468,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h0sKTA3KP6",
+    "final_url": "https://www.coupang.com/vp/products/9063761896?itemId=26613341153&src=1139000&spec=10799999&addtag=400&ctag=9063761896&lptag=AF8473889&itime=20261023221428&pageType=PRODUCT&pageValue=9063761896&wPcid=17905526599079763164544&wRef=&wTime=20261023221428&redirect=landing&traceid=V0-101-321adaa3aad57ac0&mcid=2446ed95a81843f2853899d79684af4c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9063761896",
+    "title": "더바른 파베초코크림떡 개별포장, 2박스, 360g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/08f2/e1c22ad8f01ba73822a7a2a406254e5e6703556aae12b9811d495e6d5083.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/08f2/e1c22ad8f01ba73822a7a2a406254e5e6703556aae12b9811d495e6d5083.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h0sKTA3KP6"
+    ],
+    "image_path": "images/04_더바른_파베초코크림떡_개별포장,_2박스,_360g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "떡인데 속에 초코 크림이 한가득이라 한 입 베어 물었을 때 진짜 당황함... 코코아 파우더 코팅이 쌉싸름해서 달달함이랑 딱 균형 맞음. 개별 포장이라 하나씩 천천히 먹을 수 있는 것도 좋음 🍫",
+    "b": "선물로 받았다가 직접 주문해버린 떡... 커피랑 같이 먹으면 카페 온 것 같은 기분이 남. 이걸 '떡'이라고 부르는 게 맞나 싶을 정도로 색달랐음 ☕🤎"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "i_won_kk",
+    "url": "https://www.threads.com/@i_won_kk/post/Dew9b9TkhNV",
+    "views": 435,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h2iQMMCg8G",
+    "final_url": "https://www.coupang.com/vp/products/8411373324?itemId=24320674856&vendorItemId=91336423546&src=1191000&spec=10999999&addtag=400&ctag=8411373324&lptag=CFM86819498&itime=20261023221436&pageType=PRODUCT&pageValue=8411373324&wPcid=17905526599079763164544&wRef=&wTime=20261023221436&redirect=landing&abTestInfo=&mcid=03fd17ada7d5474e81922033a6fd11e7&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "8411373324",
+    "title": "꽃게 반달 뜰채",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/61d0/fa73ae9602f77933fcb9dcd85b752f7851ecd3b73531cf12a367abfbeaea.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/61d0/fa73ae9602f77933fcb9dcd85b752f7851ecd3b73531cf12a367abfbeaea.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4943/1ef5b3b709032617f9f0d9a383b1da8ca4e4732262df9b75d93dc926fd3b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h2iQMMCg8G"
+    ],
+    "image_path": "images/05_꽃게_반달_뜰채.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "낚시 처음 가면서 뜰채 필요하다길래 주문했는데 반달 모양이라 게 건져 올리기 진짜 편함... 와이어 망이라 물 빠짐도 빠름. 처음 꽃게 올라왔을 때 이거 없었으면 놓쳤을 것 같음 🦀",
+    "b": "갯벌 체험 갔을 때 이거 챙겼더니 완전 유용했음... 빨간 손잡이라 물속에서도 잘 보임. 애들이 이거 들고 뛰어다니는 거 구경하는 게 또 재미였음 🌊"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "u__1.5",
+    "url": "https://www.threads.com/@u__1.5/post/DewNBRnkrZf",
+    "views": 426,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1OMrtYvJY",
+    "final_url": "https://www.coupang.com/vp/products/9658332782?itemId=28871747647&src=1139000&spec=10799999&addtag=400&ctag=9658332782&lptag=AF3850514&itime=20261023221444&pageType=PRODUCT&pageValue=9658332782&wPcid=17905526599079763164544&wRef=&wTime=20261023221444&redirect=landing&traceid=V0-101-69872fc8b19e35bc&mcid=335095d7c7ed461397126b197513d1af&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9658332782",
+    "title": "대풍관 30년전통 부산 물떡 떡말이 어묵탕 오뎅탕2~3인분, 650g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d129/838f3b28a01d64ba97dd749437ea567024e4badfc1c11978e8453e335aa0.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d129/838f3b28a01d64ba97dd749437ea567024e4badfc1c11978e8453e335aa0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7179/c18c87276ff3a0e3d8caae36e8a81614992ffba334700819d9828bf94a5c.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=PpKW_SVvFrs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/h1OMrtYvJY"
+    ],
+    "image_path": "images/06_대풍관_30년전통_부산_물떡_떡말이_어묵탕_오뎅탕2~3인분,_650g,_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "부산 어묵탕이 그리울 때 이거 끓이면 됨... 물떡이 통통하고 국물이 생각보다 진해서 놀람. 찬바람 부는 날 저녁에 끓여 먹었더니 속이 다 풀리는 느낌이었음 🍲",
+    "b": "마트 어묵 말고 제대로 된 거 먹고 싶을 때 딱임... 떡말이 어묵 종류 다양하고 양도 충분함. 친구 불러서 같이 끓여 먹었는데 국물 마지막까지 다 비웠음 🤤"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "amzngjb",
+    "url": "https://www.threads.com/@amzngjb/post/Devd_wTCcPT",
+    "views": 330,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1lhquZePA",
+    "final_url": "https://www.coupang.com/vp/products/5195810666?itemId=7226764133&vendorItemId=77264606750&src=1139000&spec=10799999&addtag=400&ctag=5195810666&lptag=AF2973418&itime=20261023221454&pageType=PRODUCT&pageValue=5195810666&wPcid=17905526599079763164544&wRef=&wTime=20261023221454&redirect=landing&traceid=V0-181-88ca88e4ef538389&mcid=d2f242c78d514ae59e7d96a6937df858&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5195810666",
+    "title": "설화수 본윤 선크림 SPF50+ PA++++ - 선케어/선크림/선로션",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/3283176269185409-c9d5f338-584a-4d2f-b2e9-17bd5c6519ee.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3283176269185409-c9d5f338-584a-4d2f-b2e9-17bd5c6519ee.jpg",
+     "https://image.coupangcdn.com/image/coupang/rlux/sdp/badge_19da917b062.png",
+     "https://image.coupangcdn.com/image/coupang/rlux/sdp/badge_19da8a6e59a.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h1lhquZePA"
+    ],
+    "image_path": "images/07_설화수_본윤_선크림_SPF50+_PA++++_-_선케어_선크림_선로션.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "남성 선크림 뭐 쓸까 고민하다가 설화수 남성 라인 있는 거 알고 써봤음... 발림이 부드러워서 끈적이는 느낌 없이 흡수됨. 요즘 외출 전에 이거 바르는 게 당연한 루틴이 됐음 ☀️",
+    "b": "갈색 용기 디자인이 책상 위에 놓아도 너무 고급스러워 보임... 바르고 나서 얼굴에 뭔가 올라간 느낌이 별로 없는 게 좋음. 자외선 차단 대충 하다가 이거 쓰면서 좀 신경 쓰게 됐음 🌿"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "laviont.co.kr",
+    "url": "https://www.threads.com/@laviont.co.kr/post/DewsLrdD4Fm",
+    "views": 291,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h1TwYrpVdY",
+    "final_url": "https://www.coupang.com/vp/products/8736843000?itemId=25760675677&src=1139000&spec=10799999&addtag=400&ctag=8736843000&lptag=AF2019212&itime=20261023221520&pageType=PRODUCT&pageValue=8736843000&wPcid=17905526599079763164544&wRef=&wTime=20261023221520&redirect=landing&traceid=V0-101-10f1bc9f78f0455f&mcid=bed4485fa703485883b5d9762a22342c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8736843000",
+    "title": "머미쿨쿨 국내생산 메쉬 무소음 스와들 스트랩 수트 여름 속싸개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7639/39219505d796f8e97cfa2cfe8cd02438b049e0c146ef8b6038d5ba36e6fe.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=GfXgt22Yzjk"
+    ],
+    "all_links": [
+     "http://link.coupang.com/a/h1TwYrpVdY"
+    ],
+    "image_path": "images/08_머미쿨쿨_국내생산_메쉬_무소음_스와들_스트랩_수트_여름_속싸개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여름 신생아 속싸개 뭐 써야 되나 찾다가 메쉬 소재라는 거 보고 주문함... 아기가 싸여 있는데 땀 안 차고 잘 자는 게 보기만 해도 마음이 편안함. 이거 입히고 나서 나도 옆에서 좀 쉴 수 있었음 🌙",
+    "b": "속싸개 자꾸 풀려서 걱정했는데 스트랩으로 고정돼서 안심이 됨... 메쉬라 아기 피부가 눌리는 것 같지 않아서 좋음. 자는 모습이 너무 귀여워서 사진 백 장 찍었음 🍼👶"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "junho.wee",
+    "url": "https://www.threads.com/@junho.wee/post/DewvoEcieW_",
+    "views": 277,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1Z1ePSEzk",
+    "final_url": "https://www.coupang.com/vp/products/9558197530?itemId=28521859827&src=1139000&spec=10799999&addtag=400&ctag=9558197530&lptag=AF1848919&itime=20261023221528&pageType=PRODUCT&pageValue=9558197530&wPcid=17905526599079763164544&wRef=&wTime=20261023221528&redirect=landing&traceid=V0-101-b68bc40a59827087&mcid=d18df25ac72349fb98ef8319295e2df7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9558197530",
+    "title": "KIFFJOIT 고밀도 브러시 핸디형 먼지털이, 화이트&블루, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc8d/e8e2c9e8d14fd2a145a2b398f001dec4c4f63af95f7e703a6195e7080beb.webp",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc8d/e8e2c9e8d14fd2a145a2b398f001dec4c4f63af95f7e703a6195e7080beb.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8582/46dae5173c49b4aee1067305fabb1a6e514e98428141f9263c29c19eb181.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/203b/e651950b2a60ab2a59b02c3795155c38c23e4af202c5ab93bc4a90473b61.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f70a/ea30c948b0f36dbc729b8681e92d92cae4a18dd05e106296ec4be578c780.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h1Z1ePSEzk"
+    ],
+    "image_path": "images/09_KIFFJOIT_고밀도_브러시_핸디형_먼지털이,_화이트&블루,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어컨 필터 청소하려고 뭐 없나 찾다가 이거 삼... 고밀도 브러시라 먼지가 날리지 않고 달라붙는 느낌. 케이스에 통과시키면 먼지 제거되는 거 진짜 기특한 아이디어임 🌀",
+    "b": "TV 뒤 먼지 한 번도 안 닦다가 이거 들고 훑었는데 먼지가 어마어마하게 나와서 충격받음... 부드러운 브러시라 좁은 틈도 잘 들어감. 이거 생기고 나서 청소 안 하던 데까지 손이 가게 됨 😅"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "honeyit.zip",
+    "url": "https://www.threads.com/@honeyit.zip/post/Deu3EOQkThc",
+    "views": 237,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZ0dQyoN08",
+    "final_url": "https://www.coupang.com/vp/products/9774536937?itemId=29259601258&vendorItemId=96177471451&src=1139000&spec=10799999&addtag=400&ctag=9774536937&lptag=AF0866834&itime=20261023221535&pageType=PRODUCT&pageValue=9774536937&wPcid=17905526599079763164544&wRef=&wTime=20261023221535&redirect=landing&traceid=V0-181-4e5645128f639c21&mcid=dd16bb31bb0e4e51818ad95ebf52c053&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9774536937",
+    "title": "무타공 걸이형 욕실 수납선반 철제 메쉬 바스켓 거울장 하부 화장품 정리함 화장대 다용도 수납바구니, 1개, 블랙",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ffa2/cfa44bb9d0ae06a618327c219871fcf747ef7d2e969c6c8eac3e6f0bc48d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ffa2/cfa44bb9d0ae06a618327c219871fcf747ef7d2e969c6c8eac3e6f0bc48d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b004/8fcedffd07c659bfbbba06caa0aa7ceb1628a48fdad37cfe97be0c66fd77.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b001/158e990fc4413e8ba169afadca3746afe83d604176a1d7e6b058e2b0a166.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1a6e/08da0e765682528a1afabaf517055a35caf78cd7aa9964710f009b6a08bb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cdc5/fcf436b223508bb0f51b0cab0085192d0dc8a839babf8adf8481dbdeb23a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a12c/b204624c1f03c8dab2098dd71277159325c68273bdec656e53dca2a61ab0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6f1c/50287632872dceed6ea4dc215aa020c47b2673b914d367e036b3a9078aae.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f4a4/4d97602d442e60550ceac1a0e9cb4eee93ae0d491ece6964413d881bd3bd.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZ0dQyoN08"
+    ],
+    "image_path": "images/10_무타공_걸이형_욕실_수납선반_철제_메쉬_바스켓_거울장_하부_화장품_정리함.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실 거울 아래가 허전해서 이거 걸었더니 화장품이 딱 정리됨... 구멍 안 뚫어도 거울에 걸기만 하면 돼서 설치가 진짜 쉬웠음. 블랙 컬러라 욕실이 갑자기 좀 고급스러워 보이는 것 같음 🖤",
+    "b": "세면대 위 어수선하던 게 이거 달고 나서 확 정리됨... 메쉬라 어디에 뭐 있는지 한눈에 보여서 아침에 찾는 시간이 줄었음. 하나로 부족할 것 같아서 하나 더 살까 고민 중 ✨"
+   }
+  }
+ ]
+}
