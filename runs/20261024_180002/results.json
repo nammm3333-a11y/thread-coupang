@@ -1,0 +1,443 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-24T18:00:02",
+  "stopped": false,
+  "finished_at": "2026-10-24T18:19:41"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "soloworker99",
+    "url": "https://www.threads.com/@soloworker99/post/DewkQxHmYf1",
+    "views": 66000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h0lmGeKICq",
+    "final_url": "https://www.coupang.com/vp/products/9279738420?itemId=27472935066&src=1139000&spec=10799999&addtag=400&ctag=9279738420&lptag=AF5709141&itime=20261024181447&pageType=PRODUCT&pageValue=9279738420&wPcid=17905526599079763164544&wRef=&wTime=20261024181447&redirect=landing&traceid=V0-101-b25be481a226f4c4&mcid=af1d99b9d02b4992adbf65e6258855c7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9279738420",
+    "title": "이음바이 아크릴 자석액자, 3개, 투명",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dd09/1d22b2c29f1091a1025473ffa53479cc4cbf46d4867e226870b15a3b0f6f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd09/1d22b2c29f1091a1025473ffa53479cc4cbf46d4867e226870b15a3b0f6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cb23/bfb7fe0c8a64d73ed94909c4b3c6d6c74282cc0fa6d58315032cea1c3e93.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/70bb/c9999ab30c53e0c7b00efe49c7fb88286fe75920221281662380ed7b209e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e802/47276010fc82f9b3d6e602baac0f905e1eb63b2eff329b0df2c03e605343.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/87a5/08154c05bac9d3a24c53f9e7fb570959c89ecbdc6ea69e0a92a1ed081b58.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ec99/516d96d6a969b7247bdf902b3dbb38f1f419976578724546d655f4a230fe.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h0lmGeKICq"
+    ],
+    "image_path": "images/01_이음바이_아크릴_자석액자,_3개,_투명.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "포토카드 넣으려고 샀는데 두께감이 있어서 생각보다 훨씬 고급스러워 보임. 투명이라 책상에 두면 뭔가 깔끔하게 정돈된 느낌이 나더라. 3개 세워두고 보니까 이게 은근 힐링임 🫧",
+    "b": "자석으로 착 달라붙어서 사진 교체가 너무 쉬워서 자꾸 바꾸게 됨. 사이에 사진 끼우는 방식이라 테이프 없이도 돼서 편해. 꾸미는 재미가 생기고 방 분위기가 달라졌음 ✨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "i_won_kk",
+    "url": "https://www.threads.com/@i_won_kk/post/Dew9b9TkhNV",
+    "views": 438,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h2iQMMCg8G",
+    "final_url": "https://www.coupang.com/vp/products/8411373324?itemId=24320674856&vendorItemId=91336423546&src=1191000&spec=10999999&addtag=400&ctag=8411373324&lptag=CFM86819498&itime=20261024181454&pageType=PRODUCT&pageValue=8411373324&wPcid=17905526599079763164544&wRef=&wTime=20261024181454&redirect=landing&abTestInfo=&mcid=20171b3ef269477483763acb44e7374d&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "8411373324",
+    "title": "꽃게 반달 뜰채",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/61d0/fa73ae9602f77933fcb9dcd85b752f7851ecd3b73531cf12a367abfbeaea.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/61d0/fa73ae9602f77933fcb9dcd85b752f7851ecd3b73531cf12a367abfbeaea.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4943/1ef5b3b709032617f9f0d9a383b1da8ca4e4732262df9b75d93dc926fd3b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h2iQMMCg8G"
+    ],
+    "image_path": "images/02_꽃게_반달_뜰채.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "갯벌 갔다가 손으로 잡으려다 포기하고 다음엔 뜰채 꼭 챙기겠다 다짐했었거든. 반달 모양이 바닥 쓸어담기에 딱이라 실제로 써보니 훨씬 수월하더라. 꽃게 잡았을 때 그 짜릿함이 아직도 기억남 🦀",
+    "b": "봉이 길어서 물에 손 안 담가도 되니까 아이한테 줘도 안심이 됨. 쇠 망이라 튼튼해서 오래 쓸 것 같아. 처음 뜰채 써봤는데 맨손이랑은 확실히 다르다는 걸 느꼈음 🌊"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "u__1.5",
+    "url": "https://www.threads.com/@u__1.5/post/DewNBRnkrZf",
+    "views": 426,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1OMrtYvJY",
+    "final_url": "https://www.coupang.com/vp/products/9658332782?itemId=28871747647&src=1139000&spec=10799999&addtag=400&ctag=9658332782&lptag=AF3850514&itime=20261024181502&pageType=PRODUCT&pageValue=9658332782&wPcid=17905526599079763164544&wRef=&wTime=20261024181502&redirect=landing&traceid=V0-101-69872fc8b19e35bc&mcid=f47701abd9d944cfaf6261592a8a438b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9658332782",
+    "title": "대풍관 30년전통 부산 물떡 떡말이 어묵탕 오뎅탕2~3인분, 650g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d129/838f3b28a01d64ba97dd749437ea567024e4badfc1c11978e8453e335aa0.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d129/838f3b28a01d64ba97dd749437ea567024e4badfc1c11978e8453e335aa0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7179/c18c87276ff3a0e3d8caae36e8a81614992ffba334700819d9828bf94a5c.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=PpKW_SVvFrs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/h1OMrtYvJY"
+    ],
+    "image_path": "images/03_대풍관_30년전통_부산_물떡_떡말이_어묵탕_오뎅탕2~3인분,_650g,_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 어묵탕 끓이면 항상 뭔가 밋밋했는데 이거 넣었더니 국물이 달라짐. 떡말이랑 어묵이 같이 들어있어서 따로 준비 안 해도 돼서 진짜 편해. 비 오는 날 혼자 끓여먹는데 그날이 진짜 맛있었음 🍲",
+    "b": "부산 여행 갔다가 물떡 먹은 게 생각나서 주문해봤는데 그 국물 맛이 꽤 비슷하더라. 쫄깃한 떡이랑 어묵 조합이 이미 완성돼 있어서 그냥 넣고 끓이기만 하면 됨. 온 가족이 냄비 앞에 모였던 그 시간이 좋았어 😋"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "laviont.co.kr",
+    "url": "https://www.threads.com/@laviont.co.kr/post/DewsLrdD4Fm",
+    "views": 292,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h1TwYrpVdY",
+    "final_url": "https://www.coupang.com/vp/products/8736843000?itemId=25760675677&src=1139000&spec=10799999&addtag=400&ctag=8736843000&lptag=AF2019212&itime=20261024181510&pageType=PRODUCT&pageValue=8736843000&wPcid=17905526599079763164544&wRef=&wTime=20261024181510&redirect=landing&traceid=V0-101-10f1bc9f78f0455f&mcid=6ec8d0398596412fb5df810df4a00ef8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8736843000",
+    "title": "머미쿨쿨 국내생산 메쉬 무소음 스와들 스트랩 수트 여름 속싸개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7923/4a5c4b905668ff3fd14d322ef6acbb78b4d3862e4f799441888f92a4bef5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7639/39219505d796f8e97cfa2cfe8cd02438b049e0c146ef8b6038d5ba36e6fe.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=GfXgt22Yzjk"
+    ],
+    "all_links": [
+     "http://link.coupang.com/a/h1TwYrpVdY"
+    ],
+    "image_path": "images/04_머미쿨쿨_국내생산_메쉬_무소음_스와들_스트랩_수트_여름_속싸개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밤마다 아기가 팔 버둥대서 잠 못 잤는데 이거 입히고 나서 좀 안정감 있게 자더라. 메쉬 소재라 여름에도 등에 땀이 덜 차서 걱정이 줄었어. 자는 얼굴 보면서 나도 덩달아 편해지는 느낌 🍃",
+    "b": "바스락 소리 없는 게 진짜 포인트라 아기 뒤척여도 내가 덜 깨게 됨. 끈으로 조절해서 재운 뒤 풀기도 쉬워서 야간 수유 때 부담 없어. 수면 루틴 잡는 데 이게 꽤 도움이 됐음 🌙"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "junho.wee",
+    "url": "https://www.threads.com/@junho.wee/post/DewvoEcieW_",
+    "views": 278,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1Z1ePSEzk",
+    "final_url": "https://www.coupang.com/vp/products/9558197530?itemId=28521859827&src=1139000&spec=10799999&addtag=400&ctag=9558197530&lptag=AF1848919&itime=20261024181517&pageType=PRODUCT&pageValue=9558197530&wPcid=17905526599079763164544&wRef=&wTime=20261024181517&redirect=landing&traceid=V0-101-b68bc40a59827087&mcid=e5ef14bc13754001a152c799554834f6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9558197530",
+    "title": "KIFFJOIT 고밀도 브러시 핸디형 먼지털이, 화이트&블루, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc8d/e8e2c9e8d14fd2a145a2b398f001dec4c4f63af95f7e703a6195e7080beb.webp",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc8d/e8e2c9e8d14fd2a145a2b398f001dec4c4f63af95f7e703a6195e7080beb.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8582/46dae5173c49b4aee1067305fabb1a6e514e98428141f9263c29c19eb181.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/203b/e651950b2a60ab2a59b02c3795155c38c23e4af202c5ab93bc4a90473b61.webp",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f70a/ea30c948b0f36dbc729b8681e92d92cae4a18dd05e106296ec4be578c780.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h1Z1ePSEzk"
+    ],
+    "image_path": "images/05_KIFFJOIT_고밀도_브러시_핸디형_먼지털이,_화이트&블루,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책장 위 먼지 매번 걸레 꺼내기 귀찮았는데 이거 들고 휙 털면 되니까 너무 편해졌어. 고밀도 브러시라 틈 사이 먼지도 잘 잡히는 것 같더라. 청소 빈도가 늘어났다는 게 나도 좀 놀람 🧹",
+    "b": "창틀이나 블라인드처럼 걸레로 하기 애매한 데 쓰니까 훨씬 수월함. 케이스에 넣으면 먼지가 정리되는 방식이 위생적이라 마음에 들어. 이거 쓰고 나서 방 먼지에 좀 덜 예민해진 것 같음 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ddok__salim",
+    "url": "https://www.threads.com/@ddok__salim/post/DewqWXCk1ti",
+    "views": 181,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-21",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6321034&pageKey=7548999092&itemId=19862024067&vendorItemId=87121396977&traceid=V0-153-7f61d7416bcfc6e0&clickBeacon=a689de80-cd5a-11f1-b126-3060902a172c~3&requestid=20261021232104965242431058&token=31850C%7CMIXED&pt=1&slot=5&subId=th_salim",
+    "final_url": "https://www.coupang.com/vp/products/7548999092?itemId=19862024067&vendorItemId=87121396977&src=1139000&spec=10799999&addtag=400&ctag=7548999092&lptag=AF6321034&itime=20261024181525&pageType=PRODUCT&pageValue=7548999092&wPcid=17905526599079763164544&wRef=&wTime=20261024181525&redirect=landing&traceid=V0-153-7f61d7416bcfc6e0&mcid=e9ac8e1f64a641a58749ea841d5d0ecd&pt=1&campaignid=&clickBeacon=a689de80-cd5a-11f1-b126-3060902a172c~3&imgsize=&slot=5&pageid=&sig=&subid=th_salim&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261021232104965242431058&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7548999092",
+    "title": "델라고 인덕션 IH 냄비 2종 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/9502/16c46bd8cde40ae3e7cbf21ff06e72f3686efab96208ec0fae621b2705a2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/9502/16c46bd8cde40ae3e7cbf21ff06e72f3686efab96208ec0fae621b2705a2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cfom1kcx/678a8552977049739b8832df676b136b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/tqnyh3gi/b13cc1f68f7f4158b0b44ef10a194aa8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1128765055474900-ee1015f0-e181-42c0-80ed-3223f71d7f4b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/614650831411910-9b9f35ba-260a-45e8-8f67-2ce4a0a9c4a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/806437075104604-062c1ac8-46ae-4668-8fcb-85a77b10a72a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1194206750202001-3ed48a60-b6da-4e5a-922b-aff3812246ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/614650806108572-14170cef-9df9-4ecc-924b-ae413d759220.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF6321034&pageKey=7548999092&itemId=19862024067&vendorItemId=87121396977&traceid=V0-153-7f61d7416bcfc6e0&clickBeacon=a689de80-cd5a-11f1-b126-3060902a172c~3&requestid=20261021232104965242431058&token=31850C%7CMIXED&pt=1&slot=5&subId=th_salim"
+    ],
+    "image_path": "images/06_델라고_인덕션_IH_냄비_2종_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "인덕션 쓰는데 냄비가 안 맞아서 바꿨는데 이 세트가 꽤 맘에 들어. 나무 느낌 손잡이가 예쁘고 주방이 한결 깔끔해 보이더라. 두 가지 크기 번갈아 쓰면서 요리하는 재미가 생겼음 🍳",
+    "b": "냄비 하나 사려다 2종 세트로 집었는데 큰 냄비 작은 냄비 용도별로 쓸 수 있어서 딱 좋아. 유리 뚜껑이 있어서 조리 중에 확인하기도 편하더라. 주방에 두니까 분위기가 좀 정돈된 느낌이 났음 🖤"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "superjaaaam",
+    "url": "https://www.threads.com/@superjaaaam/post/DeyJ6IoGm1R",
+    "views": 163,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h24SaNU0L6",
+    "final_url": "https://www.coupang.com/vp/products/8581157741?src=1139000&spec=10799999&addtag=400&ctag=8581157741&lptag=AF9066493&itime=20261024181534&pageType=PRODUCT&pageValue=8581157741&wPcid=17905526599079763164544&wRef=&wTime=20261024181534&redirect=landing&traceid=V0-183-ce1464c75218d408&mcid=3718ddea5ff9420ba0827bc0eaa3f8f9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8581157741",
+    "title": "걸핀스 버블 미니 집게핀 2p 1541",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/onu9dfjw/775b6b37f6214f779e6723062ce4d8f8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/onu9dfjw/775b6b37f6214f779e6723062ce4d8f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/znlcgn2v/745ae8cac65f4750b66835d33460b626.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/i7hqq552/63dd5b01e5f44462ab09e2bb7cf73161.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/k76hoa2c/484d8d57c5cf4fc1970d2e89c5022231.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nrzz6ran/2c87ef088259427f98a637054eb1209f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/oubu2vyc/88750ee722c04ae18e76bdad147834f0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/sqtqif0k/b956b8d6a9314c79b02e1023e2722120.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/sstukevd/1a44d580e6e14def8b687367a8cb2e0d.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h24SaNU0L6"
+    ],
+    "image_path": "images/07_걸핀스_버블_미니_집게핀_2p_1541.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "진주 달린 미니 집게핀인데 작아도 존재감이 있어서 민낯에도 포인트가 돼. 머리 반묶음할 때 끼웠더니 괜히 신경 쓴 것처럼 보이더라. 2개 세트라 앞뒤로 꽂아도 되고 나눠줘도 좋음 🤍",
+    "b": "출근 전에 대충 올리고 이거 하나 꽂았는데 주변에서 어디서 났냐고 물어보더라. 버블 집게핀이라 잡아주는 힘도 있어서 흘러내리지 않아서 좋았어. 이런 작은 거 하나에 기분이 달라지는 게 신기함 🖤"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "jumsuni_1006",
+    "url": "https://www.threads.com/@jumsuni_1006/post/DeyHEyFD1im",
+    "views": 133,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h22Yx4FlJY",
+    "final_url": "https://www.coupang.com/vp/products/7055498014?src=1139000&spec=10799999&addtag=400&ctag=7055498014&lptag=AF1849500&itime=20261024181542&pageType=PRODUCT&pageValue=7055498014&wPcid=17905526599079763164544&wRef=&wTime=20261024181542&redirect=landing&traceid=V0-183-dc5f01c89b8e75d2&mcid=b48e6d12a396452c80d8dd2a183bd12a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7055498014",
+    "title": "메이지 가르보 초콜릿 파우치팩 59g x2개 묶음, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a82e/72a64ab0352e839b1f1da7a1051d8fcd131b1b6d1fed0139c43b32f9d16e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a82e/72a64ab0352e839b1f1da7a1051d8fcd131b1b6d1fed0139c43b32f9d16e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h22Yx4FlJY"
+    ],
+    "image_path": "images/08_메이지_가르보_초콜릿_파우치팩_59g_x2개_묶음,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "일본 편의점에서 먹던 맛이 그리워서 집어봤는데 그 느낌 맞아. 속이 꽉 찬 초코 식감이 자꾸 손이 가게 만들어서 큰일이야. 파우치에 지퍼가 있어서 조금씩 뜯어 먹을 수 있어서 편함 🍫",
+    "b": "일하다가 당 떨어지면 이거 두세 개 집어먹는 패턴이 생겼음. 손에 잘 안 묻어서 책상에서 먹기 딱 좋더라. 2개 묶음이라 하나 비워도 여유 있어서 든든해 🍫"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "happy_jp_1617",
+    "url": "https://www.threads.com/@happy_jp_1617/post/Dew-yZijxRQ",
+    "views": 116,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/hYgNr3Gidw",
+    "final_url": "https://www.coupang.com/vp/products/7308266501?src=1139000&spec=10799999&addtag=400&ctag=7308266501&lptag=AF4968136&itime=20261024181550&pageType=PRODUCT&pageValue=7308266501&wPcid=17905526599079763164544&wRef=&wTime=20261024181550&redirect=landing&traceid=V0-183-90db6526fc5016c4&mcid=b3eb2656830740c0b56183dbdc7c7346&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7308266501",
+    "title": "롯데햄 의성마늘 그릴프랑크 소시지, 350g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/92979936437982-40af1efd-0350-486f-bd80-8afc4494fb10.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/92979936437982-40af1efd-0350-486f-bd80-8afc4494fb10.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2023/04/27/18/1/b283e39b-6687-4fea-a826-e68f792458c7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2023/04/27/18/3/385ddd14-c3a6-45a2-81c5-bf64bd88ebdb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/890044271554700-59ac2cb6-e3a7-40e9-a064-c634b9fa6032.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/92994033236352-fc04b792-7765-4393-85f1-89ffbb3de6a7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/hYgNr3Gidw"
+    ],
+    "image_path": "images/09_롯데햄_의성마늘_그릴프랑크_소시지,_350g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "캠핑 가서 그릴에 구워봤는데 칼집 낸 부분이 벌어지면서 겉이 바삭해지는 게 진짜 맛있음. 마늘 향이 은근히 있어서 그냥 소시지보다 풍미가 다르더라. 집에서도 후라이팬에 구워먹는 게 이제 루틴이 됨 🌭",
+    "b": "야채랑 볶았는데 마늘 향이 배면서 볶음 요리가 갑자기 근사해짐. 속이 꽉 차 있어서 먹을 때 만족스러웠어. 아이 도시락 반찬으로 넣었더니 반응이 좋았음 🧄"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "ancco_7710",
+    "url": "https://www.threads.com/@ancco_7710/post/Dew-XDKDPXN",
+    "views": 111,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-22",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/fhIvtQLZCu",
+    "final_url": "https://www.coupang.com/vp/products/8705765210?itemId=25282083129&vendorItemId=92277644547&src=1139000&spec=10799999&addtag=400&ctag=8705765210&lptag=AF4773223&itime=20261024181557&pageType=PRODUCT&pageValue=8705765210&wPcid=17905526599079763164544&wRef=&wTime=20261024181557&redirect=landing&traceid=V0-183-995814669adda706&mcid=fd4eb59a3d2f435398b1e1922b127c80&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8705765210",
+    "title": "아오하타 베르데 파킷테 5종 혼합 세트 일본스프레드 딸기 블루베리 허니올리고 초코 땅콩크림",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b020/db9ac39da63526f8028c305f44b9802fe300e21f3cf8ee64f99b66f98ed0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b020/db9ac39da63526f8028c305f44b9802fe300e21f3cf8ee64f99b66f98ed0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/fhIvtQLZCu"
+    ],
+    "image_path": "images/10_아오하타_베르데_파킷테_5종_혼합_세트_일본스프레드_딸기_블루베리_허니올.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침 식빵에 새로운 거 올리고 싶어서 주문했는데 5가지 맛이 다 달라서 질리질 않아. 딸기 버터가 먼저 없어질 것 같은 속도로 먹게 되더라. 아침이 기대되는 게 이런 거구나 싶었음 🍓",
+    "b": "개별 포장이라 가방에 넣고 다니면서 밖에서도 꺼내 먹었는데 은근 편했어. 빵에 쭉 짜서 바르는 방식이라 칼 안 써도 되고 설거지도 줄어서 좋아. 종류가 다양해서 그날 기분따라 고르는 재미가 있음 🍞"
+   }
+  }
+ ]
+}
