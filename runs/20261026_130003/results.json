@@ -1,0 +1,448 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-26T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-26T13:21:01"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "jjus.hsu",
+    "url": "https://www.threads.com/@jjus.hsu/post/De0-QUkisZK",
+    "views": 41000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h3VTNgXAqa",
+    "final_url": "https://www.coupang.com/vp/products/9764964876?itemId=29225462056&src=1139000&spec=10799999&addtag=400&ctag=9764964876&lptag=AF3000507&itime=20261026131515&pageType=PRODUCT&pageValue=9764964876&wPcid=17905526599079763164544&wRef=&wTime=20261026131515&redirect=landing&traceid=V0-101-e8b18e2617a4504a&mcid=dde4419746ce4aaba1607afb6319b858&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9764964876",
+    "title": "토하는 고양이 얼굴 말차 주전자 틱톡 SNS 그릇",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/57aa/4cfc1680f77f31b32afa94e9b93fdfd912cae0d72a349a9e26f26cb4b684.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/57aa/4cfc1680f77f31b32afa94e9b93fdfd912cae0d72a349a9e26f26cb4b684.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3f83/80dc956b88c8202691f2d05abf99d85a38393dcce37039f6f58986414546.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5be/9b0d5cc112c845b122ebeb66b41004e57ca5f37762c1e449f115d2922e9c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1c34/97e96d5fddd9c2c8fc7e9a5e6785666f79fedd479f10c8e83e3ce2f7ad8b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d288/446c1c3ee68e40a5512c5e73d888402726119588a366f05faa988b5f1658.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=4q65NbVC88c"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/h3VTNgXAqa"
+    ],
+    "image_path": "images/01_토하는_고양이_얼굴_말차_주전자_틱톡_SNS_그릇.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이거 보자마자 바로 질렀는데 후회 없음... 고양이가 말차 토하는 거 보면서 마시는데 매번 웃겨서 혼자 킬킬거림. 손님한테 보여줬더니 다들 어디서 샀냐고 물어봄 😂🍵",
+    "b": "말차 마시는 루틴이 생겼는데 다 이것 때문임... 청자처럼 은은한 색감이 진짜 예뻐서 그냥 책상에 올려둬도 인테리어 됨. 이제 이거 없이 말차 마시는 건 상상이 안 감 🍵"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "items_jenna",
+    "url": "https://www.threads.com/@items_jenna/post/De1MnmglJmn",
+    "views": 5500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h42vIrBelo",
+    "final_url": "https://www.coupang.com/vp/products/2282308233?itemId=11148663594&src=1139000&spec=10799999&addtag=400&ctag=2282308233&lptag=AF5116659&itime=20261026131524&pageType=PRODUCT&pageValue=2282308233&wPcid=17905526599079763164544&wRef=&wTime=20261026131524&redirect=landing&traceid=V0-101-f27aec1016355fe2&mcid=4a2581146ab84d879428f1d4aa56ee06&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2282308233",
+    "title": "코스트코 맥키스 데어리 아이스크림 아이스박스+드라이아이스 추가 포장 (한여름에는 추가를 추천), 2L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/65f3/55a17dab933464ce3ba51cfa579ac9406fb9480688db11ed67b7b92b4dc8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/65f3/55a17dab933464ce3ba51cfa579ac9406fb9480688db11ed67b7b92b4dc8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h42vIrBelo"
+    ],
+    "image_path": "images/02_코스트코_맥키스_데어리_아이스크림_아이스박스+드라이아이스_추가_포장_(한.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코스트코 아이스크림 배달로 받을 수 있는 게 신기해서 시켜봤는데 드라이아이스 포장 덕에 멀쩡하게 왔음... 파란 통 뚜껑 열었을 때 설레는 거 있잖아. 우유 맛이 진해서 그냥 혼자 뚝딱 먹을 뻔 했음 🍦",
+    "b": "더운 날 집에서 맥키스 아이스크림 꺼냈을 때 그 기분... 가족이랑 같이 먹으려고 샀는데 식탁에 올려두니까 다들 눈이 반짝이더라. 근데 2L가 생각보다 금방 없어진다는 게 함정임 😅🍨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "jiyeoni_1209",
+    "url": "https://www.threads.com/@jiyeoni_1209/post/De1I97Hk6y9",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h4ZSGpL80W",
+    "final_url": "https://www.coupang.com/vp/products/9541310764?itemId=28461048889&src=1139000&spec=10799999&addtag=400&ctag=9541310764&lptag=AF7283270&itime=20261026131531&pageType=PRODUCT&pageValue=9541310764&wPcid=17905526599079763164544&wRef=&wTime=20261026131531&redirect=landing&traceid=V0-101-0f8521b205a40288&mcid=edaaf41e502f45b2a9ab08952de70e77&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9541310764",
+    "title": "지오 롤러 페인트 보수용 셀프페인팅 일체형 롤러페인터, 1세트, 500ml, 화이트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8c83/7dfc5b55619cd22c85543ce22663c6913a5523afe4246440c9d68a62e22b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c83/7dfc5b55619cd22c85543ce22663c6913a5523afe4246440c9d68a62e22b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0783/58a03575e99c193d69081431249b4c4c19b8194594b75a572f58b51a2038.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h4ZSGpL80W"
+    ],
+    "image_path": "images/03_지오_롤러_페인트_보수용_셀프페인팅_일체형_롤러페인터,_1세트,_500m.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "벽에 낙서 자국 있었는데 이거로 그냥 쓱 덮어버림... 도배 다시 해야 하나 한참 고민했는데 이게 훨씬 빠르고 마무리도 깔끔하더라. 한 번 써보고 나서 집 안 군데군데 손보고 싶어짐 🧡",
+    "b": "셀프 페인팅 처음 해봤는데 생각보다 어렵지 않았음... 롤러에 페인트가 바로 연결돼 있으니까 트레이 없이 바로 쓸 수 있어서 편했음. 다 바르고 나서 벽 깨끗해진 거 보니까 괜히 뿌듯함 🪣"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "slowly_better09",
+    "url": "https://www.threads.com/@slowly_better09/post/De1IguFiK-J",
+    "views": 521,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h3BakfXVjo",
+    "final_url": "https://www.coupang.com/vp/products/9391138725?src=1139000&spec=10799999&addtag=400&ctag=9391138725&lptag=AF3226657&itime=20261026131612&pageType=PRODUCT&pageValue=9391138725&wPcid=17905526599079763164544&wRef=&wTime=20261026131612&redirect=landing&traceid=V0-183-5d71cbfa73f57d60&mcid=a6131090630b4dd4931418d79f6b7828&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9391138725",
+    "title": "디지털모래시계 제품 탁상 레트로시계 장식 전자 소품 디자인 실용성 인테리어 모래시계",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/be16/5c0a4655ba945f7b014e46a9f136c362a11b248ef0d58b58c7aa1c306acf.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be16/5c0a4655ba945f7b014e46a9f136c362a11b248ef0d58b58c7aa1c306acf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/475e/3ea9ffa6a31b4de87be4af60c3e4989fd87a43f034eca4b1ce49fc21d7fc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1872/96f3f8c3b5d9ce30c8ea60a66fad2965c874b9428d388f5a0bb420b6580f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd3c/01a548e8919e0adb00d6b4dda25980ec5c9aecaf720f7ba08133b7886630.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0a3e/00928c81099b178cc77dc1e35bd3be19c37a983f95d59c9ba39a6f5d9065.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h3BakfXVjo"
+    ],
+    "image_path": "images/04_디지털모래시계_제품_탁상_레트로시계_장식_전자_소품_디자인_실용성_인테리.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 올려뒀더니 집 오는 사람마다 이게 뭐냐고 물어봄... LED 도트가 위에서 아래로 내려오는 게 진짜 감성 있어서 혼자 한참 봄. 타이머로도 쓸 수 있어서 그냥 소품 이상의 역할을 함 ⏳✨",
+    "b": "방 불 끄고 이거 켜두면 분위기가 달라지는 느낌임... 주황빛 LED가 어둠 속에서 은은하게 빛나는 게 생각보다 꽤 멋있더라. 레트로 감성 원하는 사람이라면 한 번쯤 써볼 만한 물건 🖤"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "shopping.shapping",
+    "url": "https://www.threads.com/@shopping.shapping/post/De2zDb8DuMo",
+    "views": 341,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-24",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h40QJrYkQm",
+    "final_url": "https://www.coupang.com/vp/products/9642335159?itemId=28812359037&vendorItemId=95895878873&src=1139000&spec=10799999&addtag=400&ctag=9642335159&lptag=AF8068168&itime=20261026131620&pageType=PRODUCT&pageValue=9642335159&wPcid=17905526599079763164544&wRef=&wTime=20261026131620&redirect=landing&traceid=V0-181-ec6d7c76cfbd3da7&mcid=efe63ebb7a034e8bb1328e22be08382e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9642335159",
+    "title": "무타공 흡착식 접이식 각도조절 빨래건조대",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b86e/0e7d718f2f1cffd458da8610a18f308bfedad23d12f4e0708e28f421221b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b86e/0e7d718f2f1cffd458da8610a18f308bfedad23d12f4e0708e28f421221b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c0d/476aeaf33e622898c63099df2f52f8444c7d7fe27d9dd39c9ddef54a6e59.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/128c/0937d95e8b0e9aed27491695365b8c965049a6f65a4c2deb25f4d5e8cf2c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bcdb/a291a47a8b64877b8384764896fb6a2828652afe86a5f5ad8ab8f26cd91b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b717/e883bc56467d61ebb44c20264b25d13f8cac7ca4de939c7b4fb93268a86d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3691/2ab66863a4add9d2fb6098aab6aa28b837204aa623b19204c31f87a6e45c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h40QJrYkQm"
+    ],
+    "image_path": "images/05_무타공_흡착식_접이식_각도조절_빨래건조대.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "드릴 안 쓰고 붙일 수 있다기에 반신반의했는데 진짜 잘 붙음... 타일 벽에 흡착시켜서 타올이랑 양말 걸어뒀는데 몇 달째 안 떨어짐. 안 쓸 땐 접어두니까 욕실이 답답해 보이지 않아서 좋음 👍",
+    "b": "이사 오자마자 못 박기 싫어서 이거 달았는데 지금까지 잘 쓰는 중임... 각도 조절이 돼서 좁은 벽 공간에도 딱 맞게 세팅할 수 있더라. 빨래건조대가 이렇게 단순하게 해결될 줄 몰랐음 🧺"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "carjms3",
+    "url": "https://www.threads.com/@carjms3/post/De3K5iEkf57",
+    "views": 283,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-24",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOMDkr2Jq0",
+    "final_url": "https://www.coupang.com/vp/products/6159377257?src=1139000&spec=10799999&addtag=400&ctag=6159377257&lptag=AF9540665&itime=20261026131630&pageType=PRODUCT&pageValue=6159377257&wPcid=17905526599079763164544&wRef=&wTime=20261026131630&redirect=landing&traceid=V0-183-fb462dc902f859b2&mcid=f4534bdf5d364c979b79402b47eec254&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6159377257",
+    "title": "샘표 맛있게 염도낮은 양조간장, 860ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/210206280092599-53fc052e-c0b5-475d-9d13-85c66bff6feb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/210206280092599-53fc052e-c0b5-475d-9d13-85c66bff6feb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/23518617036066-b2f4d45f-c858-45a8-8e81-1fce1ce7c110.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/55143133014912-bd780ac6-1466-45af-8ac5-bcc588eed444.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/55079493422420-1f1dd709-b4cc-4d62-97ff-6d8f6e3505fe.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOMDkr2Jq0"
+    ],
+    "image_path": "images/06_샘표_맛있게_염도낮은_양조간장,_860ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "나트륨 줄여보려고 이걸로 바꿔봤는데 맛 차이가 거의 없어서 신기했음... 찌개랑 나물 무칠 때 그냥 평소처럼 써도 가족이 모르고 잘 먹더라. 간장 향은 그대로라서 바꾸는 게 크게 부담스럽지 않음 🫙",
+    "b": "간장이 뭐가 달라봤자 하고 샀다가 이게 생각보다 덜 짜다는 게 느껴짐... 양 조절 신경 안 써도 되니까 요리할 때 오히려 더 편해진 기분. 한 병 다 쓰고 또 시킨 거 보면 마음에 드나 봄 🙂"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/De1n5IjkQ_H",
+    "views": 248,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOvo9xjs6K",
+    "final_url": "https://www.coupang.com/vp/products/8423435002?src=1139000&spec=10799999&addtag=400&ctag=8423435002&lptag=AF8516915&itime=20261026131638&pageType=PRODUCT&pageValue=8423435002&wPcid=17905526599079763164544&wRef=&wTime=20261026131638&redirect=landing&traceid=V0-183-355c62b82581c3fd&mcid=2c89e150d7514a2d9893aa2db843b0ab&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8423435002",
+    "title": "에너자이저 비전 HD+ LED 헤드랜턴 아마존팩 HDCA32, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/10/29/17/1/df43cb9c-0bd2-485a-89d2-6dae236f35d6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/10/29/17/1/df43cb9c-0bd2-485a-89d2-6dae236f35d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gv6xirbi/4a666b636ecf4bc88fb965f84d25cc95.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4917724262486-c87e2c7c-e62a-409c-a8de-c69ea4c1c97d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/owtibgwn/33b4c047e62548049f0a357468487e36.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4881812657585-0475d6d6-ddf2-4177-a30e-f7451cfbe54f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/d7zuyolx/955637921b834f3f9e8944c0ce991d85.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4857618525529-37dc5440-b37a-4d57-b7d0-fad29c81442a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/17792917853450-f870cf95-4e4d-4f88-8625-14b99c77a8be.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hOvo9xjs6K"
+    ],
+    "image_path": "images/07_에너자이저_비전_HD+_LED_헤드랜턴_아마존팩_HDCA32,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "캠핑 가서 밤에 이거 달고 텐트 안 정리했는데 손 자유롭게 쓸 수 있어서 완전 달랐음... 예전엔 손전등 들고 뭔가 하려면 불편했는데 이거 쓰고 나서 바뀜. 이제 캠핑 챙길 때 이거 없으면 허전함 🏕️🔦",
+    "b": "새벽 산책 나갈 때 써봤는데 헤드랜턴이 이렇게 편한 줄 몰랐음... 두 손이 비니까 폰도 보고 물도 마시고 완전 자유롭더라. 밴드가 생각보다 가벼워서 오래 써도 불편하지 않음 💡"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "smalltalk0702",
+    "url": "https://www.threads.com/@smalltalk0702/post/De0tcq8D7P_",
+    "views": 235,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h1hkHUqh8C",
+    "final_url": "https://www.coupang.com/vp/products/7689270513?itemId=20877904723&src=1139000&spec=10799999&addtag=400&ctag=7689270513&lptag=AF4182355&itime=20261026131646&pageType=PRODUCT&pageValue=7689270513&wPcid=17905526599079763164544&wRef=&wTime=20261026131646&redirect=landing&traceid=V0-101-6080a97a4592b297&mcid=295baabde4304a1495dd2ead0f1979ea&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7689270513",
+    "title": "탐사 샘물, 2L, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/98283262330418-a963e31f-3198-4813-a0a2-f45b6bed09e7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/98283262330418-a963e31f-3198-4813-a0a2-f45b6bed09e7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1200573011583017-c2b5c46a-73ad-43e1-bb80-71a13ce6f0d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3908198597528497-530283ae-b202-40a9-b32e-2eff483b10fb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/554307196952856-1295057f-cf89-46cd-bc07-abb550c2ae76.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2229607010124965-6bc17bd5-bb3d-4d62-9143-de094bdfb67a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3025998906655-0bc02010-263b-45db-9e7b-4eed78f0315a.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_d407fa97-a8c6-4859-bc8c-125d2be91e41.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h1hkHUqh8C"
+    ],
+    "image_path": "images/08_탐사_샘물,_2L,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마트 가서 물 들고 오는 거 너무 힘들어서 박스로 주문했는데 이게 진짜 편함... 2L짜리 12개 쌓아두니까 한동안 물 걱정을 안 하게 됨. 이제 물은 무조건 이렇게 시킴 💧",
+    "b": "집에 생수 떨어지는 날이 제일 스트레스였는데 박스로 쟁여두니까 그 걱정이 없어짐... 2L 용량이라 혼자 살아도 넉넉하게 쓸 수 있어서 좋더라. 맛도 깔끔하고 무난해서 질리지 않음 🌊"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ming._.hii",
+    "url": "https://www.threads.com/@ming._.hii/post/De2pBKhE_lN",
+    "views": 197,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-24",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h4EmGX3w28",
+    "final_url": "https://www.coupang.com/vp/products/9736027409?src=1139000&spec=10799999&addtag=400&ctag=9736027409&lptag=AF6827420&itime=20261026131654&pageType=PRODUCT&pageValue=9736027409&wPcid=17905526599079763164544&wRef=&wTime=20261026131654&redirect=landing&traceid=V0-183-dfc706363b81aecc&mcid=51d1f6f71cc5418da954b2fcd8a95bec&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9736027409",
+    "title": "몽벨 와치캡 비니 #1118855",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/60bd/44f15f94c2ca1a8fe47ca9c4b54561373c7c8ad17d587c8e672847e83482.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/60bd/44f15f94c2ca1a8fe47ca9c4b54561373c7c8ad17d587c8e672847e83482.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bff1/14f5160ba17804c8c7c8b1363f236528efb5f53398e57d5af5da76f6003f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/16ef/af1eaa80f7b2cec7ca6250f8b2ea7c4b44f7cee453f1cb26591947a75372.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e24/286b7a716b23fb0f12fdbd3f70b18b97ef882f1fcb48e6c63f03d5b31f68.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3de1/24f1000cc399a290dade47c3a3abb917b56a05376f05de4a97c0ea261f31.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f7ed/62c067645b40765486d8b9ffde05b309398a1f20f62985881e8e7645a170.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/12dd/85ff20ddadd5659d416d57776f0b257546a21e0ee08f29e45d65e5941d4a.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h4EmGX3w28"
+    ],
+    "image_path": "images/09_몽벨_와치캡_비니_#1118855.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "등산용으로 샀다가 일상에서도 계속 쓰게 된 비니... 얇은데 생각보다 따뜻하고 머리에 딱 맞게 잡혀서 흘러내리지 않음. 몽벨 로고 보일 때마다 이상하게 기분이 좋아짐 🏔️",
+    "b": "겨울 들어서 비니 하나 장만하려고 고민하다 이걸로 정착함... 심플한 디자인이라 아무 옷에나 걸쳐도 잘 어울리더라. 땀 차도 답답하지 않은 게 아웃도어 브랜드라 그런가 싶음 🧢"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "gears2yoon",
+    "url": "https://www.threads.com/@gears2yoon/post/De1Ku0NFLfS",
+    "views": 191,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-23",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h4LIzqk3Bk",
+    "final_url": "https://www.coupang.com/vp/products/6941871324?itemId=16836796112&vendorItemId=84016117772&src=1139000&spec=10799999&addtag=400&ctag=6941871324&lptag=AF8428236&itime=20261026131702&pageType=PRODUCT&pageValue=6941871324&wPcid=17905526599079763164544&wRef=&wTime=20261026131702&redirect=landing&traceid=V0-183-3ffb46960fffb94c&mcid=c05f26703b2e490e89bf438b88b41dc7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6941871324",
+    "title": "이보아 EVOA 전기차 OBD2 배터리 진단 스캐너 자동차 진단기, 1개, 현대,기아",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/153e/8e483f567a8a2c864b4b101d185f5110bcf31ed820a1448c6f6f8fe6be9b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/153e/8e483f567a8a2c864b4b101d185f5110bcf31ed820a1448c6f6f8fe6be9b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h4LIzqk3Bk"
+    ],
+    "image_path": "images/10_이보아_EVOA_전기차_OBD2_배터리_진단_스캐너_자동차_진단기,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "전기차 배터리 상태 걱정될 때마다 카센터 가기 뭐해서 이거 샀음... OBD2 포트에 꽂으면 바로 진단 결과 나오는 게 신기하더라. 직접 확인할 수 있으니까 왠지 모르게 마음이 놓임 🚗",
+    "b": "전기차 관리가 막막했는데 이거 꽂아보고 나서 조금 감이 잡혔음... 크기가 손가락만 해서 들고 다니기 부담 없고 현대기아 차에 바로 꽂히더라. 배터리 수치 직접 보는 게 이렇게 안심이 될 줄 몰랐음 🔋"
+   }
+  }
+ ]
+}
