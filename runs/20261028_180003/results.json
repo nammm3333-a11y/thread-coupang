@@ -1,0 +1,462 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-28T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-28T18:17:49"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "hamster.masi",
+    "url": "https://www.threads.com/@hamster.masi/post/De70chZk3EO",
+    "views": 900,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h8KVKshwZM",
+    "final_url": "https://www.coupang.com/vp/products/7448448675?src=1139000&spec=10799999&addtag=400&ctag=7448448675&lptag=AF2645697&itime=20261028181336&pageType=PRODUCT&pageValue=7448448675&wPcid=17905526599079763164544&wRef=&wTime=20261028181336&redirect=landing&traceid=V0-183-bd54b3de5fa1cf9e&mcid=6ee1a705727649188a5bbaf0828e9376&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7448448675",
+    "title": "블루보틀커피 크래프트 에스프레소 원두커피믹스",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/11927152645598-95d14903-37fb-4837-bd30-eae1f1dc05a0.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11927152645598-95d14903-37fb-4837-bd30-eae1f1dc05a0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11990580601267-6fa91ab4-5b5e-453b-a621-a8f5ac7a69f7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/82027646551834-3394dbeb-c402-48fd-ac80-e566f65b956e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/82027977526196-407c3bd8-fa2b-455f-b0be-1f39d30d98f7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11991447533763-581d2fd8-8824-45ce-85c4-7d5a4091a9e0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11991932275655-b2e67499-c54c-4ab9-a1b2-dc17c804b1fc.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_7ae71583-4532-4986-a6f5-e3cb4d395d7e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h8KVKshwZM"
+    ],
+    "image_path": "images/01_블루보틀커피_크래프트_에스프레소_원두커피믹스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 카페 가던 거 이제 안 함... 블루보틀 이 유리병 열어서 물에 타 마시는데 진짜 인스턴트 맞나 싶을 정도야. 다크초콜릿 향이 은근 있어서 하루 시작이 달라진 느낌 ☕",
+    "b": "출장 짐 쌀 때 이거 하나 챙겼더니 호텔 커피 손도 안 댔음. 묵직하고 고소한 맛이 취향 저격이라 이제 책상 위에 항상 올려두고 있어 😌"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "lumiend_",
+    "url": "https://www.threads.com/@lumiend_/post/De7XTOIEpuB",
+    "views": 338,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/d79kmwPueG",
+    "final_url": "https://www.coupang.com/vp/products/9189604464?vendorItemId=95227406027&src=1139000&spec=10799999&addtag=400&ctag=9189604464&lptag=AF4615688&itime=20261028181346&pageType=PRODUCT&pageValue=9189604464&wPcid=17905526599079763164544&wRef=&wTime=20261028181346&redirect=landing&traceid=V0-181-e7d8f32957080767&mcid=5cb32c4d697a4995933d792e945919d9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9189604464",
+    "title": "접이식 실내용 빨래건조대 베란다 옷걸이형 옷봉 행거",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9229/0ee5069184da638f801cae8671463989ea258dae1849b85ea73e7d245406.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9229/0ee5069184da638f801cae8671463989ea258dae1849b85ea73e7d245406.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/d79kmwPueG"
+    ],
+    "image_path": "images/02_접이식_실내용_빨래건조대_베란다_옷걸이형_옷봉_행거.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "빨래 널 공간 없어서 결국 이거 들였는데 생각보다 튼튼해서 놀람... 코트 여러 개 걸어도 안 흔들리고 접으면 얇아져서 베란다 한쪽에 딱 들어가 🤍",
+    "b": "원래 평범한 건조대 쓰다가 옷봉형으로 바꿨더니 옷이 훨씬 덜 구겨지더라. 주말에 세탁 다 하고 한꺼번에 걸어두면 집이 정돈된 느낌 나서 기분까지 좋아짐 😊"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/De72JwaiVJw",
+    "views": 314,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOwtyEcUtE",
+    "final_url": "https://www.coupang.com/vp/products/8932128000?src=1139000&spec=10799999&addtag=400&ctag=8932128000&lptag=AF8516915&itime=20261028181355&pageType=PRODUCT&pageValue=8932128000&wPcid=17905526599079763164544&wRef=&wTime=20261028181355&redirect=landing&traceid=V0-183-8fb757118f1b07c6&mcid=8c095015e9284eadaa2c072172fae9f5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8932128000",
+    "title": "에스픽 젠틀백 남성 여행용 세면도구 파우치 세면백",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6c7a/b30e7d3a5e5c92aa5043a91c8dbf695937791517778b14c50574135313b9.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6c7a/b30e7d3a5e5c92aa5043a91c8dbf695937791517778b14c50574135313b9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7119/cd38f0c27458d4c3757234c297a5046e7ba93b45c07bb8b2fffcf5db0f5a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e242/672621cae45099a405f9f4819ac85ba828b783e69d6893dabbb6b9c3c12b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f8de/1d8aca3b37f4800d1c9bf8954a6da0ed945f08b9b05c11a896002bfad195.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f4be/bc4cfeedcc0b633ca049f0d1bd7e39287d7bed7bed3a20ecd705ceb3705c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/416e/34995e7300f8c29f7c73b2be15fccc23ca4c8b0e87ed3d1517fadc141ee0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/543b/ce493b3885bf1a27067625f4253fc9375953a3a2595361bbff16c290726d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b61f/d77171accd66e0cd65ff70cd2bde1c8c33f4a406be05b31e88bcd7b5fccf.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=EwgxGfw6Wm4",
+     "https://www.youtube.com/watch?v=W8NhbCbDnKI",
+     "https://www.youtube.com/watch?v=9LvVBs_LJN4",
+     "https://www.youtube.com/watch?v=grCAAgUiBBs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hOwtyEcUtE"
+    ],
+    "image_path": "images/03_에스픽_젠틀백_남성_여행용_세면도구_파우치_세면백.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여행 때마다 세면도구 비닐백에 막 쑤셔 넣었는데 이거 쓰고부터 완전 달라짐. 칸칸이 나뉘어 있어서 열자마자 뭐가 어딨는지 바로 보이는 게 진짜 편해 🧴",
+    "b": "출장 전날 짐 쌀 때 제일 귀찮던 게 세면용품이었는데 이 파우치 생기고 나서 5분이면 끝남. 투명창 덕분에 공항 보안검색대에서 안 꺼내도 돼서 스트레스가 줄었어 ✈️"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "sereiblloom",
+    "url": "https://www.threads.com/@sereiblloom/post/De708Cvk1eh",
+    "views": 308,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h9aEa2r2Ky",
+    "final_url": "https://www.coupang.com/vp/products/6495732151?src=1139000&spec=10799999&addtag=400&ctag=6495732151&lptag=AF4077032&itime=20261028181403&pageType=PRODUCT&pageValue=6495732151&wPcid=17905526599079763164544&wRef=&wTime=20261028181403&redirect=landing&traceid=V0-183-cc4cd7bb1fe8662e&mcid=85ad4ffff1a44334a9674608e0ddddc1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6495732151",
+    "title": "한성 양면 감자칼 야채칼 과일칼 필러 다용도칼 조리기구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4952/34c2746eba233f12ede2d7b3f21b63881d980e9995f9f9a4bad0edaa3af3.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4952/34c2746eba233f12ede2d7b3f21b63881d980e9995f9f9a4bad0edaa3af3.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h9aEa2r2Ky"
+    ],
+    "image_path": "images/04_한성_양면_감자칼_야채칼_과일칼_필러_다용도칼_조리기구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "감자 껍질 벗기다가 손 베인 적만 세 번인데 이거 쓰고 나서 진짜 편해졌음. 한쪽은 껍질 벗기고 반대쪽은 채칼처럼 쓰는 거 알고 나서 너무 유용함 🥕",
+    "b": "빨간색이라 서랍에서 바로 찾기 편하다는 게 쓰다 보니 은근 중요하더라. 당근이나 오이 얇게 썰 때 칼 꺼낼 필요도 없이 이거 하나로 해결되는 게 꿀임 😆"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "dodone_story",
+    "url": "https://www.threads.com/@dodone_story/post/De6vlcSo5O_",
+    "views": 293,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-25",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h7WzxSaYPR",
+    "final_url": "https://www.coupang.com/vp/products/9277852838?itemId=27466037923&src=1139000&spec=10799999&addtag=400&ctag=9277852838&lptag=AF2885313&itime=20261028181410&pageType=PRODUCT&pageValue=9277852838&wPcid=17905526599079763164544&wRef=&wTime=20261028181410&redirect=landing&traceid=V0-101-31b4a0afadba6fb7&mcid=5fd2ccb2c26146b6920c30044877898b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9277852838",
+    "title": "아디다스 여성용 컴포트 재킷 KH2662",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8a2b/1ae05af40425b70862f9e3c869acafddc325fb19cf84ae44d312f33b8fef.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8a2b/1ae05af40425b70862f9e3c869acafddc325fb19cf84ae44d312f33b8fef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a185/df433ff8ba987d550723a7ac105820744d1a405a98a9e9fdc83fdce1a599.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1943/77f6eeaecc7f9ab688be237c61b879aa3c372f94e4de434ab34bd493405c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30f7/af4295d146a4b44f48dafbda1a8015e483de640c0b17d464585a373bac47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/790f/2443a4da40df7a001abc424465d111cdbba4b276c6c387233cc8a4897fbe.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/W26_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h7WzxSaYPR"
+    ],
+    "image_path": "images/05_아디다스_여성용_컴포트_재킷_KH2662.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "안쪽에 보들보들한 기모가 있어서 가을에 이거 하나만 걸쳐도 충분함... 골드 로고가 포인트인데 생각보다 고급스럽게 보여서 그냥 데일리로 자꾸 손이 가 🤍",
+    "b": "캐주얼한데 아디다스 로고 덕분에 스포티한 느낌도 나서 활용도가 진짜 높더라. 입고 마트 갔다가 어디서 샀냐고 물어보는 사람이 생겼음 😏"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "soso.tipp",
+    "url": "https://www.threads.com/@soso.tipp/post/De8iOpKjcpZ",
+    "views": 225,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hUGq2FeEkm",
+    "final_url": "https://www.coupang.com/vp/products/6617556176?itemId=15031823357&src=1139000&spec=10799999&addtag=400&ctag=6617556176&lptag=AF7222124&itime=20261028181417&pageType=PRODUCT&pageValue=6617556176&wPcid=17905526599079763164544&wRef=&wTime=20261028181417&redirect=landing&traceid=V0-101-f83c6f6b0ede3bb3&mcid=106710fd674b4f41a78eaf36aeadfc6d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6617556176",
+    "title": "[1+1] 굿즈 다용도 키친타올 130매 x 6롤 (총 12롤)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1788942973653/f9c7469d-703c-45fc-ae3c-b148d1033489.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1788942973653/f9c7469d-703c-45fc-ae3c-b148d1033489.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e88/fb8c9a16ed7b61ec5dd0c9b76e0600c0d4b72091c6ad350523ee3d9e29c3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7fe5/049eedc0207a74fd6c8231e172aefd0eef4172b7345b64f9b9c23e8d7834.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ce2b/a4c617ce9b738ba8250ffad35e9201d5c43142bf06812323b2e299e5e7cb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hUGq2FeEkm"
+    ],
+    "image_path": "images/06_[1+1]_굿즈_다용도_키친타올_130매_x_6롤_(총_12롤).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주방에 키친타올 떨어지면 진짜 불편한데 이거 한 박스 쟁여두니까 마음이 편함. 두께감도 적당하고 기름기 닦을 때 안 찢어지는 게 제일 마음에 들어 🍊",
+    "b": "고기 굽기 전에 프라이팬 닦을 때마다 키친타올 쓰는데 이게 생각보다 빨리 없어짐... 12롤이나 있으니까 한동안 신경 안 써도 되는 게 진짜 편하더라 😌"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "bongbong.yummy",
+    "url": "https://www.threads.com/@bongbong.yummy/post/De6ktRKE1Vw",
+    "views": 203,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-25",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h8uEVDZG0q",
+    "final_url": "https://www.coupang.com/vp/products/8732232511?itemId=25374273680&src=1139000&spec=10799999&addtag=400&ctag=8732232511&lptag=AF9511296&itime=20261028181424&pageType=PRODUCT&pageValue=8732232511&wPcid=17905526599079763164544&wRef=&wTime=20261028181424&redirect=landing&traceid=V0-101-4dc6dabf5ce1a18e&mcid=9dfd94ed196742978c28014028e0081f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8732232511",
+    "title": "가드데이 황사방역 숨쉬기편한 보건용 덴탈 마스크 대형 KF94, 50개입, 2개, 화이트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/04/23/10/8/05f9eeca-faff-4a2a-8cfa-c6d28917fddc.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/04/23/10/8/05f9eeca-faff-4a2a-8cfa-c6d28917fddc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/634210611016456-4e4bfc7f-6d39-4a2c-93bf-97f03f175bcb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/857476366459949-446ccdc1-01eb-488b-8a33-40b6195112d7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/165236964565269-49fe5293-cbef-4c69-ad53-f7f5cc7fc0f1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/164981879852828-b737d38b-f56d-42be-8275-281897777ff3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/633926065133871-dae9a698-5e8e-4887-bcc0-017d738e20cd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/04/23/10/7/7fd8fc9e-b1bd-4e2b-a600-23d5aeb951df.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h8uEVDZG0q"
+    ],
+    "image_path": "images/07_가드데이_황사방역_숨쉬기편한_보건용_덴탈_마스크_대형_KF94,_50개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "대형이라 얼굴 작은 사람은 어울릴지 걱정했는데 덴탈 타입이라 그런지 얼굴에 딱 압박되는 느낌 없이 숨쉬기 편하더라. 하루 종일 써도 귀 안 아픈 게 제일 좋음 😮‍💨",
+    "b": "황사 심한 날 마스크 없이 나갔다가 고생한 다음부터 이거 항상 쟁여둠. 100개씩 있으니까 넉넉하게 쓸 수 있어서 마음에 여유가 생기더라 😊"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "ggul_pickday",
+    "url": "https://www.threads.com/@ggul_pickday/post/De6tf8AE8KM",
+    "views": 199,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-25",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hYi5UNBnhc",
+    "final_url": "https://www.coupang.com/vp/products/8987595223?itemId=26322445137&vendorItemId=93299811270&src=1139000&spec=10799999&addtag=400&ctag=8987595223&lptag=AF3800985&itime=20261028181432&pageType=PRODUCT&pageValue=8987595223&wPcid=17905526599079763164544&wRef=&wTime=20261028181432&redirect=landing&traceid=V0-181-354a27f1e42e9e21&mcid=f921beda74a6466e8db2a08a3d1098df&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8987595223",
+    "title": "스위코 맥세이프 차량용 무한흡착 핸드폰 거치대, 블랙, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1755753356283/4d746a41-e603-4cec-acd2-c650a43ea3d8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1755753356283/4d746a41-e603-4cec-acd2-c650a43ea3d8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/309f/005ed171e50252eae9907f6bb25fc40ff58b2f159fbba48842a525c439a2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/977f/04cb751c8aea95503e2d7a77f488b7e01f1b323350edeee304576d0ca855.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6564/311d2c278bb4f8ca6f56c7357ffd8eee4e3281683f84773a8b09d8fcf07d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2da0/bd7d868f6cdb363d2885d4a2c4a73f8e9f046d539f9f5f125390074e83d9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/10c4/061514ab49a22c1f0bcce1317e2d8788c0ef7c203ce928c958cd5edd344c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f5a3/dfbb40f329caf0a4d490e927f5922792efdcb6ff1665f256e7626a0f6089.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/166a/f81534b43bcbc8d3ec60a8f488470ce98b439994c6c393b54e466f5ecc12.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=3Lx51vIPzPA",
+     "https://www.youtube.com/watch?v=b8FXC2QodSE",
+     "https://www.youtube.com/watch?v=pew-SdWGgQM"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hYi5UNBnhc"
+    ],
+    "image_path": "images/08_스위코_맥세이프_차량용_무한흡착_핸드폰_거치대,_블랙,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "차 안에서 네비 쓸 때마다 폰 들고 있던 나... 이거 달고 나서 진짜 손이 자유로워짐. 맥세이프라 붙이고 떼는 게 너무 쉬워서 주차하면 바로 들고 나갈 수 있어 🚗",
+    "b": "기존 거치대가 진동에 툭툭 떨어져서 짜증났는데 이건 흡착력이 달라서 고속도로에서도 안 빠짐. 블랙 컬러가 대시보드랑 잘 어울려서 차 안이 깔끔해 보여 😎"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/De7wEado8b_",
+    "views": 181,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-26",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h5smQKI6P6",
+    "final_url": "https://www.coupang.com/vp/products/8289336048?src=1139000&spec=10799999&addtag=400&ctag=8289336048&lptag=AF1194976&itime=20261028181440&pageType=PRODUCT&pageValue=8289336048&wPcid=17905526599079763164544&wRef=&wTime=20261028181440&redirect=landing&traceid=V0-183-9a348873b04a35ed&mcid=7e34dca671f54c498837ace3194ce2f3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=what_eat_now&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8289336048",
+    "title": "아하팝 팝콘용 옥수수 700g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d4ff/5fe9006a391868ccf4d6cd2b34342b07d0e5ee00791805e5227fb2c6bd9e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d4ff/5fe9006a391868ccf4d6cd2b34342b07d0e5ee00791805e5227fb2c6bd9e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h5smQKI6P6"
+    ],
+    "image_path": "images/09_아하팝_팝콘용_옥수수_700g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어팝퍼 사고 나서 이 옥수수 쟁여뒀는데 700g이면 꽤 오래 가더라. 튀기는 순간 집에 팝콘 냄새 퍼지는 게 너무 좋아서 영화 볼 때마다 꼭 해먹게 됨 🍿",
+    "b": "마트 봉지 팝콘만 먹다가 원물로 직접 튀겨 먹으니까 뭔가 다름... 소금이나 시즈닝 입맛대로 조절할 수 있어서 생각보다 재밌어 🌽"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "bongbong_ggultem",
+    "url": "https://www.threads.com/@bongbong_ggultem/post/De6sXUGAGce",
+    "views": 177,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-25",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZxNWk1EjI",
+    "final_url": "https://www.coupang.com/vp/products/8253815821?itemId=24025650076&src=1139000&spec=10799999&addtag=400&ctag=8253815821&lptag=AF6312364&itime=20261028181447&pageType=PRODUCT&pageValue=8253815821&wPcid=17905526599079763164544&wRef=&wTime=20261028181447&redirect=landing&traceid=V0-101-c07a19433ff93425&mcid=94e4825e2dda408a8fc8969f82dca63b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8253815821",
+    "title": "애플민트 다용도 사이드 포켓 멀티 운전석+조수석 차량용 틈새 수납함 세트, 1.베이지, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/80ed/78db72720552242baeea6afacf8f01adae401feb645786985fc0c607a785.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/80ed/78db72720552242baeea6afacf8f01adae401feb645786985fc0c607a785.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/77d8/ae1438881cc3ebdcaf1687b7e22a9021f7e56099939b9bc5ef146ade8be5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b8fd/b5e1f9a8cda93368f239bb8a88116b99b284b8f02a477285f0106a898fc8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe5e/b4eb0020a923dd0a218009243e7a7fd56c41e905654ce516ca6d1bfe53c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a936/1bec4a639a0e49dbaf0baa8145bcb62560440c9d082663dfac60da77de9d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/71ca/4b98647e90fbef7fe4d4519d802ae629e91643bed2067a607878031ee775.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/412b/418f55e482f85fb9a5f235b771e85b6e55954ad656f589a36d6f6713f9d8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c6e/6e2a63c2178e62c4a5465bcd758ae67f3cf11268be77052ed19a27e8e700.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=f5L_VPdmU34"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hZxNWk1EjI"
+    ],
+    "image_path": "images/10_애플민트_다용도_사이드_포켓_멀티_운전석+조수석_차량용_틈새_수납함_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "운전석 옆 틈새에 항상 카드랑 영수증이 끼어있었는데 이거 꽂고 나서 진짜 깔끔해짐. 베이지 색이 시트랑 비슷해서 티가 안 나는 것도 마음에 들어 🚗",
+    "b": "조수석까지 세트로 있어서 가방이랑 물병 따로 자리가 생겼음... 롱드라이브할 때 옆자리 사람이 물건 놓을 데 없어서 불편했는데 그게 해결된 게 진짜 편하더라 😊"
+   }
+  }
+ ]
+}
