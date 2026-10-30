@@ -1,0 +1,443 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-30T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-30T13:18:59"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "mong_whm",
+    "url": "https://www.threads.com/@mong_whm/post/DfA_escEaZ-",
+    "views": 1800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ibSvdqxLnE",
+    "final_url": "https://www.coupang.com/vp/products/8306520801?src=1139000&spec=10799999&addtag=400&ctag=8306520801&lptag=AF9325487&itime=20261030131327&pageType=PRODUCT&pageValue=8306520801&wPcid=17905526599079763164544&wRef=&wTime=20261030131327&redirect=landing&traceid=V0-183-44453f1e2941aab3&mcid=a4fef0b63d37486b80dcd5281dc227c5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8306520801",
+    "title": "(80g) 蒟蒻シャボン 오타루 蒻蒻シャボン小 가밀 열 비누 세안 비누",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dc13/03073d16204d592c1988bbd2b430203142cf3a13d547af9caded0af4ee50.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc13/03073d16204d592c1988bbd2b430203142cf3a13d547af9caded0af4ee50.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f5c2/8c7710fdb64c267fa294c60fbee827c807abbfd473b6c4aba7b1ee30609c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f7ed/70c398680348a09137d9fff375dfca062c5e32b139d84e07f7fa61e36c87.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bedb/2fee68323d7a169589002fbb5c318b7110412193cc8057563011a4d9b6fa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4557/76ab33fdce87cfe1bf3bcc8060a09c71cdc0beab52f5e623c3cf67a8815c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6db3/3c8aad0db0e4b06b41860d645476ccc350f07b30c311f77519848f62a6bd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ibSvdqxLnE"
+    ],
+    "image_path": "images/01_(80g)_蒟蒻シャボン_오타루_蒻蒻シャボン小_가밀_열_비누_세안_비누.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "곤약 비누 처음 써봤는데 세안하고 나서 당기질 않아서 깜짝 놀랐어. 원래 폼클렌저 쓰던 사람인데 이거로 바꾼 후 아침 세안이 이제 좀 기다려지는 것 같아 🧼",
+    "b": "일본 여행 때 사온 곤약 비누 다 떨어져서 찾다가 이걸 발견했어. 무첨가에 식물 성분이라 민감한 날도 쓸 수 있어서 한 통 더 쟁여둠 🌿"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "bebe202020222",
+    "url": "https://www.threads.com/@bebe202020222/post/DfB8v60kweF",
+    "views": 47000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idfO4lf52a",
+    "final_url": "https://www.coupang.com/vp/products/8069541841?itemId=23991793079&src=1139000&spec=10799999&addtag=400&ctag=8069541841&lptag=AF0856237&itime=20261030131336&pageType=PRODUCT&pageValue=8069541841&wPcid=17905526599079763164544&wRef=&wTime=20261030131336&redirect=landing&traceid=V0-101-5dfee906d3aa7846&mcid=ab74be761d5043ba9166d155a1a11cce&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8069541841",
+    "title": "오릭스 퍼퓸 바디로션(히노끼향), 500ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8b2a/c948dac74705ee67ab6c59e82fb3f1452ce1612bbd7cfd4d89fc9e9373e1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b2a/c948dac74705ee67ab6c59e82fb3f1452ce1612bbd7cfd4d89fc9e9373e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a053/74b43e2c3f77959fe09be0dd7eee911d5912f5ad61810a74cc2ba966c7ad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9f01/7685a71902915d0dbf89202cba56ce49ce71f34b8ba92f7385eac5c88e1b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/idfO4lf52a"
+    ],
+    "image_path": "images/02_오릭스_퍼퓸_바디로션(히노끼향),_500ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "샤워하고 나서 바르면 히노끼 향이 은은하게 감돌아서 기분이 이상하게 차분해져. 향이 너무 강하지 않아서 출근 전에 발라도 부담 없는 게 맘에 들어 🌲",
+    "b": "건조한 계절에 보습이 허전하다 싶어서 쓰기 시작했는데 500ml라 오래 쓸 수 있어서 그냥 든든해. 바르고 나서 히노끼 향이 남아 있으면 괜히 하루 시작이 좋아지는 것 같아 🍃"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "hle_orange_view",
+    "url": "https://www.threads.com/@hle_orange_view/post/De_D_KykwK8",
+    "views": 628,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-27",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ibogUZslZA",
+    "final_url": "https://www.coupang.com/vp/products/7134150306?itemId=15002609273&vendorItemId=82225460642&src=1191000&spec=10999999&addtag=400&ctag=7134150306&lptag=CFM95838787&itime=20261030131344&pageType=PRODUCT&pageValue=7134150306&wPcid=17905526599079763164544&wRef=&wTime=20261030131344&redirect=landing&abTestInfo=&mcid=69e234d5090d4ca7bec489b79fc99fed&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "7134150306",
+    "title": "독일 닥터베크만 스테인브러쉬 250ml X 2병 섬유얼룩제거제 찌든때용, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b5cf/fdea4d5172d7ae1f8a60481d1428aa1b43dc9de59cb33eecc1704139b40f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b5cf/fdea4d5172d7ae1f8a60481d1428aa1b43dc9de59cb33eecc1704139b40f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4396/359b84d8530ff04b8ebacb031c9ca24e31c96aea92952b63ca8c348fe964.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/70fd/677420f0a955309d485778592888e83c96da98fae7fba7dc30a546411bb7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b541/91f5f142602394da433d98de46a227b81b0ca8cd9bbb0eb0b7d6c8848db0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/931a/a3b4b0a53d7bce1041ac5342a87b8b01b4e38e793aef04ce4b5d6699feb6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e8d8/1433d10b7e6d72ecabce2740c5cff415b30520e1f309bba485d5b608975b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ibogUZslZA"
+    ],
+    "image_path": "images/03_독일_닥터베크만_스테인브러쉬_250ml_X_2병_섬유얼룩제거제_찌든때용,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이 옷에 케첩 묻혔을 때 포기했는데 이거 브러쉬로 문지르고 빨았더니 깨끗해져서 진짜 당황했어. 그 이후로 얼룩 생기면 일단 이거 먼저 꺼내게 됨 😮",
+    "b": "오래된 흰 티셔츠 찌든때 있어서 버리려다 마지막으로 써봤는데 생각보다 효과 있었어. 브러쉬가 뚜껑에 달려있어서 꺼내자마자 바로 문지를 수 있는 구조가 은근 편하더라 👕"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "haerinzip04",
+    "url": "https://www.threads.com/@haerinzip04/post/De_fRXvD-A-",
+    "views": 486,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-27",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h5Jymlb7bU",
+    "final_url": "https://www.coupang.com/vp/products/6221369038?src=1139000&spec=10799999&addtag=400&ctag=6221369038&lptag=AF2307109&itime=20261030131351&pageType=PRODUCT&pageValue=6221369038&wPcid=17905526599079763164544&wRef=&wTime=20261030131351&redirect=landing&traceid=V0-183-12935ee861861a1b&mcid=a6f30e12627d458f83800f7201ccc555&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6221369038",
+    "title": "오뚜기 핫케이크 믹스, 500g, 20개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/612265942113915-f696db66-3e15-4248-b032-6189bbeaabcc.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/612265942113915-f696db66-3e15-4248-b032-6189bbeaabcc.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h5Jymlb7bU"
+    ],
+    "image_path": "images/04_오뚜기_핫케이크_믹스,_500g,_20개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주말 아침에 애가 핫케이크 먹고 싶다 해서 이거 꺼냈는데 5분도 안 돼서 완성돼버렸어. 뭔가 만든 것 같은 뿌듯함이 있어서 그 이후로 주말마다 꺼내게 됨 🥞",
+    "b": "혼자 사는데 20개짜리 쟁여두고 냉동실에 넣어뒀더니 진짜 든든해. 반죽 남기면 다음날 또 구워 먹을 수 있어서 생각보다 자주 꺼내는 것 중 하나가 됐어 🍳"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "gtem_hm",
+    "url": "https://www.threads.com/@gtem_hm/post/De_Rkr1H-Co",
+    "views": 384,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ibsrh6GYDY",
+    "final_url": "https://www.coupang.com/vp/products/9698360423?vendorItemId=95485497058&src=1139000&spec=10799999&addtag=400&ctag=9698360423&lptag=AF1477651&itime=20261030131400&pageType=PRODUCT&pageValue=9698360423&wPcid=17905526599079763164544&wRef=&wTime=20261030131400&redirect=landing&traceid=V0-181-86ee106f274e08e0&mcid=99278ad14a1d49f5a1336fd0c4e78b55&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9698360423",
+    "title": "커피머신 그룹헤드 스팀 브러쉬, 2개, 단일",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/1e87442c-6342-452f-9928-5b0bd7524d6e6840016218204517061.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/1e87442c-6342-452f-9928-5b0bd7524d6e6840016218204517061.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/673b/d1a847cde5493377d3683be785f3642bef4176a5a47fbb5153b33e6f7d50.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9140/d0e3fa2feb192c1175540f91aacfe3910611cfeeed751df9af0320c52a1f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/132b/4f1f57c0058f61b096f5c5e77b9a388e99b738a572185db634f7edfcff43.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/177b/c37c186e7d44b887fb63caf56b18818d2dfa3a684ecee9691f737d9c83e4.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2634/92cdc5dd90f95b702446f0670fb3bb4766e2e27f0edcfaa5c415a02f64f3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fa8e/39ba2ff75118adbedc1094ef2b6e390bbed6b4c07445abbcb39c1e8aee84.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/48cf/ff261a5552f2527010f716fe2db397cb8a4fafdd4efff009800d54016f10.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ibsrh6GYDY"
+    ],
+    "image_path": "images/05_커피머신_그룹헤드_스팀_브러쉬,_2개,_단일.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에스프레소 머신 쓰면서 그룹헤드 청소를 어떻게 해야 하나 몰랐는데 이거 연결하니까 내부까지 닦이는 느낌이야. 청소하고 나서 뽑은 샷이 왠지 더 깔끔한 것 같아서 기분 좋아 ☕",
+    "b": "스팀완드 청소 귀찮아서 맨날 미뤘는데 이거 달아두니까 진입장벽이 낮아졌어. 이제는 샷 뽑고 나서 브러쉬 돌리는 게 그냥 루틴이 됐어 🖤"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "roy33_82",
+    "url": "https://www.threads.com/@roy33_82/post/DfA9PQmlVSo",
+    "views": 250,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF6414780&subid=tdr72626l06&pageKey=9468108612&traceid=V0-183-1cd2abc8427c65e2",
+    "final_url": "https://www.coupang.com/vp/products/9468108612?src=1139000&spec=10799999&addtag=400&ctag=9468108612&lptag=AF6414780&itime=20261030131408&pageType=PRODUCT&pageValue=9468108612&wPcid=17905526599079763164544&wRef=&wTime=20261030131408&redirect=landing&traceid=V0-183-1cd2abc8427c65e2&mcid=e215623be7024946ae1df009bb49971b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=tdr72626l06&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9468108612",
+    "title": "유일필라 슈로스바 무타공 슈로스 운동기구 월바 바풀 철봉 필라테스 스트레칭",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f171/d48fb71371e742a7ab18c9254429f15753c28589ebcc0900a4eae7320cd8.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f171/d48fb71371e742a7ab18c9254429f15753c28589ebcc0900a4eae7320cd8.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF6414780&subid=tdr72626l06&pageKey=9468108612&traceid=V0-183-1cd2abc8427c65e2"
+    ],
+    "image_path": "images/06_유일필라_슈로스바_무타공_슈로스_운동기구_월바_바풀_철봉_필라테스_스트레.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "벽에 구멍 뚫기 싫어서 고민만 하다가 이거는 세워두는 거라서 일단 질렀어. 퇴근하고 다리 올려서 스트레칭 하나씩 하는 루틴이 생기니까 집에 있는 시간이 달라진 것 같아 🧘‍♀️",
+    "b": "필라테스 집에서도 이어가고 싶어서 샀는데 원목 봉이 인테리어랑 의외로 잘 어울려. 높이 조절 단계가 많아서 다양한 동작에 다 쓸 수 있어서 생각보다 활용도가 높아 🌿"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "oizy.vvv",
+    "url": "https://www.threads.com/@oizy.vvv/post/DfA-Q1bEqFx",
+    "views": 234,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/icB7BUblLM",
+    "final_url": "https://www.coupang.com/vp/products/9233925939?itemId=27298187191&src=1139000&spec=10799999&addtag=400&ctag=9233925939&lptag=AF8218604&itime=20261030131418&pageType=PRODUCT&pageValue=9233925939&wPcid=17905526599079763164544&wRef=&wTime=20261030131418&redirect=landing&traceid=V0-101-798dec8bf7191890&mcid=6c9402057c4b493eb041c5ff359853bc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9233925939",
+    "title": "다용도 화장대 수납함 정리함 대용량 3단 화장품 정리대 수납 케이스 반투명커버, 1개, 화이트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5749/0c14a256c8f76de83229bc096a4a9007089286ff729afdd42944346c54d3.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5749/0c14a256c8f76de83229bc096a4a9007089286ff729afdd42944346c54d3.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/icB7BUblLM"
+    ],
+    "image_path": "images/07_다용도_화장대_수납함_정리함_대용량_3단_화장품_정리대_수납_케이스_반투.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "화장품이 화장대에 다 널려 있다가 이거 놓고 나서 방이 다른 느낌이야. 반투명 커버 열면 뭐가 어디 있는지 한눈에 보여서 아침에 헤매는 시간이 확 줄었어 💄",
+    "b": "3단이라 스킨케어, 색조, 브러쉬 칸 나눠서 넣을 수 있어서 생각보다 많이 들어가더라. 문 안쪽에도 수납 공간 있다는 거 받고서야 알았는데 거기도 꽉 채워버렸어 🪞"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "zero_sunny67",
+    "url": "https://www.threads.com/@zero_sunny67/post/DfA-UsUlSaY",
+    "views": 164,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/icn2LwfFyC",
+    "final_url": "https://www.coupang.com/vp/products/7209734421?itemId=18242365213&src=1139000&spec=10799999&addtag=400&ctag=7209734421&lptag=AF0765793&itime=20261030131428&pageType=PRODUCT&pageValue=7209734421&wPcid=17905526599079763164544&wRef=&wTime=20261030131428&redirect=landing&traceid=V0-183-4dec9c16fd681df6&mcid=e3109e4a95294ff0bdcec37c76b49778&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7209734421",
+    "title": "존글로벌 전자레인지 더 촉촉 푸드 커버",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1135475618963106-00be7da2-93ad-43de-8bf8-d61c8565d7e2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1135475618963106-00be7da2-93ad-43de-8bf8-d61c8565d7e2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qaewe4p9/e3f7cc88468b4750990c1e72684a6470.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/lulvulcl/b9fcb8cabb3f4178a1da4ecae5062bc6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/q37hiy5l/b7be13d668114a8eb8b6f0cd16b8ec5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/11/08/16/4/61ab16a7-8bcb-46b4-bc9c-0ee8575c1d92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/66841501067913-8c76a8cd-c71b-4e3a-bc75-0049551321ac.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/66841479106161-854848c5-e1cb-4d6a-83cf-21ae5410d308.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2120439826069-7d71b166-27c4-40fa-a42b-44935c69e0b9.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/icn2LwfFyC"
+    ],
+    "image_path": "images/08_존글로벌_전자레인지_더_촉촉_푸드_커버.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "전자레인지 돌릴 때 튀어서 내부 닦는 게 너무 귀찮았는데 이거 씌우고 나서 그 고민이 없어졌어. 음식도 더 촉촉하게 데워지는 것 같아서 이제 안 쓰면 허전해 🐷",
+    "b": "냉동만두 데울 때 사방으로 터지는 거 보다가 이거 씌워봤는데 내부가 진짜 깔끔하게 유지됐어. 손잡이 있어서 꺼낼 때 뜨겁지 않은 것도 생각보다 편한 포인트야 💚"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "jachwi.daeun",
+    "url": "https://www.threads.com/@jachwi.daeun/post/De_R-2EjB-O",
+    "views": 160,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-27",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h6yx5ATz88",
+    "final_url": "https://www.coupang.com/vp/products/4971807620?itemId=6602194612&vendorItemId=73896221901&src=1139000&spec=10799999&addtag=400&ctag=4971807620&lptag=AF2514423&itime=20261030131436&pageType=PRODUCT&pageValue=4971807620&wPcid=17905526599079763164544&wRef=&wTime=20261030131436&redirect=landing&traceid=V0-183-ca0b4523740fa542&mcid=3d821be6cf3a4972b68be8a270a69c11&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4971807620",
+    "title": "홈플래닛 접이식 휴대용 알루미늄 노트북 거치대 (휴대용 파우치 포함)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6850755517283728-85c67df6-2eb0-46d3-8c72-742392d7b449.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6850755517283728-85c67df6-2eb0-46d3-8c72-742392d7b449.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5214001289459017-61f5adba-8881-412d-9c90-f83e17ac6145.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1732346280765601-477f8eed-eb27-43b9-9bad-331a0b0ee94f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1732346359989600-5dfb3761-4667-4cd4-8997-415aa19a08f9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1732346281296445-c2af5e52-89d4-4a34-a014-ee3d2776fc42.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3101974296779134-415f88c6-71ec-4766-8fd2-12857f81d180.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5214001320112234-05d9fbdd-dbc2-4568-ac00-7e1157487cfb.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_f8068a76-fd36-4345-bb0e-255b2ec642f6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h6yx5ATz88"
+    ],
+    "image_path": "images/09_홈플래닛_접이식_휴대용_알루미늄_노트북_거치대_(휴대용_파우치_포함).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "목 아픈 걸 당연하게 살다가 거치대 쓰고 나서 자세가 달라진 걸 느꼈어. 접으면 얇아서 파우치에 쏙 들어가니까 카페 갈 때도 그냥 챙겨 나가게 됐어 💻",
+    "b": "재택할 때 노트북 그냥 올려놨는데 이거 쓰면서 눈 레벨로 높이가 맞춰지니까 하루 끝나고 피로감이 달라. 알루미늄이라 가볍고 흔들리지 않아서 생각보다 쓸 만해 🙆"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "mood_fill_",
+    "url": "https://www.threads.com/@mood_fill_/post/DfDh6TQoSEl",
+    "views": 152,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZl8u0KDka",
+    "final_url": "https://www.coupang.com/vp/products/9719920835?itemId=29087498128&vendorItemId=96013133390&src=1139000&spec=10799999&addtag=400&ctag=9719920835&lptag=AF5647423&itime=20261030131444&pageType=PRODUCT&pageValue=9719920835&wPcid=17905526599079763164544&wRef=&wTime=20261030131444&redirect=landing&traceid=V0-183-21c63181830dbb19&mcid=1f07c5931ff2472bb3124c4475b771a6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=Threads1&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719920835",
+    "title": "버터 말랑이 스퀴시 말랑이 피젯토이 스트레스볼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZl8u0KDka"
+    ],
+    "image_path": "images/10_버터_말랑이_스퀴시_말랑이_피젯토이_스트레스볼.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "회의 중에 손 심심해서 책상에 하나 뒀는데 진짜 무한으로 주무르게 됨. 파스텔 색깔이라 책상 위에 있어도 안 이상하고 만지다 보면 괜히 기분 전환이 돼 🩷",
+    "b": "애 장난감 사려다 나도 모르게 하나 더 주문해버렸어. 찰흙 같은 말랑함이 아니라 탄성 있게 돌아오는 질감인데 그게 계속 손이 가게 만드는 이유인 것 같아 🫧"
+   }
+  }
+ ]
+}
