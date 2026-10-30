@@ -1,0 +1,466 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-31T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-10-31T08:23:02"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "slowly_better09",
+    "url": "https://www.threads.com/@slowly_better09/post/DfDkCrbiBTR",
+    "views": 980,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/ibNtfgQxqu",
+    "final_url": "https://www.coupang.com/vp/products/9652652705?src=1139000&spec=10799999&addtag=400&ctag=9652652705&lptag=AF3226657&itime=20261031081620&pageType=PRODUCT&pageValue=9652652705&wPcid=17905526599079763164544&wRef=&wTime=20261031081620&redirect=landing&traceid=V0-183-33bf69ca4dff1f8d&mcid=38f634ea12a24ae2b47d27526b891889&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9652652705",
+    "title": "JS-TOP 세탁기 건조기 받침대 진동방지패드 4P",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01_1792116166700.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01_1792116166700.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b238/34596d9a66afa5ced568ef168c2c54136c23c8a455c5a05b8185e6e0b759.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/23f9/6077ceb3b3da52ce92b2eebb549932c683efdc35e481fed520cf0f971c51.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/921c/4f120e799c497c7335c12ca6b30295db43c805292042520136cb56f5f7f6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8075/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/ibNtfgQxqu"
+    ],
+    "image_path": "images/01_JS-TOP_세탁기_건조기_받침대_진동방지패드_4P.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "탈수할 때마다 세탁기가 막 걸어다니는 것처럼 움직여서 진짜 스트레스였는데 이거 끼우고 나서 확실히 잡히더라. 층간소음 눈치 보느라 밤에 못 돌렸는데 이제 좀 편해졌어. 고무 재질이라 미끄러지지도 않고 생각보다 잘 버텨줌 🙌",
+    "b": "세탁기 발에 이거 하나 끼웠을 뿐인데 덜컹거리는 소리가 확 달라지더라. 설치도 30초도 안 걸리고 그냥 발 밑에 끼우면 끝이야. 쓸데없어 보이지만 쓰고 나면 왜 진작 안 했나 싶은 거 있잖아 👍"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "hamster.masi",
+    "url": "https://www.threads.com/@hamster.masi/post/DfDi5NBDT6T",
+    "views": 759,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/idGVcbXmWO",
+    "final_url": "https://www.coupang.com/vp/products/8351976645?src=1139000&spec=10799999&addtag=400&ctag=8351976645&lptag=AF2645697&itime=20261031081629&pageType=PRODUCT&pageValue=8351976645&wPcid=17905526599079763164544&wRef=&wTime=20261031081629&redirect=landing&traceid=V0-183-2577f6cf768f4a39&mcid=0307b950bf804e599aa83fba18cfe761&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8351976645",
+    "title": "에브릭 접었다폈다 무타공 욕실 선반 화장실 옷 보관",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/969a/86e06420b50f4556b0b16542fdca052be138726d2b5f71924f49267e96d2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/969a/86e06420b50f4556b0b16542fdca052be138726d2b5f71924f49267e96d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b712/f481d11982f914bdef958153f913e18259e4a694d0aab14f9ad19b07806e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/15cf/cd681dd93ab0c350fcb5fe956a449a6a2cd3e76757b4aed439ede49c93d0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af7c/f823c9eca03c94d10bf3f0aeadd08f9bd8aef68bdd3f59f091b0ba53029d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c65/06fdf8e1f8cd424ffef9fdf10fc37dfa7d9652e2f5e8868ccbf419cf1aa6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcd3/3133a8418968789a1d095552425f42794b8ca9876cd0c17985fb27e4bff4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb25/65fc3a3b1f9c84503c2c1b6e2d7a7d137bc1af4900353d4efa210ac496f5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8892/e050a3f4bb55a0f67f6e8cd98397dbc9bfb2b6e27a7b66d68ae04c2c37b6.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=b9cXCy3dXfo",
+     "https://www.youtube.com/watch?v=HxzyAUmISOk"
+    ],
+    "all_links": [
+     "http://link.coupang.com/a/idGVcbXmWO"
+    ],
+    "image_path": "images/02_에브릭_접었다폈다_무타공_욕실_선반_화장실_옷_보관.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실에 선반 달고 싶었는데 구멍 뚫기 싫어서 맨날 참았는데 이거 문에 걸어두니까 진짜 해결됐어. 수건이랑 소품 올려두니까 욕실이 정리된 느낌이 나고, 안 쓸 때 접어두면 자리도 안 차지함. 세입자한테 딱인 아이템임 🛁",
+    "b": "화장실이 항상 어수선했는데 이거 달고 나서 물건 올려두니까 확실히 달라 보임. 벽에 구멍 없이 쓸 수 있으니까 이사할 때 그냥 가져가면 되는 것도 좋고, 접었다 폈다 되는 것도 실용적임. 욕실 하나에 이 정도 수납이면 충분한 듯 👌"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "gaja2nom",
+    "url": "https://www.threads.com/@gaja2nom/post/DfBb_SmCVDM",
+    "views": 243,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hHupSmzDQO",
+    "final_url": "https://www.coupang.com/vp/products/7201397015?itemId=28756165120&src=1139000&spec=10799999&addtag=400&ctag=7201397015&lptag=AF3950188&itime=20261031081636&pageType=PRODUCT&pageValue=7201397015&wPcid=17905526599079763164544&wRef=&wTime=20261031081636&redirect=landing&traceid=V0-101-f644b525e529e57b&mcid=757360518ca749be9fb9c557ed2676f4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7201397015",
+    "title": "메디힐 마데카소사이드 에센셜 마스크 흔적 리페어, 1개, 10개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ebc1/d15824308e52eae63868b92529f1178c0320eeee8f767f9e4ec4b158c945.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ebc1/d15824308e52eae63868b92529f1178c0320eeee8f767f9e4ec4b158c945.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ff87/8dbe10aabcf4af5020f12aaa08292d7d92fc1e3fd57328a7d5d17da543e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d195/d0682033044ceec23adf689e985413bb3e17bd019eaecffeb8e7e252735b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcee/44a1a6a9fba150ba6e27aff8ea57df5d05f6a5b720691b22a3c50dc193af.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/82c1/d5167aa871cf3168cacee93d4437bfbd4055aa603a9a64409345eb807186.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7bcc/51366a2e78f2e59e4b558d914612fb4010d09ad41dd1b8ccec48ad93b6a6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7340/60b044b0e5845e1150a237fc59da6aae44a4e615141617161e9ceec8c2f2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hHupSmzDQO"
+    ],
+    "image_path": "images/03_메디힐_마데카소사이드_에센셜_마스크_흔적_리페어,_1개,_10개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "피부 예민한 날 저녁에 이거 딱 붙이고 자면 다음날 뭔가 좀 진정된 느낌이 나더라. 10개짜리라 부담 없이 꺼내 쓸 수 있고, 에센스가 많이 남아서 목에도 발라줌. 자극 없이 마무리되는 느낌이라 자주 쓰게 됨 🌿",
+    "b": "시트가 얇아서 밀착이 잘 되고 폰 보다가 그냥 자도 되는 게 편해. 마스크 쓰고 나서 남는 에센스로 팔이랑 손까지 바르면 하나도 아깝지 않더라. 10장이라 꾸준히 쓰기 딱 좋은 양임 🌊"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "richradarlab",
+    "url": "https://www.threads.com/@richradarlab/post/DfCZfWEEi-i",
+    "views": 234,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idxU0Pb56i",
+    "final_url": "https://www.coupang.com/vp/products/9781083360?itemId=29282367481&src=1139000&spec=10799999&addtag=400&ctag=9781083360&lptag=AF0745235&itime=20261031081704&pageType=PRODUCT&pageValue=9781083360&wPcid=17905526599079763164544&wRef=&wTime=20261031081704&redirect=landing&traceid=V0-101-b825e6f349aa44d0&mcid=996f41ad884f48b2a9b9ead8c91e9b49&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9781083360",
+    "title": "먼작귀 태양열 스윙 피규어 흔들흔들 차량용품 데스크테리어 소품 2종, 1개, 가르마",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1eaf/d779f28c73b627c61cb870f345f5dd022b3ea020128fde70b0959c5ce949.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1eaf/d779f28c73b627c61cb870f345f5dd022b3ea020128fde70b0959c5ce949.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/51c6/beb362f3796bd2629f0f9cd1063cdd76f2ea896d2457cfeace6d73fb3302.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5b8/c411dfeacaaefecdface7a021a8cf3181e02f50b1822615f2f03de893388.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5d8/b3639be7dc15272a64bf860a3df243ec04d56b5deb0543f97f2cbdb9226e.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=U4Y_u_9zOsA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/idxU0Pb56i"
+    ],
+    "image_path": "images/04_먼작귀_태양열_스윙_피규어_흔들흔들_차량용품_데스크테리어_소품_2종,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 이거 올려뒀는데 햇빛 들어올 때마다 혼자 살랑살랑 흔들거려서 자꾸 쳐다보게 됨. 먼작귀 캐릭터가 배터리도 없이 혼자 움직이는 게 신기하고 너무 귀여워. 일하다 지칠 때 옆에 있으면 기분이 좀 풀리더라 😸",
+    "b": "차 대시보드에 두고 다니는데 햇빛 받으면 귀가 막 흔들거리는 게 볼 때마다 귀엽잖아. 타는 사람마다 뭔지 물어봐서 얘기해주는 재미도 생겼어. 배터리 없이 태양열로 움직이는 거라 그냥 두면 되는 것도 좋음 ☀️"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "work_smart_k",
+    "url": "https://www.threads.com/@work_smart_k/post/DfB5nxiCAGz",
+    "views": 190,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/icRrpWN8M0",
+    "final_url": "https://www.coupang.com/vp/products/7666705471?src=1139000&spec=10799999&addtag=400&ctag=7666705471&lptag=AF8614230&itime=20261031081711&pageType=PRODUCT&pageValue=7666705471&wPcid=17905526599079763164544&wRef=&wTime=20261031081711&redirect=landing&traceid=V0-183-30eb06d95e711020&mcid=7443dae771f14cbca63f7b7d8bf9f02f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7666705471",
+    "title": "스텐 과일깎기 사과 배 채칼 커터기 과일플레이팅",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1780985886758/24d67b83-b092-4bc4-abc2-b025295e38ac.PNG",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1780985886758/24d67b83-b092-4bc4-abc2-b025295e38ac.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5b7f/5115d7ac520ee467bc1c81c713f50eeda7863749f8fdb9bb254e0592d5ed.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/icRrpWN8M0"
+    ],
+    "image_path": "images/05_스텐_과일깎기_사과_배_채칼_커터기_과일플레이팅.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "사과 깎는 게 귀찮아서 맨날 안 먹다가 이거 쓰고 나서 매일 먹게 됐어. 위에 올리고 꾹 누르면 한 번에 다 잘려서 진짜 신기하고, 씻기도 간단함. 과일 먹는 빈도가 확 달라진 게 이것 때문인 것 같음 🍎",
+    "b": "손님 왔을 때 과일 플레이팅 하려면 원래 한참 깎아야 했는데 이거 있으니까 너무 빠르고 쉬워. 큰 배도 한 번에 균일하게 잘리고 스텐이라 관리도 깔끔하게 됨. 부엌에 하나 있으면 진짜 두고두고 쓰는 물건임 🍐"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "shopping_map_jiyoung",
+    "url": "https://www.threads.com/@shopping_map_jiyoung/post/DfCZtxsmA7R",
+    "views": 171,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idx3ZahBTg",
+    "final_url": "https://www.coupang.com/vp/products/9648038896?itemId=28834699218&src=1139000&spec=10799999&addtag=400&ctag=9648038896&lptag=AF8473889&itime=20261031081719&pageType=PRODUCT&pageValue=9648038896&wPcid=17905526599079763164544&wRef=&wTime=20261031081719&redirect=landing&traceid=V0-101-2f8c654da2b8b16f&mcid=3a77a9bf04b64b3ea0cc33612d367da2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9648038896",
+    "title": "오리온 황치즈칩쿠키, 256g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/99b8/1d02ed7a2c04fafaa46f32e404066180eda7ec3100b04e555ec36233ce47.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/99b8/1d02ed7a2c04fafaa46f32e404066180eda7ec3100b04e555ec36233ce47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c29f/e6c5a0f255c6ed694e24f004ff0191e81174c3d8f171e95e567946cc0a33.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/idx3ZahBTg"
+    ],
+    "image_path": "images/06_오리온_황치즈칩쿠키,_256g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "황치즈칩쿠키 처음엔 한 개만 먹으려다 한 봉지 다 비워버렸어. 치즈 향이 진하면서 바삭한 게 진짜 참기 힘든 맛이라 손이 계속 가더라. 4봉지 들어있어서 혼자 먹기엔 좀 많은 거 알지만 그냥 다 먹음 🧀",
+    "b": "야근할 때 이거 뜯었다가 어느새 봉지 다 비운 적 있음. 커피랑 같이 먹으면 짭짤하고 바삭한 게 너무 잘 맞아서 요즘 세트처럼 먹고 있어. 자꾸 집어먹게 돼서 다음에 또 살 것 같음 😅"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/DfGJVGro81v",
+    "views": 168,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 1.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOvoEUnvqu",
+    "final_url": "https://www.coupang.com/vp/products/9039166591?src=1139000&spec=10799999&addtag=400&ctag=9039166591&lptag=AF8516915&itime=20261031081727&pageType=PRODUCT&pageValue=9039166591&wPcid=17905526599079763164544&wRef=&wTime=20261031081727&redirect=landing&traceid=V0-183-b4f1573b7b1ebb5b&mcid=4f9a7c67a1674d4bb3faa2793d8c2486&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9039166591",
+    "title": "롤리프리 C to C타입 실리콘 초고속 충전 240w 케이블",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c1b/9a783df6649ed03df59421d5061bcd600e834ab82afcce1b65e343b6a8b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f62/59b0376d3c5d0a6c7ddaef361f3ebe29cef735233c4bb51f8124b57ffd08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8055/ce4481474992bc193f9e1be614a2878b412ee7f7e3fe4d9b22ffaf8e94b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7490/1403f97bc976679bcbb48dc4c7c7d043a60485a9e7113fc4d99e61619d25.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/986a/2facb164428bebde9af0112d1ac2b407fa89f7c8a869976296c47dd1c184.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc78/1b0d18b05659d538950cf205c915aebb0e8faf3a8eb9d83387d1cd160801.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bab/a2a91601b95384d8fd9ac33b07f47471516678b3c8bb5d3699e7738dae88.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=LOx2fzo3VuM",
+     "https://www.youtube.com/watch?v=dwGGxBMtVwI",
+     "https://www.youtube.com/watch?v=S2PKz4UnaRk",
+     "https://www.youtube.com/watch?v=7eKYbUNvNCs",
+     "https://www.youtube.com/watch?v=lElBC7A9-1c",
+     "https://www.youtube.com/watch?v=c-P8Xi7ma5c",
+     "https://www.youtube.com/watch?v=nyixkAwv3IU",
+     "https://www.youtube.com/watch?v=7scdqoH4VOg",
+     "https://www.youtube.com/watch?v=F1K1SVQkwDQ",
+     "https://www.youtube.com/watch?v=-IWFJWP_qCU",
+     "https://www.youtube.com/watch?v=VaiHsL3AcfI",
+     "https://www.youtube.com/watch?v=l9JZMtnesmE",
+     "https://www.youtube.com/watch?v=lnfkSRXdxSk",
+     "https://www.youtube.com/watch?v=Gq5-reLsUT4",
+     "https://www.youtube.com/watch?v=_YvglDPgGx4",
+     "https://www.youtube.com/watch?v=9xLm7fD01Q8",
+     "https://www.youtube.com/watch?v=BvoVFpKvZUA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hOvoEUnvqu"
+    ],
+    "image_path": "images/07_롤리프리_C_to_C타입_실리콘_초고속_충전_240w_케이블.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "충전 케이블 색 예쁜 거 찾다가 이 라벤더 색 보고 바로 샀어. 실리콘이라 구겨지거나 끊어질 걱정이 줄었고, 가죽 끈으로 깔끔하게 정리도 됨. 책상에 두면 소품처럼 보이는 것도 마음에 드는 포인트임 💜",
+    "b": "케이블이 자꾸 꺾여서 접촉 불량 났는데 실리콘으로 바꾸니까 그런 거 없어서 좋아. 색이 파스텔 라벤더에 핑크 커넥터라 보기에도 예쁘고, 충전 속도도 느리지 않음. 케이블 하나로 이렇게 기분이 달라지는 게 신기하다 🎀"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "mood_fill_",
+    "url": "https://www.threads.com/@mood_fill_/post/DfDh6TQoSEl",
+    "views": 155,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZl8u0KDka",
+    "final_url": "https://www.coupang.com/vp/products/9719920835?itemId=29087498128&vendorItemId=96013133390&src=1139000&spec=10799999&addtag=400&ctag=9719920835&lptag=AF5647423&itime=20261031081735&pageType=PRODUCT&pageValue=9719920835&wPcid=17905526599079763164544&wRef=&wTime=20261031081735&redirect=landing&traceid=V0-183-21c63181830dbb19&mcid=8aa9f61d6e174be3833e13e3b5071314&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=Threads1&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719920835",
+    "title": "버터 말랑이 스퀴시 말랑이 피젯토이 스트레스볼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZl8u0KDka"
+    ],
+    "image_path": "images/08_버터_말랑이_스퀴시_말랑이_피젯토이_스트레스볼.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "스트레스받을 때 이거 손에 쥐고 쭈물거리면 묘하게 좀 풀리는 느낌이야. 말랑하면서도 탄탄해서 금방 찢어지거나 하는 것도 없고, 색도 파스텔이라 책상에 있어도 귀여움. 손이 심심할 때 자꾸 찾게 되는 물건임 🩷",
+    "b": "회의 중에 이거 손에 들고 있으면 집중이 좀 더 되는 것 같더라. 쥐어짜다 보면 모양이 바뀌는 게 재밌고, 파스텔 색 여러 개라 골라 쓰는 맛도 있음. 생각보다 꽤 오래 쓰고 있는 물건임 💛"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "yoalje",
+    "url": "https://www.threads.com/@yoalje/post/DfBgluWFYPY",
+    "views": 150,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZySKGp81Y",
+    "final_url": "https://www.coupang.com/vp/products/8998910498?itemId=26370448733&vendorItemId=96200282423&src=1139000&spec=10799999&addtag=400&ctag=8998910498&lptag=AF5394847&itime=20261031081745&pageType=PRODUCT&pageValue=8998910498&wPcid=17905526599079763164544&wRef=&wTime=20261031081745&redirect=landing&traceid=V0-183-22a435b48883807c&mcid=3121a97dc3264151b66123fa645bdfca&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8998910498",
+    "title": "벽걸이 원목 식탁 탁자 고정 원룸 고정 기숙사, 1개, 5층 80형 155x80판재포함",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a3d1/5fb78862e217e25eef6248bc8ef6ae55bac0d762c3d1636f75964ae805ad.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a3d1/5fb78862e217e25eef6248bc8ef6ae55bac0d762c3d1636f75964ae805ad.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3b3c/881ef266d46e1b98a41954270755600ff6b25aaef4ff63a99b4325f9d633.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/10cd/c9ca328ec54164962137d22329e945efd3d72dfd84b30c3a4dfe9b5a0644.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/84f2/65abf075350eed54818b735802ca34ae1ed9e5782b78a814c42f1cc40c76.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1c13/b93cad15879dd0afac7909e558eb3e330f3bf60014c842876c2d002b612a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZySKGp81Y"
+    ],
+    "image_path": "images/09_벽걸이_원목_식탁_탁자_고정_원룸_고정_기숙사,_1개,_5층_80형_15.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "원룸이라 식탁 둘 공간이 없었는데 이거 벽에 달았더니 진짜 공간이 생겼어. 안 쓸 때 접어두면 공간도 안 차지하고, 옆에 선반도 있어서 수납도 해결됨. 원룸 인테리어 고민이 이걸로 꽤 해결됐다 🪵",
+    "b": "기숙사에 들여놨는데 벽 하나가 식탁 겸 책상이 되는 게 신기해. 선반이 여러 층이라 책이랑 잡동사니 올려두기 딱이고, 원목이라 보기에도 괜찮음. 작은 방을 훨씬 넓게 쓸 수 있게 된 느낌임 ✨"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "smalltalk0702",
+    "url": "https://www.threads.com/@smalltalk0702/post/DfBfAGaD0Eh",
+    "views": 118,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/h1z25cgTwO",
+    "final_url": "https://www.coupang.com/vp/products/7669929107?itemId=27126357277&src=1139000&spec=10799999&addtag=400&ctag=7669929107&lptag=AF4182355&itime=20261031081753&pageType=PRODUCT&pageValue=7669929107&wPcid=17905526599079763164544&wRef=&wTime=20261031081753&redirect=landing&traceid=V0-101-794d6b211bfd7e23&mcid=8284441680f74d1a820ed82e5606df01&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7669929107",
+    "title": "목편한세상 30포, 1.5g, 30개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/c22af857-004b-4e95-8558-f84fbeb962d5_1785230765459.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/c22af857-004b-4e95-8558-f84fbeb962d5_1785230765459.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/h1z25cgTwO"
+    ],
+    "image_path": "images/10_목편한세상_30포,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "목이 칼칼하고 건조한 날 이거 하나 타서 마시는 게 루틴이 됐어. 도라지 향이 나는데 생각보다 마시기 편하고, 30포라 꽤 오래 쓰게 됨. 목 불편한 날마다 생각나서 찾게 되는 게 생겼다 🌿",
+    "b": "환절기에 목 칼칼한 게 심해서 이거 챙겨두기 시작했어. 스틱 포장이라 들고 다니기 편하고 어디서든 물에 타서 마실 수 있음. 꾸준히 마시다 보니까 목 컨디션에 더 신경 쓰게 되는 것 같더라 🍵"
+   }
+  }
+ ]
+}
