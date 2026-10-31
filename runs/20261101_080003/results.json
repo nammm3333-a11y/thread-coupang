@@ -1,0 +1,463 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-01T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-01T08:22:23"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "p1star.__",
+    "url": "https://www.threads.com/@p1star.__/post/DfECw3rkRKL",
+    "views": 571,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h3D7puSloW",
+    "final_url": "https://www.coupang.com/vp/products/8962727295?src=1139000&spec=10799999&addtag=400&ctag=8962727295&lptag=AF9251215&itime=20261101081637&pageType=PRODUCT&pageValue=8962727295&wPcid=17905526599079763164544&wRef=&wTime=20261101081637&redirect=landing&traceid=V0-183-4b0e76008717ca18&mcid=d3a17e419cc34760825013ae62312a71&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=p1star1029&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8962727295",
+    "title": "스토렐라 곰돌이 피크닉가방 도시락가방 보온보냉백 예쁜직장인도시락가방",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b236/53bef518a29b48af4c907da4a432332fe86a1aa494574eaada73171955b4.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b236/53bef518a29b48af4c907da4a432332fe86a1aa494574eaada73171955b4.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h3D7puSloW"
+    ],
+    "image_path": "images/01_스토렐라_곰돌이_피크닉가방_도시락가방_보온보냉백_예쁜직장인도시락가방.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이 도시락가방 들고 출근하면 뭔가 기분이 달라짐... 곰돌이 자수가 너무 귀여워서 밥 먹기 전에 사진부터 찍게 됨 보냉도 잘 돼서 점심이 기다려지는 날이 됨 🐻",
+    "b": "피크닉 때 이거 꺼냈더니 주변에서 다 어디서 샀냐고 물어봄ㅋㅋ 도시락가방이 주인공이 되는 날이 올 줄은 몰랐음 집에 와서도 괜히 한 번 더 꺼내보게 됨 🍒"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "angum.zip",
+    "url": "https://www.threads.com/@angum.zip/post/DfEEwp-CZs_",
+    "views": 553,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ieC6lpn2A0",
+    "final_url": "https://www.coupang.com/vp/products/2069651089?itemId=3516595591&src=1139000&spec=10799999&addtag=400&ctag=2069651089&lptag=AF7141013&itime=20261101081647&pageType=PRODUCT&pageValue=2069651089&wPcid=17905526599079763164544&wRef=&wTime=20261101081647&redirect=landing&traceid=V0-101-7530e71a4f19466c&mcid=41af6c7cf5634de0a6093e02bd898b8a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2069651089",
+    "title": "옥희독희 고양이 죽은털 제거 뽀송 브러쉬 9.5 x 15.6 cm, 화이트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37430097041381-bda449da-9ebd-4a9e-a394-6992a8f1f75a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37430097041381-bda449da-9ebd-4a9e-a394-6992a8f1f75a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37430097555264-2af0c7b5-42d0-455e-a04c-f2f1967871a7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37423110360203-9e4ec9cd-d8be-4f0c-a2e9-a2959c319c41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229569340052115-461c197c-093e-4110-bafb-688a210c9e0f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/508801725789409-99fe0cfe-a622-4cb3-ae83-ed617305a363.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/10594663729099-dc5f2d61-84fc-4990-b1df-d1d50b71f2b9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/100373023245430-cbcb9d5d-5b8a-49ab-bb6c-00ecd0e8bc58.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/506648698273012-942d72a1-cddf-4913-9384-5f34cc8b5984.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=F41SnaasbBA",
+     "https://www.youtube.com/watch?v=tO724YdBReE"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/ieC6lpn2A0"
+    ],
+    "image_path": "images/02_옥희독희_고양이_죽은털_제거_뽀송_브러쉬_9.5_x_15.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이 빗질할 때 털이 사방에 날려서 스트레스였는데 이거 쓰고 나서 달라짐 버튼 꾹 누르면 털이 쏙 빠지는 게 은근히 재밌음 빗질 시간이 기다려지기 시작함 🐱",
+    "b": "우리 냥이가 브러쉬 싫어할까봐 걱정했는데 생각보다 좋아함... 하얀 디자인이 깔끔해서 인테리어 방해도 안 됨 매일 빗질 꼬박꼬박 하게 됨 🐾"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "slowly_better09",
+    "url": "https://www.threads.com/@slowly_better09/post/DfEotI_ABNs",
+    "views": 461,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/ibPt028U1Y",
+    "final_url": "https://www.coupang.com/vp/products/9487223695?src=1139000&spec=10799999&addtag=400&ctag=9487223695&lptag=AF3226657&itime=20261101081655&pageType=PRODUCT&pageValue=9487223695&wPcid=17905526599079763164544&wRef=&wTime=20261101081655&redirect=landing&traceid=V0-183-751009c1e3bced31&mcid=56e28bbc256a4871b1f2e7d028104fb1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9487223695",
+    "title": "ASMR 30분 자동꺼짐 곰 수면등 LED 무드등 취침등 타이머 조명 출산선물",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1d7c/213fce1228a96429deb239aebf40dc02301fbad7f44a8e73c8f9a83b4068.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1d7c/213fce1228a96429deb239aebf40dc02301fbad7f44a8e73c8f9a83b4068.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2253/9dd387db1749f2edcff69998d776bee7270bcd2191ee4505f211c81667bb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9e3/f6a59d5e4e543411a5efa191f4b9e6070b56286664ce6bd4a5405f712b7b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b06d/0fa67d2080ba954b237ea5bb71a32c5c8b90b02b263eaf87f215babea2b5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ee7d/8eb95f9a01a7b1d55fe2205ff96f88de3d293bf958e6d81556cb7f4dabbb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b710/c75fadc34ba8d291243558e2cfc0a44940a2fd83cf6ae34498731eaf5fe6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/ibPt028U1Y"
+    ],
+    "image_path": "images/03_ASMR_30분_자동꺼짐_곰_수면등_LED_무드등_취침등_타이머_조명_출.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "자기 전에 켜두면 방이 너무 아늑해서 눈이 빨리 감기는 기분... 자동꺼짐 되니까 그냥 켜두고 자도 됨 이게 없으면 잠드는 게 뭔가 아쉬울 것 같음 🌙",
+    "b": "낮엔 인테리어 소품으로 두다가 밤에 켜면 분위기가 완전 달라짐 누워서 곰돌이 바라보면서 쉬는 게 요즘 제일 좋은 시간임 아이 선물로도 진심 찰떡일 것 같음 🐻"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "hhhhju440622k",
+    "url": "https://www.threads.com/@hhhhju440622k/post/DfGHGaooDhC",
+    "views": 328,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifJ34yOjAq",
+    "final_url": "https://www.coupang.com/vp/products/9385160079?src=1139000&spec=10799999&addtag=400&ctag=9385160079&lptag=AF4115962&itime=20261101081704&pageType=PRODUCT&pageValue=9385160079&wPcid=17905526599079763164544&wRef=&wTime=20261101081704&redirect=landing&traceid=V0-183-d9dd34cd663e1e13&mcid=3a75362e6282417386d57f24358146b5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9385160079",
+    "title": "VT PDRN 광채토너 200ml (안개분사 스프레이 120ml 공병 포함)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9318/d58173f4e1db9c61223d691f3bd23c6a665b023bc45f4c0194afb76be194.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9318/d58173f4e1db9c61223d691f3bd23c6a665b023bc45f4c0194afb76be194.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifJ34yOjAq"
+    ],
+    "image_path": "images/04_VT_PDRN_광채토너_200ml_(안개분사_스프레이_120ml_공병_포.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "공병에 나눠서 스프레이로 뿌려 쓰는 루틴이 생겼음 세안 후에 피부가 촉촉하게 정돈되는 느낌이 좋아서 요즘 스킨케어 시간이 제일 기다려짐 외출 전에 한 번 더 뿌리게 됨 ✨",
+    "b": "여행 갈 때 공병에 소분해서 챙겼는데 진짜 편했음 스프레이라 손 안 타도 돼서 아침에 부스스할 때 뿌리기 딱 좋더라 이제 없으면 허전할 것 같음 💧"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "kkultem_charge",
+    "url": "https://www.threads.com/@kkultem_charge/post/DfEuP98kiYL",
+    "views": 247,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iddvGrDfmC",
+    "final_url": "https://www.coupang.com/vp/products/7730570074?itemId=20772088658&vendorItemId=87779229736&src=1139000&spec=10799999&addtag=400&ctag=7730570074&lptag=AF8419055&itime=20261101081711&pageType=PRODUCT&pageValue=7730570074&wPcid=17905526599079763164544&wRef=&wTime=20261101081711&redirect=landing&traceid=V0-183-1e5ea30c376fa142&mcid=24f59741806e4850a20ff48bfec778a6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7730570074",
+    "title": "펜텔 매트홉 펜 볼펜 겔펜 다이어리 데코 선물 일러스트 다꾸펜",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5e13/bab4f0d552e77bcc890c78616364650d92bf4462d2702db37f7047b3f4e5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5e13/bab4f0d552e77bcc890c78616364650d92bf4462d2702db37f7047b3f4e5.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iddvGrDfmC"
+    ],
+    "image_path": "images/05_펜텔_매트홉_펜_볼펜_겔펜_다이어리_데코_선물_일러스트_다꾸펜.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "하나만 살까 하다가 색 다 담아버림... 은은하게 예쁜 색에 번짐도 없어서 다꾸할 때 쓰기 딱임 펜 색깔 고르는 것도 하나의 재미가 됨 ✏️",
+    "b": "다이어리 안 꾸미던 나도 이거 사고 나서 꾸미기 시작함 색깔별로 메모 구분하니까 나중에 보기도 편하고 그냥 뭐라도 적고 싶어지는 펜임 🎨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/DfGJVGro81v",
+    "views": 172,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOvoEUnvqu",
+    "final_url": "https://www.coupang.com/vp/products/9039166591?src=1139000&spec=10799999&addtag=400&ctag=9039166591&lptag=AF8516915&itime=20261101081750&pageType=PRODUCT&pageValue=9039166591&wPcid=17905526599079763164544&wRef=&wTime=20261101081750&redirect=landing&traceid=V0-183-b4f1573b7b1ebb5b&mcid=3863e785b5484bd7934b355dd437fdfb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9039166591",
+    "title": "롤리프리 C to C타입 실리콘 초고속 충전 240w 케이블",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c1b/9a783df6649ed03df59421d5061bcd600e834ab82afcce1b65e343b6a8b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f62/59b0376d3c5d0a6c7ddaef361f3ebe29cef735233c4bb51f8124b57ffd08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8055/ce4481474992bc193f9e1be614a2878b412ee7f7e3fe4d9b22ffaf8e94b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7490/1403f97bc976679bcbb48dc4c7c7d043a60485a9e7113fc4d99e61619d25.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/986a/2facb164428bebde9af0112d1ac2b407fa89f7c8a869976296c47dd1c184.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc78/1b0d18b05659d538950cf205c915aebb0e8faf3a8eb9d83387d1cd160801.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bab/a2a91601b95384d8fd9ac33b07f47471516678b3c8bb5d3699e7738dae88.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=LOx2fzo3VuM",
+     "https://www.youtube.com/watch?v=dwGGxBMtVwI",
+     "https://www.youtube.com/watch?v=S2PKz4UnaRk",
+     "https://www.youtube.com/watch?v=7eKYbUNvNCs",
+     "https://www.youtube.com/watch?v=lElBC7A9-1c",
+     "https://www.youtube.com/watch?v=c-P8Xi7ma5c",
+     "https://www.youtube.com/watch?v=nyixkAwv3IU",
+     "https://www.youtube.com/watch?v=7scdqoH4VOg",
+     "https://www.youtube.com/watch?v=F1K1SVQkwDQ",
+     "https://www.youtube.com/watch?v=-IWFJWP_qCU",
+     "https://www.youtube.com/watch?v=VaiHsL3AcfI",
+     "https://www.youtube.com/watch?v=l9JZMtnesmE",
+     "https://www.youtube.com/watch?v=lnfkSRXdxSk",
+     "https://www.youtube.com/watch?v=Gq5-reLsUT4",
+     "https://www.youtube.com/watch?v=_YvglDPgGx4",
+     "https://www.youtube.com/watch?v=9xLm7fD01Q8",
+     "https://www.youtube.com/watch?v=BvoVFpKvZUA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hOvoEUnvqu"
+    ],
+    "image_path": "images/06_롤리프리_C_to_C타입_실리콘_초고속_충전_240w_케이블.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "보라색이라 책상 위에 두면 뭔가 분위기 나는데 충전도 빠름... 케이블인데 예쁜 게 이렇게 기분 좋을 줄 몰랐음 실리콘이라 꼬임도 없어서 편함 💜",
+    "b": "가죽 스트랩으로 묶어두니까 책상이 덜 지저분해 보임 충전 속도도 확실히 빠르고 색도 예뻐서 만족 케이블 바꿨을 뿐인데 책상이 달라 보이는 마법 🔌"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/DfEApnGk6ZR",
+    "views": 129,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBgoEMRfeS",
+    "final_url": "https://www.coupang.com/vp/products/9044489008?itemId=26540456170&src=1139000&spec=10799999&addtag=400&ctag=9044489008&lptag=AF3704167&itime=20261101081757&pageType=PRODUCT&pageValue=9044489008&wPcid=17905526599079763164544&wRef=&wTime=20261101081757&redirect=landing&traceid=V0-101-3f26a20acbd5ff41&mcid=01551b28aa0e4707a32c570ef8372fd8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9044489008",
+    "title": "뉴발란스 1906L 남녀공용 페니 로퍼 블랙 레더 U1906LBN",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d89/3af4b6ac866dc83fef77333c2fb34d10a62b40d392fd3f4e36cddeedded5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4d89/3af4b6ac866dc83fef77333c2fb34d10a62b40d392fd3f4e36cddeedded5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/89d3/cfb50b7b3adb5a94bb8cec39e6a96349e19b2c7ef2dfd967561851b12a21.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f83a/394ed28ec8f46a9fdf761db2645f222a6ac9ad2f08a937b3e44ff4a9c30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/618e/dd7d6b27e019a60f942755bb863d34a0d8ac017234689ad154163b8f12cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/930b/0f94bb82e51bd74b3a1f145713178cae5ae5e8d95a1eb816bcad8a789dfc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6bdc/95f712364ef3dbd38db9c0062d29b4b388aa7fba39e5898be5897eab4f56.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f48/687ea2a0bfb20a5eafeab1097ef64348cec253cb6964191522888faffdc2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8dee/d0749ea7fbb82445281fddcf669752da924dbd39889471cdbf7d3729c5a3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBgoEMRfeS"
+    ],
+    "image_path": "images/07_뉴발란스_1906L_남녀공용_페니_로퍼_블랙_레더_U1906LBN.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "슬랙스에 딱 맞을 것 같아서 질렀는데 두꺼운 밑창이 오히려 더 멋있음... 하루 신고 돌아다녔는데 발이 생각보다 안 아파서 감동 이제 제일 자주 신는 신발 됨 🖤",
+    "b": "로퍼인데 운동화 밑창이라 오래 걸어도 버틸 만함 블랙 하나면 코디 고민 없이 뭐든 다 됨 신고 나가면 괜히 옷 잘 입은 사람 된 기분 👞"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "coemyeongbu",
+    "url": "https://www.threads.com/@coemyeongbu/post/DfF9Q91k6hc",
+    "views": 97,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifP1BWMaya",
+    "final_url": "https://www.coupang.com/vp/products/9707370402?itemId=29042401333&src=1139000&spec=10799999&addtag=400&ctag=9707370402&lptag=AF5224825&itime=20261101081805&pageType=PRODUCT&pageValue=9707370402&wPcid=17905526599079763164544&wRef=&wTime=20261101081805&redirect=landing&traceid=V0-101-4543d7f6f716baa6&mcid=db498280ca9b4c4f867e415bdd82ff7e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9707370402",
+    "title": "냉장고에 넣어 시원하게 먹는 쫀득 망고맛 바나나 KIFFJOIT (1)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/cd27490b-f9c4-4b59-8c69-bdd6aec42003_fixing_v2_1792049926688.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/cd27490b-f9c4-4b59-8c69-bdd6aec42003_fixing_v2_1792049926688.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifP1BWMaya"
+    ],
+    "image_path": "images/08_냉장고에_넣어_시원하게_먹는_쫀득_망고맛_바나나_KIFFJOIT_(1).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고에 차갑게 넣어뒀다가 꺼내 먹으면 단맛이 더 진하게 느껴짐 아침에 배고플 때 하나씩 꺼내 먹는 게 소소한 낙이 됨 냉장고 열 때마다 바나나 먼저 찾게 됨 🍌",
+    "b": "간식 대신 담아봤는데 쫀득한 식감이 생각보다 진짜 맛있음 차갑게 먹으면 또 다른 맛이라 계절 상관없이 냉장고 보관하는 게 맞음 😋"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "sunny_s299",
+    "url": "https://www.threads.com/@sunny_s299/post/DfEndAoisAQ",
+    "views": 87,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/gQaOQLcj5o",
+    "final_url": "https://www.coupang.com/vp/products/9438198196?src=1139000&spec=10799999&addtag=400&ctag=9438198196&lptag=AF2947587&itime=20261101081813&pageType=PRODUCT&pageValue=9438198196&wPcid=17905526599079763164544&wRef=&wTime=20261101081813&redirect=landing&traceid=V0-183-0c155c6dba7dbef5&mcid=df14cabbcde04a2b9c23a146c67d83de&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9438198196",
+    "title": "비올레 집 de 에스테틱 딥클레이 세안 180g 모공 흑색 모공 더러움, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/74b8/aa5dbbe21276ad98596781d531e5d35b2869b0bf86eea0c49573c3fe2e9c.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/74b8/aa5dbbe21276ad98596781d531e5d35b2869b0bf86eea0c49573c3fe2e9c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1294/4b51f33726c6eb6510aaaeaf5304bc665ab059b14edf9322e6c6900370c7.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/gQaOQLcj5o"
+    ],
+    "image_path": "images/09_비올레_집_de_에스테틱_딥클레이_세안_180g_모공_흑색_모공_더러움,.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "클레이 세안이 어떤 건지 궁금해서 써봤는데 거품이랑 느낌이 달라서 신기했음 씻고 나면 피부 표면이 매끈하게 정돈되는 느낌이 남 아침 세안이 뭔가 특별해진 기분 🫧",
+    "b": "매일 쓰던 세안제 바꿔봤는데 적응하고 나니까 없으면 찝찝함ㅋㅋ 텍스처가 독특해서 처음엔 낯설었는데 이제 오히려 이게 더 편함 세안이 기다려지는 시간이 됨 🌿"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "hamster.9444243",
+    "url": "https://www.threads.com/@hamster.9444243/post/DfE472PGu2l",
+    "views": 65,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ie9jaBqIcm",
+    "final_url": "https://www.coupang.com/vp/products/9032104227?itemId=26845004064&src=1139000&spec=10799999&addtag=400&ctag=9032104227&lptag=AF8377307&itime=20261101081821&pageType=PRODUCT&pageValue=9032104227&wPcid=17905526599079763164544&wRef=&wTime=20261101081821&redirect=landing&traceid=V0-101-6232e7c7d53f9bbd&mcid=2c3720985a4744e39e346ae9e03ae577&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9032104227",
+    "title": "해피데이 따뜻해 포켓용 핫팩 100g, 40개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/d11f9f7f-4216-4710-a45e-acd86d44ed1317502957424220094032.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/d11f9f7f-4216-4710-a45e-acd86d44ed1317502957424220094032.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/03/10/5/9187ad6c-e18a-4c36-a9ee-7b556c95e3be.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/0no5vkxz/c18f235e83ac4b16b56b69035402b8ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/7jzfgjmi/983896f5c61542d3a35147de757fad34.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/egnt6j2b/4e863ede75604f60840c3fca5f0f1fd1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jvddgevo/41e8dabc18954488984e90197e1977d9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ie9jaBqIcm"
+    ],
+    "image_path": "images/10_해피데이_따뜻해_포켓용_핫팩_100g,_40개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "날 추워지니까 가방에 두세 개씩 넣고 다니는데 이게 없으면 나가기 싫을 것 같음... 40개 사뒀더니 꺼낼 때마다 든든함 겨울 필수품 찐으로 맞음 🧤",
+    "b": "주머니에 핫팩 넣고 다니면 추위가 좀 달래짐 직장 동료들 나눠줬더니 엄청 좋아해서 뿌듯했음 대량으로 쟁여두길 잘했다 싶은 계절이 됨 🔥"
+   }
+  }
+ ]
+}
