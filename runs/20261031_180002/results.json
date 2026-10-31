@@ -1,0 +1,479 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-10-31T18:00:02",
+  "stopped": false,
+  "finished_at": "2026-10-31T18:18:47"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "slowly_better09",
+    "url": "https://www.threads.com/@slowly_better09/post/DfDkCrbiBTR",
+    "views": 980,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/ibNtfgQxqu",
+    "final_url": "https://www.coupang.com/vp/products/9652652705?src=1139000&spec=10799999&addtag=400&ctag=9652652705&lptag=AF3226657&itime=20261031181413&pageType=PRODUCT&pageValue=9652652705&wPcid=17905526599079763164544&wRef=&wTime=20261031181413&redirect=landing&traceid=V0-183-33bf69ca4dff1f8d&mcid=f401f5ab8e624fb6b2cc3f6165a84a4d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9652652705",
+    "title": "JS-TOP 세탁기 건조기 받침대 진동방지패드 4P",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01_1792116166700.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01_1792116166700.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b238/34596d9a66afa5ced568ef168c2c54136c23c8a455c5a05b8185e6e0b759.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/23f9/6077ceb3b3da52ce92b2eebb549932c683efdc35e481fed520cf0f971c51.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/921c/4f120e799c497c7335c12ca6b30295db43c805292042520136cb56f5f7f6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8075/1c07cd260c2e9117dc7e8e3c9e1f5bc09667046546209b233a6196b53f01.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/ibNtfgQxqu"
+    ],
+    "image_path": "images/01_JS-TOP_세탁기_건조기_받침대_진동방지패드_4P.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "탈수할 때마다 세탁기가 춤을 춰서 진짜 미칠 것 같았는데 이거 끼우고 나서 진동이 확 줄었어. 윗집 눈치 덜 보게 된 게 진심 제일 좋음 🙌",
+    "b": "세탁기 발에 이거 하나씩 꽂아두니까 소리가 달라지더라. 설치도 5분도 안 걸리고 그냥 끼우면 끝이라 진작 살걸 싶었어 😌"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "hamster.masi",
+    "url": "https://www.threads.com/@hamster.masi/post/DfDi5NBDT6T",
+    "views": 759,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/idGVcbXmWO",
+    "final_url": "https://www.coupang.com/vp/products/8351976645?src=1139000&spec=10799999&addtag=400&ctag=8351976645&lptag=AF2645697&itime=20261031181422&pageType=PRODUCT&pageValue=8351976645&wPcid=17905526599079763164544&wRef=&wTime=20261031181422&redirect=landing&traceid=V0-183-2577f6cf768f4a39&mcid=541a9fe5ff594c6091d08d6d0238b7e9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8351976645",
+    "title": "에브릭 접었다폈다 무타공 욕실 선반 화장실 옷 보관",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/969a/86e06420b50f4556b0b16542fdca052be138726d2b5f71924f49267e96d2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/969a/86e06420b50f4556b0b16542fdca052be138726d2b5f71924f49267e96d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b712/f481d11982f914bdef958153f913e18259e4a694d0aab14f9ad19b07806e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/15cf/cd681dd93ab0c350fcb5fe956a449a6a2cd3e76757b4aed439ede49c93d0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af7c/f823c9eca03c94d10bf3f0aeadd08f9bd8aef68bdd3f59f091b0ba53029d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2c65/06fdf8e1f8cd424ffef9fdf10fc37dfa7d9652e2f5e8868ccbf419cf1aa6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fcd3/3133a8418968789a1d095552425f42794b8ca9876cd0c17985fb27e4bff4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb25/65fc3a3b1f9c84503c2c1b6e2d7a7d137bc1af4900353d4efa210ac496f5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8892/e050a3f4bb55a0f67f6e8cd98397dbc9bfb2b6e27a7b66d68ae04c2c37b6.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=b9cXCy3dXfo",
+     "https://www.youtube.com/watch?v=HxzyAUmISOk"
+    ],
+    "all_links": [
+     "http://link.coupang.com/a/idGVcbXmWO"
+    ],
+    "image_path": "images/02_에브릭_접었다폈다_무타공_욕실_선반_화장실_옷_보관.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "구멍 뚫기 싫어서 선반 달기를 계속 미루다가 이거 발견했는데 벽에 그냥 걸리는 게 진짜 되네. 화장실에 선반 하나 생기니까 공간이 완전 달라 보임 ✨",
+    "b": "욕실 물건들 항상 바닥에 뒀는데 이거 달고 나서 진짜 깔끔해졌어. 접이식이라 안 쓸 때 접어두면 되는 게 생각보다 편하더라 👍"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "p1star.__",
+    "url": "https://www.threads.com/@p1star.__/post/DfECw3rkRKL",
+    "views": 571,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h3D7puSloW",
+    "final_url": "https://www.coupang.com/vp/products/8962727295?src=1139000&spec=10799999&addtag=400&ctag=8962727295&lptag=AF9251215&itime=20261031181431&pageType=PRODUCT&pageValue=8962727295&wPcid=17905526599079763164544&wRef=&wTime=20261031181431&redirect=landing&traceid=V0-183-4b0e76008717ca18&mcid=c56c7892c9984fa1900e654033fe3177&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=p1star1029&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8962727295",
+    "title": "스토렐라 곰돌이 피크닉가방 도시락가방 보온보냉백 예쁜직장인도시락가방",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b236/53bef518a29b48af4c907da4a432332fe86a1aa494574eaada73171955b4.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b236/53bef518a29b48af4c907da4a432332fe86a1aa494574eaada73171955b4.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h3D7puSloW"
+    ],
+    "image_path": "images/03_스토렐라_곰돌이_피크닉가방_도시락가방_보온보냉백_예쁜직장인도시락가방.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "도시락 싸고 싶었는데 가방이 없어 보여서 포기했거든, 이거 들고 다니니까 오히려 주변에서 어디서 샀냐고 먼저 물어봐. 곰돌이 자수 진짜 귀여움 🐻",
+    "b": "피크닉 갔을 때 꺼냈더니 다들 쳐다봤어. 보냉도 제대로 되고 디자인도 예쁜데 도시락 챙기는 횟수가 확실히 늘었음 🍱"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "angum.zip",
+    "url": "https://www.threads.com/@angum.zip/post/DfEEwp-CZs_",
+    "views": 553,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ieC6lpn2A0",
+    "final_url": "https://www.coupang.com/vp/products/2069651089?itemId=3516595591&src=1139000&spec=10799999&addtag=400&ctag=2069651089&lptag=AF7141013&itime=20261031181441&pageType=PRODUCT&pageValue=2069651089&wPcid=17905526599079763164544&wRef=&wTime=20261031181441&redirect=landing&traceid=V0-101-7530e71a4f19466c&mcid=fdac7de470f04b49ae6b267d0359927f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2069651089",
+    "title": "옥희독희 고양이 죽은털 제거 뽀송 브러쉬 9.5 x 15.6 cm, 화이트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/37430097041381-bda449da-9ebd-4a9e-a394-6992a8f1f75a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37430097041381-bda449da-9ebd-4a9e-a394-6992a8f1f75a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37430097555264-2af0c7b5-42d0-455e-a04c-f2f1967871a7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/37423110360203-9e4ec9cd-d8be-4f0c-a2e9-a2959c319c41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/229569340052115-461c197c-093e-4110-bafb-688a210c9e0f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/508801725789409-99fe0cfe-a622-4cb3-ae83-ed617305a363.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/10594663729099-dc5f2d61-84fc-4990-b1df-d1d50b71f2b9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/100373023245430-cbcb9d5d-5b8a-49ab-bb6c-00ecd0e8bc58.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/506648698273012-942d72a1-cddf-4913-9384-5f34cc8b5984.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=F41SnaasbBA",
+     "https://www.youtube.com/watch?v=tO724YdBReE"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/ieC6lpn2A0"
+    ],
+    "image_path": "images/04_옥희독희_고양이_죽은털_제거_뽀송_브러쉬_9.5_x_15.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이 빗질할 때마다 털이 온 집에 날려서 진짜 고역이었는데 이거 쓰고 나서 확실히 정리가 됨. 버튼 누르면 털이 쑥 빠지는 것도 생각보다 편해 🐱",
+    "b": "우리 고양이가 브러쉬 별로 안 좋아하는 편인데 이건 좀 다르게 받아들이더라. 빗고 나서 털 뭉치 보면 묘한 쾌감이 있음 😂"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "richradarlab",
+    "url": "https://www.threads.com/@richradarlab/post/DfCZfWEEi-i",
+    "views": 234,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idxU0Pb56i",
+    "final_url": "https://www.coupang.com/vp/products/9781083360?itemId=29282367481&src=1139000&spec=10799999&addtag=400&ctag=9781083360&lptag=AF0745235&itime=20261031181449&pageType=PRODUCT&pageValue=9781083360&wPcid=17905526599079763164544&wRef=&wTime=20261031181449&redirect=landing&traceid=V0-101-b825e6f349aa44d0&mcid=d250838c0a69440b85d2aea223d434d6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9781083360",
+    "title": "먼작귀 태양열 스윙 피규어 흔들흔들 차량용품 데스크테리어 소품 2종, 1개, 가르마",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1eaf/d779f28c73b627c61cb870f345f5dd022b3ea020128fde70b0959c5ce949.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1eaf/d779f28c73b627c61cb870f345f5dd022b3ea020128fde70b0959c5ce949.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/51c6/beb362f3796bd2629f0f9cd1063cdd76f2ea896d2457cfeace6d73fb3302.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5b8/c411dfeacaaefecdface7a021a8cf3181e02f50b1822615f2f03de893388.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5d8/b3639be7dc15272a64bf860a3df243ec04d56b5deb0543f97f2cbdb9226e.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=U4Y_u_9zOsA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/idxU0Pb56i"
+    ],
+    "image_path": "images/05_먼작귀_태양열_스윙_피규어_흔들흔들_차량용품_데스크테리어_소품_2종,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 올려놨더니 햇빛 들어오면 알아서 흔들거리는 거 진짜 귀여워 죽겠어. 멍하니 보다가 시간 다 가는 게 진짜 함정임 🐾",
+    "b": "차에 달아놨는데 신호 대기할 때마다 눈이 가. 먼작귀 좋아하면 진짜 그냥 지나치질 못해서 사버렸음 ✨"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "shopping_map_jiyoung",
+    "url": "https://www.threads.com/@shopping_map_jiyoung/post/DfCZtxsmA7R",
+    "views": 171,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idx3ZahBTg",
+    "final_url": "https://www.coupang.com/vp/products/9648038896?itemId=28834699218&src=1139000&spec=10799999&addtag=400&ctag=9648038896&lptag=AF8473889&itime=20261031181528&pageType=PRODUCT&pageValue=9648038896&wPcid=17905526599079763164544&wRef=&wTime=20261031181528&redirect=landing&traceid=V0-101-2f8c654da2b8b16f&mcid=3cc6c128b63941f599d74629fd4f9d4c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9648038896",
+    "title": "오리온 황치즈칩쿠키, 256g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/99b8/1d02ed7a2c04fafaa46f32e404066180eda7ec3100b04e555ec36233ce47.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/99b8/1d02ed7a2c04fafaa46f32e404066180eda7ec3100b04e555ec36233ce47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c29f/e6c5a0f255c6ed694e24f004ff0191e81174c3d8f171e95e567946cc0a33.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/idx3ZahBTg"
+    ],
+    "image_path": "images/06_오리온_황치즈칩쿠키,_256g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "과자 사면 한 봉지 금방 비워서 늘 아쉬웠는데 이건 4봉지라 며칠은 버팀. 치즈향이 진해서 하나 먹으면 손이 계속 가는 게 문제 🧀",
+    "b": "편의점에서 자주 사 먹던 거 대용량으로 뜯었더니 기분이 남다름. 바삭하고 고소한 게 진짜 멈추질 못하겠어 😋"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/DfGJVGro81v",
+    "views": 168,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOvoEUnvqu",
+    "final_url": "https://www.coupang.com/vp/products/9039166591?src=1139000&spec=10799999&addtag=400&ctag=9039166591&lptag=AF8516915&itime=20261031181536&pageType=PRODUCT&pageValue=9039166591&wPcid=17905526599079763164544&wRef=&wTime=20261031181536&redirect=landing&traceid=V0-183-b4f1573b7b1ebb5b&mcid=94e36b3fe4854464b5719859e4204ac3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9039166591",
+    "title": "롤리프리 C to C타입 실리콘 초고속 충전 240w 케이블",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c1b/9a783df6649ed03df59421d5061bcd600e834ab82afcce1b65e343b6a8b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f62/59b0376d3c5d0a6c7ddaef361f3ebe29cef735233c4bb51f8124b57ffd08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8055/ce4481474992bc193f9e1be614a2878b412ee7f7e3fe4d9b22ffaf8e94b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7490/1403f97bc976679bcbb48dc4c7c7d043a60485a9e7113fc4d99e61619d25.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/986a/2facb164428bebde9af0112d1ac2b407fa89f7c8a869976296c47dd1c184.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc78/1b0d18b05659d538950cf205c915aebb0e8faf3a8eb9d83387d1cd160801.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bab/a2a91601b95384d8fd9ac33b07f47471516678b3c8bb5d3699e7738dae88.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=LOx2fzo3VuM",
+     "https://www.youtube.com/watch?v=dwGGxBMtVwI",
+     "https://www.youtube.com/watch?v=S2PKz4UnaRk",
+     "https://www.youtube.com/watch?v=7eKYbUNvNCs",
+     "https://www.youtube.com/watch?v=lElBC7A9-1c",
+     "https://www.youtube.com/watch?v=c-P8Xi7ma5c",
+     "https://www.youtube.com/watch?v=nyixkAwv3IU",
+     "https://www.youtube.com/watch?v=7scdqoH4VOg",
+     "https://www.youtube.com/watch?v=F1K1SVQkwDQ",
+     "https://www.youtube.com/watch?v=-IWFJWP_qCU",
+     "https://www.youtube.com/watch?v=VaiHsL3AcfI",
+     "https://www.youtube.com/watch?v=l9JZMtnesmE",
+     "https://www.youtube.com/watch?v=lnfkSRXdxSk",
+     "https://www.youtube.com/watch?v=Gq5-reLsUT4",
+     "https://www.youtube.com/watch?v=_YvglDPgGx4",
+     "https://www.youtube.com/watch?v=9xLm7fD01Q8",
+     "https://www.youtube.com/watch?v=BvoVFpKvZUA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hOvoEUnvqu"
+    ],
+    "image_path": "images/07_롤리프리_C_to_C타입_실리콘_초고속_충전_240w_케이블.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "보라색에 핑크 헤드 조합이 진짜 취향 저격이라 샀는데 충전도 빠르고 실리콘이라 잘 안 꼬임. 케이블인데 책상 소품 느낌 나는 게 좋더라 💜",
+    "b": "케이블 꼬이고 단선돼서 여러 번 갈아봤는데 이건 실리콘이라 훨씬 오래 쓸 것 같아. 색깔도 예뻐서 들고 다니기도 민망하지 않음 🔋"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "mood_fill_",
+    "url": "https://www.threads.com/@mood_fill_/post/DfDh6TQoSEl",
+    "views": 155,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hZl8u0KDka",
+    "final_url": "https://www.coupang.com/vp/products/9719920835?itemId=29087498128&vendorItemId=96013133390&src=1139000&spec=10799999&addtag=400&ctag=9719920835&lptag=AF5647423&itime=20261031181543&pageType=PRODUCT&pageValue=9719920835&wPcid=17905526599079763164544&wRef=&wTime=20261031181543&redirect=landing&traceid=V0-183-21c63181830dbb19&mcid=37564d445622471abdaae88f0cf4d17b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=Threads1&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719920835",
+    "title": "버터 말랑이 스퀴시 말랑이 피젯토이 스트레스볼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f438/aba8fc17c1020e0794da9d2e026585d8d9c8ca0f8e1f9d1a29ae56daf7f1.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hZl8u0KDka"
+    ],
+    "image_path": "images/08_버터_말랑이_스퀴시_말랑이_피젯토이_스트레스볼.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "회의 중에 손에 쥐고 꾹꾹 누르고 있으니까 이상하게 마음이 좀 진정돼. 파스텔 색깔이라 책상에 있어도 귀여워서 치우기가 싫음 🩷",
+    "b": "스트레스받을 때 이거 잡고 주무르다 보면 좀 풀리는 느낌이 들어. 아이가 먼저 뺏어가서 내 건지 애 건지 경계가 없어졌음 😅"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/DfEApnGk6ZR",
+    "views": 129,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBgoEMRfeS",
+    "final_url": "https://www.coupang.com/vp/products/9044489008?itemId=26540456170&src=1139000&spec=10799999&addtag=400&ctag=9044489008&lptag=AF3704167&itime=20261031181551&pageType=PRODUCT&pageValue=9044489008&wPcid=17905526599079763164544&wRef=&wTime=20261031181551&redirect=landing&traceid=V0-101-3f26a20acbd5ff41&mcid=61832d6de93547a1a101a57043354983&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9044489008",
+    "title": "뉴발란스 1906L 남녀공용 페니 로퍼 블랙 레더 U1906LBN",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/4d89/3af4b6ac866dc83fef77333c2fb34d10a62b40d392fd3f4e36cddeedded5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4d89/3af4b6ac866dc83fef77333c2fb34d10a62b40d392fd3f4e36cddeedded5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/89d3/cfb50b7b3adb5a94bb8cec39e6a96349e19b2c7ef2dfd967561851b12a21.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f83a/394ed28ec8f46a9fdf761db2645f222a6ac9ad2f08a937b3e44ff4a9c30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/618e/dd7d6b27e019a60f942755bb863d34a0d8ac017234689ad154163b8f12cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/930b/0f94bb82e51bd74b3a1f145713178cae5ae5e8d95a1eb816bcad8a789dfc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6bdc/95f712364ef3dbd38db9c0062d29b4b388aa7fba39e5898be5897eab4f56.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f48/687ea2a0bfb20a5eafeab1097ef64348cec253cb6964191522888faffdc2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8dee/d0749ea7fbb82445281fddcf669752da924dbd39889471cdbf7d3729c5a3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBgoEMRfeS"
+    ],
+    "image_path": "images/09_뉴발란스_1906L_남녀공용_페니_로퍼_블랙_레더_U1906LBN.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "로퍼인데 밑창이 운동화라서 종일 걸어다녀도 발이 안 아파. 올블랙이라 어떤 옷에도 그냥 다 되는 게 진짜 편함 🖤",
+    "b": "처음엔 밑창이 너무 두꺼운 거 아닌가 싶었는데 신어보니까 오히려 이게 포인트더라. 레더라 광도 나고 신을수록 길들여지는 느낌 ✨"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "sister___market",
+    "url": "https://www.threads.com/@sister___market/post/DfCYg2PDHBs",
+    "views": 85,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-28",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/idgIFbfPdA",
+    "final_url": "https://www.coupang.com/vp/products/8693039243?src=1139000&spec=10799999&addtag=400&ctag=8693039243&lptag=AF6824652&itime=20261031181558&pageType=PRODUCT&pageValue=8693039243&wPcid=17905526599079763164544&wRef=&wTime=20261031181558&redirect=landing&traceid=V0-183-b2e9c281475e4011&mcid=9ab27c8a917b412489f492cb3b14c7b3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8693039243",
+    "title": "제르미 스모크 치즈 링크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/n7rsklen/db9294425c9942719f7101a37e6ca30d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/n7rsklen/db9294425c9942719f7101a37e6ca30d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xl1nguao/d5f3155ae3804d53ad3b07cfa0b6b766.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/urdug5zd/3560d3edd4414f199c789187ac6ed34d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/md0jkvur/ac330945b2b2454eb89656ac89240c0f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/n5sca3ck/8f743518c72b4e6ba454a40cedb53c80.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/f345afyb/9f4fa31c33a949edb5f3c869127fa672.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hy68lmpq/dfd77a1f7b3a4f81be9a4e869dc85bda.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_824bfa34-5eae-457c-a998-a308b10bc38c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/idgIFbfPdA"
+    ],
+    "image_path": "images/10_제르미_스모크_치즈_링크.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "슬라이스 치즈만 먹다가 이거 사봤는데 훈제향이 진짜 달라. 얇게 썰어서 크래커랑 먹으니까 와인 안주로 완전 딱임 🧀",
+    "b": "독일식 스모크 치즈라길래 반신반의했는데 먹어보니까 이거 진짜 맛있음. 냉장고에 하나 있으면 간식 퀄리티가 달라지더라 🍷"
+   }
+  }
+ ]
+}
