@@ -1,0 +1,467 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-01T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-01T18:17:37"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "candy_kkk9230",
+    "url": "https://www.threads.com/@candy_kkk9230/post/DfHF-vWmAHh",
+    "views": 851,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/igyxVEFVRs",
+    "final_url": "https://www.coupang.com/vp/products/9780979759?itemId=29282012677&src=1139000&spec=10799999&addtag=400&ctag=9780979759&lptag=AF5100040&itime=20261101181239&pageType=PRODUCT&pageValue=9780979759&wPcid=17905526599079763164544&wRef=&wTime=20261101181239&redirect=landing&traceid=V0-101-1208a4786eed02e6&mcid=d3f2d7d4f50c4697899a5b17c00d605c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9780979759",
+    "title": "크록스 레고® 크리에이티비티 클로그 키즈 / 211874-100",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0149/531974dbe352b46b3b91c3081f211fc6c584cdbc1ba19dc2661f65410ae8.PNG",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0149/531974dbe352b46b3b91c3081f211fc6c584cdbc1ba19dc2661f65410ae8.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/42d5/d89902ead9db10f59756857c1613a24552a3b131079e5b7c77fb07305df0.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/954f/9adf78103dcdaae44167000e5b2188e6d7ba8d09fc84ceca8a266d991b76.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e241/f7ef5ebabdcaa16ae808e448d7d0b84d138d88132e9efed78cbedeee400c.PNG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4e17/8bc3ae66a97ca913301e057bbffa1677269cb5d8d006ff571ff1c7fe8731.PNG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/igyxVEFVRs"
+    ],
+    "image_path": "images/01_크록스_레고®_크리에이티비티_클로그_키즈_211874-100.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애가 이거 신고 나가면 본인이 제일 멋있다고 함... 밑창이 진짜 레고 블록으로 만들어진 거 보고 나도 갖고 싶어졌잖아. 어른 사이즈도 있었으면 좋겠다 진심 🧱",
+    "b": "마트에서 이거 보고 안 떨어지길래 결국 샀는데 집에 와서도 신고 잠들려고 했음ㅋㅋ 노란 파란 빨간 블록 조합이 너무 귀엽고 신기해서 자꾸 들여다보게 됨. 이러다 나도 어른 버전 지를 것 같아 👟"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/DfGt3b9k8u7",
+    "views": 448,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hPtbaH7ppQ",
+    "final_url": "https://www.coupang.com/vp/products/9713967235?itemId=29065527850&src=1139000&spec=10799999&addtag=400&ctag=9713967235&lptag=AF3704167&itime=20261101181247&pageType=PRODUCT&pageValue=9713967235&wPcid=17905526599079763164544&wRef=&wTime=20261101181247&redirect=landing&traceid=V0-101-16f027415a51bbef&mcid=a200eb8440d24cc39353e76b83409816&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9713967235",
+    "title": "DANTON 단톤 여성 후리스 가디건 노카라 자켓",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/96ec/12e8a2bf2a8a7d07b5986f623bdf56cc8a0acfda0e1fd961c4b323508dad.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/96ec/12e8a2bf2a8a7d07b5986f623bdf56cc8a0acfda0e1fd961c4b323508dad.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3de2/960e3f2c4288dbde2645a43098f29e3b685379a769c63aef917eb177711c.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/553f/f9788525d7d42f1c1dbe03e5d3586e892d702cfddae170a7e78c66ea9cbd.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/40e0/3364df9f3e9661ad86fec074172a9b81ef652126a2b1749dbb39fdd66fb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/46fb/afb00b36961b12d9bd066a96cc398c54b944c113aa5e86af7bfaf2b4abe4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/baac/80084d6e224bc6641285d3e3c7148fe750285db8437bba0f7e37254f81f2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9853/e0d1355b25f69ba56a84e114f40bb7a85ba6f27442862d254113616ef0af.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hPtbaH7ppQ"
+    ],
+    "image_path": "images/02_DANTON_단톤_여성_후리스_가디건_노카라_자켓.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 질러버렸는데 실물 색이 진짜 사진보다 더 예쁨... 걸치기만 해도 뭔가 갖춰 입은 느낌이라 요즘 매일 집어들게 됨. 세탁기에 넣기가 아까워서 손빨래할 것 같아 🍂",
+    "b": "입고 카페 갔더니 어디 거냐고 물어보는 사람이 있었음 후리스인데 실루엣이 루즈하게 딱 떨어지는 게 진짜 마음에 들어. 이 색깔 말고 네이비도 사야 할 것 같은 예감 🤍"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "hhhhju440622k",
+    "url": "https://www.threads.com/@hhhhju440622k/post/DfGHGaooDhC",
+    "views": 328,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifJ34yOjAq",
+    "final_url": "https://www.coupang.com/vp/products/9385160079?src=1139000&spec=10799999&addtag=400&ctag=9385160079&lptag=AF4115962&itime=20261101181255&pageType=PRODUCT&pageValue=9385160079&wPcid=17905526599079763164544&wRef=&wTime=20261101181255&redirect=landing&traceid=V0-183-d9dd34cd663e1e13&mcid=7b06967ef06c4630860f8c46a0e2f874&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9385160079",
+    "title": "VT PDRN 광채토너 200ml (안개분사 스프레이 120ml 공병 포함)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9318/d58173f4e1db9c61223d691f3bd23c6a665b023bc45f4c0194afb76be194.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9318/d58173f4e1db9c61223d691f3bd23c6a665b023bc45f4c0194afb76be194.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifJ34yOjAq"
+    ],
+    "image_path": "images/03_VT_PDRN_광채토너_200ml_(안개분사_스프레이_120ml_공병_포.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "스프레이 공병에 담아서 쓰기 시작한 뒤로 아침 루틴이 훨씬 편해짐... 양이 넉넉해서 아끼지 않고 쓸 수 있는 게 제일 좋았어. 요즘 이거 뿌리는 단계가 진짜 기다려짐 💧",
+    "b": "세안 후에 이거 미스트처럼 뿌리는 게 요즘 낙임 나갈 때도 스프레이에 옮겨서 가방에 들고 다니는 중. 피부가 그냥 촉촉한 느낌이 좋아서 아침마다 챙기게 됨 ✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "kkultem_charge",
+    "url": "https://www.threads.com/@kkultem_charge/post/DfEuP98kiYL",
+    "views": 247,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-29",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iddvGrDfmC",
+    "final_url": "https://www.coupang.com/vp/products/7730570074?itemId=20772088658&vendorItemId=87779229736&src=1139000&spec=10799999&addtag=400&ctag=7730570074&lptag=AF8419055&itime=20261101181303&pageType=PRODUCT&pageValue=7730570074&wPcid=17905526599079763164544&wRef=&wTime=20261101181303&redirect=landing&traceid=V0-183-1e5ea30c376fa142&mcid=7dc17a52bdbb4d19b9cfbb759f633e3a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7730570074",
+    "title": "펜텔 매트홉 펜 볼펜 겔펜 다이어리 데코 선물 일러스트 다꾸펜",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5e13/bab4f0d552e77bcc890c78616364650d92bf4462d2702db37f7047b3f4e5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5e13/bab4f0d552e77bcc890c78616364650d92bf4462d2702db37f7047b3f4e5.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iddvGrDfmC"
+    ],
+    "image_path": "images/04_펜텔_매트홉_펜_볼펜_겔펜_다이어리_데코_선물_일러스트_다꾸펜.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "다꾸 시작하면서 색깔펜 엄청 써봤는데 이게 발색이 제일 마음에 듦... 매트하게 딱 써지는 느낌이라 사진 찍어도 예쁘게 나와. 요즘 이거 꺼내면 다이어리 쓰는 시간이 길어짐 🖊️",
+    "b": "선물 받고 써봤는데 잉크가 끊김 없이 잘 나와서 쓰다 보면 시간 가는 줄 모름... 색상이 이렇게 다양한 줄 몰랐는데 하나씩 다 써보고 싶어졌어. 아직 크림색이랑 갈색을 못 써봤음 🎨"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "omongee007",
+    "url": "https://www.threads.com/@omongee007/post/DfG1qSkD5mg",
+    "views": 238,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hBcirfjPwG",
+    "final_url": "https://www.coupang.com/vp/products/7449575230?itemId=19390739272&src=1139000&spec=10799999&addtag=400&ctag=7449575230&lptag=AF4789136&itime=20261101181311&pageType=PRODUCT&pageValue=7449575230&wPcid=17905526599079763164544&wRef=&wTime=20261101181311&redirect=landing&traceid=V0-101-b628b4c264e3d168&mcid=40c709923f964d72850f3142e5ee0b9e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7449575230",
+    "title": "락앤락 옻칠 장미목 뒤집개 CKT500, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2023/07/24/16/8/a876d60a-88c5-4d43-b539-029f1858c577.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2023/07/24/16/8/a876d60a-88c5-4d43-b539-029f1858c577.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/oqydxgiz/20c3232fb9bb4a0aa6bbf325dd1e4c04.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2023/07/24/16/9/8a0444d7-a71f-400e-97c4-0918f8a03562.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/58179776877383-b331785a-4049-4305-8695-3b961262a0f2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54065842928629-4910c6dd-426f-4a00-ac88-cfd2ff5f7432.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/55336516772652-cf199c57-856f-453a-acd8-c4029dff48f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/55336528449340-44e10252-e98f-4b11-8e21-459bc071b0c6.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_b443915d-2c17-4daa-87ad-9559dcec6755.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hBcirfjPwG"
+    ],
+    "image_path": "images/05_락앤락_옻칠_장미목_뒤집개_CKT500,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "플라스틱 뒤집개 쓰다가 이걸로 바꿨는데 팬에 닿는 느낌이 완전 달라... 주방에 걸어두면 인테리어도 되는 거 진짜임. 요즘은 요리하러 가기 전에 이거 보는 맛이 생겼어 🍳",
+    "b": "요리 별로 안 좋아하는데 이거 꺼내면 왠지 제대로 하는 것 같은 기분 들어서 집밥을 자꾸 하게 됨ㅋㅋ 나무 결이랑 색이 예뻐서 구경하는 맛도 있음. 손에 쥐는 느낌도 묵직해서 좋아 🌿"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "chajadum",
+    "url": "https://www.threads.com/@chajadum/post/DfGJVGro81v",
+    "views": 172,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hOvoEUnvqu",
+    "final_url": "https://www.coupang.com/vp/products/9039166591?src=1139000&spec=10799999&addtag=400&ctag=9039166591&lptag=AF8516915&itime=20261101181319&pageType=PRODUCT&pageValue=9039166591&wPcid=17905526599079763164544&wRef=&wTime=20261101181319&redirect=landing&traceid=V0-183-b4f1573b7b1ebb5b&mcid=d460d7def2bf4384a1abf6782c6a6c12&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=cj3f83b42c&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9039166591",
+    "title": "롤리프리 C to C타입 실리콘 초고속 충전 240w 케이블",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/a6d54ad19aa93c81538f550a6e51b020d1a821f3831fa5c4632b1e35fc42_1778114363695.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c1b/9a783df6649ed03df59421d5061bcd600e834ab82afcce1b65e343b6a8b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f62/59b0376d3c5d0a6c7ddaef361f3ebe29cef735233c4bb51f8124b57ffd08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8055/ce4481474992bc193f9e1be614a2878b412ee7f7e3fe4d9b22ffaf8e94b1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7490/1403f97bc976679bcbb48dc4c7c7d043a60485a9e7113fc4d99e61619d25.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/986a/2facb164428bebde9af0112d1ac2b407fa89f7c8a869976296c47dd1c184.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc78/1b0d18b05659d538950cf205c915aebb0e8faf3a8eb9d83387d1cd160801.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bab/a2a91601b95384d8fd9ac33b07f47471516678b3c8bb5d3699e7738dae88.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=LOx2fzo3VuM",
+     "https://www.youtube.com/watch?v=dwGGxBMtVwI",
+     "https://www.youtube.com/watch?v=S2PKz4UnaRk",
+     "https://www.youtube.com/watch?v=7eKYbUNvNCs",
+     "https://www.youtube.com/watch?v=lElBC7A9-1c",
+     "https://www.youtube.com/watch?v=c-P8Xi7ma5c",
+     "https://www.youtube.com/watch?v=nyixkAwv3IU",
+     "https://www.youtube.com/watch?v=7scdqoH4VOg",
+     "https://www.youtube.com/watch?v=F1K1SVQkwDQ",
+     "https://www.youtube.com/watch?v=-IWFJWP_qCU",
+     "https://www.youtube.com/watch?v=VaiHsL3AcfI",
+     "https://www.youtube.com/watch?v=l9JZMtnesmE",
+     "https://www.youtube.com/watch?v=lnfkSRXdxSk",
+     "https://www.youtube.com/watch?v=Gq5-reLsUT4",
+     "https://www.youtube.com/watch?v=_YvglDPgGx4",
+     "https://www.youtube.com/watch?v=9xLm7fD01Q8",
+     "https://www.youtube.com/watch?v=BvoVFpKvZUA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hOvoEUnvqu"
+    ],
+    "image_path": "images/06_롤리프리_C_to_C타입_실리콘_초고속_충전_240w_케이블.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "케이블을 이렇게 예쁘게 만들어도 되는 거임...? 보라에 핑크 조합 진짜 귀엽고 실리콘이라 꼬임도 없어서 책상 위가 훨씬 깔끔해짐. 이거 보고 싶어서 충전을 더 자주 하게 된 것 같아 💜",
+    "b": "충전하면서 이게 케이블인지 소품인지 헷갈릴 정도임 가죽 밴드로 묶어두면 가방에 쏙 들어가서 들고 다니기도 좋아. 친구가 이게 뭐냐고 먼저 물어봤음ㅋㅋ 🌸"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "shs_love4455",
+    "url": "https://www.threads.com/@shs_love4455/post/DfGJh4_AUGw",
+    "views": 118,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifYgSKILvM",
+    "final_url": "https://www.coupang.com/vp/products/2170968668?itemId=28599462888&vendorItemId=95543125198&src=1139000&spec=10799999&addtag=400&ctag=2170968668&lptag=AF2862411&itime=20261101181328&pageType=PRODUCT&pageValue=2170968668&wPcid=17905526599079763164544&wRef=&wTime=20261101181328&redirect=landing&traceid=V0-181-8f66a76840977302&mcid=3276bb534e5147f5ab5d59d69ac3ed88&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2170968668",
+    "title": "오뚜기 가쓰오 유부 우동 컵라면",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/160606735957255-af2fc55b-58b6-4ebd-8dd6-73cc072839b5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/160606735957255-af2fc55b-58b6-4ebd-8dd6-73cc072839b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/974850030587859-452a9126-7fa5-43ca-a11a-937616391681.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifYgSKILvM"
+    ],
+    "image_path": "images/07_오뚜기_가쓰오_유부_우동_컵라면.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밤에 출출할 때 이거 하나면 딱인데 국물이 은근히 깊어서 컵라면인 게 믿기지 않음... 유부가 생각보다 두꺼워서 먹는 낙도 있어. 이거 알고 나서 라면 코너에서 발걸음이 안 떨어짐 🍜",
+    "b": "추운 날 이거 먹으면 가쓰오 국물이 생각보다 진해서 속이 좀 풀리는 것 같은 느낌임... 유부도 큼직해서 먹을 거 없는 날 저녁으로 먹기 딱 좋아. 이제 냉장고 한켠에 항상 쟁여두는 중 🍥"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DfHCO1Gja_9",
+    "views": 112,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifvhQJN6Ye",
+    "final_url": "https://www.coupang.com/vp/products/7899940884?itemId=21647567785&src=1139000&spec=10799999&addtag=400&ctag=7899940884&lptag=AF4955575&itime=20261101181336&pageType=PRODUCT&pageValue=7899940884&wPcid=17905526599079763164544&wRef=&wTime=20261101181336&redirect=landing&traceid=V0-101-12f7568f168a5297&mcid=8bacd48f99044306b41d5c4bedf0f2d5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=whateatnow&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7899940884",
+    "title": "페로린 돈키호테 발각질제거팩 민트향, 2개입, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/1ba7cf0d8fa052955d6a594ae39b41f43a1fc8ab86f9129876b06c131e37_1750840064224.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/1ba7cf0d8fa052955d6a594ae39b41f43a1fc8ab86f9129876b06c131e37_1750840064224.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2fbe/2213becaac945b5155550811014c3eb12af7a2878a195a3aebe3810c0964.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30bc/fefe720958cdc367f0bae0d51d082e7f7b032835105857a3bfabfba6156e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8054/03ad43f360cc852d06c1fab76ecaa52ab09008ce97a434f28c40762b2469.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/690a/661e1d973a029da309232468c0267f4d139c4ddb05ea0458c60b5b590626.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e2e8/8d0c57e0a15280df75ab209e32231eaff1ab994bc7d1a5851810b7ab44a2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b84d/1ba7cf0d8fa052955d6a594ae39b41f43a1fc8ab86f9129876b06c131e37.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe37/6b650baeeaca98034ccd106280ac0a2922ef770fe65cfe6ab10ddeef3e3b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifvhQJN6Ye"
+    ],
+    "image_path": "images/08_페로린_돈키호테_발각질제거팩_민트향,_2개입,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 써봤는데 며칠 뒤에 발바닥이 자연스럽게 벗겨지는 경험을... 민트향이 은은해서 신고 있는 내내 불쾌하지 않았어. TV 보다 보면 시간 금방 가서 생각보다 안 힘듦 🦶",
+    "b": "여름 내내 샌들 신었더니 발뒤꿈치가 심각해져서 꺼냈는데 2회분이라 부담 없이 써봄 양말처럼 신으면 돼서 귀찮음이 없어. 한 번 해본 뒤로 주기적으로 하고 싶어졌음 🌿"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "gosu_kimpro",
+    "url": "https://www.threads.com/@gosu_kimpro/post/DfGwfPBiZ_k",
+    "views": 102,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/igjQ8pJxfw",
+    "final_url": "https://www.coupang.com/vp/products/8732909123?itemId=25376052002&src=1139000&spec=10799999&addtag=400&ctag=8732909123&lptag=AF3741684&itime=20261101181344&pageType=PRODUCT&pageValue=8732909123&wPcid=17905526599079763164544&wRef=&wTime=20261101181344&redirect=landing&traceid=V0-183-e8395e002fd63af6&mcid=ee9f7193a8d845daa8ff21d948fb9e75&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=string&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8732909123",
+    "title": "TCL 양문형 냉장고 483L 방문설치",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/397564113887649-903c178d-b3dc-4039-ac06-c863ec172d8d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/397564113887649-903c178d-b3dc-4039-ac06-c863ec172d8d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/152151083021481-c2f3ad9a-54a4-4d71-9baa-8a25184aa31f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/254160393561600-27e17816-930d-40a8-814f-de857599844c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/152150676743402-3d5d3a33-1129-480d-b90d-4b34eb2547f6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/726267941492309-6a924848-e110-4e14-956b-03eb8e70a1ca.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/152151181611018-2556dd06-68ee-4996-a627-133d45ed33fa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/726268152183091-07fcf908-411a-4c1e-9949-6c72b5fc23d0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/726267950559591-36a8811c-0bce-4eec-8afc-2d3c89c9f2a8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/igjQ8pJxfw"
+    ],
+    "image_path": "images/09_TCL_양문형_냉장고_483L_방문설치.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "양문형으로 바꾸고 나서 냉장고 정리하는 게 이렇게 재밌을 줄 몰랐음... 슬림한 디자인이 주방 분위기를 진짜 달라 보이게 해줘. 이제 장 보고 오는 날이 기다려짐 🖤",
+    "b": "이사하면서 들였는데 483L인데 공간이 생각보다 훨씬 넉넉함... 소음도 조용하고 양문이라 자주 여닫게 되는데 전혀 불편하지 않아. 설치도 방문으로 해줘서 혼자 다 해결했음 ❄️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "coemyeongbu",
+    "url": "https://www.threads.com/@coemyeongbu/post/DfF9Q91k6hc",
+    "views": 97,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-10-30",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifP1BWMaya",
+    "final_url": "https://www.coupang.com/vp/products/9707370402?itemId=29042401333&src=1139000&spec=10799999&addtag=400&ctag=9707370402&lptag=AF5224825&itime=20261101181351&pageType=PRODUCT&pageValue=9707370402&wPcid=17905526599079763164544&wRef=&wTime=20261101181351&redirect=landing&traceid=V0-101-4543d7f6f716baa6&mcid=f1542fb937d64e75b01113404c2977a1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9707370402",
+    "title": "냉장고에 넣어 시원하게 먹는 쫀득 망고맛 바나나 KIFFJOIT (1)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/cd27490b-f9c4-4b59-8c69-bdd6aec42003_fixing_v2_1792049926688.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/cd27490b-f9c4-4b59-8c69-bdd6aec42003_fixing_v2_1792049926688.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifP1BWMaya"
+    ],
+    "image_path": "images/10_냉장고에_넣어_시원하게_먹는_쫀득_망고맛_바나나_KIFFJOIT_(1).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉장고에 넣어두고 차갑게 먹으면 쫀득한 식감이 진짜 다른데... 망고 향이 생각보다 진해서 한 개로 안 끝나는 게 문제임. 이제 냉장고에 상주시키고 실온엔 안 둠 🍌",
+    "b": "처음엔 그냥 바나나인 줄 알았는데 먹어보니 망고 맛이 나는 이 조합이 자꾸 생각남ㅋㅋ 냉장 보관하면 쫀득함이 배가 된다는 거 알고 나서 실온에 두면 아깝다는 생각이 듦. 간식으로 진짜 딱 맞음 🥭"
+   }
+  }
+ ]
+}
