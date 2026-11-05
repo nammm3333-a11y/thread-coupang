@@ -1,0 +1,461 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-05T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-05T18:18:17"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "living.in.log",
+    "url": "https://www.threads.com/@living.in.log/post/DfQ8UH2D2cU",
+    "views": 1000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imVkziCTds",
+    "final_url": "https://www.coupang.com/vp/products/9773725250?itemId=29256998580&src=1139000&spec=10799999&addtag=400&ctag=9773725250&lptag=AF1765117&itime=20261105181343&pageType=PRODUCT&pageValue=9773725250&wPcid=17905526599079763164544&wRef=&wTime=20261105181343&redirect=landing&traceid=V0-101-1573085264f975a2&mcid=0b02ed1eb45942a1b15df16a7133040a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9773725250",
+    "title": "바이탈플랜트 롤팬 블랙 뉴오리지널 자동회전냄비",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2bd6/371493650334d8bcacff0f3e5ce2dcb66c55d2af8a1201ae3d00dfaf075b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2bd6/371493650334d8bcacff0f3e5ce2dcb66c55d2af8a1201ae3d00dfaf075b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3148/e4269b3964c24bc0fc25fffb625ae9ff7f1933e848e68d4dc6390b60769f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/97ef/d4c48d45b594bf60945e4f358db1e4a233df6393366400cf9ca8f577c952.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/02ef/6129a363adb9257edb59f6d2ec36fb2dc5f1cb92a981d70dfc2b6e55eaae.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/161a/ada596c6e1f5e0e42df0cf32bc2ffc32a1c416db1ae9617dc158f27d047b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f04/acda187cccc1fbed0e4e4367a93b16a3958c0736db8586695c1178da5abe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e19/1b9d00eb21de3d8a3871f757b4388ae8bb2093f78efc459970bb4111e32c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9492/73d98964137626ffb36ae8c0de527e74b858e7fc55496f05e0eba5362cbf.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=FD5fKQm1p3M"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/imVkziCTds"
+    ],
+    "image_path": "images/01_바이탈플랜트_롤팬_블랙_뉴오리지널_자동회전냄비.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "볶음할 때마다 눌어붙어서 짜증났는데 이거 쓰고 나서 그냥 옆에 서 있기만 해도 됨. 혼자 빙빙 돌아가는 거 보고 있으면 신기해서 자꾸 쳐다보게 돼 🍳",
+    "b": "처음엔 그냥 특이한 냄비인 줄 알았는데 써보니 볶음밥이 고르게 익어서 진짜 신기함. 설거지도 쉬워서 주방 시간이 확 줄었어 🖤"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "life.levelups",
+    "url": "https://www.threads.com/@life.levelups/post/DfPfJxlo-gg",
+    "views": 803,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-02",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ilYfxQCjBY",
+    "final_url": "https://www.coupang.com/vp/products/9767982445?itemId=29236906409&src=1139000&spec=10799999&addtag=400&ctag=9767982445&lptag=AF3387031&itime=20261105181352&pageType=PRODUCT&pageValue=9767982445&wPcid=17905526599079763164544&wRef=&wTime=20261105181352&redirect=landing&traceid=V0-101-602b28b497cf964c&mcid=3b1d2c04669a42fdb335ac7daa09eeef&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9767982445",
+    "title": "[해찬들] 최강록 셰프 무첨가 맛간장 소스, 1개, 450ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a56c/02f232be686367fc80fbdf06801ee033d92e335bbfe2c437d85fff4a4d3c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a56c/02f232be686367fc80fbdf06801ee033d92e335bbfe2c437d85fff4a4d3c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ilYfxQCjBY"
+    ],
+    "image_path": "images/02_[해찬들]_최강록_셰프_무첨가_맛간장_소스,_1개,_450ml.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "계란장 만들려고 샀다가 이제 거의 모든 조림에 뿌리고 있음. 한 바퀴 두르면 간이 딱 잡혀서 자꾸 손이 가더라 🍶",
+    "b": "첨가물 없다고 해서 별 기대 안 했는데 맛이 꽤 깊어서 놀람. 나물 무쳤더니 엄마가 뭐 넣었냐고 물어봤잖아 😄"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DfTADVOj2Sj",
+    "views": 474,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ioehJqK1me",
+    "final_url": "https://www.coupang.com/vp/products/116684807?itemId=19920095916&vendorItemId=87019821080&src=1139000&spec=10799999&addtag=400&ctag=116684807&lptag=AF9111886&itime=20261105181359&pageType=PRODUCT&pageValue=116684807&wPcid=17905526599079763164544&wRef=&wTime=20261105181359&redirect=landing&traceid=V0-181-3fc87d46e5e11212&mcid=cb9c7c49c9654fd4b50a2f3c71cc7d12&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "116684807",
+    "title": "아임리얼 스트로베리 주스, 190ml, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/114576710707896-062d1834-5450-4113-8fb9-a11221a50a53.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918671495356-aef1b337-26a2-45d3-ba94-5754be5b4a28.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918710761137-713dc7ea-25f6-48de-8145-22440239d497.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918673827202-4fd490f6-5dc4-477c-8de6-bbaa24ddd1ca.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ioehJqK1me"
+    ],
+    "image_path": "images/03_아임리얼_스트로베리_주스,_190ml,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "딸기 갈아놓은 느낌이라 한 모금에 바로 반함. 아침에 대충 이거 하나 마셨더니 하루 시작이 괜찮아지는 기분 🍓",
+    "b": "편의점 딸기 음료랑 차원이 다름, 색도 진하고 과육 느낌도 있음. 냉장고에서 꺼낼 때마다 괜히 기분이 좋아져 🍓"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "hyunju589392d",
+    "url": "https://www.threads.com/@hyunju589392d/post/DfQWQvxE4L9",
+    "views": 235,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imxufJKD8u",
+    "final_url": "https://www.coupang.com/vp/products/7640106086?src=1139000&spec=10799999&addtag=400&ctag=7640106086&lptag=AF4115962&itime=20261105181407&pageType=PRODUCT&pageValue=7640106086&wPcid=17905526599079763164544&wRef=&wTime=20261105181407&redirect=landing&traceid=V0-183-481a1ac4c427f9da&mcid=081772a89a29471db1aa636e893125c2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7640106086",
+    "title": "[오마뎅] 진짜 부산 떡볶이 주문즉시배송, 2개, 322g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c5f9/acf8a4ba743ace5f3481d1d11689784339087b7e987af0ac5654239caf19.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5f9/acf8a4ba743ace5f3481d1d11689784339087b7e987af0ac5654239caf19.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/imxufJKD8u"
+    ],
+    "image_path": "images/04_[오마뎅]_진짜_부산_떡볶이_주문즉시배송,_2개,_322g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "떡볶이 먹고 싶은데 귀찮을 때 딱 꺼내는데 소스 맛이 진짜 부산 감성이라 놀람. 어묵도 같이 들어있어서 혼자 먹기 딱 좋아 🌶️",
+    "b": "패키지만 봐도 믿음직해서 샀는데 역시 실망 안 했음. 국물까지 싹 비웠더니 속이 꽤 든든하더라 🍢"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "caeeun07",
+    "url": "https://www.threads.com/@caeeun07/post/DfV8THtmsgH",
+    "views": 76,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8128238&pageKey=9707319522&itemId=29042220768&vendorItemId=95969323733&traceid=V0-153-489412a478e291ed&requestid=20261103140105916175876083&token=31850C%7CMIXED&pt=0&slot=9",
+    "final_url": "https://www.coupang.com/vp/products/9707319522?itemId=29042220768&vendorItemId=95969323733&src=1139000&spec=10799999&addtag=400&ctag=9707319522&lptag=AF8128238&itime=20261105181416&pageType=PRODUCT&pageValue=9707319522&wPcid=17905526599079763164544&wRef=&wTime=20261105181416&redirect=landing&traceid=V0-153-489412a478e291ed&mcid=897bb564d8de4ed8b0a53c98ea912a41&pt=0&campaignid=&clickBeacon=&imgsize=&slot=9&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=31850C%7CMIXED&impressionid=&requestid=20261103140105916175876083&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9707319522",
+    "title": "닥터하르 대용량 듀얼 초음파 저소음 무드등 가습기 5L",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1228/b77cf8d73712690e7f197f359cf6b4468d6723abc36daa84ad39da260442.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1228/b77cf8d73712690e7f197f359cf6b4468d6723abc36daa84ad39da260442.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ce3c/3635d8d3e5c9b2b4924140e07600e113b4dbcecd9920364d01e055bf93d4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8cc0/aeaa3900c659131d80d75dd863364920b646941254708fa16e32579c5c3f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/790a/384ee7d4516129bd928b32b9de56b2b1954ad320126583b3303e5161d524.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/faad/3e4965f39d41c340dc188d8417fad5a25af1d135d782500e215a426ab0cd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d3b8/29729b2ba847242895e1864d17ce74b137e83000ac2de20f23a21f8cf593.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/re/AFFSDP?lptag=AF8128238&pageKey=9707319522&itemId=29042220768&vendorItemId=95969323733&traceid=V0-153-489412a478e291ed&requestid=20261103140105916175876083&token=31850C%7CMIXED&pt=0&slot=9"
+    ],
+    "image_path": "images/05_닥터하르_대용량_듀얼_초음파_저소음_무드등_가습기_5L.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "보랏빛 무드등 켜지면 방 분위기가 완전 달라짐. 소음이 거의 없어서 자면서 틀어도 전혀 거슬리지 않아 💜",
+    "b": "아침에 일어났을 때 목이 안 건조한 게 확 체감됨. 듀얼 미스트라 넓은 방에서도 금방 촉촉해지는 느낌이야 💧"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "oeunpa",
+    "url": "https://www.threads.com/@oeunpa/post/DfPLSUVEyIb",
+    "views": 65,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-02",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ilME3YNvLU",
+    "final_url": "https://www.coupang.com/vp/products/8323957108?itemId=24028119774&src=1139000&spec=10799999&addtag=400&ctag=8323957108&lptag=AF5948541&itime=20261105181423&pageType=PRODUCT&pageValue=8323957108&wPcid=17905526599079763164544&wRef=&wTime=20261105181423&redirect=landing&traceid=V0-101-80aaaa3a0f79157a&mcid=4f820a74a1584acba7d563762ecdcebc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8323957108",
+    "title": "백화점 입점 풀라스 복합식 가습기 1위 7L 대용량 100도 가열 살균 무소음 자동 습도조절 가정용 사무실 대형 통세척 온열 무드등 신생아 아기 가열식 초음파 humidifier",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/advertiser/1782826576380/a06c2cd4-8232-4416-ac33-350227ceac1a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/advertiser/1782826576380/a06c2cd4-8232-4416-ac33-350227ceac1a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4d57/6b645bf0652d3f428527a57bd7dae431624dd5122a9b10b7b81504a85949.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/13cd/84ccfbf2b3ad52e76ee93382e9356345cd1768c659278926ea517845199a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/adf6/a6e20cd51e1bfc63c32ac775c426859b3ba902b7c32ab6d88b7184ffaa08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b16a/b766ea1d3a4ac6d8e8f2e2fdf18435a9f876040f4cfc5741f6eeb12098c2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ee87/e222832a5d823948072d4cab66d4173dd88c2e4678aef13764bea9f11261.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e3fc/579411d470e6461d4268058e7e53220fa29ddf0509e918e988021a03214b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a767/f548c4b3dbf5a6cd4a95c1725ed93a4402709405d3f163632299925a3501.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ilME3YNvLU"
+    ],
+    "image_path": "images/06_백화점_입점_풀라스_복합식_가습기_1위_7L_대용량_100도_가열_살균_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "하얀 디자인이 너무 깔끔해서 방에 두면 인테리어가 오히려 더 살아남. 습도 숫자 뜨는 디스플레이 보는 맛이 있어 🤍",
+    "b": "물 자주 갈기 싫어서 대용량 갔는데 진짜 며칠은 거뜬함. 가열식이라 왠지 더 안심돼서 틀어놓고 자기 편해 😴"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "hmookja",
+    "url": "https://www.threads.com/@hmookja/post/DfQ0ZKRGqWY",
+    "views": 55,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imQib3AijY",
+    "final_url": "https://www.coupang.com/vp/products/4665613180?itemId=13491371806&vendorItemId=80745547623&src=1139000&spec=10799999&addtag=400&ctag=4665613180&lptag=AF1834330&itime=20261105181432&pageType=PRODUCT&pageValue=4665613180&wPcid=17905526599079763164544&wRef=&wTime=20261105181432&redirect=landing&traceid=V0-183-d2768f830c66b31a&mcid=5ae869ad1bce45f7a96fd4894c70237b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=chonggwal&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4665613180",
+    "title": "친환경 뿌리가 손질된 새송이버섯, 400g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/972658836709363-e1095741-4ce7-4c07-8b75-f009dd152a29.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/972658836709363-e1095741-4ce7-4c07-8b75-f009dd152a29.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/92268709176562-770b94fd-8001-438c-9b6a-bb3fdc03c2a8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/972667410407534-a9aacb54-60b2-4e82-95a4-c96e0ef06854.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/254423738138542-7f607ef3-a5e4-4d34-a3b6-58b7c12042bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/544430097250414-88294e10-c13f-4b8b-9b6a-2019ebfa226b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/972690391790115-378c2e29-f17a-4c9f-a64b-f19f824b7f39.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_f8068a76-fd36-4345-bb0e-255b2ec642f6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/imQib3AijY"
+    ],
+    "image_path": "images/07_친환경_뿌리가_손질된_새송이버섯,_400g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "뿌리까지 손질돼서 꺼내자마자 바로 썰면 됨. 버섯이 굵고 단단해서 구워 먹었더니 고기 먹는 느낌 나더라 🍄",
+    "b": "오늘 된장찌개에 넣었는데 식감이 너무 좋아서 다음에도 넣을 것 같음. 뿌리 안 다듬어도 돼서 귀찮음이 반으로 줄었어 🍄"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "minzziing2",
+    "url": "https://www.threads.com/@minzziing2/post/DfP8UHhEQjf",
+    "views": 39,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hx0d1hHbNc",
+    "final_url": "https://www.coupang.com/vp/products/8550389430?itemId=24759092494&src=1139000&spec=10799999&addtag=400&ctag=8550389430&lptag=AF8848564&itime=20261105181440&pageType=PRODUCT&pageValue=8550389430&wPcid=17905526599079763164544&wRef=&wTime=20261105181440&redirect=landing&traceid=V0-183-ffe69a6cab25afcd&mcid=280f1d09fc244f52844e66d390604036&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=acc5_742_c_1791026656250_1&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8550389430",
+    "title": "혼자 놀기 끝판왕! 테이프로 공 만들기 6개세트 (feat. 꿀잼보장), 4.8CM 6개컬러, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7320/2f2eea749c7561f820afd89e4cdc85a9bc14f3f123b6910c77b58d294b01.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7320/2f2eea749c7561f820afd89e4cdc85a9bc14f3f123b6910c77b58d294b01.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b2ad/e701d2fbdcdade922ac7a597bf193d6b0144ca5d7797d1e59b6e71442123.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bb1c/dc62b180169c717a4d6898cea5c96f6f91dca71267c8cf084cedc3cc1f6d.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=xeeKcCTneTQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/hx0d1hHbNc"
+    ],
+    "image_path": "images/08_혼자_놀기_끝판왕!_테이프로_공_만들기_6개세트_(feat.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애 심심해할 때 꺼내줬더니 테이프 감으면서 한 시간 넘게 집중함. 완성하고 뿌듯해하는 얼굴 보는 게 더 귀여움 🎨",
+    "b": "나도 같이 만들었는데 묘하게 손에서 못 놓겠음. 색깔별로 층층이 쌓이는 거 보면서 어른이 더 빠져들었잖아 😂"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "hotdealdang",
+    "url": "https://www.threads.com/@hotdealdang/post/DfP0IHrExRC",
+    "views": 33,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imcbgSHEAe",
+    "final_url": "https://www.coupang.com/vp/products/9246004872?itemId=26492664734&vendorItemId=93467515801&src=1139000&spec=10799999&addtag=400&ctag=9246004872&lptag=AF1965377&itime=20261105181447&pageType=PRODUCT&pageValue=9246004872&wPcid=17905526599079763164544&wRef=&wTime=20261105181447&redirect=landing&traceid=V0-183-cf53725b318877f5&mcid=26f710b611bf48e8a0c39aed08331a8a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=coupangfits&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9246004872",
+    "title": "돈시몬 착즙주스 레알선물세트, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/09/01/14/5/abdd965e-48ad-4cfb-8fba-05add1115d06.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/01/14/5/abdd965e-48ad-4cfb-8fba-05add1115d06.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/01/14/4/8a4f64b7-fd78-4800-85ef-875fce409f73.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/01/14/8/93f8508c-0e0e-4833-9da8-134bdc0fc457.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/357793123046542-0ecdb9e0-4a59-43dc-a9d2-814002799a20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/189890434092053-c840a61a-0ceb-4bfd-9a2f-d62c7945b593.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/211426249253713-89bc95b7-4a11-4274-9629-cefc987a51ed.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/357480497188564-6edc3d6e-3400-4a8e-b7be-0eb3a2c3b189.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/357459709678112-a1b186c7-8ce2-47e3-ab17-251ed890b17b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/imcbgSHEAe"
+    ],
+    "image_path": "images/09_돈시몬_착즙주스_레알선물세트,_1세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "오렌지부터 토마토, 청포도까지 한 박스에 다 들어있어서 선물로 딱임. 나도 하나 주문했더니 아침 주스 루틴이 생겼어 🍊",
+    "b": "받은 사람이 고급스럽다고 했는데 솔직히 가격 대비 만족도가 진짜 높음. 착즙이라 그런지 마시고 나서 속이 편하더라 🍹"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "qawe7854",
+    "url": "https://www.threads.com/@qawe7854/post/DfRAWAGk-yp",
+    "views": 33,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imUsuXXxm0",
+    "final_url": "https://www.coupang.com/vp/products/8323288002?itemId=24025569718&src=1139000&spec=10799999&addtag=400&ctag=8323288002&lptag=AF6503845&itime=20261105181455&pageType=PRODUCT&pageValue=8323288002&wPcid=17905526599079763164544&wRef=&wTime=20261105181455&redirect=landing&traceid=V0-181-8d7249394e6019b0&mcid=62ba8fd45d224364ad023f47aad5f295&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threads01&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8323288002",
+    "title": "KDNC 길이 조절 가능한 2층 싱크대 수납 선반",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d4cc/acc21f4e3e365f1f8d4f41e9902b446f132d82bd90594aed321826371423.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d4cc/acc21f4e3e365f1f8d4f41e9902b446f132d82bd90594aed321826371423.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd8c/2fc51020b02ad39892eff2221f75c8cfea35cce130bfa1e63949faa402a6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd0d/249932ea5a327b3c78e08a047b53e25f10c72d0ea863a7f92421840c7250.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9852/782094b94e934d1203ce21275f395fe02e9572f42a95c7c90a8bb3eb45d0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/59aa/156fa68b9e338ce2f24efe22f1d2f57b3880623fb1fca3091ee924410ed3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2745/a43e5d88d2bc22fdb4c9be3b43d6e0d22372c7ed6b5dcd9043f79aef79fd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2607/790af5df71c69de39795ba85aad9e83280482f08a6f747b89251ca94df45.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bb1c/895d0b9fa307932847da436ae9c25576c38a3561d4250032492d48652bbb.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=DIOlLMaHiaI"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/imUsuXXxm0"
+    ],
+    "image_path": "images/10_KDNC_길이_조절_가능한_2층_싱크대_수납_선반.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "싱크대 밑에 뭐가 있는지도 몰랐는데 이거 넣고 나서 공간이 두 배가 됨. 그릇이랑 냄비 다 자리 잡히니까 주방이 사람 사는 것 같아 보여 🙌",
+    "b": "배관 옆으로 맞춰 넣을 수 있어서 공간 낭비가 없음. 길이 조절되니까 우리 집 싱크대에도 딱 맞았는데 이게 의외로 제일 만족스러워 ✨"
+   }
+  }
+ ]
+}
