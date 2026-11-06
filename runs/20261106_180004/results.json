@@ -1,0 +1,461 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-06T18:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-06T18:20:42"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "kofdsoe20.2",
+    "url": "https://www.threads.com/@kofdsoe20.2/post/DfR7zjtExDQ",
+    "views": 2100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-03",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iny09AKsSW",
+    "final_url": "https://www.coupang.com/vp/products/9742250216?itemId=29160681465&src=1139000&spec=10799999&addtag=400&ctag=9742250216&lptag=AF6620740&itime=20261106181532&pageType=PRODUCT&pageValue=9742250216&wPcid=17905526599079763164544&wRef=&wTime=20261106181532&redirect=landing&traceid=V0-101-7e270014d6990bdb&mcid=784944cf9b8948e69878e001df49c9c8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9742250216",
+    "title": "프리미엄 달달 생 레드자몽, 1박스, 10과",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/440d/01f836a545d5559da2a1584bee46109f99d6a238731add1bb586e9c1817b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/440d/01f836a545d5559da2a1584bee46109f99d6a238731add1bb586e9c1817b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7eae/afc8f2a31cd8e0a1e6c9c85b780534ce1143c920a0d1c26362ef6fee9eb4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/df15/ab864c7a2c5b95d5ef968e20a67ec9f9de249c860fa4f4bd2f2d17741c13.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/673d/5cb95a995d6249c165161b074787c870b960cc60f71e4684799b839f0fe2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iny09AKsSW"
+    ],
+    "image_path": "images/01_프리미엄_달달_생_레드자몽,_1박스,_10과.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "자몽 자른 순간 이 색깔 보고 소리 질렀음... 근데 쓴맛 거의 없고 진짜 달달해서 혼자 두 개 먹음. 아침마다 이거 기다려지는 중 🍊",
+    "b": "자몽이 이렇게 달 수가 있나 싶었는데 진짜임. 반으로 잘라서 그냥 먹었는데 계속 손이 가더라. 요즘 아침 루틴 된 것 같아 🍋"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "the_sayo_pick",
+    "url": "https://www.threads.com/@the_sayo_pick/post/DfS-MQKEnQY",
+    "views": 1600,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ioecjv102u",
+    "final_url": "https://www.coupang.com/vp/products/9199164283?itemId=27158569358&src=1139000&spec=10799999&addtag=400&ctag=9199164283&lptag=AF6894579&itime=20261106181545&pageType=PRODUCT&pageValue=9199164283&wPcid=17905526599079763164544&wRef=&wTime=20261106181545&redirect=landing&traceid=V0-101-1f3c394a59bc97cc&mcid=6b55bb73d4524b79a116fe8189f16240&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9199164283",
+    "title": "신생아용 풋워머 보온 수면 양말",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/75812552342482-cfbadc07-6416-46d4-89d5-192c6b30da30.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/75812552342482-cfbadc07-6416-46d4-89d5-192c6b30da30.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/24/16/6/d451a7cc-f2b8-4c30-bd90-6dd46abd0014.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qascbihj/28d44566430143fb9804dc9815b3a410.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/24/15/2/87a44e99-953d-485a-912d-5b449aee9088.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/24/15/7/50b0ff11-8510-42ec-99e6-8a96192c015a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/24/15/2/e5906df8-949c-4fac-a39c-19107dd85438.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/11/24/15/8/4dac383f-9d68-4454-917f-d1fadcab3853.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ioecjv102u"
+    ],
+    "image_path": "images/02_신생아용_풋워머_보온_수면_양말.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애 발에 신겨줬더니 발이 완전 뭉텅이처럼 돼서 너무 귀여워서 웃음이 나왔음. 솜사탕 같은 질감인데 보채던 애가 금방 잠드는 것 같더라. 겨울 내내 이것만 신길 것 같아 🐣",
+    "b": "겨울 아침마다 차가운 발 걱정했는데 이거 신겨놓으면 한시름 덜어짐. 복슬복슬한 게 아기 발이랑 찰떡임. 보는 것만으로도 힐링 🧸"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "ordinary_piece",
+    "url": "https://www.threads.com/@ordinary_piece/post/DfTBNZzk-Am",
+    "views": 711,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iogcM2JVrE",
+    "final_url": "https://www.coupang.com/vp/products/9439697224?itemId=28075211773&src=1139000&spec=10799999&addtag=400&ctag=9439697224&lptag=AF6574541&itime=20261106181554&pageType=PRODUCT&pageValue=9439697224&wPcid=17905526599079763164544&wRef=&wTime=20261106181554&redirect=landing&traceid=V0-101-40734020c25d54a2&mcid=0be0ed6c86804c1793c1369e6c4e79c8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9439697224",
+    "title": "아디다스 여성 운동화 발레리나슈즈 스탠 스미스 발레 블랙 발이 편한 신발 데일리 여자스니커즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3bb6/f1e3451717b02e15992aeafc10c7361f2a30375f3cad3b4e15af81f073aa.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3bb6/f1e3451717b02e15992aeafc10c7361f2a30375f3cad3b4e15af81f073aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7791/e702f18f025f2fdf4dfb250fe5dcfda054df6cd1ed2602e5512500f37038.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cca6/7a19eae08c09c44247c1dabf6a246ea44c2ae82025c53821658e5ab4dc08.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/de54/b578a20565e5d4c0840fb38ce80c8da200d0f92d3eab9e68f79a4a712b60.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c69d/0399f0a93b62294e2f12031f016288ed2c7e760fc2360103d3ffa2754a38.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/10d2/3dddf92caa8d03f41dbb521ee4fce33c780bdb1b76368b3ddaeb2639677c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iogcM2JVrE"
+    ],
+    "image_path": "images/03_아디다스_여성_운동화_발레리나슈즈_스탠_스미스_발레_블랙_발이_편한_신발.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "양말 신고 신어도 발목 라인이 예쁘게 나와서 깜짝 놀람. 하루 종일 돌아다녀도 발이 별로 안 아프고. 이제 다른 신발엔 손이 잘 안 가더라 🖤",
+    "b": "블랙인데 발이 길어 보이는 게 신기하더라. 스니커즈인데 발레화 느낌이라 어디에나 잘 어울려서 좋음. 그냥 맨날 이것만 신고 나가게 돼 👟"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "yuri_imii",
+    "url": "https://www.threads.com/@yuri_imii/post/DfS-bXKjvp9",
+    "views": 688,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ioespjuuvk",
+    "final_url": "https://www.coupang.com/vp/products/9717738243?src=1139000&spec=10799999&addtag=400&ctag=9717738243&lptag=AF6569061&itime=20261106181604&pageType=PRODUCT&pageValue=9717738243&wPcid=17905526599079763164544&wRef=&wTime=20261106181604&redirect=landing&traceid=V0-183-51bc31e18266b5c5&mcid=ef069b9bb9d54855b8548a5e07d312d4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9717738243",
+    "title": "차량용 청소젤 자동차 실내 틈새 먼지제거 젤 키보드 송풍구 다용도 젤리 클리너 160g, 푸른색, 5개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e39e/be360927c5541f892307d96dd0b316cf6d3cac529143bd167c656b2edf98.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e39e/be360927c5541f892307d96dd0b316cf6d3cac529143bd167c656b2edf98.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/88e7/27d143fd6daf149c4762fae596ecd950b455ea4b51a771f0f59c27d7b0c1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d92/129cc305dea98b9752accf4f81e04dc0fadbe946c88213e10823d60f4c43.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/302e/b69e7f054590320dd1dce75e610446812faab668f855e72b2d11d2f6b031.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1def/2b8d2e088217275868ab3800a69ec753886e614c1f79ea1467373b426ca5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/70d5/ce59c110f404c4ee7bba134fd44c0431c3623e735942a28890ebf7e3ffc4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/28bd/ca4056156adfb421263d9ecc52bd504c10cec5fbe664435741250fb8a3ef.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c9b3/be9cd95b9c505b3b09c3bb01c79f57b759a51f3c3fa3adee4e276555373f.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ioespjuuvk"
+    ],
+    "image_path": "images/04_차량용_청소젤_자동차_실내_틈새_먼지제거_젤_키보드_송풍구_다용도_젤리_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "차 송풍구에 붙여서 떼니까 거기서 뭐가 그렇게 나오는지... 원래 이 안에 이런 게 있었나 싶었음. 한 번 쓰고 나서 차 탈 때마다 찜찜함이 사라진 것 같아 👍",
+    "b": "파란 젤 틈에 꾹 눌러서 떼면 먼지가 그대로 붙어 나와서 묘하게 중독적임. 키보드 청소할 때도 써봤는데 거기도 대박이더라. 갖다 버리기 아까울 정도 😂"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "avielle_0516",
+    "url": "https://www.threads.com/@avielle_0516/post/DfTAxr8k2TN",
+    "views": 630,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iofWd7FFpk",
+    "final_url": "https://www.coupang.com/vp/products/7725315479?itemId=20744211200&src=1139000&spec=10799999&addtag=400&ctag=7725315479&lptag=AF9444387&itime=20261106181612&pageType=PRODUCT&pageValue=7725315479&wPcid=17905526599079763164544&wRef=&wTime=20261106181612&redirect=landing&traceid=V0-101-14339f02f5f0afce&mcid=473257daed534d508620f37c39a7d57d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7725315479",
+    "title": "일본 버터 요츠바 버터 맛 비교 세트 / 요츠바 발효 가염버터",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/759c/43b265b07d186c9c6ba33d4dba6ec04c81e15a063cb328adb009f3a00536.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/759c/43b265b07d186c9c6ba33d4dba6ec04c81e15a063cb328adb009f3a00536.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/222d/0ea876b18526119db93e848dbf8e0fa13e91cbb75ae4b38b7ab6fab4610d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/12b5/d811209d10613441ba590ca1f4def7a507a74cb9e4719e0192d6c41fd892.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a926/bcc558b82ee5591b8a5600fd2b1e87fa294563b81dfc876fbb4aece01b78.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d045/d4a9f53fad36d8c8c22119c9adc5be16de2fddb0e0f65ed91fe93c108867.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iofWd7FFpk"
+    ],
+    "image_path": "images/05_일본_버터_요츠바_버터_맛_비교_세트_요츠바_발효_가염버터.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "두 개 같이 받아서 하나씩 먹어봤는데 발효 버터가 진짜 풍미가 다름. 식빵에 발라서 먹었는데 그냥 그 자체로 간식이 됐음. 아침 토스트가 이렇게 행복해질 줄 몰랐어 🧈",
+    "b": "평소에 버터 잘 안 먹었는데 이거 쓰고 나서 아침에 빵 굽는 횟수가 늘었음. 녹이면 고소한 향이 나서 기분 좋아지더라. 냉장고 필수템 됐다 🍞"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DfTADVOj2Sj",
+    "views": 486,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ioehJqK1me",
+    "final_url": "https://www.coupang.com/vp/products/116684807?itemId=19920095916&vendorItemId=87019821080&src=1139000&spec=10799999&addtag=400&ctag=116684807&lptag=AF9111886&itime=20261106181619&pageType=PRODUCT&pageValue=116684807&wPcid=17905526599079763164544&wRef=&wTime=20261106181619&redirect=landing&traceid=V0-181-3fc87d46e5e11212&mcid=1fae8392958343b2ae415e494aaa5446&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "116684807",
+    "title": "아임리얼 스트로베리 주스, 190ml, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/344988913831960-de9efc48-2ee0-4a90-b862-5674d8cce438.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/114576710707896-062d1834-5450-4113-8fb9-a11221a50a53.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918671495356-aef1b337-26a2-45d3-ba94-5754be5b4a28.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918710761137-713dc7ea-25f6-48de-8145-22440239d497.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14918673827202-4fd490f6-5dc4-477c-8de6-bbaa24ddd1ca.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ioehJqK1me"
+    ],
+    "image_path": "images/06_아임리얼_스트로베리_주스,_190ml,_2개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "딸기 주스 중에 이게 제일 딸기 같은 맛이 나는 것 같음. 뭔가 걸쭉하니까 마시는 게 아니라 먹는 느낌? 아침에 한 병 마셨더니 기분이 좀 달라지더라 🍓",
+    "b": "색깔부터가 진짜 딸기색이라 뜯기 전부터 기대됨. 인공적인 향 없이 딸기 갈아서 준 느낌이라 좋았어. 요즘 이거 없으면 허전한 중 🍓"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DfS8NFfE2NM",
+    "views": 388,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iodeheNXoW",
+    "final_url": "https://www.coupang.com/vp/products/9205266758?itemId=27183926886&src=1139000&spec=10799999&addtag=400&ctag=9205266758&lptag=AF6894579&itime=20261106181628&pageType=PRODUCT&pageValue=9205266758&wPcid=17905526599079763164544&wRef=&wTime=20261106181628&redirect=landing&traceid=V0-101-e661bbc36004b2d7&mcid=67bed29dc5d54cf387dd556768c17153&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9205266758",
+    "title": "반려동물 양털 펫침대 숨숨집 고양이 침낭 펫담요 이불 하우스 i293",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2682/c14705e118be1ad679a44033ba3b12a46aa89ea5163bd8a5cbad994141b4.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2682/c14705e118be1ad679a44033ba3b12a46aa89ea5163bd8a5cbad994141b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4be0/5719af1df27180fbe6ad0d768219e19737ab8822376189dbde44dff4f712.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9ca6/5b362860427f060773f848057763d92e691964b07591eb5a5bb6fbc4acd2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d511/6d5acd8b76e0643cf563675239014fea5726ba52c124e04b38d5f8b0543a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iodeheNXoW"
+    ],
+    "image_path": "images/07_반려동물_양털_펫침대_숨숨집_고양이_침낭_펫담요_이불_하우스_i293.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "고양이가 반도 안 쓰던 침대만 있던 집에 이거 뒀더니 하루 종일 거기서 나올 생각을 안 함. 보온이 잘 되는지 겨울인데 쭈그리고 자는 거 보면 웃기면서 뿌듯해. 집사 성공한 기분이야 🐱",
+    "b": "양털 안감에 쏙 들어가서 눈만 내밀고 있는 거 보고 너무 귀여워서 사진 엄청 찍었음. 겨울 되니까 거의 하루 종일 거기서 나올 생각을 안 하더라. 없으면 안 됐을 것 같아 🐾"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "soooomin__e",
+    "url": "https://www.threads.com/@soooomin__e/post/DfTAl5CmLn2",
+    "views": 203,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/inJ5YiU8A0",
+    "final_url": "https://www.coupang.com/vp/products/9581520487?src=1139000&spec=10799999&addtag=400&ctag=9581520487&lptag=AF4955575&itime=20261106181636&pageType=PRODUCT&pageValue=9581520487&wPcid=17905526599079763164544&wRef=&wTime=20261106181636&redirect=landing&traceid=V0-183-503baa24f7c859fb&mcid=b03bca1260634411a404856e66bc7eb1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=aicompany&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9581520487",
+    "title": "아크릴 자석액자 냉장고스티커, 3개, 투명",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/d8538683-d54c-4cb7-973e-bb789d10b95f_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/d8538683-d54c-4cb7-973e-bb789d10b95f_fixing_v2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7959/05a586c83b67e6740a4f889d2e06e1c1c6fc4902d85be32586fc20f8235b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f066/20555a716c844a1c280e0cae658b617988b8953224d1739ec55fc73dac7b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/18c6/d94eef531d9e7fb353e1140200127a25d2187f8d4edc8babbf97d3342514.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6eff/5768cd06e22a6871f558928737ebb71dabf130070446ac441e6d151115ab.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/827e/ab9b1788da86945468342f6bf3a6aa0ef10b2e4ca8cfd5b5ef75e93bfaf9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6be2/9c5d5d729b2fc63e22d5b0a7bedc5007be1ad7fcd3fa26273d4a81285e58.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e25b/3c3741d9db7805fb5756df33c4f6fa6ec969f04b9994a395b50756cc2342.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/inJ5YiU8A0"
+    ],
+    "image_path": "images/08_아크릴_자석액자_냉장고스티커,_3개,_투명.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "사진 넣었더니 갤러리에서 꺼낸 것처럼 선명하게 보여서 좋음. 투명해서 어디 붙여도 튀지 않고 감각적으로 보이더라. 냉장고 문이 이렇게 예뻐질 줄 몰랐어 🖼️",
+    "b": "자석이라 붙였다 뗐다 쉬워서 사진 교체하는 재미가 생겼음. 아크릴이라 흐릿하지 않고 선명하게 보여서 맘에 들어. 이거 하나로 집 분위기가 달라진 것 같아 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "jamongjm",
+    "url": "https://www.threads.com/@jamongjm/post/DfS-kglE57w",
+    "views": 197,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/intLQKmjoy",
+    "final_url": "https://www.coupang.com/vp/products/8070371649?itemId=25717634261&src=1139000&spec=10799999&addtag=400&ctag=8070371649&lptag=AF5018814&itime=20261106181644&pageType=PRODUCT&pageValue=8070371649&wPcid=17905526599079763164544&wRef=&wTime=20261106181644&redirect=landing&traceid=V0-101-0a5ca1f2c25eee3d&mcid=7e4b84e7a2af4168a2ab59c78bbdcd77&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8070371649",
+    "title": "마루산 유바리멜론 스팀 케이크, 1개, 234g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/06/09/11/7/669daa39-2629-4c2c-8bea-20dd6b49e046.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/09/11/7/669daa39-2629-4c2c-8bea-20dd6b49e046.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/09/11/2/a4561ede-0a1e-40c2-8c16-d9b9dcbab2bb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/09/11/0/000cfee9-b85e-4d65-a97b-7b6c268b6c2e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/09/11/5/eb5d37b3-9382-4e4b-b424-3ea6fe4ef4dc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/06/09/11/9/cb1cd295-8e9e-4645-9ee4-96901b110b40.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/intLQKmjoy"
+    ],
+    "image_path": "images/09_마루산_유바리멜론_스팀_케이크,_1개,_234g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "열었더니 멜론 향이 확 나서 일단 기분이 좋아졌음. 한 입 베어 물면 촉촉하고 멜론 맛이 진짜 나서 좋았어. 혼자 절반 먹고 나서 후회함 🍈",
+    "b": "커피랑 같이 먹었더니 조합이 대박이었음. 케이크가 뻑뻑하지 않고 쫄깃한 느낌이라 계속 먹게 됨. 이게 왜 이렇게 맛있는 건지 너무해 🍵"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "todaysunyy",
+    "url": "https://www.threads.com/@todaysunyy/post/DfThi_RETi0",
+    "views": 118,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-04",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/imGwvlOBIi",
+    "final_url": "https://www.coupang.com/vp/products/8399913745?itemId=24281331939&src=1139000&spec=10799999&addtag=400&ctag=8399913745&lptag=AF2510124&itime=20261106181704&pageType=PRODUCT&pageValue=8399913745&wPcid=17905526599079763164544&wRef=&wTime=20261106181704&redirect=landing&traceid=V0-183-248480cae31408ca&mcid=7ac12ef03c864cbfb78feb9ff7ad5a25&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8399913745",
+    "title": "캔메이크 플럼푸쿠 코디네이트 아이즈, 1개, 02",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/6304356959640-c13dc758-d9ea-46c5-b6a2-ba2946c84739.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6304356959640-c13dc758-d9ea-46c5-b6a2-ba2946c84739.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2345224286944-70607035-94dd-4635-8b61-cc40e2f4f623.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2084593075339-1a2e5587-d511-456e-ad51-54def4000ec5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2084701492658-e7400894-01d3-43b1-9d0e-b0a9b18ce68e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2084798202329-f6bf2883-0f09-4c54-b02d-7cb68a87ccb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2084899963790-548604b8-815d-4eba-8029-4522c7f15c26.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2084751837142-4aaff8b3-8c76-45a1-a5a7-c217a05c6482.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2344852088545-5b450ab4-3bcd-4cf9-b111-c9f261fa36ee.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/imGwvlOBIi"
+    ],
+    "image_path": "images/10_캔메이크_플럼푸쿠_코디네이트_아이즈,_1개,_02.jpg",
+    "my_link": "https://link.coupang.com/a/hjb431bYv7",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "핑크 계열이라 튈 것 같았는데 발라보니까 그냥 눈이 맑아 보이는 느낌? 출근 전에 대충 발라도 완성된 것처럼 보여서 좋았어. 요즘 아이섀도 이것만 쓰고 있음 🌸",
+    "b": "케이스 자체가 너무 예뻐서 사진 찍어 올리고 싶었음. 02가 은은한 핑크베이지라 처음 도전하기 딱 좋더라. 한 번 쓰고 나서 자꾸 손이 가 ✨"
+   }
+  }
+ ]
+}
