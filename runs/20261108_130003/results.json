@@ -1,0 +1,453 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-08T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-08T13:20:33"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "minchelin_guide__",
+    "url": "https://www.threads.com/@minchelin_guide__/post/DfWlZarEhhF",
+    "views": 267,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-05",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqyhZHhXy0",
+    "final_url": "https://www.coupang.com/vp/products/7495846422?itemId=19610875965&vendorItemId=95780774654&src=1139000&spec=10799999&addtag=400&ctag=7495846422&lptag=AF6017692&itime=20261108131608&pageType=PRODUCT&pageValue=7495846422&wPcid=17905526599079763164544&wRef=&wTime=20261108131608&redirect=landing&traceid=V0-183-f7e7cae1389b1993&mcid=8d2f1a88608b44218cf08230d320bc54&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7495846422",
+    "title": "구월의아침 쪄서볶은 귀리분말쉐이크 귀리미숫가루 선식, 500g, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/95f8/3bea9289c8927a98c443a7cf3634957859f61dc2dd523ef8b9ecd73a273c.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/95f8/3bea9289c8927a98c443a7cf3634957859f61dc2dd523ef8b9ecd73a273c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9db0/f6fc38400734c73af7d17dea6231926838e7a3ce8f7fe62c03cff3f7cd27.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/76a9/1f071504e8c3aea0f1e6fba648f2e722e051ddbe736fb3a1e5eef0302a11.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cac5/dcf869365e09938741afad9a3c52b9556bd061d0b93a7749ec32a1766675.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a944/9690d85ac2ec77dcbd221ed5a6c476095aa70be220b4d0409293f36e16a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9b1a/7000210a109e7d883b494b039a126fbd6e12482bc4b47a4df40fc69675dd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f7db/a5af52633c4bc32517bd1563526cd26346212dd7f334cac7bbfb9c33e84e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e81c/931ec996d7b1ecaa856b4f5830a80d389a7d42a2e0d6858c02774d8adb1f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqyhZHhXy0"
+    ],
+    "image_path": "images/01_구월의아침_쪄서볶은_귀리분말쉐이크_귀리미숫가루_선식,_500g,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 뭐 먹을지 고민하다가 귀리 쉐이크로 정착해버렸어... 물에 타면 고소하고 한 끼 때우기 딱 좋더라. 12개씩 쟁여두니까 아침 걱정이 사라진 게 제일 좋음 🌾",
+    "b": "운동 후에 가볍게 뭔가 먹고 싶을 때 꺼내 타먹는데 생각보다 꽤 고소해... 귀리 특유의 맛이 묘하게 중독돼서 벌써 두 번째 박스 뜯는 중 ☕"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "duly_ringring",
+    "url": "https://www.threads.com/@duly_ringring/post/DfYEnvUExoK",
+    "views": 194,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqIj6mhIPc",
+    "final_url": "https://www.coupang.com/vp/products/9749191777?src=1139000&spec=10799999&addtag=400&ctag=9749191777&lptag=AF1369944&itime=20261108131617&pageType=PRODUCT&pageValue=9749191777&wPcid=17905526599079763164544&wRef=&wTime=20261108131617&redirect=landing&traceid=V0-183-7d82e85308585c5f&mcid=a96e8dd2ad2e423d962ef9e0ae726f13&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9749191777",
+    "title": "로이체 산리오 캐릭터즈 휴대용 손난로 보조배터리 + 스트랩 + 파우치 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/09/28/11/9/c308b573-b928-4d79-90a2-4f79eeeb84b4.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/09/28/11/9/c308b573-b928-4d79-90a2-4f79eeeb84b4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/orgzofz4/7c892c6d228e4cc7a1cd0232ff281bfb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/0rbb8bj3/1b6c183a15cb4bd887a658538a05ca41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/pnncuarg/56dce5532af440ea8884cd18126bc867.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqIj6mhIPc"
+    ],
+    "image_path": "images/02_로이체_산리오_캐릭터즈_휴대용_손난로_보조배터리_+_스트랩_+_파우치_세.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "행규동 디자인에 반해서 충동구매했는데 손난로도 진짜 따뜻하더라... 겨울에 가방에 넣고 다니다가 꺼낼 때마다 혼자 싱글벙글하게 됨 🩵",
+    "b": "핸드폰 충전도 되고 손도 녹이고 귀엽기까지 하니까 겨울 필수템 됐어... 파우치에 같이 들어있으니까 가방 안에서 찾기도 쉬워서 편하더라 😊"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "richradarlab",
+    "url": "https://www.threads.com/@richradarlab/post/DfYKn5PlIGh",
+    "views": 161,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/iqZx7eElcO",
+    "final_url": "https://www.coupang.com/vp/products/7414909585?src=1139000&spec=10799999&addtag=400&ctag=7414909585&lptag=AF0745235&itime=20261108131625&pageType=PRODUCT&pageValue=7414909585&wPcid=17905526599079763164544&wRef=&wTime=20261108131625&redirect=landing&traceid=V0-183-dbcd3ae9c101075e&mcid=1e50e302bcf1458cbedef5aed0983664&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7414909585",
+    "title": "딩동펫 꽥꽥이 대왕오리 반려동물 애착인형",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/91104374234605-3fcd5fe7-4d1f-4ded-85d4-999f0275f570.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/91104374234605-3fcd5fe7-4d1f-4ded-85d4-999f0275f570.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34642376442714-bbabe10b-cb25-408c-8495-490e037607f7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34798600978030-f8eefcb6-9827-49c0-ab87-4625594adad6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34798593402397-2aa39a17-3e1e-4034-af1c-abd36cc08218.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/91179344973296-59264e34-84d2-46b0-99d2-8dce9ee2943e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34642382873082-45495f05-65fa-4784-bf4b-50bb7c11340b.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_951e0d21-8418-4395-8298-b55ee444fbb4.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/iqZx7eElcO"
+    ],
+    "image_path": "images/03_딩동펫_꽥꽥이_대왕오리_반려동물_애착인형.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애기한테 오리 인형 사줬는데 그 큰 걸 물고 돌아다니는 거 보고 너무 웃겼음ㅋㅋ 떨어놓을 생각을 안 하니까 이미 얘 최애 장난감이 된 것 같음 🦆",
+    "b": "노란 오리가 이렇게 클 줄 몰랐는데 받자마자 옆에 붙어서 안 떨어지더라... 울퉁불퉁한 텍스처가 맘에 드는지 계속 깨물고 있어서 귀여워 죽겠음 💛"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "mentorfactory80",
+    "url": "https://www.threads.com/@mentorfactory80/post/DfWm765gVc-",
+    "views": 104,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-05",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/itEEslQf7c",
+    "final_url": "https://www.coupang.com/vp/products/7660979010?itemId=23574310556&src=1139000&spec=10799999&addtag=400&ctag=7660979010&lptag=AF3331646&itime=20261108131632&pageType=PRODUCT&pageValue=7660979010&wPcid=17905526599079763164544&wRef=&wTime=20261108131632&redirect=landing&traceid=V0-101-3cd75f43500608b3&mcid=d072da75ed74495aa490a50190247b79&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7660979010",
+    "title": "고려은단 루테인 지아잔틴 아스타잔틴, 60정, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c01/efec4464feac60af1f697760ca69a9fda4ecd3fc0a3b3065412286297eda.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5c01/efec4464feac60af1f697760ca69a9fda4ecd3fc0a3b3065412286297eda.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7240/74798e16053d4dc54e735f9b367679e2e157c42488dd25f28158be60c542.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f1df/7792232d5fbb0f04f4495945867460a31076aff850a6ebb223fef145efbe.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d0be/68a2e695e972d526c380b764f84a746c2836d8c186b93d9afef080af0b0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/57fb/02542459a77228259cedf63e0c3faf3d925f5936b16a0c186f5b0731417a.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Z3SBdiibF_o",
+     "https://www.youtube.com/watch?v=syrZeF8GkjQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/itEEslQf7c"
+    ],
+    "image_path": "images/04_고려은단_루테인_지아잔틴_아스타잔틴,_60정,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "하루종일 모니터 보는 직업이라 눈이 너무 뻑뻑해서 챙겨먹기 시작했는데 한 알짜리라 귀찮지 않아서 그냥 습관이 됐어... 아침 밥 먹고 하나씩 챙기는 루틴이 생긴 게 신기함 💊",
+    "b": "부모님 선물로 사드렸다가 나도 같이 먹게 됐어ㅋㅋ 60정이라 두 달치니까 월초에 열어두면 까먹을 걱정도 없더라 👀"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "badakga.kr",
+    "url": "https://www.threads.com/@badakga.kr/post/DfWjdkbEgE-",
+    "views": 103,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-05",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqxwRDWfXE",
+    "final_url": "https://www.coupang.com/vp/products/7665804013?itemId=20435281200&src=1139000&spec=10799999&addtag=400&ctag=7665804013&lptag=AF3777969&itime=20261108131640&pageType=PRODUCT&pageValue=7665804013&wPcid=17905526599079763164544&wRef=&wTime=20261108131640&redirect=landing&traceid=V0-183-f80dcfc87b98979d&mcid=112d7ca0c2df4abb8d43ed5d52a23c6b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=badakgacom&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7665804013",
+    "title": "릴렉시 전자파 안심 온열매트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/286427402673277-abce616b-b01a-4981-8e99-c46ffbc6f543.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/286427402673277-abce616b-b01a-4981-8e99-c46ffbc6f543.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/186991712172313-8a8478e6-fef4-49c2-8ed4-fbdc0c2c311c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/186991755605492-0b9c37ef-48dc-4deb-a1a4-8108181f5c76.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/288652617564269-2732082a-ebda-43ad-a15c-a9caddb8d6fd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1282715991096590-b8793e12-9fb1-485e-8f33-ae19694153e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1282707821877886-c2c3911b-d293-42e5-86ed-ef099440cbcf.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_f8068a76-fd36-4345-bb0e-255b2ec642f6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqxwRDWfXE"
+    ],
+    "image_path": "images/05_릴렉시_전자파_안심_온열매트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울만 되면 바닥이 차가워서 결국 질러버렸는데... 켜두면 금방 따뜻해져서 이제 없으면 못 살 것 같아. 접어서 보관하기도 간편하고 생각보다 얇아서 좋음 🔥",
+    "b": "소파 앞에 깔고 앉아서 넷플릭스 보는 게 요즘 일상이 됐어... 체크무늬 디자인이 인테리어에 튀지 않아서 그냥 깔아두기 편하더라 🫧"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "salimgom",
+    "url": "https://www.threads.com/@salimgom/post/DfYkptMHxbZ",
+    "views": 97,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqLUIAZZZs",
+    "final_url": "https://www.coupang.com/vp/products/2228766374?src=1139000&spec=10799999&addtag=400&ctag=2228766374&lptag=AF1199464&itime=20261108131647&pageType=PRODUCT&pageValue=2228766374&wPcid=17905526599079763164544&wRef=&wTime=20261108131647&redirect=landing&traceid=V0-183-1f9f3b9ad519ba76&mcid=30040cb22f4943ab8d1920376ef6ad02&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2228766374",
+    "title": "탐사 조립식 아카시아 원목마루 일자형",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/9489/49e703f06cd4800425e2c395ba5d20715007267df292b7f5a25841b36a6b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/9489/49e703f06cd4800425e2c395ba5d20715007267df292b7f5a25841b36a6b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1300840794616582-cb311595-f43a-4ae3-b866-3da94e569e68.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1302571770221381-5c88230a-7404-4672-8e75-e416611f574c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1302571868794567-a5fb573f-0b12-4123-825e-9107dc12a8e8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1302571818069043-c2f91ea3-1512-4c88-ab21-7d75cb3b2e44.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1300840932859508-127f696a-f945-4aa2-a547-dfb9079f9476.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1302571920558070-685f3cc7-42c6-4f63-8deb-8a4047030b18.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1300840896455876-2d0d2bde-55cd-470f-a20d-58b49fe6b323.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqLUIAZZZs"
+    ],
+    "image_path": "images/06_탐사_조립식_아카시아_원목마루_일자형.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "베란다 바닥이 삭막해서 깔았는데 조립도 그냥 맞추면 되고 너무 간단해... 나무 느낌 나니까 화분 올려뒀을 때 카페 분위기 나서 진짜 만족함 🌿",
+    "b": "셀프 베란다 꾸미기로 샀는데 생각보다 쉽게 깔렸어... 아카시아 색이 따뜻해서 슬리퍼 신고 나가는 발걸음이 가벼워진 느낌이 든다 🪵"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "flying_dbsw",
+    "url": "https://www.threads.com/@flying_dbsw/post/DfYD8TfordX",
+    "views": 96,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqa8iAhSCG",
+    "final_url": "https://www.coupang.com/vp/products/9604549738?src=1139000&spec=10799999&addtag=400&ctag=9604549738&lptag=AF7773381&itime=20261108131654&pageType=PRODUCT&pageValue=9604549738&wPcid=17905526599079763164544&wRef=&wTime=20261108131654&redirect=landing&traceid=V0-183-924e1c4a623eb860&mcid=947f12651dcb4151bf3806c56290c458&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9604549738",
+    "title": "YSHI몬스테라 나뭇잎 실리콘 코스터 6개입 화분 거치대 세트 인테리어 컵받침 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/08ca/41bdb8ac6dd9c251968437394f32be7e6004cc9c3f7a3a17d852215b05db.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/08ca/41bdb8ac6dd9c251968437394f32be7e6004cc9c3f7a3a17d852215b05db.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1e1e/b7adf1db4722d30a2438b0586ced94c51af89854fda013c620acfe6d4b66.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7ca5/1dec09c8f5a7bdc7628ed3029ab4fc235ed847907177b98abc0fcdeaecaa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0d7f/c02d4b3f2604567014055a2b2140331a1935c33730522f00a53a844c7171.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0545/12fae359857b65bf19a4f0e2013b52065f79ecf096831c8680cd055d846e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ea2e/b5b02412dcf3cee55a22477017eefd4fc4c407795d83bf1daa2becd64afa.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqa8iAhSCG"
+    ],
+    "image_path": "images/07_YSHI몬스테라_나뭇잎_실리콘_코스터_6개입_화분_거치대_세트_인테리어_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "테이블에 몬스테라 코스터 올려뒀더니 코스터인지 소품인지 모르겠을 정도로 예쁨... 집에 오는 사람마다 어디서 샀냐고 물어봐서 뿌듯한 게 함정 🌱",
+    "b": "실리콘이라 물에 씻기도 편하고 잎사귀 모양이 보는 맛 있더라... 화분 거치대로도 쓸 수 있다는 거 알고 거실 한쪽에 꽂아뒀는데 완전 예쁨 🍃"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "bangspt20",
+    "url": "https://www.threads.com/@bangspt20/post/DfWqTXdE47k",
+    "views": 90,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-05",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iovLPouYMK",
+    "final_url": "https://www.coupang.com/vp/products/9079332913?itemId=28649951678&src=1139000&spec=10799999&addtag=400&ctag=9079332913&lptag=AF2342258&itime=20261108131702&pageType=PRODUCT&pageValue=9079332913&wPcid=17905526599079763164544&wRef=&wTime=20261108131702&redirect=landing&traceid=V0-101-76b610f17c2acbb7&mcid=98cdacb588c94bc885979d069bad4a4c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9079332913",
+    "title": "누텔라 헤이즐넛 스프레드 코코아 포함, 1개, 368.5g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1aff/2512e8efc57ec8f1b9add92eb0a2e753c55ed03e3bb1d52bb0a0afbabed2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1aff/2512e8efc57ec8f1b9add92eb0a2e753c55ed03e3bb1d52bb0a0afbabed2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30f0/3b5fd829ebabb1cf348ba37416938322c3060b6e48311ffc4d2a03fbfa8f.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/US_DDP_PC_ver.2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iovLPouYMK"
+    ],
+    "image_path": "images/08_누텔라_헤이즐넛_스프레드_코코아_포함,_1개,_368.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 식빵에 발라먹는 게 하루 중 제일 행복한 순간이 된 것 같아... 헤이즐넛 향이 주방에 퍼지는 거 맡으면 기분이 절로 좋아짐 🍫",
+    "b": "와플에 뭉텅 올려먹으려고 샀는데 숟가락으로 퍼먹는 비율이 더 높아진 것 같음ㅋㅋ 뚜껑 딸 때마다 먹는 양 조절 실패하는 게 단점이긴 함 😋"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ancco_7710",
+    "url": "https://www.threads.com/@ancco_7710/post/DfYKmBNleh1",
+    "views": 77,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/foKlNUY4qq",
+    "final_url": "https://www.coupang.com/vp/products/9048015284?itemId=26554468185&vendorItemId=93528265416&src=1139000&spec=10799999&addtag=400&ctag=9048015284&lptag=AF4773223&itime=20261108131710&pageType=PRODUCT&pageValue=9048015284&wPcid=17905526599079763164544&wRef=&wTime=20261108131710&redirect=landing&traceid=V0-183-dc13dbe794443e1c&mcid=b15dde0db28641dd8e9bdaeb12fd5a53&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9048015284",
+    "title": "킹짐 히토토키 코리지루시 CLS22 도장 아크릴 투명 얼음 다꾸 모양 스템프 데코 팬시 다이어리 꾸미기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e467/7c81f0db6cb7e2591ccc69937bbaacafebfa33ee8c6c81741a509e0658b7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e467/7c81f0db6cb7e2591ccc69937bbaacafebfa33ee8c6c81741a509e0658b7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/foKlNUY4qq"
+    ],
+    "image_path": "images/09_킹짐_히토토키_코리지루시_CLS22_도장_아크릴_투명_얼음_다꾸_모양_스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "다이어리 꾸밀 때 마땅한 게 없었는데 이 도장 쓰고 나서 완전 달라졌어... 동물이랑 패턴 디자인이 다양해서 한 번 찍다 보면 멈추기가 힘들더라 🐾",
+    "b": "아크릴이라 선이 되게 선명하게 찍히고... 노트 여백이나 편지 꾸밀 때 쓰면 감성 올라가는 느낌이라 자꾸 꺼내게 됨 ✨"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "themoney7481",
+    "url": "https://www.threads.com/@themoney7481/post/DfYDitqEoc6",
+    "views": 69,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-06",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iq2gt1z3ca",
+    "final_url": "https://www.coupang.com/vp/products/8288963037?itemId=28859359757&src=1139000&spec=10799999&addtag=400&ctag=8288963037&lptag=AF8120364&itime=20261108131719&pageType=PRODUCT&pageValue=8288963037&wPcid=17905526599079763164544&wRef=&wTime=20261108131719&redirect=landing&traceid=V0-181-25c743f7c90e175a&mcid=76282109f31a48669dfe22b50c508534&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8288963037",
+    "title": "일본 UHA 자바라 목캔디 72g 5개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/272e/1eb29d263bad303c75d4bd5f2031f34f1c5887dc702a18decf979c397551.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/272e/1eb29d263bad303c75d4bd5f2031f34f1c5887dc702a18decf979c397551.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iq2gt1z3ca"
+    ],
+    "image_path": "images/10_일본_UHA_자바라_목캔디_72g_5개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "목이 칼칼할 때 꺼내 먹는데 자바라 상큼한 맛이 생각보다 괜찮더라... 한 개 먹고 나면 뭔가 좀 편해지는 느낌이라 연속으로 손이 가게 됨 🍬",
+    "b": "친구한테 받아먹다가 반해서 직접 주문했어... 당질 50% 오프라 목캔디 중에서 꽤 가볍게 먹을 수 있고 개당 크기도 딱 먹기 좋더라 🍋"
+   }
+  }
+ ]
+}
