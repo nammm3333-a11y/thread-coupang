@@ -1,0 +1,447 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-10T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-10T13:19:20"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "elk.3970901",
+    "url": "https://www.threads.com/@elk.3970901/post/Dfb8qUYEr0f",
+    "views": 552,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/it01FftMAe",
+    "final_url": "https://www.coupang.com/vp/products/7737802490?itemId=18411592654&src=1139000&spec=10799999&addtag=400&ctag=7737802490&lptag=AF3390944&itime=20261110131355&pageType=PRODUCT&pageValue=7737802490&wPcid=17905526599079763164544&wRef=&wTime=20261110131355&redirect=landing&traceid=V0-101-8579945c3ceaff35&mcid=55ec3be6aed94ac39ca0d5ca983afd32&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7737802490",
+    "title": "파제르 무민 페퍼민트 캔디, 120g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f63b/9d93830351272626fd43c4bf0684ac166024f493b4853e4e6643dbe2daa5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f63b/9d93830351272626fd43c4bf0684ac166024f493b4853e4e6643dbe2daa5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/it01FftMAe"
+    ],
+    "image_path": "images/01_파제르_무민_페퍼민트_캔디,_120g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "무민 포장에 혹해서 집어들었는데 페퍼민트 안에 초콜릿이 숨어있는 거 첨 알았음. 겉은 시원하고 속은 달달한 조합이 의외로 중독성 있더라. 책상에 두면 집중하다가 하나씩 집게 됨 🍬",
+    "b": "포장이 너무 귀여워서 뜯기 아까웠는데 먹어보니 생각보다 맛있어서 결국 또 주문함. 상쾌함이랑 단맛이 같이 올라오는 게 묘하게 좋더라. 선물용으로도 괜찮겠다 싶어서 하나 더 뒀음 🐾"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/DfcB8RyjnWq",
+    "views": 202,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hLujU3dBtI",
+    "final_url": "https://www.coupang.com/vp/products/9501138134?itemId=28305241554&src=1139000&spec=10799999&addtag=400&ctag=9501138134&lptag=AF2066138&itime=20261110131403&pageType=PRODUCT&pageValue=9501138134&wPcid=17905526599079763164544&wRef=&wTime=20261110131403&redirect=landing&traceid=V0-101-1d76efe79e06dcd2&mcid=dfbffd954be949a580f91a13e864e57c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9501138134",
+    "title": "동원 애사비 저당롤유부초밥, 2개, 762g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dc8a/7caabaee43b4ff9a0d92d8a788ac1c08b2841cf45abbeb42d2e139685b36.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc8a/7caabaee43b4ff9a0d92d8a788ac1c08b2841cf45abbeb42d2e139685b36.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d90/368d14e3188c9ece5d5ea237f6555eda56771a050e6c27fbc9984ccfbf61.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hLujU3dBtI"
+    ],
+    "image_path": "images/02_동원_애사비_저당롤유부초밥,_2개,_762g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "다이어트 중인데 유부초밥이 너무 먹고 싶어서 저당으로 집었는데 생각보다 맛이 살아있더라. 롤 형태라 한입에 쏙 들어가는 게 좋았음. 애사비 소스 살짝 찍으니까 더 맛있더라고 😋",
+    "b": "점심 뭐 먹을지 고민하다 냉장고에서 꺼냈는데 2팩이라 든든하게 먹을 수 있어서 좋았음. 저당이라는 게 맛에서 티가 별로 안 나더라. 유부 식감이 살아있어서 먹는 맛 있었음 🍱"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/DfcGcBcnSdZ",
+    "views": 166,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/isa2ouMM4i",
+    "final_url": "https://www.coupang.com/vp/products/9778567635?itemId=29274103417&src=1139000&spec=10799999&addtag=400&ctag=9778567635&lptag=AF3704167&itime=20261110131411&pageType=PRODUCT&pageValue=9778567635&wPcid=17905526599079763164544&wRef=&wTime=20261110131411&redirect=landing&traceid=V0-183-ade217ef0c8d133a&mcid=25f66d5ee73d4e7582668249d9e90ef7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9778567635",
+    "title": "호카 카하 2 프로스트 모크 GTX 여성 고어텍스 방수 방한 트레킹화 오트밀 세서미 1155196-OKS",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a251/426e90fb941251823286ff62fc6cdaa70b0d81f4d029a0dbaaadf929a50b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a251/426e90fb941251823286ff62fc6cdaa70b0d81f4d029a0dbaaadf929a50b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d63e/9ad481b1decac4f03f0aa8f8364b976978fbc58bf60ca4e8c8764244aabf.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/isa2ouMM4i"
+    ],
+    "image_path": "images/03_호카_카하_2_프로스트_모크_GTX_여성_고어텍스_방수_방한_트레킹화_오.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 등산 가서 발 시려 고생한 뒤로 질렀는데 목 부분 패딩이 발을 포근하게 감싸줘서 좋았음. 작년이랑 체감이 완전히 다르더라. 오트밀 톤 색이라 뭐랑 입어도 잘 어울림 🥾",
+    "b": "흰 계열이라 금방 더러워질까 걱정했는데 생각보다 관리가 쉬워서 다행임. 신발끈 없이 조임줄로 조여주는 구조가 처음엔 낯설었는데 오히려 편해서 등산 아닌 날도 신고 나가게 됨 🤍"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "al99_zip",
+    "url": "https://www.threads.com/@al99_zip/post/DfcL6KoidWI",
+    "views": 159,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/itfYOc971g",
+    "final_url": "https://www.coupang.com/vp/products/6532199671?itemId=14512578731&src=1139000&spec=10799999&addtag=400&ctag=6532199671&lptag=AF9377901&itime=20261110131418&pageType=PRODUCT&pageValue=6532199671&wPcid=17905526599079763164544&wRef=&wTime=20261110131418&redirect=landing&traceid=V0-101-406329272213bb7b&mcid=d30cfa44e39a448da92567cb93ee01c7&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6532199671",
+    "title": "풀무원 얼큰 순두부찌개 킷 2인분, 1개, 600g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/3516715086254-d39c2d44-3815-4b0a-b0a4-f0c522988dd8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3516715086254-d39c2d44-3815-4b0a-b0a4-f0c522988dd8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5638753680195-a95221f1-0888-462c-ba93-f3081015ce4c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5641495267199-3effd861-13ab-4695-af50-9d4af4b6c015.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5648186536460-c9a4ed22-1467-477d-bcbc-5b2a315177de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3536580369261-4dc1843a-899a-4e91-a3cc-bdf415f9e5ab.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/239625993803508-89de8092-4142-48e8-981d-d17a3e04ea52.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/11592495439360-f93b4c2a-f44d-4f4b-8dc6-205124935887.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/itfYOc971g"
+    ],
+    "image_path": "images/04_풀무원_얼큰_순두부찌개_킷_2인분,_1개,_600g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "혼자 찌개 끓이기 귀찮아서 집었는데 국물이 생각보다 칼칼하게 잘 나와서 놀랐음. 순두부가 흐물흐물 안 무너지고 살아있어서 먹는 맛이 있더라. 비 오는 날 저녁에 딱이다 싶었음 🍲",
+    "b": "2인분인데 혼자 다 먹어버렸음... 국물이 얼큰하게 맞게 나와서 밥 말아 싹 비웠다. 패키지 들고 끓이기만 하면 되니까 주방 치울 게 없는 것도 좋았음 🌶️"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "impulsepurchaseshop",
+    "url": "https://www.threads.com/@impulsepurchaseshop/post/DfeQ9ZziWxk",
+    "views": 159,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-08",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iveTfOjGcS",
+    "final_url": "https://www.coupang.com/vp/products/9726803093?itemId=29107613673&src=1139000&spec=10799999&addtag=400&ctag=9726803093&lptag=AF2009242&itime=20261110131426&pageType=PRODUCT&pageValue=9726803093&wPcid=17905526599079763164544&wRef=&wTime=20261110131426&redirect=landing&traceid=V0-101-fabed073d9b4384e&mcid=5204db83eb6f41089742d4d748b9e8f4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9726803093",
+    "title": "레콜트 프레스 샌드 메이커 미니 RPS-3 recolte Press Sand Maker Mini (레드)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1ff7/9192c5e0a5795d8ccf32e4b911d8e384aa7bb9cadd1cc95ade245eb396b6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1ff7/9192c5e0a5795d8ccf32e4b911d8e384aa7bb9cadd1cc95ade245eb396b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e8d1/d20a2ae8aef8f064e13e1236d753bca655b6b37b0d4c088b5021e16ecbf7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e2e/045e5403e86d792fd3b29a3f5b2f7308c2c86f56cfcfc12d00ed00a44afd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f1c6/dc2bf5610b99b210955916317cfbe124b3ff06fc31a9b6237ede73873d5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/360d/8fc4d2052ae93dea162e25dc5ee0f48d71e60f4a07557a7811a8e52a122e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9b2f/3cf3046e48ad03d1e663cd33dbe82095b68b94410dd6bace035c59efd173.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a043/81a2360fa5f79f1c80b108cc75cc831de89f12f9562f41a4f50a902afb88.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/df77/17cafa2f769348ab7a3113de44d88abf0a1cdc65effa6ea6d49a31f440a7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iveTfOjGcS"
+    ],
+    "image_path": "images/05_레콜트_프레스_샌드_메이커_미니_RPS-3_recolte_Press_Sa.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 샌드위치 사 먹던 습관을 이걸로 끊었음. 치즈랑 햄 넣고 닫으면 금방 완성돼서 출근 전에도 충분히 쓸 수 있더라. 빨간 색이 주방에 올려두니까 괜히 기분도 좋아지는 것 같음 🥪",
+    "b": "가장자리가 꼭 눌려서 속재료가 안 흘러나오는 게 생각보다 완성도 있었음. 혼자 쓰기엔 사이즈가 딱 맞고 세척도 간단해서 매일 꺼내게 되더라. 주방 인테리어로도 손색 없음 ❤️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "work_smart_k",
+    "url": "https://www.threads.com/@work_smart_k/post/DfbYWPlMSUB",
+    "views": 126,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/itB2fAbLNc",
+    "final_url": "https://www.coupang.com/vp/products/9775715257?src=1139000&spec=10799999&addtag=400&ctag=9775715257&lptag=AF8614230&itime=20261110131434&pageType=PRODUCT&pageValue=9775715257&wPcid=17905526599079763164544&wRef=&wTime=20261110131434&redirect=landing&traceid=V0-183-3ac382f978cffa0c&mcid=59229004e876460fbf3de8b21913307e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9775715257",
+    "title": "비비고 1.5배 진한 한우사골곰탕 500g, 10개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2f16/876b0fa3d443564b6b4956de97cc5eb953969b36d392319011e4914b74ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f16/876b0fa3d443564b6b4956de97cc5eb953969b36d392319011e4914b74ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c87/ad6c6243d8cf89a96580f2008bae3a88d5f8344919181b55909e70703d4a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8927/a1dae23a576d5f286a7db68e2315238b804cfd34bb1d19bb24cc6e6700b3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/itB2fAbLNc"
+    ],
+    "image_path": "images/06_비비고_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 뭐 먹을지 고민 없애려고 박스로 쟁여왔는데 국물이 묵직하고 진해서 든든하더라. 10개짜리라 한동안 아침 걱정이 없어진 게 제일 좋음. 밥 말아 먹으면 그냥 한 끼 완성임 🍚",
+    "b": "감기 기운 있는 날 꺼내 데웠더니 사골 냄새가 부담 없이 깔끔하게 나더라고. 속이 편안해지는 느낌이라 그 뒤로 아플 때 찾게 됐음. 1.5배 진하다는 거 국물 색 보면 바로 알 수 있음 🥣"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "yoons829",
+    "url": "https://www.threads.com/@yoons829/post/DfbrKkZGmpR",
+    "views": 65,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/isfdtIDSMe",
+    "final_url": "https://www.coupang.com/vp/products/8811313785?itemId=26310005547&src=1139000&spec=10799999&addtag=400&ctag=8811313785&lptag=AF6932418&itime=20261110131442&pageType=PRODUCT&pageValue=8811313785&wPcid=17905526599079763164544&wRef=&wTime=20261110131442&redirect=landing&traceid=V0-101-bee18701d880faf2&mcid=593786667f3c41f29d1cd43cee47e3b0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8811313785",
+    "title": "세포랩 바이오제닉 클렙스 50% 모이스처라이저 로션, 80ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7c05/87aae4a0672251e636882fa396702065dc357eb0f026dec8b60aba9ce32d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c05/87aae4a0672251e636882fa396702065dc357eb0f026dec8b60aba9ce32d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6913/75720aa9fa703e0775c4eb72884ecbb22e97deba8922a326a662a43a608f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/isfdtIDSMe"
+    ],
+    "image_path": "images/07_세포랩_바이오제닉_클렙스_50%_모이스처라이저_로션,_80ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "환절기에 각질 뜨길래 자극 없는 거 찾다가 집었는데 발림이 가볍고 묵직하지 않아서 좋았음. 각질 뜨던 부위에 꾸준히 써봤더니 거칠한 느낌이 덜해지는 것 같더라. 겹겹이 올려도 무리 없는 텍스처임 🌿",
+    "b": "화장 전에 써봤는데 뜨거나 밀리지 않고 밀착되는 느낌이 괜찮았음. 흰 튜브 하나라 세면대에 뒀을 때 깔끔해 보여서 마음에 들더라. 여행 갈 때 가방에 넣기도 딱이고 🤍"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "p1star.__",
+    "url": "https://www.threads.com/@p1star.__/post/DfbUq6gnPUt",
+    "views": 46,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iqLlXOyqGG",
+    "final_url": "https://www.coupang.com/vp/products/7975779639?src=1139000&spec=10799999&addtag=400&ctag=7975779639&lptag=AF9251215&itime=20261110131450&pageType=PRODUCT&pageValue=7975779639&wPcid=17905526599079763164544&wRef=&wTime=20261110131450&redirect=landing&traceid=V0-183-a52a1ace9ec902c7&mcid=52d365d3ddfc4abb972e1916f953fe26&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=p1star1107&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7975779639",
+    "title": "10종 포카칩 꼬북칩 콘칩 꼬깔콘 치토스 스낵 과자세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7ed2/5494d0929e85b2790e424cd7cf62617b61313b484db5418775663074a6d5.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7ed2/5494d0929e85b2790e424cd7cf62617b61313b484db5418775663074a6d5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fb95/913b91f3fb59bfd05ff908bc3a7a9e05184c42421553738e4a35ff4449ad.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c0ec/f4fc7fa85ed57ab6f004a07a3abe6dd9bde943ec199473d1b35b3ea63e03.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6e6d/6d0463601b3d57f9f03be0532676f66f1f01147407ec5bd184d3ca5a38e8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9946/f9d7663cda74d43bf599f0e5c613f7aa997fb52f0fe80b0d74bf3be73093.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iqLlXOyqGG"
+    ],
+    "image_path": "images/08_10종_포카칩_꼬북칩_콘칩_꼬깔콘_치토스_스낵_과자세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "과자 고를 때마다 하나씩 담다 결국 세트로 질러버림. 포카칩에 꼬깔콘에 치토스까지 종류가 넉넉해서 그냥 과자 파티 열었음. 꼬북칩이 제일 먼저 사라진 거 보면 역시 국민 간식임 🍿",
+    "b": "집에 과자 쟁여두면 금방 없어질 것 같아서 망설였는데 역시 금방 없어짐. 신짱이랑 콘칩이 의외로 같이 먹으면 맛있더라고. 몇 개 숨겨뒀다가 결국 내가 꺼내 먹음 😅"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "hotdealdang",
+    "url": "https://www.threads.com/@hotdealdang/post/DfeUOfCEzN-",
+    "views": 45,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-08",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ivxHBniqt2",
+    "final_url": "https://www.coupang.com/vp/products/5580463760?itemId=18037610917&vendorItemId=85192001283&src=1139000&spec=10799999&addtag=400&ctag=5580463760&lptag=AF1965377&itime=20261110131458&pageType=PRODUCT&pageValue=5580463760&wPcid=17905526599079763164544&wRef=&wTime=20261110131458&redirect=landing&traceid=V0-183-9e9ebb6ff5e0fd46&mcid=5b1d1bc648c54b248396cf06598352dd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=coupangfits&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5580463760",
+    "title": "트레비 자몽 ECO 탄산음료 무라벨, 350ml, 40개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/465ba1ff-8424-4e7e-83be-b31c84b3cd9e9189543918617255802.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/465ba1ff-8424-4e7e-83be-b31c84b3cd9e9189543918617255802.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/108017615709368-002ea48d-a65c-4e98-89ab-bf3a2376b281.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/525756592025823-8fd89f0f-8ed9-44ca-a5e2-84b53dec4f45.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/181140597094054-dd144edb-12e8-43c2-a804-f6b6ae4cea03.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/108017625334515-346df838-cd3d-46b5-b41d-b9d5c59d9f4d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/12801225808307932-a45e49c8-0114-4653-b411-e95c09a38d1d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5251916205290420-e9380c7a-18eb-4f54-8a7c-f27cee6205d6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/538389659841732-c0732160-9b92-4f8f-838d-2f36001f77a5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ivxHBniqt2"
+    ],
+    "image_path": "images/09_트레비_자몽_ECO_탄산음료_무라벨,_350ml,_40개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "탄산수 무라벨로 박스 쟁여두기 시작했는데 자몽 향이 은은해서 밥 먹고 나서 한 병씩 마시는 게 루틴이 됨. 분리수거할 때 라벨 뜯을 필요 없어서 진짜 편하더라. 40개짜리라 동날 것 같아서 불안함 ♻️",
+    "b": "달달한 거 마시고 싶을 때 대신 꺼내 마시는데 자몽 향이 살짝 나서 그냥 탄산수보다 마시기 편하더라. 무라벨이라 보관할 때도 깔끔해 보이더라고. 한 번 사두면 꽤 오래 버티는 것도 맘에 듦 💧"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "hing.nyang",
+    "url": "https://www.threads.com/@hing.nyang/post/DfblLItkx_7",
+    "views": 36,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-07",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/itMm82bNsW",
+    "final_url": "https://www.coupang.com/vp/products/344528374?itemId=25296880895&src=1139000&spec=10799999&addtag=400&ctag=344528374&lptag=AF0915243&itime=20261110131507&pageType=PRODUCT&pageValue=344528374&wPcid=17905526599079763164544&wRef=&wTime=20261110131507&redirect=landing&traceid=V0-101-59137e94f7ab727f&mcid=04e0b9736b4f4a30af2f7b0d55385e68&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "344528374",
+    "title": "일리윤 울트라 리페어 바디로션, 528ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1957009326676-89bacc20-56db-4e0c-aae3-6256966f8e8a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1957009326676-89bacc20-56db-4e0c-aae3-6256966f8e8a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/146399069320352-602e74bb-c39e-46bc-a14a-67a38412ae5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/57301810353303-12644f30-2005-4fc9-b275-3f5afa5ff3f5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/146763270331091-20e84ec0-4caf-4dab-bab6-70e42f90b148.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/146763271656452-f117350a-0fc4-473e-8d97-da758947900d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/343404211116514-c8353da6-9503-4c95-9d2d-f5f27582f859.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/57312283751188-586b181b-6929-4911-a536-35c0701b9e2a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/343426731432738-09aad763-7c50-4b98-b935-78e736ef8148.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/itMm82bNsW"
+    ],
+    "image_path": "images/10_일리윤_울트라_리페어_바디로션,_528ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 되면서 팔꿈치가 거칠어지길래 꺼냈는데 펌핑 한 번에 넉넉하게 나와서 온몸에 쓰기 딱 좋더라. 뭉치지 않고 쭉쭉 발려서 자기 전에 바르는 게 습관이 됨. 528ml라 쓰는 양에 비해 오래 가는 것도 좋음 🧴",
+    "b": "극건조 피부용이라 반신반의했는데 발리고 나서 이불 들어갈 때 뻑뻑한 느낌이 덜하더라. 겨울마다 로션 여러 개 쓰다가 이거 하나로 정착함. 텍스처가 묽지 않아 건조한 부위에 집중해 쓰기 좋더라 🤍"
+   }
+  }
+ ]
+}
