@@ -1,0 +1,458 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-11T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-11T22:22:57"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "mint.love23",
+    "url": "https://www.threads.com/@mint.love23/post/Dfg91zmIBRp",
+    "views": 7500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/h0fdfw5UTQ",
+    "final_url": "https://www.coupang.com/vp/products/193942663?itemId=10177122302&src=1139000&spec=10799999&addtag=400&ctag=193942663&lptag=AF8831076&itime=20261111221621&pageType=PRODUCT&pageValue=193942663&wPcid=17905526599079763164544&wRef=&wTime=20261111221621&redirect=landing&traceid=V0-101-42f79b49212b7468&mcid=1d81b6792bb24545825fabc9edaf6a05&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "193942663",
+    "title": "혼쯔유 코이다시, 500ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/7ab8/6d4b9737695d563470af86842063870e4cfc49a61d9f9621edac87b9500f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/7ab8/6d4b9737695d563470af86842063870e4cfc49a61d9f9621edac87b9500f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1750342498949732-1de34811-a146-4412-b525-e64c4ee1662a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/320117382034770-7fc260aa-5edb-4c01-8dd1-3ac07b2f43ec.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2257575595957555-eb063008-da0d-41a9-a733-a705d9945b59.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/320117593875823-e855eea5-fbfb-4f50-955d-6b7b899963bf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/320117380683061-b6093169-5100-4493-a3e9-7772a7afb23a.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/h0fdfw5UTQ"
+    ],
+    "image_path": "images/01_혼쯔유_코이다시,_500ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "우동 끓일 때마다 맨날 간 맞추느라 고생했는데 이거 넣으니까 그냥 됨. 국물 맛이 뭔가 달라졌다고 남편이 먼저 말했음 🍜",
+    "b": "집에서 소바 해먹고 싶어서 샀는데 그냥 희석만 해도 맛있음. 냉면 국물에도 넣어봤는데 그게 또 의외로 괜찮더라 😮"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DfiTFqPAbYJ",
+    "views": 745,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 1.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix6Rwdh7m0",
+    "final_url": "https://www.coupang.com/vp/products/9573789681?itemId=28538482797&src=1139000&spec=10799999&addtag=400&ctag=9573789681&lptag=AF3499889&itime=20261111221630&pageType=PRODUCT&pageValue=9573789681&wPcid=17905526599079763164544&wRef=&wTime=20261111221630&redirect=landing&traceid=V0-101-cc0d5ac4eb503a7c&mcid=9ecfbbc963a242b4b8ef872ad40b0b3d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9573789681",
+    "title": "페이퍼원 디지털 복사용지 80g, A4, 5000매",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9842806150834-cc40c1fc-5c88-4e1f-9b41-c8ce86a9437e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix6Rwdh7m0"
+    ],
+    "image_path": "images/02_페이퍼원_디지털_복사용지_80g,_A4,_5000매.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "재택하면서 출력할 일 많아져서 대용량으로 샀는데 한 박스가 이렇게 든든할 줄 몰랐음. 복사지 떨어질 걱정 없이 쓰니까 그냥 편해졌음 📄",
+    "b": "회사에서도 이거 쓰는데 집에도 사버림... 종이 두께가 적당해서 프린터에서 잘 안 걸리고 그게 은근히 제일 맘에 듦 🖨️"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "bongbong_ggultem",
+    "url": "https://www.threads.com/@bongbong_ggultem/post/DfgWfkBjfNX",
+    "views": 476,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ibNdbIcZHg",
+    "final_url": "https://www.coupang.com/vp/products/9157767847?itemId=26972174956&src=1139000&spec=10799999&addtag=400&ctag=9157767847&lptag=AF6312364&itime=20261111221639&pageType=PRODUCT&pageValue=9157767847&wPcid=17905526599079763164544&wRef=&wTime=20261111221639&redirect=landing&traceid=V0-101-4c9678c3db6f1a24&mcid=30424a8df11d425d8ec975ac903f18fc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9157767847",
+    "title": "고샤인 차량용 말랑말랑 노기스 황소 힘줄 성에제거기 눈삽 눈 브러시, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/8a59ea7b932ee5cde773fcd8e9e231fae0354ea5ff56c93630311f99af6a_1764662213503.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/8a59ea7b932ee5cde773fcd8e9e231fae0354ea5ff56c93630311f99af6a_1764662213503.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1c91/f720ebf1d0348aac895773aafb3a66b579f2de143c599944c53ee2d16bf8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/71cc/8517f6511351ee2147d01f9946dfae29d73e3f49c99bbc6871246145fdad.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=E0DOBg-m79Y"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/ibNdbIcZHg"
+    ],
+    "image_path": "images/03_고샤인_차량용_말랑말랑_노기스_황소_힘줄_성에제거기_눈삽_눈_브러시,_2.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "출근 전에 성에 긁느라 매년 손이 얼었는데 이거 사고 나서 그냥 쭉 밀면 됨. 말랑한 소재라 유리에 흠집 걱정도 덜해서 좋음 ❄️",
+    "b": "겨울마다 신용카드로 긁다가 카드 휠 뻔한 적 있어서 샀는데 2개라 하나는 차에 하나는 집에 두니까 완벽함 🚗"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DfguNH4E5iG",
+    "views": 212,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iw51KdyizI",
+    "final_url": "https://www.coupang.com/vp/products/9114248962?itemId=26802891485&src=1139000&spec=10799999&addtag=400&ctag=9114248962&lptag=AF6894579&itime=20261111221751&pageType=PRODUCT&pageValue=9114248962&wPcid=17905526599079763164544&wRef=&wTime=20261111221751&redirect=landing&traceid=V0-101-c2faadd01818f300&mcid=e429dd8a21fb4c1b8d551a58182507a2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9114248962",
+    "title": "캠핑 침낭 사계절 공용 초대형공간 휴대용 방수 야외 압축 침낭 겨울 이불 230*100cm 2.2kg + 수납가방, 1개, 갈색",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b738/679cb3f8eba2eedf68b97a1bd2c128cea83ab38e9fbbdfc0a4057aefdd43.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b738/679cb3f8eba2eedf68b97a1bd2c128cea83ab38e9fbbdfc0a4057aefdd43.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9998/ecaa71f13d0d765ccf8ab41abf6fc7de4574093074935532b3fcdc1b0c79.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/aee8/6d3e3f734242783d4ab925c7c729e7db00980ebd078c4e8877e6ac798aaf.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4ebf/f711d440935c3e97d42545c93737a44190373ac14c161527e2c3073a91ba.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/326d/6cc0f29aedaf8fa72519dffa1e808958a09c77b14159bebaf9e2d5a20437.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b239/790b9da27de4b61bf27930e687a78b3f88daf966e106e6cef9ed4a8bce75.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0de4/56a4b277af900031174c942a8b9bda086584771cb520a544e1d2e4eecf66.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e77/478f97176ae83b5ae575051845704992bc9f099ad0919d29ce335767a692.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=ZhSL6bjPr7g"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iw51KdyizI"
+    ],
+    "image_path": "images/04_캠핑_침낭_사계절_공용_초대형공간_휴대용_방수_야외_압축_침낭_겨울_이불.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "새벽 캠핑에서 추워 죽는 줄 알고 나서 샀는데 넓어서 뒤척여도 괜찮고 아침에 일어날 때 그게 제일 좋더라. 압축하면 부피도 별로 안 됨 🏕️",
+    "b": "차박할 때 담요 들고 다니기 귀찮아서 샀는데 뒷좌석에 펼치면 이불이랑 다를 게 없음. 혼자 쓰기엔 공간이 꽤 넉넉해서 쾌적함 😴"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "g_o_uuuuu_",
+    "url": "https://www.threads.com/@g_o_uuuuu_/post/DfgUdO2j45I",
+    "views": 211,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iwPk0OKgTI",
+    "final_url": "https://www.coupang.com/vp/products/9126666476?itemId=26850360981&src=1139000&spec=10799999&addtag=400&ctag=9126666476&lptag=AF7579418&itime=20261111221759&pageType=PRODUCT&pageValue=9126666476&wPcid=17905526599079763164544&wRef=&wTime=20261111221759&redirect=landing&traceid=V0-101-b3a76296e279e37a&mcid=fc1dea1042644a1d9974f39fe7023205&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9126666476",
+    "title": "대성쎌틱 라디에이터 화장실 전기 히터 욕실 온열기 가정용라디에이터",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eda7/f238a865f23cb1efc2c45a618ff8a41e5dc21cf08d5aa3e765ac5c794e19.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eda7/f238a865f23cb1efc2c45a618ff8a41e5dc21cf08d5aa3e765ac5c794e19.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd0b/bb736075a407b34d2ceb294119abb881d0047ac3dbe89441caa3593ee26b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1727/c13fc80c4ea8d6af61f7f6d4f92e7e7c6f367e8748de3512341a30def423.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/789d/e4953428f06654c436a3be965b4b1ec911806e1a032f155f19578f9ee239.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/adba/d22272d3311916b0a2e1552165b6d76f582d5c461be8267c3c7252bc0525.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/494e/ea0496a2ec628e8e15360addef90e25a8eba30dd477a341478ef464cec43.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iwPk0OKgTI"
+    ],
+    "image_path": "images/05_대성쎌틱_라디에이터_화장실_전기_히터_욕실_온열기_가정용라디에이터.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "욕실에 작은 히터 쓰다 겨울마다 무서웠는데 라디에이터로 바꾸니까 훨씬 안심됨. 바람 없이 천천히 따뜻해지는 느낌이 생각보다 좋더라 🌡️",
+    "b": "거실 한쪽에 뒀는데 아이가 가까이 가도 화상 걱정이 덜해서 맘이 편해짐. 바퀴가 있어서 방 옮겨 쓰기도 편함 🏠"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "dragon_food_market",
+    "url": "https://www.threads.com/@dragon_food_market/post/DfgwtB3n_0J",
+    "views": 206,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iw7mtcTNVQ",
+    "final_url": "https://www.coupang.com/vp/products/8660332953?itemId=28488024980&src=1139000&spec=10799999&addtag=400&ctag=8660332953&lptag=AF4890027&itime=20261111221807&pageType=PRODUCT&pageValue=8660332953&wPcid=17905526599079763164544&wRef=&wTime=20261111221807&redirect=landing&traceid=V0-101-fa54e759d2b4abcf&mcid=f3bf457acfd84a528c25b6928db6880e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8660332953",
+    "title": "케이맥스 맥세이프 오토 힌지 가드 클리어핏 휴대폰 케이스",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/05/15/14/7/63d977d3-3760-4528-bc68-21cb6a00c0e6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/7/63d977d3-3760-4528-bc68-21cb6a00c0e6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/9/fd152293-f6e3-4df0-8908-ebd4301d7ebf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/5/4349ac06-d0fe-4844-a27a-c3f42060a10e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/6/4092a37d-38a7-4977-afd8-dab9c1e96da0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/4/7e5deba8-998b-43d2-acaa-84ca2023b146.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/05/15/14/4/b8051d67-8e78-406a-80bc-b07fd3ea64e9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iw7mtcTNVQ"
+    ],
+    "image_path": "images/06_케이맥스_맥세이프_오토_힌지_가드_클리어핏_휴대폰_케이스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "폴드 쓰면서 힌지 부분이 항상 걱정됐는데 이 케이스가 그 부분을 제대로 잡아줘서 맘에 듦. 클리어라 폰 색상 그대로 보이는 것도 좋음 📱",
+    "b": "맥세이프 되는 폴드 케이스 찾느라 한참 헤맸는데 이게 딱임. 케이스 끼워도 접었다 폈다 뻑뻑하지 않아서 쓸수록 만족함 ✨"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "yoalje",
+    "url": "https://www.threads.com/@yoalje/post/DfgZqEVHVR9",
+    "views": 204,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/irTH5G0tBQ",
+    "final_url": "https://www.coupang.com/vp/products/9804780879?itemId=29361173448&vendorItemId=96273810777&src=1139000&spec=10799999&addtag=400&ctag=9804780879&lptag=AF5394847&itime=20261111221815&pageType=PRODUCT&pageValue=9804780879&wPcid=17905526599079763164544&wRef=&wTime=20261111221815&redirect=landing&traceid=V0-183-0791be9851a71dd0&mcid=8764038836774c878daf6571f818cac6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9804780879",
+    "title": "슬림 현관 신발장 3단 플립형 틈새 수납장",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bd82/2c8b396cdf2100d389fe9bed76572437fba517577b62b75ad1dd6dc2c590.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd82/2c8b396cdf2100d389fe9bed76572437fba517577b62b75ad1dd6dc2c590.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5209/25666a0cf2581c418532ed7cbcb53d1efed57ba9ae3a7b928335660279cd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/33ed/d64ec912e5d2ed551e3cce1111b83add2f306a5acb0939cc6b309af2c445.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dc90/c2699afb0113ac19aab89289d62e3a8beb654461e182015f2a592f7803b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2130/601312b55eb22edcc779f00f7d4113f75cab8bfae846c358a51cb468b3f3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/25f6/ac530ff9376a29d4ed07524665a624a82a56f65f5be1d8eed6aed306eab2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/irTH5G0tBQ"
+    ],
+    "image_path": "images/07_슬림_현관_신발장_3단_플립형_틈새_수납장.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "현관이 좁아서 신발 쌓아두는 게 항상 스트레스였는데 이거 두고 나서 첫인상이 달라졌음. 플립 방식이라 여는 것도 편하고 생각보다 많이 들어감 👟",
+    "b": "집들이 선물 고르다가 나도 하나 사버림. 위에 화분이나 소품 올려놓으니까 그냥 가구처럼 보여서 현관이 정돈된 느낌이 남 🌿"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "the_sayo_pick",
+    "url": "https://www.threads.com/@the_sayo_pick/post/Dfgvi3ZkvyZ",
+    "views": 160,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iw6z1LDAZ2",
+    "final_url": "https://www.coupang.com/vp/products/9091515584?itemId=26718394335&src=1139000&spec=10799999&addtag=400&ctag=9091515584&lptag=AF6894579&itime=20261111221924&pageType=PRODUCT&pageValue=9091515584&wPcid=17905526599079763164544&wRef=&wTime=20261111221924&redirect=landing&traceid=V0-101-d65a64bddfb4dcd5&mcid=eb2cdd0f6b5f4df688cf0233bce0da17&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9091515584",
+    "title": "겨울 아동 유아 초등 공룡 야광 디노 손가락 방한 장갑",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/480a/995ce8635aee9e148d837916e29d19d326abdde75f401d5d9da2731c0afd.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/480a/995ce8635aee9e148d837916e29d19d326abdde75f401d5d9da2731c0afd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iw6z1LDAZ2"
+    ],
+    "image_path": "images/08_겨울_아동_유아_초등_공룡_야광_디노_손가락_방한_장갑.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "장갑 안 낀다고 매일 떼쓰던 애가 이거 보고 먼저 끼겠다고 함. 공룡 그림이 너무 귀여워서 등원길이 갑자기 신남 🦕",
+    "b": "야광인 걸 밤에 처음 봤을 때 애가 완전 신기해했음. 어두운 하굣길에 조금이나마 눈에 띄니까 나름 안심도 되더라 🌙"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "minchelin_guide__",
+    "url": "https://www.threads.com/@minchelin_guide__/post/Dfg7nG2k3u4",
+    "views": 139,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ixdIMMBCGi",
+    "final_url": "https://www.coupang.com/vp/products/7017506304?itemId=18011019006&vendorItemId=85166612601&src=1139000&spec=10799999&addtag=400&ctag=7017506304&lptag=AF6017692&itime=20261111222003&pageType=PRODUCT&pageValue=7017506304&wPcid=17905526599079763164544&wRef=&wTime=20261111222003&redirect=landing&traceid=V0-183-5943f145dd5a9167&mcid=eed9bf8444f34887b682bf7f03a16b2b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7017506304",
+    "title": "이금기 프리미엄 노추, 500ml, 6개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/40207157310360-e6e8aa6a-3d35-402e-9087-60be5b38f8b3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/40207157310360-e6e8aa6a-3d35-402e-9087-60be5b38f8b3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5012738408088-aa970ba2-1c29-4343-920b-010e3e1c4911.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/186015250187924-e4582083-a205-49d6-8b20-678c743e0da7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/407542722183501-c38e2b58-d732-484c-840b-0715201a6a27.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/407542637509709-6e94417e-5e64-4dfc-a0d2-b2521291ade8.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1819962538396228-7858a0ac-2351-421d-9af2-050af1393332.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5097074461837-af9d1bb0-059c-4dfd-b276-8d98a8c40547.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1990004339617207-05d5b9cd-ab0f-4b39-9bc1-2616515c098b.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ixdIMMBCGi"
+    ],
+    "image_path": "images/09_이금기_프리미엄_노추,_500ml,_6개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 중국 요리 만들면 색이 안 나서 맨날 실패했는데 이거 넣었더니 색깔이 달라짐. 짜장이 갑자기 그럴듯해 보여서 기분 좋았음 🍳",
+    "b": "6개 세트라 많다 싶었는데 쓰다 보니 금방 없어짐. 볶음 요리 색 낼 때 넣으면 차이가 확실히 나서 이제 없으면 아쉬울 것 같음 😋"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "daramzzidonburi",
+    "url": "https://www.threads.com/@daramzzidonburi/post/DfgfrO6nyBO",
+    "views": 111,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iwWMuoWggu",
+    "final_url": "https://www.coupang.com/vp/products/8787098829?itemId=25572196843&vendorItemId=92563312268&src=1191000&spec=10999999&addtag=400&ctag=8787098829&lptag=CFM48241871&itime=20261111222011&pageType=PRODUCT&pageValue=8787098829&wPcid=17905526599079763164544&wRef=&wTime=20261111222011&redirect=landing&abTestInfo=&mcid=7d802cf31ce44296a862a1d04b11044f&sharesource=sharebutton&style=&isshortened=Y",
+    "product_id": "8787098829",
+    "title": "코멧 실리콘 여행용 고리 용기 90ml 4종 세트, 혼합색상, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/158164684496435-043ec6e9-3f0f-496f-902e-f528fcabe779.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/158164684496435-043ec6e9-3f0f-496f-902e-f528fcabe779.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/158153549386788-c468ce81-5d8c-417f-b62c-90a74587437d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/68551725637694-921ce705-a9ad-41e6-ba0f-ab7d9b2523cc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/68551918632324-d6ee0eb4-e463-4864-8e9b-c951e57af73c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/68552132387747-1a43eb31-0b63-4f6a-9b9f-71573ee6b715.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/317768127326820-dbb287e9-d515-4b7d-9860-de7eb9cf8b5a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/317768117885685-8f8a9df6-b128-48bf-9c67-729daed8f516.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/69625151178770-0a1ed5c6-1737-496d-a632-1eac82990a9f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iwWMuoWggu"
+    ],
+    "image_path": "images/10_코멧_실리콘_여행용_고리_용기_90ml_4종_세트,_혼합색상,_1세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "여행 때 샴푸 덜어가는 용기 찾다가 샀는데 고리 달려있어서 욕실 봉에 걸어두면 편함. 실리콘이라 짜서 쓰기도 쉽고 여행 끝나고도 계속 씀 ✈️",
+    "b": "비행기 액체류 100ml 규정 맞추려고 샀는데 90ml라 딱임. 색깔별로 뭔지 구분되고 가방 안에서 샌 적 한 번도 없어서 믿음이 감 🧴"
+   }
+  }
+ ]
+}
