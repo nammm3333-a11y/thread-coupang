@@ -1,0 +1,423 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-13T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-13T08:19:44"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "salimgom",
+    "url": "https://www.threads.com/@salimgom/post/Dfi55qnH162",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iysSS3JtS0",
+    "final_url": "https://www.coupang.com/vp/products/9143222695?src=1139000&spec=10799999&addtag=400&ctag=9143222695&lptag=AF1199464&itime=20261113081606&pageType=PRODUCT&pageValue=9143222695&wPcid=17905526599079763164544&wRef=&wTime=20261113081606&redirect=landing&traceid=V0-181-dff19aef40db9915&mcid=1517f03b1fd0442b94d769ee4e211fa5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9143222695",
+    "title": "전동 계단리프트 무소음 접이식 카트 계단 수레화물 운반차 대형 계단 오르기 기계",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iysSS3JtS0"
+    ],
+    "image_path": "images/01_전동_계단리프트_무소음_접이식_카트_계단_수레화물_운반차_대형_계단_오르.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DflBIeOAfTQ",
+    "views": 443,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izRgYznqKG",
+    "final_url": "https://www.coupang.com/vp/products/9052582961?itemId=24263208524&vendorItemId=80641989278&src=1139000&spec=10799999&addtag=400&ctag=9052582961&lptag=AF9111886&itime=20261113081614&pageType=PRODUCT&pageValue=9052582961&wPcid=17905526599079763164544&wRef=&wTime=20261113081614&redirect=landing&traceid=V0-181-2ebe9079b13a94d7&mcid=1fedc01d0dfa433198d6c7b9f5118d2e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9052582961",
+    "title": "오뚜기 흰밥, 210g, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362696135865-1b50b23b-b6fb-4fbb-be75-2f7de6e73224.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675867142065920-f47e2d24-6dcf-4df9-b890-ae9b95fb3480.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675646265393290-a9cd2e40-de05-4ec8-a807-3a46d16bafb2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1657920968854476-5d57f745-f97f-4c57-8ead-41c1586990b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362700071460-81c26e70-7538-430f-9e73-c87916d1a7e9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izRgYznqKG"
+    ],
+    "image_path": "images/02_오뚜기_흰밥,_210g,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "tangzincat",
+    "url": "https://www.threads.com/@tangzincat/post/DfjRFXvmkEj",
+    "views": 302,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyJDMMsXEO",
+    "final_url": "https://www.coupang.com/vp/products/1335855914?itemId=2361654630&src=1139000&spec=10799999&addtag=400&ctag=1335855914&lptag=AF2880134&itime=20261113081622&pageType=PRODUCT&pageValue=1335855914&wPcid=17905526599079763164544&wRef=&wTime=20261113081622&redirect=landing&traceid=V0-101-eaa636458a26ed16&mcid=4a4e686f289745069148020e33ad09cb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1335855914",
+    "title": "레드씰 프로폴리스 치약, 100g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972193292088-06b54ca2-c53c-4e77-89ec-a8413755223d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/739825400496666-d244ef85-6a08-4957-84df-214b3989fa83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972313484698-032c1a4c-dc22-4aa9-ac0c-be3ad52bafaf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489781963165-178d16a7-d751-4f20-b1d7-abbc2177a054.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489987158590-155d19e1-3570-4f93-806c-303e6ea7812f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972700811844-fe17559c-d18d-412f-9f21-972ab6398bb4.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_fc750bcc-6e88-4b36-a85f-ff9ed3f52feb.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyJDMMsXEO"
+    ],
+    "image_path": "images/03_레드씰_프로폴리스_치약,_100g,_3개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/DfkiybnD4YL",
+    "views": 287,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyiO2c0TkG",
+    "final_url": "https://www.coupang.com/vp/products/8773972921?itemId=25523651956&src=1139000&spec=10799999&addtag=400&ctag=8773972921&lptag=AF2066138&itime=20261113081631&pageType=PRODUCT&pageValue=8773972921&wPcid=17905526599079763164544&wRef=&wTime=20261113081631&redirect=landing&traceid=V0-101-7060051b294bf8b6&mcid=b28c34c4ddab48c2b1f5760dc13bff56&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8773972921",
+    "title": "몽클레르 보에드 패딩 재킷 - 패딩 재킷",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/597b/0ac4d4e38f540b6c53f0119adc34a0df4125c939fa7e62ac7c1874ca33c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cec3/78657daa5603077bd920fd02985eed795be9d6c3cadf21bc70a2ae412ef4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7204/6c6845ce709c16d83489467cb43501ad644ca348a4f00e72b37cd9da1cd2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fdd0/61956b4345dd4ada32dc49ab2904268b770fa1011aba3c08d5332c8acb64.jpg",
+     "https://image.coupangcdn.com/image/badge/badge_1a0842d5e8c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyiO2c0TkG"
+    ],
+    "image_path": "images/04_몽클레르_보에드_패딩_재킷_-_패딩_재킷.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "yid_cb",
+    "url": "https://www.threads.com/@yid_cb/post/DfjaSzjmRQM",
+    "views": 274,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyPm9qUWlM",
+    "final_url": "https://www.coupang.com/vp/products/9691882059?itemId=28987253567&vendorItemId=95950553229&src=1191000&spec=10999999&addtag=400&ctag=9691882059&lptag=CFM42834653&itime=20261113081657&pageType=PRODUCT&pageValue=9691882059&wPcid=17905526599079763164544&wRef=&wTime=20261113081657&redirect=landing&abTestInfo=&mcid=b47ce0e1aba843889870b943ba5b2c0d&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9691882059",
+    "title": "레버리지 ETF 사용설명서",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/txg5eh6u/05cd0a102d33463ebac120914b2c0258.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cnub22dy/a373fbacbe264a7ea9af5e3c0eeb39e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nfx7fzpo/74184ab53c5c4fb58fc7101ee4613aa2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyPm9qUWlM"
+    ],
+    "image_path": "images/05_레버리지_ETF_사용설명서.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "ghwaja_s2",
+    "url": "https://www.threads.com/@ghwaja_s2/post/Dfi7Gs_kgze",
+    "views": 218,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyvVgzK6rk",
+    "final_url": "https://www.coupang.com/vp/products/93478511?itemId=289726836&src=1139000&spec=10799999&addtag=400&ctag=93478511&lptag=AF3235345&itime=20261113081704&pageType=PRODUCT&pageValue=93478511&wPcid=17905526599079763164544&wRef=&wTime=20261113081704&redirect=landing&traceid=V0-101-feca2adb1e22b49a&mcid=e313da772928497b99512864b23afc57&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "93478511",
+    "title": "Melt O Meal 베리 콜로살 크런치 시리얼, 978g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dee5/1b47deec1a60b92f97b40d5029620d8aaf339722f89c2191379806a9a618.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d70d/3f75aae31c777896ca19c2b6e84c49c73215ffb8eb1e345b85b5db6364bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c6ef/859c80ccb0ace082eef3dec466fa098c72a3754f01a68038f5dd0ecc62dd.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/US_DDP_PC_ver.2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyvVgzK6rk"
+    ],
+    "image_path": "images/06_Melt_O_Meal_베리_콜로살_크런치_시리얼,_978g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DflZnJuj4Xc",
+    "views": 161,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iz6TQ8OaVE",
+    "final_url": "https://www.coupang.com/vp/products/9777824252?itemId=29271457283&src=1139000&spec=10799999&addtag=400&ctag=9777824252&lptag=AF3499889&itime=20261113081711&pageType=PRODUCT&pageValue=9777824252&wPcid=17905526599079763164544&wRef=&wTime=20261113081711&redirect=landing&traceid=V0-101-ce8b7ce0194da950&mcid=74b51a57b2fb4ca1803b20a90758b8b9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9777824252",
+    "title": "완전 손질 포항 구룡포 햇 과메기 야채세트, 1세트, 5미 야채세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6adf/eee57a93eff8d2a0587724305db1bdcb0d3c873ff00a1086f1fe3911321b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f604/723ad5d20b592fe6d5ae16b1c54703055caf34bc7038d47b2e19e1acc90d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/53fb/3e16566af8e4e1baf179b9343354da482bd6777cc2b3c860e6e82d531202.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/143b/d81649f8cc39e96dd4ab8b8d70f7d1e0fc2137f8a67767e263ce1310c99b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2be7/d8267b8cb3e7bf04b69c6b6635e2a92753d83e8ee5cee0bf2842c3b8305a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b5c/afa96c2e310c38aa6844370df5bf0a318e6ac8a95282d21f28314f8e4b67.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iz6TQ8OaVE"
+    ],
+    "image_path": "images/07_완전_손질_포항_구룡포_햇_과메기_야채세트,_1세트,_5미_야채세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "car_pop_",
+    "url": "https://www.threads.com/@car_pop_/post/DfjGF3Pia1h",
+    "views": 119,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyBUKFQllA",
+    "final_url": "https://www.coupang.com/vp/products/8423160961?itemId=24365497539&src=1139000&spec=10799999&addtag=400&ctag=8423160961&lptag=AF8824679&itime=20261113081720&pageType=PRODUCT&pageValue=8423160961&wPcid=17905526599079763164544&wRef=&wTime=20261113081720&redirect=landing&traceid=V0-101-1cc5f11a36b92b9c&mcid=3647ea9408844476b7a9c95cc245b25e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8423160961",
+    "title": "불스원 차량용 타이어 공기압 주입기 6000mAh",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3a66/e9e78b360cd6621eb93daae43a73d53e231b71ed87b1ec3a69d1bdd9208c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3a66/e9e78b360cd6621eb93daae43a73d53e231b71ed87b1ec3a69d1bdd9208c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/245246545839351-027e5f15-7177-48fc-8dc1-b7b60e4cbbcb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402346454062046-df251c9d-8fde-49a6-bb52-2aa56e0fa5a5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428396237379-326b12f2-6ce4-4c66-8091-725c191d4ab4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22227373627873-b5c01cdb-da95-4f37-87c2-9d4a67a278fa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22227511087541-49451ef9-bdb5-45d6-ab94-5d9220b85ee1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428499904447-fc17f6c7-80f2-4097-9382-9d5bea1e232e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428381813643-2bb96ad5-2a38-4fb8-bb46-8180005901b1.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=vjd0ENBeqAQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iyBUKFQllA"
+    ],
+    "image_path": "images/08_불스원_차량용_타이어_공기압_주입기_6000mAh.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "sooaroom",
+    "url": "https://www.threads.com/@sooaroom/post/Dfi17xahqa7",
+    "views": 85,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iysAhdbNRY",
+    "final_url": "https://www.coupang.com/vp/products/9801761683?itemId=29350820059&vendorItemId=96263977970&src=1139000&spec=10799999&addtag=400&ctag=9801761683&lptag=AF2148865&itime=20261113081831&pageType=PRODUCT&pageValue=9801761683&wPcid=17905526599079763164544&wRef=&wTime=20261113081831&redirect=landing&traceid=V0-801-7d0d4030932a6ea9&mcid=558fe8056eda45f996c933a2c79067a1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=04466f1dfc&subid=&campaigntype=&puid=&ctime=1794277962&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9801761683",
+    "title": "트레티트레 TRETTITRE 레트로 앰비언트 오디오 시스템",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e949/bf275ad3d6289e50e40c9c561ce6d389f665b13da68968d3aca4a2e31a71.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e949/bf275ad3d6289e50e40c9c561ce6d389f665b13da68968d3aca4a2e31a71.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9bb/d6e2e7af0f1461d466a173e29a05e8b455ae2e579b0935448abd82447e5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/31da/7f27653be49fc771de445109691cea2517d65a059df31782f2e159d6e708.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86b5/e60f375cd19777271209a287752b5cb6a0c5b971a6fb05d972e6d5e3f41e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/626f/a37f30892d43269b0df3cb972e90182a0e7974e61822034d60d04bca3afb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6a0c/3b48d1c4be782558e8e61d18a74febd21551461049a2898ed875d8b9bb1b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/63d7/ef81fdb31814c54cd12b86f82e5ed533eb789ebdcd7e6bc91e2297937983.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8631/71d196f16ebd083a4a5091d7d21d7ff9d12b4c85224824827b006c2e8e35.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iysAhdbNRY"
+    ],
+    "image_path": "images/09_트레티트레_TRETTITRE_레트로_앰비언트_오디오_시스템.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "uoozuuu",
+    "url": "https://www.threads.com/@uoozuuu/post/DfjZIvLkxV2",
+    "views": 79,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyOrhCzck0",
+    "final_url": "https://www.coupang.com/vp/products/8336066607?itemId=24070455644&src=1139000&spec=10799999&addtag=400&ctag=8336066607&lptag=AF3417494&itime=20261113081839&pageType=PRODUCT&pageValue=8336066607&wPcid=17905526599079763164544&wRef=&wTime=20261113081839&redirect=landing&traceid=V0-101-ca7175d3b07ce88e&mcid=40aab33dac4b4ea7a34a2c6e2e865eeb&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8336066607",
+    "title": "코멧 이불 압축팩 8개입 + 전용펌프 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/997568061200390-276a4c2d-2684-47a3-a67f-05e4a4a69328.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997568061200390-276a4c2d-2684-47a3-a67f-05e4a4a69328.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/428380279244004-2052051b-13d9-4258-bc4d-3a664711e862.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997585004171285-c41a2e17-a10a-4b49-876c-123182f55aac.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/434065616701907-561194f2-7743-4f12-9f49-19b172a19bb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997585032426107-ad86be29-e254-406e-80ac-3cada6d3fa0f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/427653016173673-8ca5875d-11b8-41aa-aae6-3b378872b74e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/434065609734078-70a29974-b329-42e2-a48f-5132eeb9a4c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/427653006564236-c6d10a3e-34af-4eba-9f06-9b27e0002413.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyOrhCzck0"
+    ],
+    "image_path": "images/10_코멧_이불_압축팩_8개입_+_전용펌프_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  }
+ ]
+}
