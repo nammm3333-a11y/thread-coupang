@@ -1,0 +1,451 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-12T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-12T18:20:00"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "salimgom",
+    "url": "https://www.threads.com/@salimgom/post/Dfi55qnH162",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iysSS3JtS0",
+    "final_url": "https://www.coupang.com/vp/products/9143222695?src=1139000&spec=10799999&addtag=400&ctag=9143222695&lptag=AF1199464&itime=20261112181428&pageType=PRODUCT&pageValue=9143222695&wPcid=17905526599079763164544&wRef=&wTime=20261112181428&redirect=landing&traceid=V0-181-dff19aef40db9915&mcid=72e1b743e03645abb44eacd44656cf69&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9143222695",
+    "title": "전동 계단리프트 무소음 접이식 카트 계단 수레화물 운반차 대형 계단 오르기 기계",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iysSS3JtS0"
+    ],
+    "image_path": "images/01_전동_계단리프트_무소음_접이식_카트_계단_수레화물_운반차_대형_계단_오르.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "엘베 없는 건물에 무거운 짐 올리다 허리 한번 삐끗한 뒤로 이거 샀는데 진짜 대박임. 버튼 하나로 계단 쭉쭉 올라가서 이제 혼자도 거뜬함. 짐 많은 날이 더 이상 안 무섭더라 💪",
+    "b": "무거운 박스 계단으로 옮길 때마다 도움 요청하기 민망했는데 이거 쓰고부턴 혼자 다 해결함. 소음이 거의 없어서 옆집 눈치 볼 일도 없고 접어서 보관도 되니까 편함 😮"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DfiTFqPAbYJ",
+    "views": 748,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix6Rwdh7m0",
+    "final_url": "https://www.coupang.com/vp/products/9573789681?itemId=28538482797&src=1139000&spec=10799999&addtag=400&ctag=9573789681&lptag=AF3499889&itime=20261112181439&pageType=PRODUCT&pageValue=9573789681&wPcid=17905526599079763164544&wRef=&wTime=20261112181439&redirect=landing&traceid=V0-101-cc0d5ac4eb503a7c&mcid=37c08e59fa634c2ca758819f934936d2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9573789681",
+    "title": "페이퍼원 디지털 복사용지 80g, A4, 5000매",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9842806150834-cc40c1fc-5c88-4e1f-9b41-c8ce86a9437e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix6Rwdh7m0"
+    ],
+    "image_path": "images/02_페이퍼원_디지털_복사용지_80g,_A4,_5000매.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "재택하면서 프린트 쓸 일이 늘었는데 걸림 현상이 거의 없어서 스트레스가 줄었음. 한 번 쓰고 나서 다른 종이로 못 돌아가는 중... 5000매 쟁여두니까 한동안 걱정 없어서 든든함 🖨️",
+    "b": "사무실에서 쓰던 거 집에도 똑같이 맞췄는데 색이 선명하게 잘 나와서 출력물 퀄리티가 달라 보임. 박스로 쟁여두면 왜 이렇게 뿌듯하지... 종이 떨어질 걱정을 안 하게 됐음 📄"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DflBIeOAfTQ",
+    "views": 440,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izRgYznqKG",
+    "final_url": "https://www.coupang.com/vp/products/9052582961?itemId=24263208524&vendorItemId=80641989278&src=1139000&spec=10799999&addtag=400&ctag=9052582961&lptag=AF9111886&itime=20261112181450&pageType=PRODUCT&pageValue=9052582961&wPcid=17905526599079763164544&wRef=&wTime=20261112181450&redirect=landing&traceid=V0-181-2ebe9079b13a94d7&mcid=f159155798384c0e972c4a7a26e3ac89&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9052582961",
+    "title": "오뚜기 흰밥, 210g, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362696135865-1b50b23b-b6fb-4fbb-be75-2f7de6e73224.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675867142065920-f47e2d24-6dcf-4df9-b890-ae9b95fb3480.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675646265393290-a9cd2e40-de05-4ec8-a807-3a46d16bafb2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1657920968854476-5d57f745-f97f-4c57-8ead-41c1586990b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362700071460-81c26e70-7538-430f-9e73-c87916d1a7e9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izRgYznqKG"
+    ],
+    "image_path": "images/03_오뚜기_흰밥,_210g,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "귀찮아서 밥솥 안 꺼내는 날엔 무조건 이거임. 전자레인지 2분이면 되는데 밥 맛이 진짜 같아서 놀람. 12개 쟁여두니까 냉장고 텅텅 빌 때도 일단 든든함 🍚",
+    "b": "야근하고 늦게 들어온 날 이거 하나면 그냥 해결되더라. 별거 아닌 것 같아도 집에 쟁여져 있으면 엄청 위로가 되는 느낌... 혼자 사는 사람한테 특히 필수인 듯 😮"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DfiZ56SkhEZ",
+    "views": 232,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iybcjhQE32",
+    "final_url": "https://www.coupang.com/vp/products/9639198367?itemId=28799906049&src=1139000&spec=10799999&addtag=400&ctag=9639198367&lptag=AF6894579&itime=20261112181503&pageType=PRODUCT&pageValue=9639198367&wPcid=17905526599079763164544&wRef=&wTime=20261112181503&redirect=landing&traceid=V0-101-e9483f5607c95ad4&mcid=5a5fb57f387c4c6a8ae1a88601e6f57e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9639198367",
+    "title": "경추용 베개 경혈 마사지 경추 스트레칭 소탄 탄력 지지 땀 방지 세척 용이 경추베개 목견인베개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/850b83365abe7aea22918f803ff53be01becbaad316620628fe51dcf390c_1792039743274.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/850b83365abe7aea22918f803ff53be01becbaad316620628fe51dcf390c_1792039743274.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5cb/2b95f0ad0956d1e7d6b9cf1d5d901ff3a3d65462f11de64bb9eb9fd4c877.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/47ef/8381b3361f1090b3c3d6334afb7e1ae1dd1d559812c8ee6f609129e30721.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e6d3/987408acea421f142767eb85c61e9c2d343ac16f881c5525d0ce095aced2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8857/05966d7721c76f29a7d457aeb39c555cd7d48b2f7d3be290597d97b12c48.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d59e/24b28421142c196d67ec017ac4b9f3cb6dad8568bc2c75af187b82116cc7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iybcjhQE32"
+    ],
+    "image_path": "images/04_경추용_베개_경혈_마사지_경추_스트레칭_소탄_탄력_지지_땀_방지_세척_용.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "목 항상 뻐근한데 이거 베고 자봤더니 아침에 뭔가 좀 다른 느낌이더라. 돌기가 처음엔 어색했는데 적응되니까 오히려 없으면 허전함. 땀도 덜 차는 것 같아서 계속 쓰게 됨 😪",
+    "b": "매일 아침 목 뻑뻑하게 일어나는 게 싫어서 써봤는데 받쳐주는 느낌이 나쁘지 않음. 세척도 쉬워서 관리 부담이 없고 쓸수록 거부감이 없어지더라 💤"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "ghwaja_s2",
+    "url": "https://www.threads.com/@ghwaja_s2/post/Dfi7Gs_kgze",
+    "views": 218,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyvVgzK6rk",
+    "final_url": "https://www.coupang.com/vp/products/93478511?itemId=289726836&src=1139000&spec=10799999&addtag=400&ctag=93478511&lptag=AF3235345&itime=20261112181512&pageType=PRODUCT&pageValue=93478511&wPcid=17905526599079763164544&wRef=&wTime=20261112181512&redirect=landing&traceid=V0-101-feca2adb1e22b49a&mcid=e6bd9f121c254550aebf48b9cc7ba482&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "93478511",
+    "title": "Melt O Meal 베리 콜로살 크런치 시리얼, 978g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dee5/1b47deec1a60b92f97b40d5029620d8aaf339722f89c2191379806a9a618.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d70d/3f75aae31c777896ca19c2b6e84c49c73215ffb8eb1e345b85b5db6364bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c6ef/859c80ccb0ace082eef3dec466fa098c72a3754f01a68038f5dd0ecc62dd.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/US_DDP_PC_ver.2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyvVgzK6rk"
+    ],
+    "image_path": "images/05_Melt_O_Meal_베리_콜로살_크런치_시리얼,_978g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 뭐 먹을지 고민하다가 이거 한 그릇 먹으면 그냥 해결됨. 베리 볼이 씹히는 식감이 묘하게 중독적이라 매일 손이 가더라. 대용량이라 금방 없어질 걱정도 없음 🥣",
+    "b": "우유에 말아서 먹다 보면 순식간에 없어져서 대용량인 게 오히려 다행인 시리얼... 달달하고 바삭한 맛이 아이도 나도 같이 좋아하게 됐음 😋"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "rurupo_po",
+    "url": "https://www.threads.com/@rurupo_po/post/DfiXTzPD4DN",
+    "views": 172,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix9rMNUCJw",
+    "final_url": "https://www.coupang.com/vp/products/7966713334?itemId=22048948048&src=1139000&spec=10799999&addtag=400&ctag=7966713334&lptag=AF3760425&itime=20261112181525&pageType=PRODUCT&pageValue=7966713334&wPcid=17905526599079763164544&wRef=&wTime=20261112181525&redirect=landing&traceid=V0-101-1f22778ce0aa81fb&mcid=80b0965128714f75b3aa646802d4efed&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7966713334",
+    "title": "포켄스 댕댕아 발씻자 발세정제, 300ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/03/18/10/0/88c351fa-d4e9-4763-bd66-9b2c32c87aa3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/0/88c351fa-d4e9-4763-bd66-9b2c32c87aa3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/4/0761d92e-5be9-44e3-b94a-9727c245350c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/5/eed3e1e1-bf0f-4596-bb93-a2302697f2a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364128868153-85debb30-6be7-4b70-bf38-5817c2b67af3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364112732708-5a99eaf2-0916-4e8b-b767-f896be179b8a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364112752940-bb3133ce-7147-4bb9-a04a-d006c0bc3ef7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1062654939560345-90f526e3-ced7-4770-baa9-d0dfd902b5c5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/351156189311895-c5aa2f29-4e0f-4d44-b724-ce57cb94a25c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix9rMNUCJw"
+    ],
+    "image_path": "images/06_포켄스_댕댕아_발씻자_발세정제,_300ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "산책 다녀와서 발 닦이는 게 항상 귀찮았는데 이거 펌핑해서 닦아주면 금방 끝남. 강아지도 그렇게 거부를 안 해서 오히려 나중엔 발 내밀더라. 루틴이 훨씬 편해짐 🐾",
+    "b": "비 오는 날 산책 뒤가 제일 고민이었는데 이거 쓰고 나서 그냥 습관이 됐음. 거품 형태라 발 사이사이 닦기 편하고 뒤처리가 깔끔해서 스트레스가 줄었음 🐶"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "what.eat_now",
+    "url": "https://www.threads.com/@what.eat_now/post/DfiXWNBo-yh",
+    "views": 163,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ivJ16RXXkO",
+    "final_url": "https://www.coupang.com/vp/products/9223224318?src=1139000&spec=10799999&addtag=400&ctag=9223224318&lptag=AF4955575&itime=20261112181537&pageType=PRODUCT&pageValue=9223224318&wPcid=17905526599079763164544&wRef=&wTime=20261112181537&redirect=landing&traceid=V0-183-f81799163909ef6c&mcid=9cc2b1c8231342ad8640107a86d43604&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=aicompany&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9223224318",
+    "title": "밀카 초콜릿 버블리",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/b70968fd-572d-49cd-bac5-8df14d2dd39810421439040232279603.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/b70968fd-572d-49cd-bac5-8df14d2dd39810421439040232279603.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/553930514449346-4efeffef-12e2-493c-be84-f9ce86d4fd76.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/83991436624981-1c818037-71b3-4b98-bec1-532c8aac9a04.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/03/11/4/b69b013f-24ee-47d8-b94a-bf5d0839ff38.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/03/11/1/f53a3019-2d73-457b-8a4f-7584631d6545.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/03/11/3/bf6ed38a-5dfc-4438-b90f-042528206247.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/03/11/1/160eccfe-0acf-40a5-b9bb-d78c2b31b0ee.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ivJ16RXXkO"
+    ],
+    "image_path": "images/07_밀카_초콜릿_버블리.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이거 한 조각 먹으면 기포가 입에서 사르르 녹는 느낌이 묘하게 좋음. 평범한 초콜릿이랑 식감이 완전 달라서 처음 먹는 사람마다 신기해하더라. 계속 손이 가서 위험한 녀석 🍫",
+    "b": "스트레스받는 날 꺼내 먹으면 기분이 좀 풀리는 초콜릿. 버블 식감이 가볍게 녹아서 부담 없이 먹기 좋고 달달함이 과하지 않아서 질리지 않더라 😌"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "hmookja",
+    "url": "https://www.threads.com/@hmookja/post/DficiYEn_YR",
+    "views": 110,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix87dfMbsG",
+    "final_url": "https://www.coupang.com/vp/products/1074470755?itemId=2573048645&vendorItemId=70565380605&src=1139000&spec=10799999&addtag=400&ctag=1074470755&lptag=AF1834330&itime=20261112181620&pageType=PRODUCT&pageValue=1074470755&wPcid=17905526599079763164544&wRef=&wTime=20261112181620&redirect=landing&traceid=V0-183-faa1a5ef3bec40bf&mcid=d780ce70d2814810aca6ea8b3d8cc9c9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=chonggwal&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1074470755",
+    "title": "국내산 양파, 1.5kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1729902560488915-32b55f7e-10fe-43de-bc99-c68510085f87.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1729902560488915-32b55f7e-10fe-43de-bc99-c68510085f87.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3485003884815206-e53d7d9c-4b78-4997-bb80-8e6cd73780ff.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2181829841177189-8d7897a9-ec2d-43a9-8133-49bfee37d53b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2181829687725809-941b19d4-5f06-41ca-a8a8-b78f994c9f2c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/694001816545354-817476dd-a9d3-4021-8e73-396e2a319c64.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54003198099737-5688a126-ba42-4bc0-81ce-986b4fc9d978.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_15c1b672-be73-4665-9239-41d2772eadb0.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix87dfMbsG"
+    ],
+    "image_path": "images/08_국내산_양파,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "볶음 요리할 때 항상 들어가는 게 양파인데 이게 없으면 허전하더라. 망사 포장이라 보관도 편하고 알이 실해서 썰 때 뭔가 뿌듯함. 국산이라 그런지 단맛이 살아있음 🧅",
+    "b": "국 끓일 때 양파 넉넉히 넣었더니 단맛이 확 살아나더라. 크기가 고르고 튼실해서 하나 더 샀는데 집밥 퀄리티가 좀 올라간 느낌이 남 🍲"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "kkultem_charge",
+    "url": "https://www.threads.com/@kkultem_charge/post/DfhGMdLEoKF",
+    "views": 105,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-09",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ivWBZqYlXM",
+    "final_url": "https://www.coupang.com/vp/products/9025697323?itemId=26469959461&vendorItemId=93445121108&src=1139000&spec=10799999&addtag=400&ctag=9025697323&lptag=AF8419055&itime=20261112181632&pageType=PRODUCT&pageValue=9025697323&wPcid=17905526599079763164544&wRef=&wTime=20261112181632&redirect=landing&traceid=V0-183-d511fa29406ddc0d&mcid=20f63e089525484caa03e670a8d31364&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9025697323",
+    "title": "그라폰 파버카스텔 펜슬 퍼펙트 [무료선물포장]",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a6ef/45c0678b663a906faad4d8da30267d276fe3035b7879dd5bebcc106ac2eb.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a6ef/45c0678b663a906faad4d8da30267d276fe3035b7879dd5bebcc106ac2eb.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ivWBZqYlXM"
+    ],
+    "image_path": "images/09_그라폰_파버카스텔_펜슬_퍼펙트_[무료선물포장].jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "선물용으로 샀다가 나도 하나 쓰고 싶어서 결국 더 주문한 연필... 나무 그립감이 다른 필기구랑 비교가 안 되게 좋아서 글 쓰는 게 괜히 즐거워짐 ✏️",
+    "b": "글씨 쓸 일도 별로 없는데 그냥 갖고 싶어서 사버렸는데 책상에 올려두기만 해도 분위기가 달라짐. 선물 포장도 같이 오니까 받는 사람이 더 좋아하더라 🖊️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "sooaroom",
+    "url": "https://www.threads.com/@sooaroom/post/Dfi17xahqa7",
+    "views": 85,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iysAhdbNRY",
+    "final_url": "https://www.coupang.com/vp/products/9801761683?itemId=29350820059&vendorItemId=96263977970&src=1139000&spec=10799999&addtag=400&ctag=9801761683&lptag=AF2148865&itime=20261112181641&pageType=PRODUCT&pageValue=9801761683&wPcid=17905526599079763164544&wRef=&wTime=20261112181641&redirect=landing&traceid=V0-801-7d0d4030932a6ea9&mcid=47408d8abe5047b7a1ce822341ee9d7a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=04466f1dfc&subid=&campaigntype=&puid=&ctime=1794277962&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9801761683",
+    "title": "트레티트레 TRETTITRE 레트로 앰비언트 오디오 시스템",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e949/bf275ad3d6289e50e40c9c561ce6d389f665b13da68968d3aca4a2e31a71.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e949/bf275ad3d6289e50e40c9c561ce6d389f665b13da68968d3aca4a2e31a71.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a9bb/d6e2e7af0f1461d466a173e29a05e8b455ae2e579b0935448abd82447e5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/31da/7f27653be49fc771de445109691cea2517d65a059df31782f2e159d6e708.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86b5/e60f375cd19777271209a287752b5cb6a0c5b971a6fb05d972e6d5e3f41e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/626f/a37f30892d43269b0df3cb972e90182a0e7974e61822034d60d04bca3afb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6a0c/3b48d1c4be782558e8e61d18a74febd21551461049a2898ed875d8b9bb1b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/63d7/ef81fdb31814c54cd12b86f82e5ed533eb789ebdcd7e6bc91e2297937983.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8631/71d196f16ebd083a4a5091d7d21d7ff9d12b4c85224824827b006c2e8e35.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iysAhdbNRY"
+    ],
+    "image_path": "images/10_트레티트레_TRETTITRE_레트로_앰비언트_오디오_시스템.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "레트로 감성에 꽂혀서 질러버린 오디오인데 소리 켜는 순간 집 분위기가 완전 달라짐. 인테리어 소품처럼 올려두기만 해도 괜히 멋있어서 계속 켜두게 됨 🎵",
+    "b": "음악 틀어두면 집이 갑자기 카페 같은 느낌이 나는 게 신기함. 디자인이 독특해서 집에 오는 사람마다 저게 뭐냐고 물어보는 게 나름 뿌듯함 🎶"
+   }
+  }
+ ]
+}
