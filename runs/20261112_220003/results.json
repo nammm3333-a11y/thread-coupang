@@ -1,0 +1,416 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-12T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-12T22:18:41"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "salimgom",
+    "url": "https://www.threads.com/@salimgom/post/Dfi55qnH162",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iysSS3JtS0",
+    "final_url": "https://www.coupang.com/vp/products/9143222695?src=1139000&spec=10799999&addtag=400&ctag=9143222695&lptag=AF1199464&itime=20261112221535&pageType=PRODUCT&pageValue=9143222695&wPcid=17905526599079763164544&wRef=&wTime=20261112221535&redirect=landing&traceid=V0-181-dff19aef40db9915&mcid=a7fb0a3e697a4c43949186c2dfa8b704&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9143222695",
+    "title": "전동 계단리프트 무소음 접이식 카트 계단 수레화물 운반차 대형 계단 오르기 기계",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/af3b/04eeb748b9e88fd33a95d00c47b6c7560b6fc2163f1cf1e29c2af4bfbd9b.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iysSS3JtS0"
+    ],
+    "image_path": "images/01_전동_계단리프트_무소음_접이식_카트_계단_수레화물_운반차_대형_계단_오르.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DfiTFqPAbYJ",
+    "views": 748,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix6Rwdh7m0",
+    "final_url": "https://www.coupang.com/vp/products/9573789681?itemId=28538482797&src=1139000&spec=10799999&addtag=400&ctag=9573789681&lptag=AF3499889&itime=20261112221544&pageType=PRODUCT&pageValue=9573789681&wPcid=17905526599079763164544&wRef=&wTime=20261112221544&redirect=landing&traceid=V0-101-cc0d5ac4eb503a7c&mcid=9f1272b9588b4625b424ac79ef13d013&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9573789681",
+    "title": "페이퍼원 디지털 복사용지 80g, A4, 5000매",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5675715663919-60f21356-f937-452d-b9bb-253f8acf957d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9842806150834-cc40c1fc-5c88-4e1f-9b41-c8ce86a9437e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix6Rwdh7m0"
+    ],
+    "image_path": "images/02_페이퍼원_디지털_복사용지_80g,_A4,_5000매.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DflBIeOAfTQ",
+    "views": 440,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 1.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izRgYznqKG",
+    "final_url": "https://www.coupang.com/vp/products/9052582961?itemId=24263208524&vendorItemId=80641989278&src=1139000&spec=10799999&addtag=400&ctag=9052582961&lptag=AF9111886&itime=20261112221552&pageType=PRODUCT&pageValue=9052582961&wPcid=17905526599079763164544&wRef=&wTime=20261112221552&redirect=landing&traceid=V0-181-2ebe9079b13a94d7&mcid=72e5139be6f9443a9fef1598c797f10b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9052582961",
+    "title": "오뚜기 흰밥, 210g, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/609f/2a16b027330af1bc54cc37669c6c5602d19e5e1cd5465789acd4fc9210d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362696135865-1b50b23b-b6fb-4fbb-be75-2f7de6e73224.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675867142065920-f47e2d24-6dcf-4df9-b890-ae9b95fb3480.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2675646265393290-a9cd2e40-de05-4ec8-a807-3a46d16bafb2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1657920968854476-5d57f745-f97f-4c57-8ead-41c1586990b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1723362700071460-81c26e70-7538-430f-9e73-c87916d1a7e9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izRgYznqKG"
+    ],
+    "image_path": "images/03_오뚜기_흰밥,_210g,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "tangzincat",
+    "url": "https://www.threads.com/@tangzincat/post/DfjRFXvmkEj",
+    "views": 302,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyJDMMsXEO",
+    "final_url": "https://www.coupang.com/vp/products/1335855914?itemId=2361654630&src=1139000&spec=10799999&addtag=400&ctag=1335855914&lptag=AF2880134&itime=20261112221600&pageType=PRODUCT&pageValue=1335855914&wPcid=17905526599079763164544&wRef=&wTime=20261112221600&redirect=landing&traceid=V0-101-eaa636458a26ed16&mcid=0f4ec3240c3d486cb1fd79a363042d08&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1335855914",
+    "title": "레드씰 프로폴리스 치약, 100g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972193292088-06b54ca2-c53c-4e77-89ec-a8413755223d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/739825400496666-d244ef85-6a08-4957-84df-214b3989fa83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972313484698-032c1a4c-dc22-4aa9-ac0c-be3ad52bafaf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489781963165-178d16a7-d751-4f20-b1d7-abbc2177a054.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489987158590-155d19e1-3570-4f93-806c-303e6ea7812f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972700811844-fe17559c-d18d-412f-9f21-972ab6398bb4.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_fc750bcc-6e88-4b36-a85f-ff9ed3f52feb.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyJDMMsXEO"
+    ],
+    "image_path": "images/04_레드씰_프로폴리스_치약,_100g,_3개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "my_pick0123",
+    "url": "https://www.threads.com/@my_pick0123/post/Dfo9nr2EiIm",
+    "views": 297,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iChZq4UqbY",
+    "final_url": "https://www.coupang.com/vp/products/8744029184?vendorItemId=85762194017&src=1139000&spec=10799999&addtag=400&ctag=8744029184&lptag=AF5895938&itime=20261112221608&pageType=PRODUCT&pageValue=8744029184&wPcid=17905526599079763164544&wRef=&wTime=20261112221608&redirect=landing&traceid=V0-183-a091162d03e47e14&mcid=6a86f23af8ef4dd3982473d04b279105&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8744029184",
+    "title": "오리온 비쵸비 비스켓 5p, 125g, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/31973604559136-2aa305b3-42b4-4231-91d6-7b8107b5eb6f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/31973604559136-2aa305b3-42b4-4231-91d6-7b8107b5eb6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1194446734018-bfb6b18b-eeb4-46f5-904f-c3296a0ab2a2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/141981113928764-57d874ca-4b6b-43b1-ab0d-3a75a12564c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/141833284525946-d331db20-2a74-4dcb-95bc-803abec5dde5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/148194449355597-5dadb044-b840-49c0-8a6e-f5bca4de6d5b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/955139136819-e611e131-d936-44da-984c-737358f90f40.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/142177820587348-a145b1cd-4bb1-4486-91b8-9c400e1054bf.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iChZq4UqbY",
+     "https://link.coupang.com/a/iyRwQuT0gK",
+     "https://link.coupang.com/a/iAwCfonTVs"
+    ],
+    "image_path": "images/05_오리온_비쵸비_비스켓_5p,_125g,_4개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/DfkiybnD4YL",
+    "views": 285,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 1.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyiO2c0TkG",
+    "final_url": "https://www.coupang.com/vp/products/8773972921?itemId=25523651956&src=1139000&spec=10799999&addtag=400&ctag=8773972921&lptag=AF2066138&itime=20261112221617&pageType=PRODUCT&pageValue=8773972921&wPcid=17905526599079763164544&wRef=&wTime=20261112221617&redirect=landing&traceid=V0-101-7060051b294bf8b6&mcid=7603ba244cfa4070a93997deae84a05a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8773972921",
+    "title": "몽클레르 보에드 패딩 재킷 - 패딩 재킷",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/597b/0ac4d4e38f540b6c53f0119adc34a0df4125c939fa7e62ac7c1874ca33c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cec3/78657daa5603077bd920fd02985eed795be9d6c3cadf21bc70a2ae412ef4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7204/6c6845ce709c16d83489467cb43501ad644ca348a4f00e72b37cd9da1cd2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fdd0/61956b4345dd4ada32dc49ab2904268b770fa1011aba3c08d5332c8acb64.jpg",
+     "https://image.coupangcdn.com/image/badge/badge_1a0842d5e8c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyiO2c0TkG"
+    ],
+    "image_path": "images/06_몽클레르_보에드_패딩_재킷_-_패딩_재킷.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "yid_cb",
+    "url": "https://www.threads.com/@yid_cb/post/DfjaSzjmRQM",
+    "views": 274,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyPm9qUWlM",
+    "final_url": "https://www.coupang.com/vp/products/9691882059?itemId=28987253567&vendorItemId=95950553229&src=1191000&spec=10999999&addtag=400&ctag=9691882059&lptag=CFM42834653&itime=20261112221643&pageType=PRODUCT&pageValue=9691882059&wPcid=17905526599079763164544&wRef=&wTime=20261112221643&redirect=landing&abTestInfo=&mcid=d8f6849b05734731bd505b667533bbb5&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9691882059",
+    "title": "레버리지 ETF 사용설명서",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/txg5eh6u/05cd0a102d33463ebac120914b2c0258.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cnub22dy/a373fbacbe264a7ea9af5e3c0eeb39e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nfx7fzpo/74184ab53c5c4fb58fc7101ee4613aa2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyPm9qUWlM"
+    ],
+    "image_path": "images/07_레버리지_ETF_사용설명서.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DfiZ56SkhEZ",
+    "views": 232,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iybcjhQE32",
+    "final_url": "https://www.coupang.com/vp/products/9639198367?itemId=28799906049&src=1139000&spec=10799999&addtag=400&ctag=9639198367&lptag=AF6894579&itime=20261112221721&pageType=PRODUCT&pageValue=9639198367&wPcid=17905526599079763164544&wRef=&wTime=20261112221721&redirect=landing&traceid=V0-101-e9483f5607c95ad4&mcid=db4db9215618419184cd655f25b8be97&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9639198367",
+    "title": "경추용 베개 경혈 마사지 경추 스트레칭 소탄 탄력 지지 땀 방지 세척 용이 경추베개 목견인베개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/850b83365abe7aea22918f803ff53be01becbaad316620628fe51dcf390c_1792039743274.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/850b83365abe7aea22918f803ff53be01becbaad316620628fe51dcf390c_1792039743274.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5cb/2b95f0ad0956d1e7d6b9cf1d5d901ff3a3d65462f11de64bb9eb9fd4c877.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/47ef/8381b3361f1090b3c3d6334afb7e1ae1dd1d559812c8ee6f609129e30721.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e6d3/987408acea421f142767eb85c61e9c2d343ac16f881c5525d0ce095aced2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8857/05966d7721c76f29a7d457aeb39c555cd7d48b2f7d3be290597d97b12c48.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d59e/24b28421142c196d67ec017ac4b9f3cb6dad8568bc2c75af187b82116cc7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iybcjhQE32"
+    ],
+    "image_path": "images/08_경추용_베개_경혈_마사지_경추_스트레칭_소탄_탄력_지지_땀_방지_세척_용.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "ghwaja_s2",
+    "url": "https://www.threads.com/@ghwaja_s2/post/Dfi7Gs_kgze",
+    "views": 218,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyvVgzK6rk",
+    "final_url": "https://www.coupang.com/vp/products/93478511?itemId=289726836&src=1139000&spec=10799999&addtag=400&ctag=93478511&lptag=AF3235345&itime=20261112221729&pageType=PRODUCT&pageValue=93478511&wPcid=17905526599079763164544&wRef=&wTime=20261112221729&redirect=landing&traceid=V0-101-feca2adb1e22b49a&mcid=160ec90e8c064c049f6a5ed165df1bc4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "93478511",
+    "title": "Melt O Meal 베리 콜로살 크런치 시리얼, 978g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f340/de4e8f8dff046e3eb2760c1d8a80b65a4773f223cffd3b1954f37d693019.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dee5/1b47deec1a60b92f97b40d5029620d8aaf339722f89c2191379806a9a618.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d70d/3f75aae31c777896ca19c2b6e84c49c73215ffb8eb1e345b85b5db6364bc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c6ef/859c80ccb0ace082eef3dec466fa098c72a3754f01a68038f5dd0ecc62dd.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/US_DDP_PC_ver.2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyvVgzK6rk"
+    ],
+    "image_path": "images/09_Melt_O_Meal_베리_콜로살_크런치_시리얼,_978g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "rurupo_po",
+    "url": "https://www.threads.com/@rurupo_po/post/DfiXTzPD4DN",
+    "views": 172,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ix9rMNUCJw",
+    "final_url": "https://www.coupang.com/vp/products/7966713334?itemId=22048948048&src=1139000&spec=10799999&addtag=400&ctag=7966713334&lptag=AF3760425&itime=20261112221737&pageType=PRODUCT&pageValue=7966713334&wPcid=17905526599079763164544&wRef=&wTime=20261112221737&redirect=landing&traceid=V0-101-1f22778ce0aa81fb&mcid=a689bdfc5cad4b478a536499de02b93d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7966713334",
+    "title": "포켄스 댕댕아 발씻자 발세정제, 300ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2024/03/18/10/0/88c351fa-d4e9-4763-bd66-9b2c32c87aa3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/0/88c351fa-d4e9-4763-bd66-9b2c32c87aa3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/4/0761d92e-5be9-44e3-b94a-9727c245350c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2024/03/18/10/5/eed3e1e1-bf0f-4596-bb93-a2302697f2a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364128868153-85debb30-6be7-4b70-bf38-5817c2b67af3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364112732708-5a99eaf2-0916-4e8b-b767-f896be179b8a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335364112752940-bb3133ce-7147-4bb9-a04a-d006c0bc3ef7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1062654939560345-90f526e3-ced7-4770-baa9-d0dfd902b5c5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/351156189311895-c5aa2f29-4e0f-4d44-b724-ce57cb94a25c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ix9rMNUCJw"
+    ],
+    "image_path": "images/10_포켄스_댕댕아_발씻자_발세정제,_300ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore"
+  }
+ ]
+}
