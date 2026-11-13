@@ -1,0 +1,465 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-13T13:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-13T13:21:07"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DflBIeOAfTQ",
+    "views": 443,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izRgYznqKG",
+    "final_url": "https://www.coupang.com/vp/products/9052582961?itemId=24263208524&vendorItemId=80641989278&src=1139000&spec=10799999&addtag=400&ctag=9052582961&lptag=AF9111886&itime=20261113131514&pageType=PRODUCT&pageValue=9052582961&wPcid=17905526599079763164544&wRef=&wTime=20261113131514&redirect=landing&traceid=V0-181-2ebe9079b13a94d7&mcid=a7140d5a6ff6459c894b7c9dead3c2bd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9052582961",
+    "title": "오뚜기 흰밥, 210g, 12개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3f15/936e2afb66961fcd345eb8d2771bcade3343c3feab8d48309ba9fe1aa12b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3f15/936e2afb66961fcd345eb8d2771bcade3343c3feab8d48309ba9fe1aa12b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izRgYznqKG"
+    ],
+    "image_path": "images/01_오뚜기_흰밥,_210g,_12개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "귀찮아서 즉석밥 돌려먹은 게 벌써 몇 달째인지... 근데 오뚜기 흰밥은 갓 지은 것처럼 촉촉해서 진짜 놀람. 혼자 사는 사람한테 이거 없으면 안 될 것 같아 🍚",
+    "b": "야근하고 들어와서 이거 하나 뚝딱 먹으면 그렇게 든든할 수가 없음. 12개 쌓아두면 괜히 마음이 풍족해지는 느낌이라 자꾸 사게 됨 😌"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "tangzincat",
+    "url": "https://www.threads.com/@tangzincat/post/DfjRFXvmkEj",
+    "views": 302,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyJDMMsXEO",
+    "final_url": "https://www.coupang.com/vp/products/1335855914?itemId=2361654630&src=1139000&spec=10799999&addtag=400&ctag=1335855914&lptag=AF2880134&itime=20261113131555&pageType=PRODUCT&pageValue=1335855914&wPcid=17905526599079763164544&wRef=&wTime=20261113131555&redirect=landing&traceid=V0-101-eaa636458a26ed16&mcid=7d06c922ea2b4a319e22b6958a9aa52e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1335855914",
+    "title": "레드씰 프로폴리스 치약, 100g, 3개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9468386028381-2bf06c73-c129-4536-a3dc-20b40f556f21.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972193292088-06b54ca2-c53c-4e77-89ec-a8413755223d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/739825400496666-d244ef85-6a08-4957-84df-214b3989fa83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972313484698-032c1a4c-dc22-4aa9-ac0c-be3ad52bafaf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489781963165-178d16a7-d751-4f20-b1d7-abbc2177a054.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9489987158590-155d19e1-3570-4f93-806c-303e6ea7812f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/457972700811844-fe17559c-d18d-412f-9f21-972ab6398bb4.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_fc750bcc-6e88-4b36-a85f-ff9ed3f52feb.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyJDMMsXEO"
+    ],
+    "image_path": "images/02_레드씰_프로폴리스_치약,_100g,_3개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이거 쓰고 나서 아침에 입 헹굴 때 느낌이 달라진 것 같아서 계속 쓰게 됨. 거품도 풍성하고 개운한 느낌이 오래 가는 편이라 마음에 들어 🦷",
+    "b": "치약 하나 바꿨을 뿐인데 양치하는 게 좀 더 성실해진 느낌... 프로폴리스 향이 은근히 중독성 있어서 아침이 덜 귀찮아졌음 🍯"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/DfkiybnD4YL",
+    "views": 287,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyiO2c0TkG",
+    "final_url": "https://www.coupang.com/vp/products/8773972921?itemId=25523651956&src=1139000&spec=10799999&addtag=400&ctag=8773972921&lptag=AF2066138&itime=20261113131603&pageType=PRODUCT&pageValue=8773972921&wPcid=17905526599079763164544&wRef=&wTime=20261113131603&redirect=landing&traceid=V0-101-7060051b294bf8b6&mcid=4eedb0d2e7ab4be7a176df7a04746dae&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8773972921",
+    "title": "몽클레르 보에드 패딩 재킷 - 패딩 재킷",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd81/12b42dac0dac868fcf212a8414a3f1b2b707cdf260a47d0a2ae14a66e7c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/597b/0ac4d4e38f540b6c53f0119adc34a0df4125c939fa7e62ac7c1874ca33c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cec3/78657daa5603077bd920fd02985eed795be9d6c3cadf21bc70a2ae412ef4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7204/6c6845ce709c16d83489467cb43501ad644ca348a4f00e72b37cd9da1cd2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fdd0/61956b4345dd4ada32dc49ab2904268b770fa1011aba3c08d5332c8acb64.jpg",
+     "https://image.coupangcdn.com/image/badge/badge_1a0842d5e8c.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyiO2c0TkG"
+    ],
+    "image_path": "images/03_몽클레르_보에드_패딩_재킷_-_패딩_재킷.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 저질렀다... 블랙에 퍼 카라가 이렇게 고급스러울 줄 몰랐음. 걸어 놓기만 해도 옷장 분위기 달라진 게 느껴져서 괜히 흐뭇함 🖤",
+    "b": "허리 벨트 있는 패딩이라 뚱뚱해 보일까 걱정했는데 오히려 라인 살아서 좋더라. 퍼 달린 후드 쓰고 나가면 괜히 자신감이 생김 🐾"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "yid_cb",
+    "url": "https://www.threads.com/@yid_cb/post/DfjaSzjmRQM",
+    "views": 274,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyPm9qUWlM",
+    "final_url": "https://www.coupang.com/vp/products/9691882059?itemId=28987253567&vendorItemId=95950553229&src=1191000&spec=10999999&addtag=400&ctag=9691882059&lptag=CFM42834653&itime=20261113131629&pageType=PRODUCT&pageValue=9691882059&wPcid=17905526599079763164544&wRef=&wTime=20261113131629&redirect=landing&abTestInfo=&mcid=ef5b4d73490249998eabfa4b2814301d&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9691882059",
+    "title": "레버리지 ETF 사용설명서",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/08/21/10/6/74d2fdf2-c3e0-455b-8c9f-8569db28ae26.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/txg5eh6u/05cd0a102d33463ebac120914b2c0258.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cnub22dy/a373fbacbe264a7ea9af5e3c0eeb39e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/nfx7fzpo/74184ab53c5c4fb58fc7101ee4613aa2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyPm9qUWlM"
+    ],
+    "image_path": "images/04_레버리지_ETF_사용설명서.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "레버리지 ETF는 무서워서 못 건드렸는데 이 책 읽고 나서 조금 용기가 생긴 것 같음. 실전 매매 위주라 읽기 생각보다 어렵지 않아 📈",
+    "b": "폭락장 때마다 멘탈 흔들렸는데 이거 읽고 나서 대응 방식 정리가 좀 된 느낌. 두껍지 않아서 출퇴근길에 조금씩 읽기 딱 좋더라 📚"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DflZnJuj4Xc",
+    "views": 162,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iz6TQ8OaVE",
+    "final_url": "https://www.coupang.com/vp/products/9777824252?itemId=29271457283&src=1139000&spec=10799999&addtag=400&ctag=9777824252&lptag=AF3499889&itime=20261113131637&pageType=PRODUCT&pageValue=9777824252&wPcid=17905526599079763164544&wRef=&wTime=20261113131637&redirect=landing&traceid=V0-101-ce8b7ce0194da950&mcid=beeeaf0a5d354a71b28d17346b6979ee&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9777824252",
+    "title": "완전 손질 포항 구룡포 햇 과메기 야채세트, 1세트, 5미 야채세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6adf/eee57a93eff8d2a0587724305db1bdcb0d3c873ff00a1086f1fe3911321b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f604/723ad5d20b592fe6d5ae16b1c54703055caf34bc7038d47b2e19e1acc90d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/53fb/3e16566af8e4e1baf179b9343354da482bd6777cc2b3c860e6e82d531202.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/143b/d81649f8cc39e96dd4ab8b8d70f7d1e0fc2137f8a67767e263ce1310c99b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2be7/d8267b8cb3e7bf04b69c6b6635e2a92753d83e8ee5cee0bf2842c3b8305a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b5c/afa96c2e310c38aa6844370df5bf0a318e6ac8a95282d21f28314f8e4b67.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iz6TQ8OaVE"
+    ],
+    "image_path": "images/05_완전_손질_포항_구룡포_햇_과메기_야채세트,_1세트,_5미_야채세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 되면 꼭 한 번은 먹어줘야 하는데 완전 손질된 거라 집에서도 부담 없이 세팅됨. 김이랑 쪽파에 싸 먹으니까 술 한 잔이 절로 생각남 🍶",
+    "b": "포항 구룡포 거라 그런지 찐 과메기 맛 나더라. 야채까지 같이 오니까 따로 뭐 준비 안 해도 되는 게 너무 편했음 ❄️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "car_pop_",
+    "url": "https://www.threads.com/@car_pop_/post/DfjGF3Pia1h",
+    "views": 119,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyBUKFQllA",
+    "final_url": "https://www.coupang.com/vp/products/8423160961?itemId=24365497539&src=1139000&spec=10799999&addtag=400&ctag=8423160961&lptag=AF8824679&itime=20261113131717&pageType=PRODUCT&pageValue=8423160961&wPcid=17905526599079763164544&wRef=&wTime=20261113131717&redirect=landing&traceid=V0-101-1cc5f11a36b92b9c&mcid=02bdfc8a913b48e8bba10be84de61281&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8423160961",
+    "title": "불스원 차량용 타이어 공기압 주입기 6000mAh",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3a66/e9e78b360cd6621eb93daae43a73d53e231b71ed87b1ec3a69d1bdd9208c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3a66/e9e78b360cd6621eb93daae43a73d53e231b71ed87b1ec3a69d1bdd9208c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/245246545839351-027e5f15-7177-48fc-8dc1-b7b60e4cbbcb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402346454062046-df251c9d-8fde-49a6-bb52-2aa56e0fa5a5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428396237379-326b12f2-6ce4-4c66-8091-725c191d4ab4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22227373627873-b5c01cdb-da95-4f37-87c2-9d4a67a278fa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/22227511087541-49451ef9-bdb5-45d6-ab94-5d9220b85ee1.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428499904447-fc17f6c7-80f2-4097-9382-9d5bea1e232e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/187428381813643-2bb96ad5-2a38-4fb8-bb46-8180005901b1.png"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=vjd0ENBeqAQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iyBUKFQllA"
+    ],
+    "image_path": "images/06_불스원_차량용_타이어_공기압_주입기_6000mAh.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "타이어 경고등 뜰 때마다 주유소 가는 게 귀찮았는데 이거 트렁크에 하나 넣어두니까 진짜 든든함. 수치 맞춰서 자동으로 멈추는 거 보고 소름 돋음 🚗",
+    "b": "디지털 화면으로 공기압 바로 보이니까 감으로 때려 맞추는 일이 없어짐. 처음 써보고 이걸 왜 이제 샀나 싶어서 좀 허무했음 🔋"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "uoozuuu",
+    "url": "https://www.threads.com/@uoozuuu/post/DfjZIvLkxV2",
+    "views": 79,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyOrhCzck0",
+    "final_url": "https://www.coupang.com/vp/products/8336066607?itemId=24070455644&src=1139000&spec=10799999&addtag=400&ctag=8336066607&lptag=AF3417494&itime=20261113131756&pageType=PRODUCT&pageValue=8336066607&wPcid=17905526599079763164544&wRef=&wTime=20261113131756&redirect=landing&traceid=V0-101-ca7175d3b07ce88e&mcid=0011a46e6cbc40d59ad742795b14c13c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8336066607",
+    "title": "코멧 이불 압축팩 8개입 + 전용펌프 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/997568061200390-276a4c2d-2684-47a3-a67f-05e4a4a69328.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997568061200390-276a4c2d-2684-47a3-a67f-05e4a4a69328.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/428380279244004-2052051b-13d9-4258-bc4d-3a664711e862.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997585004171285-c41a2e17-a10a-4b49-876c-123182f55aac.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/434065616701907-561194f2-7743-4f12-9f49-19b172a19bb3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/997585032426107-ad86be29-e254-406e-80ac-3cada6d3fa0f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/427653016173673-8ca5875d-11b8-41aa-aae6-3b378872b74e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/434065609734078-70a29974-b329-42e2-a48f-5132eeb9a4c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/427653006564236-c6d10a3e-34af-4eba-9f06-9b27e0002413.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyOrhCzck0"
+    ],
+    "image_path": "images/07_코멧_이불_압축팩_8개입_+_전용펌프_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "환절기 이불 정리가 항상 고민이었는데 8개 한 세트라 여름 이불이고 겨울 이불이고 다 넣어버림. 펌프 같이 오는 게 사소하게 편해서 좋음 🌿",
+    "b": "압축하고 나서 옷장 반 이상이 비어버림... 이걸 왜 진작 안 했나 싶었음. 한 번 써보면 다음 시즌에도 또 찾게 되는 그런 거 있잖아 😤"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "soso.tipp",
+    "url": "https://www.threads.com/@soso.tipp/post/DfldyJoDezv",
+    "views": 79,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hUGToQA6Gi",
+    "final_url": "https://www.coupang.com/vp/products/2140167813?itemId=3634663228&src=1139000&spec=10799999&addtag=400&ctag=2140167813&lptag=AF7222124&itime=20261113131803&pageType=PRODUCT&pageValue=2140167813&wPcid=17905526599079763164544&wRef=&wTime=20261113131803&redirect=landing&traceid=V0-101-40431b1b2f9f1a99&mcid=4c8236f8a6ea40ac963516eca39815a6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "2140167813",
+    "title": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/374857959409947-07e13cd2-bf10-4480-81b1-e7c748917fa7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/449485084112107-2b0e5809-01e2-44ec-8793-c3f17f8a2f36.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1155995735788164-a01c6484-a29f-4530-8581-35e7ff20ec8c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/449485131213030-2876ef88-5454-4b82-ab3f-f8ad2cc4ac14.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1155995654062728-48c2eb0e-d838-4dc3-8de1-5a33354a953c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1051870572531203-9335290a-76bc-4f3c-b0b3-69618699c025.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/449485166859305-98986d87-6f47-4d5c-9796-44624c0ca8c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1155995672986112-6d2f8ba8-6951-48a2-901f-21df3140b719.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hUGToQA6Gi"
+    ],
+    "image_path": "images/08_스카치브라이트_베이직_제로_스크래치_스펀지_수세미,_8개입,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코팅팬 쓰면서 수세미 뭘 써야 하나 고민했는데 이거 쓰고부터 그냥 맘 편하게 닦게 됨. 거품도 잘 나고 손에 잡히는 감도 나쁘지 않아 🧽",
+    "b": "8개 묶음이라 넉넉하게 쓸 수 있고 청록 색깔이 싱크대 옆에 놔둬도 깔끔해 보임. 주방 쓸 때마다 괜히 기분 좋아지는 거 있더라 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "seoyeon2smile",
+    "url": "https://www.threads.com/@seoyeon2smile/post/DfjINqEkoVA",
+    "views": 57,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ixo2ucWWxo",
+    "final_url": "https://www.coupang.com/vp/products/7977920621?itemId=22123806390&src=1139000&spec=10799999&addtag=400&ctag=7977920621&lptag=AF5948541&itime=20261113131811&pageType=PRODUCT&pageValue=7977920621&wPcid=17905526599079763164544&wRef=&wTime=20261113131811&redirect=landing&traceid=V0-101-3acbc633248cd796&mcid=fa01f8fa3f6f42afb77bad99421de941&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7977920621",
+    "title": "모레아 C타입 무선 온열 안대 (충전기 포함 구성)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/480a/ff675fe924df6143ac0d68bb286865b9ca0a25d6587dde83be1e05002dfa.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/480a/ff675fe924df6143ac0d68bb286865b9ca0a25d6587dde83be1e05002dfa.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eef6/76378dfbd4431908cdf5e5497a84e97f22c396c8be1d297d1a08815fc765.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1ac1/4ce2037e381fe54b3b51be4e330faa812804810fb198744e6af6dba1cc24.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/76fe/a03abc2240b59e8a315197c35a57f639685478052457481a7a5fd96d44c1.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/361f/9fd888d593d1007ba5e8516f10db4f755e02c0d3d3a2d414cc45cf3852c3.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/861d/7045f141d1c17f487b911236061b96e1e4889d6550af67fb2b0e53f65f66.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/11f9/8d1b492e2c2466c0e3388ea30d48c352de95216fff9eacc8db30236699bb.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ee92/941f31a39794a8291f84e5f57322c6ca83d1567b8f9d23456f0c8026bf91.JPG"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=-VN-gzsSfhs"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/ixo2ucWWxo"
+    ],
+    "image_path": "images/09_모레아_C타입_무선_온열_안대_(충전기_포함_구성).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "하루 종일 모니터 보다가 눈 뻐근할 때 이거 올리고 10분만 있으면 그렇게 편할 수가 없음. 무선이라 선 없이 그냥 누우면 되는 게 진짜 좋아 😪",
+    "b": "충전해서 쓰는 거라 귀찮을 줄 알았는데 C타입이라 금방 충전됨. 취침 전에 쓰면서 생활 루틴이 하나 생긴 것 같아서 나름 뿌듯함 🌙"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "sushinhyun",
+    "url": "https://www.threads.com/@sushinhyun/post/DfjggBbo1lW",
+    "views": 56,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-10",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyMM70VSM0",
+    "final_url": "https://www.coupang.com/vp/products/9779540438?src=1139000&spec=10799999&addtag=400&ctag=9779540438&lptag=AF8202134&itime=20261113131820&pageType=PRODUCT&pageValue=9779540438&wPcid=17905526599079763164544&wRef=&wTime=20261113131820&redirect=landing&traceid=V0-183-2d891fa3ca2d9a2a&mcid=890611687d0142a4a38ac07e1213ad38&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9779540438",
+    "title": "키친9단 국산 무봉제 무독성 원형 접이식 김장매트 촉감놀이매트 배추절임매트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5218/e9f27c2aa3c86d9f085c8f8d8c64c6d3779d9bcc2d1b5050359632b9bedf.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5218/e9f27c2aa3c86d9f085c8f8d8c64c6d3779d9bcc2d1b5050359632b9bedf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/154b/dbe89553d360964e7705b50e284ad46584e0d7509741a1ff55dbd0502a14.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bdda/56c0d50f355430141917173762c0bbd6a9457f119f63b2855f71ba7e207a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyMM70VSM0"
+    ],
+    "image_path": "images/10_키친9단_국산_무봉제_무독성_원형_접이식_김장매트_촉감놀이매트_배추절임매.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "올해 김장 처음으로 이 매트 깔고 했는데 바닥 걱정 없어서 훨씬 여유로웠음. 접이식이라 치울 때 딱 접으면 돼서 뒷정리가 확 짧아짐 🥬",
+    "b": "원형이라 절임 배추 양면 뒤집기가 생각보다 편하더라. 빨간색이라 국물 튀어도 티 안 나서 맘 편하게 쓸 수 있어서 좋았음 🌶️"
+   }
+  }
+ ]
+}
