@@ -1,0 +1,480 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-14T08:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-14T08:21:54"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "the_sara_pick",
+    "url": "https://www.threads.com/@the_sara_pick/post/DflfsSUEwDd",
+    "views": 982,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAaNpiGMHk",
+    "final_url": "https://www.coupang.com/vp/products/6911472840?itemId=16658349982&src=1139000&spec=10799999&addtag=400&ctag=6911472840&lptag=AF6894579&itime=20261114081714&pageType=PRODUCT&pageValue=6911472840&wPcid=17905526599079763164544&wRef=&wTime=20261114081714&redirect=landing&traceid=V0-101-bda829b9c4011fe0&mcid=62d440c8936e4145b0a22db1acac9d88&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6911472840",
+    "title": "킹콩 라운드형 도어스텝 사이드스텝 발판 사다리 지붕 세차 카도어 캠핑 차박",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/b603172d-bc36-4917-a52d-63bb04c6e3b4_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/b603172d-bc36-4917-a52d-63bb04c6e3b4_fixing_v2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f68/dde6ab471d6ffe3e06bfba9e1d5c55cbc565b4360ac1b806c1e7ab753377.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6df0/8ecd7ff910aff63ada0f17d74c51f9493444c62264bf4c1b92c83d6e6cfa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e9fb/be93fb3159eef9aac6b911c653b1375bc586146cb2e362c72cfe9b76d617.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ca28/9b1543769ead167a2c889aaa896d56d037be8e627e739fa51f9f6da3a503.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7a70/d5f6a1fa14bd030e7ecf3328164d216af97d3019a2aa6c53c1dab40041cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3c74/352aa9982b9acd7cd78b72cb28d9dcb72b660962b17cd7a4c6f9165c7495.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iAaNpiGMHk"
+    ],
+    "image_path": "images/01_킹콩_라운드형_도어스텝_사이드스텝_발판_사다리_지붕_세차_카도어_캠핑_차.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "차 지붕에 짐 올리려고 타이어 밟다가 결국 이거 샀는데 도어에 걸기만 하면 돼서 너무 편함. 세차할 때도 써봤는데 생각보다 튼튼하게 버텨줘서 좀 놀람 🚗",
+    "b": "차박 갈 때마다 루프 짐 올리는 게 제일 힘들었는데 이거 달고 나서 진짜 달라짐. 접어서 트렁크에 던져두면 되니까 이제 없으면 불편할 것 같음 ⛺"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "lovely2021004",
+    "url": "https://www.threads.com/@lovely2021004/post/DfmgPPrHc5j",
+    "views": 958,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izAQmeLPvU",
+    "final_url": "https://www.coupang.com/vp/products/7427212052?itemId=19281942665&src=1139000&spec=10799999&addtag=400&ctag=7427212052&lptag=AF4223999&itime=20261114081724&pageType=PRODUCT&pageValue=7427212052&wPcid=17905526599079763164544&wRef=&wTime=20261114081724&redirect=landing&traceid=V0-101-6c88f35a1748df02&mcid=5fe7955c7a8e45419d6af862379b2c8b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7427212052",
+    "title": "[맘스킹]꽃내농원 정선담은미소 사과한개 사과즙 100ml x 30개입",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/91cc/17ff0c837a8f070d5ea8c8ebe777dc687541909dab7d687aff65c1e34ad2.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/91cc/17ff0c837a8f070d5ea8c8ebe777dc687541909dab7d687aff65c1e34ad2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7693/9ccf8234c171428e454385959c2d4c5dbbed1557cc91e823433ea49bb30f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4d41/fee35a5c64682e73c78d90ab536205319f3dc64b0948f34e91caa54497bd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izAQmeLPvU"
+    ],
+    "image_path": "images/02_[맘스킹]꽃내농원_정선담은미소_사과한개_사과즙_100ml_x_30개입.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 사과 챙겨 먹는 게 귀찮아서 이거로 대체하고 있음. 파우치가 작아서 가방에 넣고 다니기 딱 좋고, 마셔보면 사과 맛이 생각보다 진해서 계속 손이 감 🍎",
+    "b": "애 간식으로 주려고 샀는데 단 음료 아니어도 잘 받아 마셔줌. 30개 한 박스라 넉넉하게 쟁여두고 꺼내 주는 게 괜히 든든한 느낌 😊"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "hooni_park",
+    "url": "https://www.threads.com/@hooni_park/post/DflgP8pkzbg",
+    "views": 508,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iyn5vUagh2",
+    "final_url": "https://www.coupang.com/vp/products/9771723281?itemId=29249453877&src=1139000&spec=10799999&addtag=400&ctag=9771723281&lptag=AF3966113&itime=20261114081731&pageType=PRODUCT&pageValue=9771723281&wPcid=17905526599079763164544&wRef=&wTime=20261114081731&redirect=landing&traceid=V0-101-62d3e9d52d470085&mcid=206b6e86bc0a4e1f84bf6167e177b470&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9771723281",
+    "title": "Arc 볼트 맥세이프 슬라이드 카드 지갑 AV-AL",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/10/10/10/1/15f9a54b-55f7-472d-8f14-827e16bb5e59.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/10/10/10/1/15f9a54b-55f7-472d-8f14-827e16bb5e59.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/xf7zhpaf/3823b3a0f8f8488eadb2f96d40ef6594.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cyrenbtp/770abeff60c84475b9b789de138e664f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gwgw4ijr/6293395b23984b1a8fb3ceabe371465d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/cseytekz/1ad2457d45284a33bcdd2745d4ef8c7d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/am7qribf/0cb7282204324cf7870419e6783babd4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/oig49fgb/424fd78e3da54f139cbe864df6db8a3a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/9ekcwrzj/ef21942355bb4adba69e67e0a0a19979.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iyn5vUagh2"
+    ],
+    "image_path": "images/03_Arc_볼트_맥세이프_슬라이드_카드_지갑_AV-AL.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이폰 뒤에 붙여두면 카드 3장 쏙 들어가고 슬라이드로 뺄 때 손맛이 묘하게 중독됨. 지갑 따로 안 들고 다닌 지 꽤 됐는데 이게 맞는 것 같음 🖤",
+    "b": "맥세이프라 충전할 때 슥 떼면 되는 게 생각보다 편함. 처음엔 붙는 힘이 약할까 봐 걱정했는데 꽤 세게 붙어서 지금은 완전 믿고 쓰는 중 📱"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "damago.zz1",
+    "url": "https://www.threads.com/@damago.zz1/post/Dflo9S7FJOI",
+    "views": 280,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izd1n1Wceq",
+    "final_url": "https://www.coupang.com/vp/products/9719469081?itemId=29085634814&src=1139000&spec=10799999&addtag=400&ctag=9719469081&lptag=AF2195576&itime=20261114081738&pageType=PRODUCT&pageValue=9719469081&wPcid=17905526599079763164544&wRef=&wTime=20261114081738&redirect=landing&traceid=V0-183-815d608bb53b905a&mcid=6ba8b524927c43af8a84c7d64a392780&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=damagozz1&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719469081",
+    "title": "미담라이스 습식 찹쌀가루 800g 인절미 찹쌀떡 떡만들기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bd99/7bd8d7bfc9e534a51b1b477ccbcdc192a8ba2535a8a2d652ead978f6bfe7.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bd99/7bd8d7bfc9e534a51b1b477ccbcdc192a8ba2535a8a2d652ead978f6bfe7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/51f0/96c01a00f0d3e3c19eedfdc534661cdcb600b0a0184b952aa3631b9bff5b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6366/1eb718ea637dabd0793165e09af94175069954655f4eee6bfe9a58c20ba4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e18d/a48b63fbf221aa1d80763a7600e8d9cd3fd845fd973c56f4b15f5e8bf86b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/58a3/3ce935a41d2db1d0203b2ddcec9a0d3775efc260d8bceb597c1c7c37cb26.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izd1n1Wceq"
+    ],
+    "image_path": "images/04_미담라이스_습식_찹쌀가루_800g_인절미_찹쌀떡_떡만들기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주말에 딸기찹쌀떡 만들어보려고 샀는데 반죽이 쫀득하게 잘 됨. 처음 만드는 거였는데 모양도 그럴싸하게 나와서 완성하고 나서 혼자 뿌듯했음 🍓",
+    "b": "습식이라 그런지 식감이 진짜 떡 느낌 제대로 나서 좋음. 가족들이 사온 거 아니냐고 물어봤을 때 그 순간이 아직도 기억에 남음 🤭"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "usefuldaykr",
+    "url": "https://www.threads.com/@usefuldaykr/post/DflljqzDzMw",
+    "views": 274,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAdZnFYBs4",
+    "final_url": "https://www.coupang.com/vp/products/9087027516?src=1139000&spec=10799999&addtag=400&ctag=9087027516&lptag=AF6956806&itime=20261114081746&pageType=PRODUCT&pageValue=9087027516&wPcid=17905526599079763164544&wRef=&wTime=20261114081746&redirect=landing&traceid=V0-183-bc6ca6494f7904a9&mcid=e1af8b936b4e4db6a312cb7ce687bf10&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9087027516",
+    "title": "라워스 튼튼고정 자석 방풍 비닐",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3652/1eeba6c21074a40615f275fa02da64f3aeb36d0d88aa9f0890e1e0a3a283.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3652/1eeba6c21074a40615f275fa02da64f3aeb36d0d88aa9f0890e1e0a3a283.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/61e8/946383f0969e9affaec69d83750750f9897abb87e465c87aa21962f7f5e8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b5de/0ae7073a596330d9ad013006ec915d8b6c175d872a47d2b4faf21585b2f9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e6f5/0b5c9526bb8eb7ed1e3036323391024bc0bf33e3ba060da514b387d360f8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8128/df0b967acd7a6aed4d5d9859bce6e9a4471e4fed75b7bfc94d4de313758d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cfe6/e4bac450fa06d5ba54ab90c2646fe85832f233d3f6a5a0589d810bd6ac50.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/42aa/0b4be6b2f8493e734253ad1b90b4828a514ee98e9cbb53d2f1be21fb5f81.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f107/efd5bdddecbd77cad0a4cca0c60571abd8071c350d5a0424cb64e48719fb.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=TKLFZJsRk2I",
+     "https://www.youtube.com/watch?v=d6w_x-6NRLM",
+     "https://www.youtube.com/watch?v=QEbl54xDud8",
+     "https://www.youtube.com/watch?v=orwAArvmZ2U",
+     "https://www.youtube.com/watch?v=xMyM_kjE9T8",
+     "https://www.youtube.com/watch?v=Dx7uxMHGpxw",
+     "https://www.youtube.com/watch?v=3-GIycLTtQ8"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iAdZnFYBs4"
+    ],
+    "image_path": "images/05_라워스_튼튼고정_자석_방풍_비닐.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "창가에 테이프 비닐 매년 붙이다가 너무 귀찮아서 이걸로 바꿨는데 자석이라 탈부착이 진짜 편함. 환기할 때마다 통째로 뜯지 않아도 되는 게 제일 좋음 ❄️",
+    "b": "붙이고 나서 창가 쪽 냉기가 좀 줄어든 것 같아서 더 일찍 살걸 싶었음. 양쪽 자석이 알아서 딱 맞게 붙으니까 설치하면서 혼자 감탄함 🏠"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "seyes372",
+    "url": "https://www.threads.com/@seyes372/post/DfmDktHjZVp",
+    "views": 207,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izOXpMDMgC",
+    "final_url": "https://www.coupang.com/vp/products/1271064981?itemId=2275730724&src=1139000&spec=10799999&addtag=400&ctag=1271064981&lptag=AF9563499&itime=20261114081754&pageType=PRODUCT&pageValue=1271064981&wPcid=17905526599079763164544&wRef=&wTime=20261114081754&redirect=landing&traceid=V0-101-5e7ea65e5d0510be&mcid=e09a214d6d9a4ec6a5f5ba0f96ee6ce3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1271064981",
+    "title": "곰곰 무항생제 신선한 대란, 30구, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/121491716610125-58e52801-c43a-4893-a734-6bc7f05ffb75.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1497294498316610-a0a6b07e-7c44-4fca-aed3-b0c480d10790.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/7821313046418106-982928aa-e1e8-44e2-8c9a-5872d2d5e55f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/90376139811831-2b9686e9-4477-41f5-861f-f7ca5ef2ada3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1121035934549930-717ef51f-86fd-44f4-a885-04fb6f3f484c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/639494384279439-da8915b0-3c4d-44bb-a5d7-f729fdce7575.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6684781511041-b67f1ee8-94a8-46c3-a322-79320db8c45e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izOXpMDMgC"
+    ],
+    "image_path": "images/06_곰곰_무항생제_신선한_대란,_30구,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZttTYRQi",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "달걀 30구 한 판 쟁여두니까 매번 편의점 뛰던 버릇이 사라짐. 무항생제인데 노른자 색이 진해서 꺼낼 때마다 괜히 기분이 좋음 🥚",
+    "b": "아이 아침마다 계란후라이 해주는데 한 판 있으니까 마음이 든든함. 대란이라 크기도 좋고 쓱배송으로 받는 날은 왠지 모르게 행복함 😊"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "wisechoice_archive",
+    "url": "https://www.threads.com/@wisechoice_archive/post/Dflhn1pj6eN",
+    "views": 163,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/izW2UTUEM0",
+    "final_url": "https://www.coupang.com/vp/products/7615116735?src=1139000&spec=10799999&addtag=400&ctag=7615116735&lptag=AF7772190&itime=20261114081833&pageType=PRODUCT&pageValue=7615116735&wPcid=17905526599079763164544&wRef=&wTime=20261114081833&redirect=landing&traceid=V0-183-8d2a35e96360be8e&mcid=cb264957ae8c49618e4b074a3b39e209&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7615116735",
+    "title": "대우어플라이언스 와플메이커 3 in 1 와플 샌드위치 붕어빵틀 분리형",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fbe1/3ee490ee56ff4c7922c23a71f21a5850b59edb0ec75090fc37f0fe564b23.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fbe1/3ee490ee56ff4c7922c23a71f21a5850b59edb0ec75090fc37f0fe564b23.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3316399370943620-115228bc-9ae5-4a25-83fd-ce1db0b65876.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3316399412359275-618c9dd7-28a8-4a4a-beb1-9707a35bf254.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/312729583525098-b905bb8d-2eb2-42c2-a945-f4a9afcaa27d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/312729578616001-b47e14fe-1f84-49a0-b7d9-77543fcc8a7a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/312729578725217-47d3a92c-e4aa-425b-8ee1-33992e55f190.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/312729579877533-4bdc7ae9-0acf-4111-9b70-228f705367e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/337691628224134-d8d3f8f5-52d6-4404-85bf-c663d3779a7a.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/izW2UTUEM0"
+    ],
+    "image_path": "images/07_대우어플라이언스_와플메이커_3_in_1_와플_샌드위치_붕어빵틀_분리형.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "와플, 샌드위치, 붕어빵 판 셋 다 들어있어서 애 간식 때마다 뭐 만들지 고민이 없어짐. 처음으로 붕어빵 판 꽂아봤는데 집에서 붕어빵이 나오는 게 진짜 신기하더라 🐟",
+    "b": "아침에 샌드위치 판으로 토스트 구워 먹는 게 아직도 소확행임. 판이 분리돼서 씻기 편한 게 진짜 장점이고 쓸 때마다 괜히 카페 느낌 남 🧇"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "park.196011",
+    "url": "https://www.threads.com/@park.196011/post/DflZnJuj4Xc",
+    "views": 163,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iz6TQ8OaVE",
+    "final_url": "https://www.coupang.com/vp/products/9777824252?itemId=29271457283&src=1139000&spec=10799999&addtag=400&ctag=9777824252&lptag=AF3499889&itime=20261114081842&pageType=PRODUCT&pageValue=9777824252&wPcid=17905526599079763164544&wRef=&wTime=20261114081842&redirect=landing&traceid=V0-101-ce8b7ce0194da950&mcid=d72649d15cb8427ca6b1706c3e6661ac&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9777824252",
+    "title": "완전 손질 포항 구룡포 햇 과메기 야채세트, 1세트, 5미 야채세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/dd4c/099a811cc6ff495d45e84e747a0742263eb78b46160b922ef823cb5bb0cb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6adf/eee57a93eff8d2a0587724305db1bdcb0d3c873ff00a1086f1fe3911321b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f604/723ad5d20b592fe6d5ae16b1c54703055caf34bc7038d47b2e19e1acc90d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/53fb/3e16566af8e4e1baf179b9343354da482bd6777cc2b3c860e6e82d531202.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/143b/d81649f8cc39e96dd4ab8b8d70f7d1e0fc2137f8a67767e263ce1310c99b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2be7/d8267b8cb3e7bf04b69c6b6635e2a92753d83e8ee5cee0bf2842c3b8305a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b5c/afa96c2e310c38aa6844370df5bf0a318e6ac8a95282d21f28314f8e4b67.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iz6TQ8OaVE"
+    ],
+    "image_path": "images/08_완전_손질_포항_구룡포_햇_과메기_야채세트,_1세트,_5미_야채세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 되면 과메기 생각나서 주문했는데 완전 손질된 상태로 와서 바로 꺼내 먹음. 마늘이랑 쪽파까지 세트로 오니까 따로 준비 안 해도 돼서 편함 🌊",
+    "b": "술 한 잔 할 때 과메기 올려서 먹으면 겨울 느낌 제대로 남. 미역이랑 다시마까지 같이 와서 차려 먹는 맛이 있어서 혼술에 완전 딱임 😋"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "pickory.day",
+    "url": "https://www.threads.com/@pickory.day/post/Dfl8MGoGmd_",
+    "views": 161,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAsonuZdoi",
+    "final_url": "https://www.coupang.com/vp/products/8262790565?itemId=23805128305&src=1139000&spec=10799999&addtag=400&ctag=8262790565&lptag=AF5791381&itime=20261114081850&pageType=PRODUCT&pageValue=8262790565&wPcid=17905526599079763164544&wRef=&wTime=20261114081850&redirect=landing&traceid=V0-101-b95af0aba0d392ee&mcid=fd6886befbbc469bb15d124cb47e43a8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8262790565",
+    "title": "햇반 스팸 김치 주먹밥 (냉동), 500g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/500021553917940-eb56ee40-b76f-49ad-a634-711b098d4990.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/500021553917940-eb56ee40-b76f-49ad-a634-711b098d4990.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/uprfkdoz/691b3242e72c4f6fb61bdf3a472b6c00.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gpvyete8/60fd19dd6e384cd8a7e4344b89f4e860.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/zubcukv2/180a99c931f645bdbc12c9943c7e2c17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/kf6vrb2n/b6f4810a239641e6a84fffddedaf46e6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/355979626536700-7a1650a9-ad96-4d62-bb3e-6857ef1f2fef.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/294653250068375-036b0ec6-712a-4e52-944c-7f8d5a3f9a90.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/355985055782033-20525734-2cf7-4e5b-a7fc-db5286f3471a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iAsonuZdoi"
+    ],
+    "image_path": "images/09_햇반_스팸_김치_주먹밥_(냉동),_500g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동고에 쟁여두고 출근 전에 전자레인지만 돌리면 되니까 아침이 좀 살아짐. 스팸이랑 김치가 같이 들어가서 혼자 먹기에 딱이고 뭔가 든든함 🍙",
+    "b": "애가 학교 갔다 오면 배고프다고 할 때 이거 꺼내주면 귀신같이 먹어치움. 겉이 노릇하게 구워진 느낌이라 그냥 데운 거 같지 않아서 더 좋음 😄"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "after6.seoyeon",
+    "url": "https://www.threads.com/@after6.seoyeon/post/Dfr1M4Vj7Fz",
+    "views": 126,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-11",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iDHfAMtjVY",
+    "final_url": "https://www.coupang.com/vp/products/8401705723?src=1139000&spec=10799999&addtag=400&ctag=8401705723&lptag=AF9112322&itime=20261114081857&pageType=PRODUCT&pageValue=8401705723&wPcid=17905526599079763164544&wRef=&wTime=20261114081857&redirect=landing&traceid=V0-183-20c6d7be458c6071&mcid=844150015c744f30b43bcabe9523e98d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8401705723",
+    "title": "집밥장인 소불고기 더블랙 (냉동), 600g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/318785744009395-645dbe6f-ba4c-43ec-aab0-2420c86beeb0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/318785744009395-645dbe6f-ba4c-43ec-aab0-2420c86beeb0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/325602022963324-fe48cd4d-555a-4704-a065-31051107cee8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3227339267988-973cee8e-f62a-4f81-81a9-436a24e7ba6f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/325609466083513-48a1adf9-0b21-4762-9dcc-c8796ce13150.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/325615669287119-8ff0f23d-046c-407e-a278-59596d18fc14.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/325621608619099-91259194-2006-4187-ac4d-d4e09b6f2203.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iDHfAMtjVY",
+     "https://link.coupang.com/a/iDGAX8bRjo",
+     "https://link.coupang.com/a/iDGiH9SjVQ",
+     "https://link.coupang.com/a/iDFW5aj6Hc"
+    ],
+    "image_path": "images/10_집밥장인_소불고기_더블랙_(냉동),_600g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동인데 고기가 꽤 넉넉하게 들어있어서 한 끼 반찬으로 충분함. 간도 세지 않아서 밥이랑 먹으면 그냥 집밥 느낌 나는 게 계속 사게 만듦 🥩",
+    "b": "바쁜 날 저녁에 이거 하나 꺼내서 볶아냈는데 가족들이 뭐 사왔냐고 물어봄. 국밥집 소불고기 느낌이 나서 한 번 먹고 나서 바로 재주문함 🍚"
+   }
+  }
+ ]
+}
