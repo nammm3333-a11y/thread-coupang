@@ -1,0 +1,441 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-14T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-14T22:18:00"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "_su___daily",
+    "url": "https://www.threads.com/@_su___daily/post/DfpB-RBoTnJ",
+    "views": 899,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCb0fXovro",
+    "final_url": "https://www.coupang.com/vp/products/88276987?itemId=276354004&src=1139000&spec=10799999&addtag=400&ctag=88276987&lptag=AF9472763&itime=20261114221316&pageType=PRODUCT&pageValue=88276987&wPcid=17905526599079763164544&wRef=&wTime=20261114221316&redirect=landing&traceid=V0-101-3af4f465deae3027&mcid=404eefe12f8c4b2d88e8cb4ed70ef873&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "88276987",
+    "title": "내가 엄마를 골랐어!",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2018/05/02/14/5/11279795-773f-478f-9d37-7f6927f9d9fa.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/05/02/14/5/11279795-773f-478f-9d37-7f6927f9d9fa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2018/05/02/14/1/c76eae7a-5cdd-4f38-8fe9-df5d9faaa9a0.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_cc1e5838-ef5c-49b5-b4b4-4b63a975ea7d.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCb0fXovro"
+    ],
+    "image_path": "images/01_내가_엄마를_골랐어!.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "조카 선물로 골랐는데 나도 같이 읽다가 울컥해버림... 아기가 엄마를 고른다는 설정이 진짜 너무 귀여워 🥹 덕분에 조카가 맨날 꺼내 달라고 조름",
+    "b": "어린이집 보내기 전에 같이 읽어줬더니 애가 나 꼭 껴안더라 그림체도 너무 사랑스러워서 나도 계속 들여다보게 됨 🌸"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "remako_official_ko",
+    "url": "https://www.threads.com/@remako_official_ko/post/DfovPoNk2er",
+    "views": 400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iBPdgTI948",
+    "final_url": "https://www.coupang.com/vp/products/9031393669?src=1139000&spec=10799999&addtag=400&ctag=9031393669&lptag=AF6150514&itime=20261114221326&pageType=PRODUCT&pageValue=9031393669&wPcid=17905526599079763164544&wRef=&wTime=20261114221326&redirect=landing&traceid=V0-183-9f5d385d7e71dbeb&mcid=93cbf1c9c2c941de878ca808d8e8738c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=main&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9031393669",
+    "title": "HanilMedical 탄소열선 고급 전기요 HL-D210",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/09/08/14/0/6f0bebf7-d2df-407a-b6d7-e9684f7a0e5c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/08/14/0/6f0bebf7-d2df-407a-b6d7-e9684f7a0e5c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/clsyhzue/5d3b8d76a67241c4aebdf0cdf807954f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/rdavxlsd/2d254db503a943bbae886b771793965c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/v4h3chw7/66bc0a2385714fe9a7c9ca375ba08ff2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/syn45tyd/0860acaac3254e6898d5ef9a17880bb1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/21237867710902-577567bf-30af-44b0-9743-44b9bc140d9b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/21237853043966-5f572be1-6e2f-43fb-ac76-c5677d30531c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/72532883138934-91751006-6fe9-4808-8fd5-c5430a915643.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iBPdgTI948"
+    ],
+    "image_path": "images/02_HanilMedical_탄소열선_고급_전기요_HL-D210.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "작년부터 쓰고 있는데 겨울에 이거 없으면 진짜 못 버틸 것 같음 강아지 패턴도 은근 귀엽고, 덮고 자면 아침에 일어나기가 더 싫어짐 😇",
+    "b": "보일러 아끼려고 샀는데 이제 보일러 거의 안 틀게 됨 퀼팅 소재라 무게감도 적당하고 따뜻해서 소파에서 낮잠 자다 깨는 일이 생겨버림 🛌"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "whchdaud",
+    "url": "https://www.threads.com/@whchdaud/post/DfonB0hHXqd",
+    "views": 238,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iu92KMCGVE",
+    "final_url": "https://www.coupang.com/vp/products/9773828559?itemId=29257465202&src=1139000&spec=10799999&addtag=400&ctag=9773828559&lptag=AF3704167&itime=20261114221405&pageType=PRODUCT&pageValue=9773828559&wPcid=17905526599079763164544&wRef=&wTime=20261114221405&redirect=landing&traceid=V0-183-1bcec970fbcbfeb6&mcid=7c63819b52354cd0b381a3533f304872&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9773828559",
+    "title": "어그 UGG 로우멜 양털 스니커즈 여성 운동화",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/107b/705f233b0262c3cd420f2d930dd235b21acac49e418df1fbe7763640b924.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/107b/705f233b0262c3cd420f2d930dd235b21acac49e418df1fbe7763640b924.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bf2e/4e84109f0208bedb594a302cd14d82d6e23d23feb69690f4e223b4f2d61d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5a9/6efefa2e85231cad1709d7c999552b05523944eaf5ef80d0a49c6d550360.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b171/dae5609aad20cc739c7b39479ee2153ad65838566172fb0f19d2712e6c3b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iu92KMCGVE"
+    ],
+    "image_path": "images/03_어그_UGG_로우멜_양털_스니커즈_여성_운동화.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발 시린 출근길에 이거 신으니까 완전 달라짐 양털이 발목까지 감싸줘서 두꺼운 양말 없어도 될 것 같고, 너무 편해서 벗기도 귀찮아짐 🐑",
+    "b": "어그인데 운동화 스타일이라 코디 다양하게 되는 게 좋음 처음엔 색이 튀나 싶었는데 나가면 오히려 어울린다고 얘기 들음 🍂"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "hing.nyang",
+    "url": "https://www.threads.com/@hing.nyang/post/Dfoor3ZE5ty",
+    "views": 220,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCb4FiPark",
+    "final_url": "https://www.coupang.com/vp/products/6957083978?itemId=16922754712&src=1139000&spec=10799999&addtag=400&ctag=6957083978&lptag=AF0915243&itime=20261114221413&pageType=PRODUCT&pageValue=6957083978&wPcid=17905526599079763164544&wRef=&wTime=20261114221413&redirect=landing&traceid=V0-101-f203d2493594565b&mcid=e3ca92241f9c4c3d815d5afb9da1d7c4&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6957083978",
+    "title": "남가네설악추어탕, 450g, 5개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/410178175104123-8fa1197f-2ccc-4d79-b1b3-6240d1626149.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/410178175104123-8fa1197f-2ccc-4d79-b1b3-6240d1626149.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335201686582528-49d53166-a9f5-4559-9fe5-4f39fe443485.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/335201645075740-67e659ec-0ae3-4b02-b2fb-172a131f126e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/950277460855574-d307bd9f-6b82-40b2-88f3-a06b61e680a8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCb4FiPark"
+    ],
+    "image_path": "images/04_남가네설악추어탕,_450g,_5개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "추어탕 원래 잘 안 먹었는데 이거 먹고 생각이 바뀜 봉지째 데우면 되는데 맛이 진짜 묵직하고 구수해서 국밥집 간 것 같음 🍲",
+    "b": "아빠가 추어탕 좋아하셔서 택배로 보내드렸더니 맛있다고 연락 오심 5개 세트라 넉넉해서 집에도 하나 쌓아두고 싶어짐 😊"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "leopard.4413978",
+    "url": "https://www.threads.com/@leopard.4413978/post/DforwZoH1Lp",
+    "views": 203,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/hxgAfkaYc8",
+    "final_url": "https://www.coupang.com/vp/products/9494505309?itemId=28280350611&src=1139000&spec=10799999&addtag=400&ctag=9494505309&lptag=AF5216733&itime=20261114221421&pageType=PRODUCT&pageValue=9494505309&wPcid=17905526599079763164544&wRef=&wTime=20261114221421&redirect=landing&traceid=V0-101-b9c216c7c0be7972&mcid=bb49e8101dbd4b96bf6d714745e7d692&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9494505309",
+    "title": "동국제약 멜라-셋 기미 토닝 크리미 에센스",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7d9f/91988ad43a3f8df754cf457d4c7bef1a11952d1e4e2612b117565b182f37.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7d9f/91988ad43a3f8df754cf457d4c7bef1a11952d1e4e2612b117565b182f37.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/hxgAfkaYc8"
+    ],
+    "image_path": "images/05_동국제약_멜라-셋_기미_토닝_크리미_에센스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침 세안 후에 꾸준히 바르고 있는데 피부 결이 이전보다 좀 차분해진 느낌 약국 브랜드라 괜히 더 믿음 가서 아침마다 챙기게 됨 🌿",
+    "b": "세럼처럼 가볍게 흡수돼서 아침 루틴에 넣기 딱 좋음 발림성이 생각보다 괜찮아서 반신반의했다가 계속 쓰게 된 케이스임 💧"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "yoons829",
+    "url": "https://www.threads.com/@yoons829/post/Dfowdj7mjs1",
+    "views": 195,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iz0lugFj2G",
+    "final_url": "https://www.coupang.com/vp/products/8440659313?itemId=24415357335&src=1139000&spec=10799999&addtag=400&ctag=8440659313&lptag=AF6932418&itime=20261114221429&pageType=PRODUCT&pageValue=8440659313&wPcid=17905526599079763164544&wRef=&wTime=20261114221429&redirect=landing&traceid=V0-101-6aebfb143521f659&mcid=982eb6a190284647b58ae9ebddbb6196&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8440659313",
+    "title": "온더칩 먼지제거용 코트 옷솔 회전형 1+1",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/86f9/d0855a937b0946799c4e0617e6caded20a7836a144ffb572b615a6c5ded0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86f9/d0855a937b0946799c4e0617e6caded20a7836a144ffb572b615a6c5ded0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iz0lugFj2G",
+     "https://link.coupang.com/a/iz0fuvLGRU"
+    ],
+    "image_path": "images/06_온더칩_먼지제거용_코트_옷솔_회전형_1+1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "외출 전에 코트 한 번 쓱 쓸어주면 끝임 테이프 롤러보다 훨씬 간편하고 테이프 갈 필요도 없어서 옷장 옆에 걸어두고 매일 씀 🧥",
+    "b": "고양이 키우는 집이라 털이 항상 문젠데 이거 한 번 쓸면 거의 다 잡히는 느낌 1+1이라 하나는 현관, 하나는 방에 뒀더니 더 편함 🐱"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "toktack2026",
+    "url": "https://www.threads.com/@toktack2026/post/DfpbUk4nZoI",
+    "views": 194,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-13",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCHhosNSmb",
+    "final_url": "https://www.coupang.com/vp/products/1271064981?itemId=2275730724&src=1139000&spec=10799999&addtag=400&ctag=1271064981&lptag=AF2365734&itime=20261114221436&pageType=PRODUCT&pageValue=1271064981&wPcid=17905526599079763164544&wRef=&wTime=20261114221436&redirect=landing&traceid=V0-101-5e7ea65e5d0510be&mcid=103359471fd34a2180d55d9963c6770f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1271064981",
+    "title": "곰곰 무항생제 신선한 대란, 30구, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2215512493945149-f801fa53-33fd-482b-abcf-20dda5817093.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/121491716610125-58e52801-c43a-4893-a734-6bc7f05ffb75.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1497294498316610-a0a6b07e-7c44-4fca-aed3-b0c480d10790.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/7821313046418106-982928aa-e1e8-44e2-8c9a-5872d2d5e55f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/90376139811831-2b9686e9-4477-41f5-861f-f7ca5ef2ada3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1121035934549930-717ef51f-86fd-44f4-a885-04fb6f3f484c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/639494384279439-da8915b0-3c4d-44bb-a5d7-f729fdce7575.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6684781511041-b67f1ee8-94a8-46c3-a322-79320db8c45e.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCHhosNSmb"
+    ],
+    "image_path": "images/07_곰곰_무항생제_신선한_대란,_30구,_1개.jpg",
+    "my_link": "https://link.coupang.com/a/g4ZttTYRQi",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "매주 계란 사러 마트 가는 게 귀찮아서 30구로 주문했는데 이게 맞음 무항생제라 애 아침 계란후라이에 쓸 때 마음이 한결 편함 🥚",
+    "b": "알 크기가 고르고 신선도도 잘 유지돼서 한 번에 많이 사두게 됨 계란 자주 먹는 집이면 한 판씩 쟁여두는 게 진짜 편하더라 🍳"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "salimgom",
+    "url": "https://www.threads.com/@salimgom/post/Dfo0IisH4S_",
+    "views": 166,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCitHZb2Q0",
+    "final_url": "https://www.coupang.com/vp/products/9116204011?itemId=26813403047&vendorItemId=93783674594&src=1139000&spec=10799999&addtag=400&ctag=9116204011&lptag=AF1199464&itime=20261114221444&pageType=PRODUCT&pageValue=9116204011&wPcid=17905526599079763164544&wRef=&wTime=20261114221444&redirect=landing&traceid=V0-181-062cdd0a2db62399&mcid=83de5abcd0ee44249f8756cf4942415e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9116204011",
+    "title": "huachen-296멀티 기능 겨울용 두꺼운 착용형 소매 달린 보온 낮잠 차량 겸용 베개 담요",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/067d/d06a793a10a46def5e7bf113d230d706a9e80181ba807e347d6c5eacc781.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/067d/d06a793a10a46def5e7bf113d230d706a9e80181ba807e347d6c5eacc781.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/580c/218f3abc613a044ae6ce8bae7177f614ffcf42275aecc38dab426c2497e3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/317a/b99583e08cc44186bfcda6ef45aa8a34309b21fda59ce7ab58f4dcd6f09a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/64bf/c143cd5b6809c7f27165837653436e3b50e8f3912ebe58bfb296d805589b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e473/e37e493887492aa49a34a29c22050a147d51009b85b9206619b2aef7fccb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3400/86144ec561fe82737994201280c5a1977a25b468f34374af6921f634f226.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/da13/86e3f5224154d87d95b8ee88b74e24f98e3136e007711a0de1bb16b4501e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/107c/a834e32e348fe7cd60227e4857b4cca5730d1587fc7cdb98b28507f1d79a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCitHZb2Q0"
+    ],
+    "image_path": "images/08_huachen-296멀티_기능_겨울용_두꺼운_착용형_소매_달린_보온_낮잠.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "소파에서 뒹굴 때 팔을 꺼내야 하는 게 싫었는데 이거 입으면 담요째로 리모컨 잡을 수 있음 얼마나 더 게을러질 수 있는지 새로 알게 됨 😂",
+    "b": "핑크에 캐릭터라 귀엽기도 한데 진짜 따뜻함 낮잠 잘 때 뒤집어쓰면 별도 이불 필요 없을 정도라 거실에 계속 굴러다니고 있음 🐰"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "soooomin__e",
+    "url": "https://www.threads.com/@soooomin__e/post/DforVhZiDZ2",
+    "views": 149,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAiiWCoiRM",
+    "final_url": "https://www.coupang.com/vp/products/9524177520?src=1139000&spec=10799999&addtag=400&ctag=9524177520&lptag=AF4955575&itime=20261114221452&pageType=PRODUCT&pageValue=9524177520&wPcid=17905526599079763164544&wRef=&wTime=20261114221452&redirect=landing&traceid=V0-183-425c949c8557fd13&mcid=aff3e615cf7b44ae9a7012c3352ded56&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=aicompany&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9524177520",
+    "title": "오니츠카타이거 멕시코 66 화이트 블랙 레드 커스텀 슈즈",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1f8e/926a094e1904a2d78fd854398501973213fc892a14180717c6bf3609366a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1f8e/926a094e1904a2d78fd854398501973213fc892a14180717c6bf3609366a.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iAiiWCoiRM"
+    ],
+    "image_path": "images/09_오니츠카타이거_멕시코_66_화이트_블랙_레드_커스텀_슈즈.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "끈 없는 슬립온 타입이라 신고 벗기가 너무 편함 흰 바탕에 빨간 사선이 생각보다 세련돼서 데일리로 계속 꺼내 신게 됨 👟",
+    "b": "오니츠카 처음이었는데 신어보니까 왜 다들 좋아하는지 이해됨 smile 자수가 포인트라 가까이서 볼수록 귀엽고 발볼도 편하게 느껴짐 🤍"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "hyogongan",
+    "url": "https://www.threads.com/@hyogongan/post/DfogQDKG6re",
+    "views": 131,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-12",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iBsQwNX7Zs",
+    "final_url": "https://www.coupang.com/vp/products/223112432?itemId=700390603&src=1139000&spec=10799999&addtag=400&ctag=223112432&lptag=AF5459519&itime=20261114221500&pageType=PRODUCT&pageValue=223112432&wPcid=17905526599079763164544&wRef=&wTime=20261114221500&redirect=landing&traceid=V0-101-fb7c6dbd3d45d1bd&mcid=8b464264a31c40d487f4d6d5c9c0f761&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "223112432",
+    "title": "새하얀 박스가득! 대용량 물티슈 8팩(팩당400매)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/838a/ba1785096f354659e77c869c3e80f903ad13b2370079c1cb6e9cfd5dba48.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/838a/ba1785096f354659e77c869c3e80f903ad13b2370079c1cb6e9cfd5dba48.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iBsQwNX7Zs"
+    ],
+    "image_path": "images/10_새하얀_박스가득!_대용량_물티슈_8팩(팩당400매).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아기 있는 집이라 물티슈 소비가 장난 아닌데 이거 한 박스 시켜두면 한동안 안 사도 됨 넉넉하게 쌓여 있으면 괜히 마음이 든든함 😌",
+    "b": "주방이랑 각 방에 하나씩 뒀는데 8팩이라 여유 있음 물티슈 떨어졌을 때 허둥대던 순간이 없어진 게 제일 좋음 🤣"
+   }
+  }
+ ]
+}
