@@ -1,0 +1,465 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-18T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-18T08:21:24"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "cobongmom",
+    "url": "https://www.threads.com/@cobongmom/post/DfwOclmE1nG",
+    "views": 6800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG4WTnfTz2",
+    "final_url": "https://www.coupang.com/vp/products/9185265400?itemId=27094188030&src=1139000&spec=10799999&addtag=400&ctag=9185265400&lptag=AF5836965&itime=20261118081632&pageType=PRODUCT&pageValue=9185265400&wPcid=17905526599079763164544&wRef=&wTime=20261118081632&redirect=landing&traceid=V0-101-7cbb609f7fc2913c&mcid=8d7e562a4cd148c0b96ba6445dfdbe73&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9185265400",
+    "title": "코멧 홈 세탁기 건조기 자석 도어 스토퍼, 화이트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29495994050195-beca5785-fa2c-4d4c-9902-f6b5043b6d2b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29495994050195-beca5785-fa2c-4d4c-9902-f6b5043b6d2b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29498905465605-2bb75407-a412-4aec-a8dc-1e5535c419b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402066972956602-47ce622e-31c0-4fda-a047-f2340aeed7a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548074887499-17ebb1c0-bb7a-4de4-b43a-c16507d34c5b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402067070922870-ecee77f7-6393-4467-a0e1-99de858bef07.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548202763925-1415999a-1643-4623-bec3-d45b6e5976db.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548187387470-eed30fad-5485-4831-aa36-8735cc98898a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29499292846338-6c15a8e9-d7be-405e-8651-1a851476309b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iG4WTnfTz2"
+    ],
+    "image_path": "images/01_코멧_홈_세탁기_건조기_자석_도어_스토퍼,_화이트,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세탁 끝나고 문 닫아뒀다가 패킹에 곰팡이 생겼던 사람인데 이거 꽂아두니까 문이 항상 열려 있어. S자 모양으로 도어에 걸치는 방식인데 안 떨어지고 너무 편함 🌀",
+    "b": "세탁기 문 열어두는 거 맨날 까먹었는데 이거 하나 달아두니까 알아서 해결됨. 별거 아닌 것 같은데 이제 없으면 불안할 것 같은 그런 아이템 🫧"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "bebe202020222",
+    "url": "https://www.threads.com/@bebe202020222/post/DfwMxusExpy",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG4j9yXYWa",
+    "final_url": "https://www.coupang.com/vp/products/7698108997?itemId=20603586422&src=1139000&spec=10799999&addtag=400&ctag=7698108997&lptag=AF0856237&itime=20261118081641&pageType=PRODUCT&pageValue=7698108997&wPcid=17905526599079763164544&wRef=&wTime=20261118081641&redirect=landing&traceid=V0-101-8000f64eb781cf4f&mcid=e434b500bb3e4f1d8af3d6e342f866ab&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7698108997",
+    "title": "CAREPOD 케어팟 스테인리스 가습기 4L 코스트코",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/50f5/befae9f745d2ef801628fd7953783d008f49588680750f55d8bb40c948ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/50f5/befae9f745d2ef801628fd7953783d008f49588680750f55d8bb40c948ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9131/47ae022b7ed19630ad0f98a2fef989772e1e31a8c5e10ad583eee7be2c83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e42e/6dc1df4c4c3e75188cb9f035928e3bb9dd21e4cc41571054d9bbcb75583e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iG4j9yXYWa"
+    ],
+    "image_path": "images/02_CAREPOD_케어팟_스테인리스_가습기_4L_코스트코.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 되면서 공기가 너무 건조해서 코스트코 가서 이거 집어왔는데 디자인이 진짜 예쁨. 원통형에 파란 무드등 느낌이 방에 두니까 인테리어처럼 보임 💧",
+    "b": "가습기 청소하기 귀찮아서 스테인리스로 바꿨더니 관리가 훨씬 덜 번거로워졌음. 4L짜리라 하루 종일 틀어도 자주 물 채울 필요 없어서 너무 좋음 🌫️"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "toltoles2",
+    "url": "https://www.threads.com/@toltoles2/post/Dfx3TzqgTk6",
+    "views": 721,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-16",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iB1a2VtUHY",
+    "final_url": "https://www.coupang.com/vp/products/8711033772?src=1139000&spec=10799999&addtag=400&ctag=8711033772&lptag=AF5807680&itime=20261118081648&pageType=PRODUCT&pageValue=8711033772&wPcid=17905526599079763164544&wRef=&wTime=20261118081648&redirect=landing&traceid=V0-181-c227ae5440c272a2&mcid=9913c1ef228544399069a91a6cc54504&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8711033772",
+    "title": "다재다능한 전자레인지 계란 팬 후라이박스 계란 후라이용기 플라스틱 소재 바쁜 전문가 학생들에게 안성맞춤",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bc3d/2755bc0e54ff349b8f43c1b7d977d6a5f1643217e215b4e7f055c749e552.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc3d/2755bc0e54ff349b8f43c1b7d977d6a5f1643217e215b4e7f055c749e552.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/747a/100925a73a3e415d8dccc6122730e00802624e6e13f5129eb4bd22926840.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3169/9766f6808a24c8f4a355ea3cca13f0b600031f84feec7d434adcf5bbf6dd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a8ca/c9e7ef7d7fd0fc20010483ea4f42e7c267cbfa98d5e83f64ecc5e1953a20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/47d9/5abd007bbd966d0bef4ce8da4970544109348c5d5f3bdddceb32839671cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0d0c/524866e0cfc0525f8a9c21f1134d1da7efdb782be7ed1008c9142220fb0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4873/2811c4226fa879365a8e56bdf48845a8fd1112cbfed06e5758502218063f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/97cb/14e8bc2e8ac5bb2ab8c25226db6e971ed872ae31411e0e8360f57b0d32e2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iB1a2VtUHY"
+    ],
+    "image_path": "images/03_다재다능한_전자레인지_계란_팬_후라이박스_계란_후라이용기_플라스틱_소재_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 프라이팬 꺼내기 귀찮아서 이거 써봤는데 전자레인지에 2분이면 계란 두 개가 뚝딱임. 설거지도 용기 하나라서 아침 루틴이 갑자기 편해짐 🍳",
+    "b": "불 안 켜고 계란 후라이 된다는 게 진짜인지 반신반의했는데 진짜로 됨. 뚜껑 닫고 돌리면 모양도 그럴듯하게 나와서 나름 신기했음 😄"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "unni_0114",
+    "url": "https://www.threads.com/@unni_0114/post/DfwugycmUbt",
+    "views": 693,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iHptw7QxSC",
+    "final_url": "https://www.coupang.com/vp/products/9442379468?itemId=28085331510&src=1139000&spec=10799999&addtag=400&ctag=9442379468&lptag=AF0761188&itime=20261118081657&pageType=PRODUCT&pageValue=9442379468&wPcid=17905526599079763164544&wRef=&wTime=20261118081657&redirect=landing&traceid=V0-101-2f4ed9a49534d99a&mcid=c3469aa118b74a95890af9f8f367becd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9442379468",
+    "title": "클리어턴 미안해 맨살 쿠마라나이 아이크림 20g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9fb2/c2567cd7609382862f6cf4ac29c08f789619aff51fb1a92102a89ed6c2d8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9fb2/c2567cd7609382862f6cf4ac29c08f789619aff51fb1a92102a89ed6c2d8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f96a/388972198fa9b1cde4ee5cb4db4338a342c3ba4c72c3b57680e188df1b91.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/60c9/c293b3633e142ff5d951d4e1fb8514547726dd5d69e8f23f3578efdcb3b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6b42/ea9105e041885fb529fcc00ed6253c609a9365e95b5d0baf0a84a470b367.jpg",
+     "https://image.coupangcdn.com/image/vendor_inventory/0000/banner/MNI_Jikgu_DDP/JP_DDP_PC.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iHptw7QxSC"
+    ],
+    "image_path": "images/04_클리어턴_미안해_맨살_쿠마라나이_아이크림_20g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "눈 밑 다크써클 때문에 아이크림 이것저것 써봤는데 이건 텍스처가 묽어서 뭉치지 않고 잘 스며들어. 아침에 바르고 나가면 눈가가 덜 처져 보이는 것 같아서 계속 쓰게 됨 🐻",
+    "b": "밤새 폰 보다 늦게 자면 아침에 눈이 퉁퉁 붓는데 자기 전에 이거 발라두면 조금 다른 것 같음. 패키지 디자인이 너무 귀여워서 괜히 더 꼬박꼬박 바르게 됨 🩷"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DfwnjDhnwv0",
+    "views": 659,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iHk6IoB8WO",
+    "final_url": "https://www.coupang.com/vp/products/241319647?itemId=18038640931&vendorItemId=74707576233&src=1139000&spec=10799999&addtag=400&ctag=241319647&lptag=AF9111886&itime=20261118081704&pageType=PRODUCT&pageValue=241319647&wPcid=17905526599079763164544&wRef=&wTime=20261118081704&redirect=landing&traceid=V0-181-846795a61046decf&mcid=61e9e714a32848b2b923471f07965ba9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "241319647",
+    "title": "청우식품 그랑쉘사과, 195g, 10개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iHk6IoB8WO"
+    ],
+    "image_path": "images/05_청우식품_그랑쉘사과,_195g,_10개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "편의점에서 낱개로 맨날 사먹던 그랑쉘사과를 이번에 박스로 질러봤는데 이게 맞는 거였음. 사과잼이 꽉 차있어서 하나 먹으면 진짜 든든하고 간식으로 딱임 🍎",
+    "b": "티타임에 달달한 거 하나씩 꺼내 먹는데 사과 향이 진해서 계속 손이 감. 박스로 쟁여두는 게 맞는 과자다 싶었음 🍪"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "dddititbbb",
+    "url": "https://www.threads.com/@dddititbbb/post/Dfv3dXZEmD9",
+    "views": 560,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iGQ9eBLek9",
+    "final_url": "https://www.coupang.com/vp/products/7140321311?itemId=17925512020&src=1139000&spec=10799999&addtag=400&ctag=7140321311&lptag=AF9007986&itime=20261118081712&pageType=PRODUCT&pageValue=7140321311&wPcid=17905526599079763164544&wRef=&wTime=20261118081712&redirect=landing&traceid=V0-101-5a6b1727da836d6b&mcid=5ac7ba85551d437884bcf9a723a16ce3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7140321311",
+    "title": "페페브루노 아보카도 오일, 1L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/381031734576210-37dd52ec-e295-4805-aee1-475f1e6a0bd8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/381031734576210-37dd52ec-e295-4805-aee1-475f1e6a0bd8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/207478163130109-bf6d3d79-ce2d-4a74-a840-97a0bb8e66d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/207489228807973-9553e5c1-d333-4e68-942c-6cfed6f71c17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/243687103916385-ce7a033c-7d1f-4b37-8ca9-7e3b30952488.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/241752311585779-e3197dbd-f696-4454-bc92-c7b3b2a53c7f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/241818149262078-ea5e14ed-21eb-4856-9149-71ecb1dfb91b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/440310736484498-3c07f440-bd75-4393-95df-e148c82692bf.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iGQ9eBLek9"
+    ],
+    "image_path": "images/06_페페브루노_아보카도_오일,_1L,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "올리브유 대신 볶음 요리에 써봤는데 연기가 확 덜 나더라. 1L짜리라 얼마나 쓸까 했는데 아직도 쓰고 있고 요리할 때마다 왠지 더 깔끔한 느낌 🥑",
+    "b": "샐러드 드레싱에 처음 써봤는데 올리브유보다 맛이 순해서 재료 맛이 더 사는 것 같음. 병 디자인도 예뻐서 식탁 위에 그냥 올려둬도 어색하지 않음 🫙"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "jiyeoni_1209",
+    "url": "https://www.threads.com/@jiyeoni_1209/post/DfvzkExE6c5",
+    "views": 248,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iGOnTnsoh2",
+    "final_url": "https://www.coupang.com/vp/products/9745136990?itemId=29172415171&src=1139000&spec=10799999&addtag=400&ctag=9745136990&lptag=AF7283270&itime=20261118081720&pageType=PRODUCT&pageValue=9745136990&wPcid=17905526599079763164544&wRef=&wTime=20261118081720&redirect=landing&traceid=V0-101-cc0b19f5c8996733&mcid=ae69ecc7a3974d4f8b734148bfd3418a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9745136990",
+    "title": "글래드 매직랩+매직랩 커터 31cm",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bcba/e9bfe823472995605d187477059b6da4e3d714729134d9300e213695f30c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bcba/e9bfe823472995605d187477059b6da4e3d714729134d9300e213695f30c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9209/bbc44c0f8bffbd75695e129c762e33edf2140c4dd390a09a13b50c8c397f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9a22/33636f32d54b940561d4419681c9d7aa95cc4e283746fadc00b62287f967.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iGOnTnsoh2"
+    ],
+    "image_path": "images/07_글래드_매직랩+매직랩_커터_31cm.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "일반 랩 쓸 때마다 엉켜서 짜증났는데 이건 꾹 눌러서 붙는 방식이라 진짜 편함. 아보카도 반쪽 감싸뒀더니 다음 날도 멀쩡해서 소름이었음 🥑",
+    "b": "그릇 덮어두는 용도로 쓰는데 꾹 눌러서 밀폐되니까 뭔가 더 안심이 됨. 커터가 같이 오니까 자르는 것도 깔끔하고 주방이 살짝 정돈된 느낌 🏠"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "ssuboni_igo",
+    "url": "https://www.threads.com/@ssuboni_igo/post/DfwHmjejw40",
+    "views": 223,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG0WQVoaB2",
+    "final_url": "https://www.coupang.com/vp/products/9752368712?itemId=29201880929&src=1139000&spec=10799999&addtag=400&ctag=9752368712&lptag=AF8239163&itime=20261118081727&pageType=PRODUCT&pageValue=9752368712&wPcid=17905526599079763164544&wRef=&wTime=20261118081727&redirect=landing&traceid=V0-101-07d94e63b41ff220&mcid=4029e5c3e5a941719c0027a7b018e070&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9752368712",
+    "title": "[정품AS가능당일발송] peripage 라벨프린터 모바일 휴대폰 프린터기 미니 타투프린트 A40",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/66e8/87efd7de0a2d3ac6f11505452838e0503add4616e0778b2ba052184fdeec.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/66e8/87efd7de0a2d3ac6f11505452838e0503add4616e0778b2ba052184fdeec.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=2hM__UVEVdU",
+     "https://www.youtube.com/watch?v=SC39SeiCsLA",
+     "https://www.youtube.com/watch?v=55xtJV4cBWY",
+     "https://www.youtube.com/watch?v=ikkYkkQddVA",
+     "https://www.youtube.com/watch?v=jwsj0VynkH8",
+     "https://www.youtube.com/watch?v=bzLBuxfGdUc",
+     "https://www.youtube.com/watch?v=nLZ7jcaa9CE",
+     "https://www.youtube.com/watch?v=zmglHcwcxes",
+     "https://www.youtube.com/watch?v=2TPZ5eUeR2M",
+     "https://www.youtube.com/watch?v=j4hQ2KYrnAc",
+     "https://www.youtube.com/watch?v=ncRrvdleLL0",
+     "https://www.youtube.com/watch?v=ZT-5g608Ky0",
+     "https://www.youtube.com/watch?v=1UBhZTbAWac",
+     "https://www.youtube.com/watch?v=OhgNu67599Y",
+     "https://www.youtube.com/watch?v=q0GuEtZVXUg"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iG0WQVoaB2"
+    ],
+    "image_path": "images/08_[정품AS가능당일발송]_peripage_라벨프린터_모바일_휴대폰_프린터기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "출력하러 편의점 가는 게 귀찮아서 샀는데 이제 집에서 폰으로 바로 뽑음. 의외로 출력 품질이 괜찮아서 주변에 뭐냐고 물어보는 사람이 생김 🖨️",
+    "b": "잉크 카트리지 없는 방식이라 소모품 걱정이 없다는 게 진짜 편한 거였음. A4로 자료 출력되는 거 처음 봤을 때 왜 이제 알았지 싶었음 📄"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/Dfv310Wj37Y",
+    "views": 180,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCH4PZfiwK",
+    "final_url": "https://www.coupang.com/vp/products/6939756514?itemId=29232798004&src=1139000&spec=10799999&addtag=400&ctag=6939756514&lptag=AF2066138&itime=20261118081735&pageType=PRODUCT&pageValue=6939756514&wPcid=17905526599079763164544&wRef=&wTime=20261118081735&redirect=landing&traceid=V0-101-6594609214580b12&mcid=13a80221df5d4a5f97e58b13ad88b05d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6939756514",
+    "title": "드롱기 마그니피카S 전자동 커피머신",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/87304437127966-aba54a85-9c34-4fa3-8028-110c7cb499a9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/87304437127966-aba54a85-9c34-4fa3-8028-110c7cb499a9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/87315124189623-f2a19f59-d10a-4a9d-8f70-bd77110ca57b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/7653765108989-ad6928d0-38e6-4e66-bcd4-e93be89e0d04.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/87315175980388-ff3ae6ef-52a0-487a-8a26-eb5642cd0692.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/87315164974813-7cbb3225-fb73-47e3-86ac-4f40edeb0e3e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/482587759067273-fa05c771-65c8-43f6-b4cc-cd9a710260c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/482587672136901-cc3f3272-96cd-4e58-b6ac-72c775123e8f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCH4PZfiwK"
+    ],
+    "image_path": "images/09_드롱기_마그니피카S_전자동_커피머신.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "카페 가는 게 부담돼서 결국 커피머신 질렀는데 버튼 하나로 에스프레소 나오는 게 아직도 신기함. 아침마다 내가 만든 커피 마시는 게 하루 중 제일 좋은 순간이 됨 ☕",
+    "b": "원두 갈리는 소리부터 시작해서 향이 먼저 나오는 게 진짜 카페 온 느낌임. 집에 있는 시간이 많아졌는데 이게 의외로 많이 위로가 됨 🤍"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "richradarlab",
+    "url": "https://www.threads.com/@richradarlab/post/DfvWITjFGof",
+    "views": 167,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/iFQwt8776a",
+    "final_url": "https://www.coupang.com/vp/products/9398456124?src=1139000&spec=10799999&addtag=400&ctag=9398456124&lptag=AF0745235&itime=20261118081743&pageType=PRODUCT&pageValue=9398456124&wPcid=17905526599079763164544&wRef=&wTime=20261118081743&redirect=landing&traceid=V0-183-a698e8e7369e2284&mcid=ca6f509ba2cb45479477e3561477ba33&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9398456124",
+    "title": "블랑가또 강아지 인형 Small",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/9l9tba31/0f353f35662d4fb898a1309614983338.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/9l9tba31/0f353f35662d4fb898a1309614983338.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gzpsgg5k/9c893c4b85154ddcbf95e046136cc8d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/5/47054c06-ba51-4c3c-8b34-b9292af58705.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/7/fa00d82d-165f-49ad-8013-e66df2088f86.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/1/dcd23a85-9890-418a-bb5b-bcb5fb229e0d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/9/0b98777d-db3c-4be0-bc9f-f9215a9a8427.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/iFQwt8776a"
+    ],
+    "image_path": "images/10_블랑가또_강아지_인형_Small.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "귀가 길게 늘어진 갈색 강아지 인형인데 보자마자 그냥 담아버렸음. 방에 올려두니까 괜히 기분이 좋아지고 자꾸 보게 됨 🐶",
+    "b": "선물용으로 샀다가 나한테 뺏긴 인형인데 복슬복슬한 털이 손에서 안 떨어짐. 옆에 두고 자다가 어느 순간 완전 애착인형이 돼버림 🧸"
+   }
+  }
+ ]
+}
