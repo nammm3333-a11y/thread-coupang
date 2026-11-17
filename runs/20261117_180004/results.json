@@ -1,0 +1,467 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-17T18:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-17T18:18:31"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "cobongmom",
+    "url": "https://www.threads.com/@cobongmom/post/DfwOclmE1nG",
+    "views": 6800,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG4WTnfTz2",
+    "final_url": "https://www.coupang.com/vp/products/9185265400?itemId=27094188030&src=1139000&spec=10799999&addtag=400&ctag=9185265400&lptag=AF5836965&itime=20261117181248&pageType=PRODUCT&pageValue=9185265400&wPcid=17905526599079763164544&wRef=&wTime=20261117181248&redirect=landing&traceid=V0-101-7cbb609f7fc2913c&mcid=bd78a9e29d9740d69e539631649fd282&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9185265400",
+    "title": "코멧 홈 세탁기 건조기 자석 도어 스토퍼, 화이트, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/29495994050195-beca5785-fa2c-4d4c-9902-f6b5043b6d2b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29495994050195-beca5785-fa2c-4d4c-9902-f6b5043b6d2b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29498905465605-2bb75407-a412-4aec-a8dc-1e5535c419b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402066972956602-47ce622e-31c0-4fda-a047-f2340aeed7a1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548074887499-17ebb1c0-bb7a-4de4-b43a-c16507d34c5b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/402067070922870-ecee77f7-6393-4467-a0e1-99de858bef07.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548202763925-1415999a-1643-4623-bec3-d45b6e5976db.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/695548187387470-eed30fad-5485-4831-aa36-8735cc98898a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/29499292846338-6c15a8e9-d7be-405e-8651-1a851476309b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iG4WTnfTz2"
+    ],
+    "image_path": "images/01_코멧_홈_세탁기_건조기_자석_도어_스토퍼,_화이트,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세탁기 냄새 때문에 맨날 문 받쳐두던 거 결국 이걸로 해결함. 자석으로 딱 고정되니까 흘러내릴 걱정 없어서 편해. 이제 세탁기 열 때마다 퀴퀴한 냄새 없어진 게 소소한 행복임 🧺",
+    "b": "세탁 끝나고 문 열어두는 거 맨날 까먹었는데 이거 꽂으면 알아서 환기됨. S자 형태라 문 사이에 딱 걸리고 흰색이라 세탁기랑 색도 잘 맞아. 사소한 거 하나 해결했는데 괜히 뿌듯한 느낌 🌀"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "bebe202020222",
+    "url": "https://www.threads.com/@bebe202020222/post/DfwMxusExpy",
+    "views": 1300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-13",
+    "age_days": 4.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG4j9yXYWa",
+    "final_url": "https://www.coupang.com/vp/products/7698108997?itemId=20603586422&src=1139000&spec=10799999&addtag=400&ctag=7698108997&lptag=AF0856237&itime=20261117181300&pageType=PRODUCT&pageValue=7698108997&wPcid=17905526599079763164544&wRef=&wTime=20261117181300&redirect=landing&traceid=V0-101-8000f64eb781cf4f&mcid=873df4de6fb34a2dbd6df87430f35b82&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7698108997",
+    "title": "CAREPOD 케어팟 스테인리스 가습기 4L 코스트코",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/50f5/befae9f745d2ef801628fd7953783d008f49588680750f55d8bb40c948ca.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/50f5/befae9f745d2ef801628fd7953783d008f49588680750f55d8bb40c948ca.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9131/47ae022b7ed19630ad0f98a2fef989772e1e31a8c5e10ad583eee7be2c83.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e42e/6dc1df4c4c3e75188cb9f035928e3bb9dd21e4cc41571054d9bbcb75583e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iG4j9yXYWa"
+    ],
+    "image_path": "images/02_CAREPOD_케어팟_스테인리스_가습기_4L_코스트코.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "코스트코에서 충동으로 집어왔는데 이게 생각보다 엄청 조용해서 깜짝 놀람. 스테인리스라 세척이 진짜 편하고 겨울 내내 이거 하나로 버티고 있어. 틀어놓고 자면 아침에 목 덜 칼칼한 거 느껴지더라 😮",
+    "b": "가습기 청소 귀찮아서 맨날 방치했는데 이건 내부가 스테인리스라 물로 헹궈도 개운함. 원통 디자인이라 어디 놔둬도 안 튀고 그냥 두기만 해도 깔끔해. 거실에서 쓰기 시작하고 나서 공기가 좀 달라진 것 같아 💧"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "doidoi_178",
+    "url": "https://www.threads.com/@doidoi_178/post/DfvTDLFFUL-",
+    "views": 672,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iFYCDrJgFo",
+    "final_url": "https://www.coupang.com/vp/products/9664133151?itemId=28892296396&src=1139000&spec=10799999&addtag=400&ctag=9664133151&lptag=AF2195576&itime=20261117181316&pageType=PRODUCT&pageValue=9664133151&wPcid=17905526599079763164544&wRef=&wTime=20261117181316&redirect=landing&traceid=V0-183-5035534ce10c29ae&mcid=d96fa843902e4d34959fe9e88789b00b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=doidoi178&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9664133151",
+    "title": "영재과학 강아지 고양이 간식공급 발사기 노즈워크 장난감 노랑오리 옐로우",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/63bd/05244cda905434595277ac73b35aebbb9c21b4dfe3805a09be934faad05d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/63bd/05244cda905434595277ac73b35aebbb9c21b4dfe3805a09be934faad05d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a2e1/de354cca5a208aeb4e577ec4448cee860c6099c256a8324ead31d41a6828.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/72b2/4e43afea64b144132e2ca76671b5804fc35dbe07832f5c73e3a348725439.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ff9f/ee68ed592a35fcfbaedf161e6f41114b0ee4e0e3354bf0eeddc62e23fe2f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iFYCDrJgFo"
+    ],
+    "image_path": "images/03_영재과학_강아지_고양이_간식공급_발사기_노즈워크_장난감_노랑오리_옐로우.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "강아지 간식 주는 방식이 이거 하나로 완전 달라짐. 오리 머리에 간식 넣으면 발사되는 구조인데 얘가 진짜 미쳐 날뜀. 혼자 가지고 노는 시간이 늘어서 나도 덩달아 편해졌어 🐥",
+    "b": "고양이가 간식 주는 손만 쳐다보다가 이거 꺼내줬더니 반응이 완전 달라졌음. 노랑 오리 모양인데 간식이 불규칙하게 나와서 더 집중하는 것 같아. 얘 10분 집중하는 거 보면 괜히 흐뭇해 🦆"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DfwnjDhnwv0",
+    "views": 657,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iHk6IoB8WO",
+    "final_url": "https://www.coupang.com/vp/products/241319647?itemId=18038640931&vendorItemId=74707576233&src=1139000&spec=10799999&addtag=400&ctag=241319647&lptag=AF9111886&itime=20261117181326&pageType=PRODUCT&pageValue=241319647&wPcid=17905526599079763164544&wRef=&wTime=20261117181326&redirect=landing&traceid=V0-181-846795a61046decf&mcid=eef331b6ec4b4318bf43d4e2f243676b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "241319647",
+    "title": "청우식품 그랑쉘사과, 195g, 10개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2021/03/26/15/0/38538c42-5147-4438-aaf8-ccf1ae6f251f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iHk6IoB8WO"
+    ],
+    "image_path": "images/04_청우식품_그랑쉘사과,_195g,_10개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "과자 선물로 뭐 살까 고민하다 결국 이거 10개 세트 질렀는데 반응이 진짜 좋았음. 사과잼 필링이 생각보다 진해서 하나만 먹어도 꽤 든든해. 명절 아닌 때도 이런 거 들고 가면 어른들이 좋아하더라 🍎",
+    "b": "혼자 달달한 거 먹고 싶을 때 꺼내먹는 과자로 완전 자리잡았음. 겉은 바삭하고 안에 사과 필링이 촉촉해서 커피랑 먹으면 진짜 잘 어울려. 한 박스 금방 없어지는 거 보면서 또 쟁여두게 됨 🍵"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "dddititbbb",
+    "url": "https://www.threads.com/@dddititbbb/post/Dfv3dXZEmD9",
+    "views": 560,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iGQ9eBLek9",
+    "final_url": "https://www.coupang.com/vp/products/7140321311?itemId=17925512020&src=1139000&spec=10799999&addtag=400&ctag=7140321311&lptag=AF9007986&itime=20261117181335&pageType=PRODUCT&pageValue=7140321311&wPcid=17905526599079763164544&wRef=&wTime=20261117181335&redirect=landing&traceid=V0-101-5a6b1727da836d6b&mcid=b15dd7d960044c2ab7e2fea55203ed0b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7140321311",
+    "title": "페페브루노 아보카도 오일, 1L, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/381031734576210-37dd52ec-e295-4805-aee1-475f1e6a0bd8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/381031734576210-37dd52ec-e295-4805-aee1-475f1e6a0bd8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/207478163130109-bf6d3d79-ce2d-4a74-a840-97a0bb8e66d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/207489228807973-9553e5c1-d333-4e68-942c-6cfed6f71c17.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/243687103916385-ce7a033c-7d1f-4b37-8ca9-7e3b30952488.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/241752311585779-e3197dbd-f696-4454-bc92-c7b3b2a53c7f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/241818149262078-ea5e14ed-21eb-4856-9149-71ecb1dfb91b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/440310736484498-3c07f440-bd75-4393-95df-e148c82692bf.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iGQ9eBLek9"
+    ],
+    "image_path": "images/05_페페브루노_아보카도_오일,_1L,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "올리브오일 대신 써보려고 샀는데 냄새가 거의 없어서 볶음 요리에 써도 괜찮더라. 1L짜리라 한동안 쓸 걱정 없는 것도 맘 편하고. 계란 프라이 할 때부터 이거로 바꿨는데 왠지 더 고소한 것 같기도 해 🥑",
+    "b": "요리할 때 기름 뭐 쓸지 맨날 고민했는데 이거 유리병에 담겨있고 색도 예뻐서 꺼내기 좋아짐. 발연점 높다고 해서 볶음 요리에 써봤는데 지금은 거의 이것만 써. 주방에 세워두기만 해도 분위기 나는 병이라 그냥 두는 것도 좋음 🫙"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "kjin.han",
+    "url": "https://www.threads.com/@kjin.han/post/DfvQj2aiNY6",
+    "views": 225,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/icnw0skN2a",
+    "final_url": "https://www.coupang.com/vp/products/9485018229?itemId=28244246555&src=1139000&spec=10799999&addtag=400&ctag=9485018229&lptag=AF4737267&itime=20261117181344&pageType=PRODUCT&pageValue=9485018229&wPcid=17905526599079763164544&wRef=&wTime=20261117181344&redirect=landing&traceid=V0-101-c51b466e34cb6fcd&mcid=c8c90e6903024733bc121f7fd9e41e6e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9485018229",
+    "title": "카템 테슬라 전용 타공 가죽 D형 핸들커버 모델 3 Y YL 하이랜드 주니퍼 TS005",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/ynq1bizi/204de8ccbb8f4fcfb3d1b7858592e7ed.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ynq1bizi/204de8ccbb8f4fcfb3d1b7858592e7ed.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/04/09/13/7/d8bcded2-35a1-4a49-b622-bd1109a62377.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/hsdjetqk/cf221c219e91426d9fee5183e4ddf668.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/7wzyjejt/3c1975390dcd48449feb265b0ef601d5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/04/09/13/3/8c568222-dae6-4c96-ba6f-996f626df9bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/04/09/13/6/c1384d72-920d-48c1-8382-c0a31d9bc2e3.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/icnw0skN2a"
+    ],
+    "image_path": "images/06_카템_테슬라_전용_타공_가죽_D형_핸들커버_모델_3_Y_YL_하이랜드_주.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "테슬라 스티어링이 겨울에 너무 차갑고 미끄러워서 결국 핸들커버 달았음. 크림색 가죽이 인테리어랑 생각보다 잘 어울리고 그립감도 확실히 달라진 느낌이야. 매일 타는 차인데 왜인지 더 애착이 생겼어 🚗",
+    "b": "맨날 핸들에서 손이 미끄러졌는데 이거 달고 나서 운전할 때 긴장감이 좀 덜해진 것 같음. 테슬라 전용이라 D형에 딱 맞고 타공 처리 돼 있어서 손에 열도 덜 차. 차에 탈 때마다 뭔가 세팅이 완성된 느낌이라 기분 좋아 🤍"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "ssuboni_igo",
+    "url": "https://www.threads.com/@ssuboni_igo/post/DfwHmjejw40",
+    "views": 223,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iG0WQVoaB2",
+    "final_url": "https://www.coupang.com/vp/products/9752368712?itemId=29201880929&src=1139000&spec=10799999&addtag=400&ctag=9752368712&lptag=AF8239163&itime=20261117181353&pageType=PRODUCT&pageValue=9752368712&wPcid=17905526599079763164544&wRef=&wTime=20261117181353&redirect=landing&traceid=V0-101-07d94e63b41ff220&mcid=9412266d663a438394713f764d144b14&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9752368712",
+    "title": "[정품AS가능당일발송] peripage 라벨프린터 모바일 휴대폰 프린터기 미니 타투프린트 A40",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/66e8/87efd7de0a2d3ac6f11505452838e0503add4616e0778b2ba052184fdeec.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/66e8/87efd7de0a2d3ac6f11505452838e0503add4616e0778b2ba052184fdeec.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=2hM__UVEVdU",
+     "https://www.youtube.com/watch?v=SC39SeiCsLA",
+     "https://www.youtube.com/watch?v=55xtJV4cBWY",
+     "https://www.youtube.com/watch?v=ikkYkkQddVA",
+     "https://www.youtube.com/watch?v=jwsj0VynkH8",
+     "https://www.youtube.com/watch?v=bzLBuxfGdUc",
+     "https://www.youtube.com/watch?v=nLZ7jcaa9CE",
+     "https://www.youtube.com/watch?v=zmglHcwcxes",
+     "https://www.youtube.com/watch?v=2TPZ5eUeR2M",
+     "https://www.youtube.com/watch?v=j4hQ2KYrnAc",
+     "https://www.youtube.com/watch?v=ncRrvdleLL0",
+     "https://www.youtube.com/watch?v=ZT-5g608Ky0",
+     "https://www.youtube.com/watch?v=1UBhZTbAWac",
+     "https://www.youtube.com/watch?v=OhgNu67599Y",
+     "https://www.youtube.com/watch?v=q0GuEtZVXUg"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iG0WQVoaB2"
+    ],
+    "image_path": "images/07_[정품AS가능당일발송]_peripage_라벨프린터_모바일_휴대폰_프린터기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "선물 포장이나 라벨 뽑으려고 샀는데 진짜 쓸 일이 이렇게 많을 줄 몰랐음. 폰이랑 블루투스로 바로 연결되고 A4 용지도 출력되는 거 보고 깜짝 놀람. 이거 하나 생기고 나서 집 정리 의욕이 좀 생겼어 🖨️",
+    "b": "카트리지 없이 열감지 방식이라 잉크 떨어질 걱정이 없는 게 진짜 편함. 패브릭 소재 외관도 귀여워서 책상 위에 그냥 올려두기만 해도 괜찮아 보여. 필요할 때 폰으로 바로 뽑아 쓰는 맛에 자꾸 쓰게 됨 🐻"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "today_salepick",
+    "url": "https://www.threads.com/@today_salepick/post/DfuPYDSHRys",
+    "views": 221,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-14",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iFNCuLNPQy",
+    "final_url": "https://www.coupang.com/vp/products/8244603080?itemId=171382&src=1139000&spec=10799999&addtag=400&ctag=8244603080&lptag=AF1305670&itime=20261117181408&pageType=PRODUCT&pageValue=8244603080&wPcid=17905526599079763164544&wRef=&wTime=20261117181408&redirect=landing&traceid=V0-101-7d0cef2cb5dab49b&mcid=9631e452f18c45e7a88dae05fec05dbf&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8244603080",
+    "title": "백설 바삭 부침가루, 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8043/022b579351b8bec3507dca9f24770b815ebd9f8a7d27fa7045e48e416ea8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8043/022b579351b8bec3507dca9f24770b815ebd9f8a7d27fa7045e48e416ea8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125092293162794-98e50fc4-5e54-4314-bc8b-73e1cb2daa66.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/48799773394581-878f6198-c82d-4988-ad32-568f52eb0975.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/48799804052642-62609cfa-61c8-425e-a9e4-cdfa343adb4a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125622280683312-51e13e61-1e04-4483-8703-fc598eeb35dd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125092602422096-987aa22c-b99f-435f-9032-69d6c3b90ceb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125622072601918-fcd59186-43ba-41f4-b864-dfb6e8bb7204.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/125621941422252-e9aa7c7c-faa5-42d1-858b-173cbe8cd9b5.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iFNCuLNPQy"
+    ],
+    "image_path": "images/08_백설_바삭_부침가루,_1kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "비 오는 날 파전 해 먹으려고 꺼냈는데 통감자 가루 들어간 거 티가 진짜 나더라. 겉이 훨씬 바삭하게 되고 오래 둬도 덜 눅눅해서 혼자 다 먹어버림. 이제 비 오면 이거 생각부터 남 🥞",
+    "b": "부침가루 뭐 쓰든 똑같겠지 했는데 이거 써보고 생각이 달라졌음. 반죽 농도 맞추기도 쉽고 김치전 가장자리가 엄청 바삭하게 나왔어. 1kg라 넉넉하게 쓸 수 있는 것도 맘에 들어 🌧️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "richradarlab",
+    "url": "https://www.threads.com/@richradarlab/post/DfvWITjFGof",
+    "views": 167,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-15",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "최근",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/iFQwt8776a",
+    "final_url": "https://www.coupang.com/vp/products/9398456124?src=1139000&spec=10799999&addtag=400&ctag=9398456124&lptag=AF0745235&itime=20261117181422&pageType=PRODUCT&pageValue=9398456124&wPcid=17905526599079763164544&wRef=&wTime=20261117181422&redirect=landing&traceid=V0-183-a698e8e7369e2284&mcid=da99edcbf015460db1685411a3821fdd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9398456124",
+    "title": "블랑가또 강아지 인형 Small",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/9l9tba31/0f353f35662d4fb898a1309614983338.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/9l9tba31/0f353f35662d4fb898a1309614983338.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/gzpsgg5k/9c893c4b85154ddcbf95e046136cc8d6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/5/47054c06-ba51-4c3c-8b34-b9292af58705.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/7/fa00d82d-165f-49ad-8013-e66df2088f86.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/1/dcd23a85-9890-418a-bb5b-bcb5fb229e0d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/17/12/9/0b98777d-db3c-4be0-bc9f-f9215a9a8427.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/iFQwt8776a"
+    ],
+    "image_path": "images/09_블랑가또_강아지_인형_Small.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "방 한쪽에 뒀는데 이게 너무 살아있는 것처럼 생겨서 처음에 나도 깜짝 놀람ㅋㅋ 귀가 늘어진 갈색 강아지 모양인데 진짜 귀엽고 털 질감도 되게 좋아. 자꾸 옆에 두고 싶어지는 그런 인형임 🐶",
+    "b": "선물 뭐 살까 고민하다 이거 샀는데 받은 사람이 진짜 좋아했음. 사이즈도 너무 크지 않아서 침대에 올려두기 딱 좋고 봉제 상태도 꼼꼼해 보여. 직접 갖고 싶어서 나도 하나 더 살까 고민 중 🤎"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "kkultem_charge",
+    "url": "https://www.threads.com/@kkultem_charge/post/DfuGUdMkgUd",
+    "views": 127,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-14",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iEum1jxelo",
+    "final_url": "https://www.coupang.com/vp/products/9091209864?itemId=26717133684&vendorItemId=93769387123&src=1139000&spec=10799999&addtag=400&ctag=9091209864&lptag=AF8419055&itime=20261117181431&pageType=PRODUCT&pageValue=9091209864&wPcid=17905526599079763164544&wRef=&wTime=20261117181431&redirect=landing&traceid=V0-183-239491afce8cf401&mcid=b1127ecc6e0e494aab4428a919e076d6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9091209864",
+    "title": "크로스 샤프 펜슬 클래식 센츄리 350305 크롬 0.7mm 정규 수입품",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4a5b/21a8a0de05913d4e3be1e56a4135e12b9f1be8d1b5bb4c6d94acc011a2d1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4a5b/21a8a0de05913d4e3be1e56a4135e12b9f1be8d1b5bb4c6d94acc011a2d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6a40/f286b1c01e44366ad4c1e5fe13d88b4aaf560cc3c9e36a0ef5749c04b456.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7245/1d037705f7d3ae540cc2e5a63ce94696ede344bbde056eb47a246148f65b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bbae/d10f6860480260e1194d95a3045544ac0d90da642372ca9a7caa1acafcf1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/15b5/bedf9bbb60c778f98d67e9d4c88ddae960f74efff834c3c37cada7929cd9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3044/d60a7ff16c70636d92712ef5914dd04f228526cbc6aae500206a341ff528.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f56d/82cb1fe8b549c283d388490328c835f1acac5a321f956361af727600a61c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iEum1jxelo"
+    ],
+    "image_path": "images/10_크로스_샤프_펜슬_클래식_센츄리_350305_크롬_0.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "맨날 싸구려 샤프 쓰다가 이거 써봤는데 무게감 자체가 완전 달라서 처음엔 적응이 필요했음. 금속 바디가 묵직한데 그게 또 집중되는 느낌이야. 필기 자체가 의식적으로 느껴지는 경험이 신기했어 ✏️",
+    "b": "책상 위에 올려두기만 해도 분위기가 달라지는 그런 펜임. 클립도 쫀쫀하고 슬리브 방식으로 심이 나와서 흔들림 없이 써져. 쓸 때마다 왜 좀 더 일찍 안 샀지 싶은 물건 🖊️"
+   }
+  }
+ ]
+}
