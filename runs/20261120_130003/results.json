@@ -1,0 +1,456 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-20T13:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-20T13:19:47"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "alzzapick_life",
+    "url": "https://www.threads.com/@alzzapick_life/post/Df3DvEijv8e",
+    "views": 3300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "http://link.coupang.com/a/iLt5vTKOBg",
+    "final_url": "https://www.coupang.com/vp/products/1606107457?src=1139000&spec=10799999&addtag=400&ctag=1606107457&lptag=AF4031368&itime=20261120131426&pageType=PRODUCT&pageValue=1606107457&wPcid=17905526599079763164544&wRef=&wTime=20261120131426&redirect=landing&traceid=V0-183-30da2d611cc9a152&mcid=1ddd7b752acb4b6ca3b1c88b4f1af06b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1606107457",
+    "title": "유닉스 캔디바 5단계 온도조절 고데기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2553250305466958-c9f73e10-49ef-4157-99a9-856d528d3240.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2553250305466958-c9f73e10-49ef-4157-99a9-856d528d3240.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/241101175206330-a7a341e1-5688-4094-9c9d-19283ec6c2a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/776971059569221-892bf1fa-4bc2-45b5-b20e-eaa273d5a3b4.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/774818028635944-be5d6edc-8526-4361-856e-dffefac86470.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/774818021238979-ba66aa4e-aa4c-4f3b-a1bb-6cd18583d768.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/776971076746405-e8221546-7a89-489a-9642-f4118beeb691.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/774818003650874-ccc5055d-a463-4d1f-9ba6-84495895189c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/240955994940256-2ab1df77-8ef6-40b8-b764-2a04113b8a23.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "http://link.coupang.com/a/iLt5vTKOBg"
+    ],
+    "image_path": "images/01_유닉스_캔디바_5단계_온도조절_고데기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "핑크색이 너무 예뻐서 충동으로 샀는데 5단계 온도 조절 되는 거 쓰고 나서 진짜 좋았음. 머릿결 걱정될 때 낮은 단계로 쓸 수 있어서 마음이 편하더라. 화장대에 올려두기만 해도 기분 업 🩷",
+    "b": "아침에 급하게 머리 정리할 때 이거 예열 빠르게 되니까 진짜 살았다 싶었음. 온도 맞춰놓으면 별 생각 없이 쭉 펴지는 게 편해서 아침 루틴이 짧아졌어. 가벼운 것도 의외로 좋더라 ✨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "yoons.blue",
+    "url": "https://www.threads.com/@yoons.blue/post/Df1fZCUlA5p",
+    "views": 602,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKtO1GJyW4",
+    "final_url": "https://www.coupang.com/vp/products/4843621777?itemId=24520983995&vendorItemId=91533713108&src=1139000&spec=10799999&addtag=400&ctag=4843621777&lptag=AF4820661&itime=20261120131436&pageType=PRODUCT&pageValue=4843621777&wPcid=17905526599079763164544&wRef=&wTime=20261120131436&redirect=landing&traceid=V0-183-3b6ccf9465e3c5ae&mcid=39c3a15c42e24ccfbe1ba79f3adf16af&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=YB20261117coffee&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4843621777",
+    "title": "달라코르테 XT CLASSIC 3그룹 업소용커피머신",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0fac/2c35cfd9744ad3337d5f4857226893dd93c71c56a16d310789e41d925288.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0fac/2c35cfd9744ad3337d5f4857226893dd93c71c56a16d310789e41d925288.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKtO1GJyW4"
+    ],
+    "image_path": "images/02_달라코르테_XT_CLASSIC_3그룹_업소용커피머신.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "카페 열면서 고민 엄청 하다가 달라코르테로 갔는데 처음 샷 뽑는 날 진짜 울 뻔함. 3그룹이라 러시아워에 여러 잔 동시에 나가는 게 체감으로 엄청 달라지더라. 이게 그 차이구나 싶었음 ☕",
+    "b": "직원들도 처음엔 적응 시간 좀 필요했는데 한 달 지나니까 다들 손에 익어서 속도 붙더라. 머신이 묵직하게 자리 잡고 있으니까 카페 분위기 자체가 뭔가 달라진 느낌. 괜히 뿌듯해서 출근이 기다려짐 ☕✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "san_e_1118",
+    "url": "https://www.threads.com/@san_e_1118/post/Df1p_JjHxnw",
+    "views": 415,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKAqMK25Ei",
+    "final_url": "https://www.coupang.com/vp/products/6489234192?itemId=25482232948&src=1139000&spec=10799999&addtag=400&ctag=6489234192&lptag=AF8652048&itime=20261120131443&pageType=PRODUCT&pageValue=6489234192&wPcid=17905526599079763164544&wRef=&wTime=20261120131443&redirect=landing&traceid=V0-101-e04964a470692950&mcid=635ca8ab2ab04963a848a00ba1d48064&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6489234192",
+    "title": "프로쉬 세탁조 클리너, 250g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/05/09/11/3/74ae81be-094a-41e3-92a3-d54688c93b20.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/05/09/11/3/74ae81be-094a-41e3-92a3-d54688c93b20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/418938689916077-33775c56-9d1d-4c08-8faf-63d195825be7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/05/09/11/8/52eec0d4-5115-4944-b7e4-0b62c6fd3790.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232298952049875-b0102127-7eda-42f3-8af8-7ac57f707e85.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232324062499919-71ef1fb0-4b96-4527-8dd0-8ca91cebdae6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232327807760436-e498436e-6a95-4976-9229-05e368937d47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/234884285670867-e0acb67d-80fe-4f76-964d-3c0b737fc50b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/295871722022974-a1b2badb-855f-44d5-9067-d7b22bc56ae5.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKAqMK25Ei"
+    ],
+    "image_path": "images/03_프로쉬_세탁조_클리너,_250g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세탁기 냄새 날 때마다 뭔가 넣어야 하나 싶다가 미루다가 이거 한 번 돌렸더니 냄새가 확 달라지더라. 레몬 향이 은근히 남아있어서 세탁기 열 때마다 기분 좋음. 프로쉬 믿고 쓰는 중 🍋",
+    "b": "세탁조 청소 귀찮아서 계속 미루다가 겨울 전에 한 번 해야지 싶어서 꺼냈음. 이거 넣고 한 번 돌리는 게 전부라서 허들이 없어서 좋아. 다음엔 좀 더 자주 하게 될 것 같더라 🫧"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "hshhshhsh193",
+    "url": "https://www.threads.com/@hshhshhsh193/post/Df1-4jjmQuo",
+    "views": 216,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKKk5C3e32",
+    "final_url": "https://www.coupang.com/vp/products/9593354887?itemId=28637869052&src=1139000&spec=10799999&addtag=400&ctag=9593354887&lptag=AF8235827&itime=20261120131450&pageType=PRODUCT&pageValue=9593354887&wPcid=17905526599079763164544&wRef=&wTime=20261120131450&redirect=landing&traceid=V0-101-34fa6a00232b41bd&mcid=3d9f03d6a5c4427abe43a0bf37b06d45&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9593354887",
+    "title": "설거지가 편해지는 백조 FOSS-I 3방향 멀티 분사 폭포수 주방 수전",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a93b/db7a824ee879bb259ef1367596a7a057749a422e1f2a66c102f053281b09.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a93b/db7a824ee879bb259ef1367596a7a057749a422e1f2a66c102f053281b09.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/186c/71c18da812e819fd3373c8465f7e55c8ca81502219bd90e01aa05a46f79b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0c08/21ff5c9decd7e0a777532ec0b52074281499aca0700c4bdbd5f17dd191ee.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8c95/7981064e5e560740d260a3685e52aa3aa41ae46ff6153cb17041e56a9f2e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cda6/5e4cf6e7e70918336e3c05318b6c34fb948078cf3a246bf2f2342c656915.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4e91/4cdb95e7a7ba67fe0d6ec95ef77559d91cf9923e6031cf690eefea83d290.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKKk5C3e32"
+    ],
+    "image_path": "images/04_설거지가_편해지는_백조_FOSS-I_3방향_멀티_분사_폭포수_주방_수전.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수전 교체하면서 이거 달았는데 분사 방식 세 가지로 바꾸는 게 처음엔 별거 아닌 줄 알았어. 넓게 퍼지는 모드로 설거지하니까 헹굼이 훨씬 빠르게 되더라. 이제 예전 수전으로 돌아가기 싫음 💧",
+    "b": "스테인리스 디자인이 싱크대랑 너무 잘 어울려서 주방이 정돈된 느낌이 되더라. 물 나오는 힘이 묵직해서 큰 냄비 헹굴 때 진짜 편해졌어. 설거지가 이렇게 덜 귀찮아질 줄 몰랐음 🚿"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/Df1iKjUj083",
+    "views": 210,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKiQFKG7zM",
+    "final_url": "https://www.coupang.com/vp/products/6148967073?itemId=11854822315&src=1139000&spec=10799999&addtag=400&ctag=6148967073&lptag=AF2066138&itime=20261120131458&pageType=PRODUCT&pageValue=6148967073&wPcid=17905526599079763164544&wRef=&wTime=20261120131458&redirect=landing&traceid=V0-101-5d0ac4c27a9fd2a9&mcid=bf7aeec1ae8b4480b80d200904bedb6f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6148967073",
+    "title": "로디우스골드 1000g 1kg 포나인 LS 투자용 골드바 선물 소장 재테크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3297/3c55ea904667928b85544806723450285ff59c6711e48f80a675d399bc1b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3297/3c55ea904667928b85544806723450285ff59c6711e48f80a675d399bc1b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/314c/50137e98d188ac9dcb3aad27ee6f321343384e54a72654a24d569ca41d32.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d519/75ee8fb66f0dc8515b3a8dcd72f91bacfba6b5583bfdc5f409672a70ef92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c727/2c0aad8326508138b4363660068b01da9f9427008aff1234474301bd744d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3704/d1f4b5282837c772858859448258e8cc41e4cc134192d7080ab70c4d0496.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/333e/e28c717463c0496ba971fff5f7d2aa197832c7108b38fb655bc7d8e043f0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKiQFKG7zM"
+    ],
+    "image_path": "images/05_로디우스골드_1000g_1kg_포나인_LS_투자용_골드바_선물_소장_재테.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "그냥 갖고만 있어도 뭔가 든든한 기분이 드는 게 신기함. 실물로 보면 사진보다 훨씬 묵직하고 반짝여서 처음 받았을 때 멍하니 한참 봤어. 소장하는 맛이 진짜 있더라 ✨",
+    "b": "선물로 드렸더니 너무 좋아하시더라고, 뭘 줘야 하나 한참 고민했는데 이게 답이었던 것 같음. 박스에서 꺼낼 때 묵직한 그 느낌이 진짜 선물다운 무게감이 있어. 돈이 형태를 갖추니까 더 실감 나더라 🥇"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "baek.nyange",
+    "url": "https://www.threads.com/@baek.nyange/post/Df3CJzqk87E",
+    "views": 190,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iLs0fA34yi",
+    "final_url": "https://www.coupang.com/vp/products/9764899274?itemId=29225229697&src=1139000&spec=10799999&addtag=400&ctag=9764899274&lptag=AF6657249&itime=20261120131505&pageType=PRODUCT&pageValue=9764899274&wPcid=17905526599079763164544&wRef=&wTime=20261120131505&redirect=landing&traceid=V0-101-432d6f31d3f655f1&mcid=0d39675e298d4f8da82851d9e049e879&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9764899274",
+    "title": "케이쎈 워치홀 러닝장갑 이중커버 터치",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f0b5/39e4decb8413c6ba56bd77c3f43276a4230a583317ed65841f59e4ed9f99.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f0b5/39e4decb8413c6ba56bd77c3f43276a4230a583317ed65841f59e4ed9f99.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/30e7/3bd450932b34808f08760a341df08361005d1a754c5f96d284a75585ff7c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/79cc/fe49ce072b6ad98d60aa665a89916206a518386b0e4b84ef6b764c302119.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/804b/d266219177b85f3c1ed0608d98c6f8d5b046de7515154c8e0c2f07e71c43.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8e8d/e3468c5a9ca87da19b57cbbf78caeef8f50a2865177d41f90f294f1fe438.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/038a/8b9363d51d395924550755b15508e4a858b019e0762d45851a9f85fd9df7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8d6e/d7f3fc67e1d96db3d3f88610eba06a432300c8be60bba7691a0aa484a7b5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/43fb/6611faf1aefacb535045825d12cdca8c266c0962006bcbce81ae86f76147.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iLs0fA34yi"
+    ],
+    "image_path": "images/06_케이쎈_워치홀_러닝장갑_이중커버_터치.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울 달리기할 때 장갑 끼면 시계 확인이 불편했는데 이거 워치홀 있어서 그냥 보임. 이중 덮개로 추울 때 덮고 더우면 열 수 있는 것도 좋고. 디테일이 세심하다 싶었음 🏃",
+    "b": "터치도 잘 되고 얇은 편이라 뛸 때 손이 답답하지 않아서 의외로 계속 끼고 싶어짐. 한 번 끼고 뛰고 나서 이게 왜 없었나 싶었음. 이제 겨울 러닝 나가는 게 덜 망설여지더라 🧤❄️"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "oasis0221",
+    "url": "https://www.threads.com/@oasis0221/post/Df25ASak1bS",
+    "views": 173,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKC3rKwi8O",
+    "final_url": "https://www.coupang.com/vp/products/345580206?itemId=1097526405&vendorItemId=5619749998&src=1139000&spec=10799999&addtag=400&ctag=345580206&lptag=AF9457198&itime=20261120131514&pageType=PRODUCT&pageValue=345580206&wPcid=17905526599079763164544&wRef=&wTime=20261120131514&redirect=landing&traceid=V0-181-46db0eee453f104d&mcid=1194b315f97a44c5aa73ef63319946b8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "345580206",
+    "title": "프레시밀 과메기 채소 재료 모음",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1292251939093666-fbb1b75c-b78a-4e3b-b07e-8ee9af62bc41.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1292251939093666-fbb1b75c-b78a-4e3b-b07e-8ee9af62bc41.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/11/29/14/3/1d9d72ba-0061-4f7a-8e8d-33e7df455bb9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2019/11/29/14/4/2b707e23-f495-4366-8df4-1861ec88ea0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/44768577724421-3175518e-2441-4c20-ae06-50af7053c10e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/44768203325474-3e4341ab-12f9-488b-94a2-5512c1deb4b5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/44769260842074-858424a8-638f-4512-8f45-484ea9cd0e11.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1292601296602973-3e33da19-5334-40e4-979e-41a71f3ef38f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2893497940779792-c379ad90-ab0e-4726-b526-93e515ed6e0e.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKC3rKwi8O"
+    ],
+    "image_path": "images/07_프레시밀_과메기_채소_재료_모음.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "과메기 먹고 싶었는데 채소 준비가 귀찮아서 이거 세트로 시켰더니 깔끔하게 다 들어있더라. 배추에 싸 먹는 거 진짜 맛있고 김도 같이 들어있어서 그냥 차려먹으면 됨. 이제 겨울마다 시킬 것 같아 🐟",
+    "b": "겨울 되면 갑자기 과메기 생각 나는데 이거 하나 시키면 상차림이 되니까 편함. 초장이랑 마늘만 더 준비했더니 술상이 완성되더라. 겨울 저녁에 이 조합 너무 좋음 🍺"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "dongsunhan",
+    "url": "https://www.threads.com/@dongsunhan/post/Df3CWsHjgqH",
+    "views": 141,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iIQMNsB0rQ",
+    "final_url": "https://www.coupang.com/vp/products/9794397519?itemId=29325840664&src=1139000&spec=10799999&addtag=400&ctag=9794397519&lptag=AF4776579&itime=20261120131523&pageType=PRODUCT&pageValue=9794397519&wPcid=17905526599079763164544&wRef=&wTime=20261120131523&redirect=landing&traceid=V0-101-fe17d2d566ee6636&mcid=afc69653975a42949bb3b7b0f4445fc1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9794397519",
+    "title": "[100% 호주산양모니트로] 1/1+1 롱 울 방한 무릎 보호대 양모 무릎보호대 캐시미어무릎보호대 여성 양모무릎보호대 여성용 무릎토시 겨울 무릎워머 방한 다리토시 남성 TENFOC",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9d13/ea1351739cf6a6b6317ece5bd096cc0f39d708f273ee4c4b6bcee7a117c0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d13/ea1351739cf6a6b6317ece5bd096cc0f39d708f273ee4c4b6bcee7a117c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/75de/db0fd4770fc37897aebe41dd436e004034491ea296fc40c5d9f35ec21afd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5b72/410745e6eb6ce428e80f0363f5836707af383e3346936d0934872974d953.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e54f/f80e1b70c4d9d5587c46380432369d788a855c5a6bd9551375afc8d25950.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iIQMNsB0rQ"
+    ],
+    "image_path": "images/08_[100%_호주산양모니트로]_1_1+1_롱_울_방한_무릎_보호대_양모_무.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울만 되면 무릎이 시려운데 이거 끼고 외출하니까 체감이 달라지더라. 울 소재라 두껍지 않은데 따뜻해서 옷 안에 그냥 착용하기 좋아. 무릎 시린 사람한테 진짜 겨울 필수품 같음 🧡",
+    "b": "집에서 앉아있을 때도 무릎이 차갑다 싶어서 이거 올리고 있으니까 아늑하더라. 1+1이라 하나는 엄마한테 드렸는데 엄마도 엄청 좋아하심. 선물로 드리기도 딱이다 싶었음 🐑"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "yoons829",
+    "url": "https://www.threads.com/@yoons829/post/Df1cjeCGhQ2",
+    "views": 117,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKr0lfTcd2",
+    "final_url": "https://www.coupang.com/vp/products/9275726949?itemId=27458205709&src=1139000&spec=10799999&addtag=400&ctag=9275726949&lptag=AF6932418&itime=20261120131532&pageType=PRODUCT&pageValue=9275726949&wPcid=17905526599079763164544&wRef=&wTime=20261120131532&redirect=landing&traceid=V0-101-b492d2607d205d9f&mcid=986b9cef9b00446e8a24ffb9f26a31cc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9275726949",
+    "title": "레이코 물멍 가습기 무중력 물방울 LED시계 탁상용 캠핑 사무실 800ml",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c7fa/08dfcabd905be739fd92d34cbe32751ec6f61a9464573e93a8e2fb68552c.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c7fa/08dfcabd905be739fd92d34cbe32751ec6f61a9464573e93a8e2fb68552c.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKr0lfTcd2"
+    ],
+    "image_path": "images/09_레이코_물멍_가습기_무중력_물방울_LED시계_탁상용_캠핑_사무실_800m.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상에 올려뒀더니 물방울이 위에서 떨어지는 것처럼 보이는 게 진짜 신기해서 한참 멍하니 봤어. 가습기인데 보는 맛도 있고 시계까지 붙어있어서 실용적이기도 하더라. 작업하다가 보면 괜히 힐링되는 느낌 💧✨",
+    "b": "겨울에 습도 신경 쓰이는데 이거 켜놓으면 가습도 되고 인테리어도 되는 느낌이라 만족함. LED 시계가 은은하게 빛나서 밤에 감성 충만해지더라. 사무실이 갑자기 카페 분위기 나는 것 같기도 해 💧"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "dajung_letter",
+    "url": "https://www.threads.com/@dajung_letter/post/Df1khcWmYHZ",
+    "views": 110,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-17",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iuPT7W1BS0",
+    "final_url": "https://www.coupang.com/vp/products/9797412575?itemId=29336555214&vendorItemId=96250179669&src=1139000&spec=10799999&addtag=400&ctag=9797412575&lptag=AF8197132&itime=20261120131539&pageType=PRODUCT&pageValue=9797412575&wPcid=17905526599079763164544&wRef=&wTime=20261120131539&redirect=landing&traceid=V0-181-1f2199c397f9dac6&mcid=12715bdc98ee46d2a234c78ddd51e790&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9797412575",
+    "title": "자동개폐 무선 블루투스 피규어 노이즈 캔슬링 합금 소재 트렌디한 선물",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/cf58/5fe1644d3ecc4eaf2f1b83efedf60a9f675c8013a98b589338f95334a15e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cf58/5fe1644d3ecc4eaf2f1b83efedf60a9f675c8013a98b589338f95334a15e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5169/30dddc1821f38b725b7b125cf656f67c178b73a6f2525f9d93fd35e5f2b0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5906/46a169bfd89a4b79f1be85dc3671cdcf02c0b418b77d45327141e81dcf4f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9b66/78b2797d1e920e1bbb632ca7673e16554a456738d9c1a1f720fdf1dc1b9d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d703/78d729480db6f4e26b6f60f57ebfc4ae63322c0631212c9799cea48c02f0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a4f8/945a37856a46ea8dd330fb9b0d970b15c85272036f44eeb94a96bbc50997.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iuPT7W1BS0"
+    ],
+    "image_path": "images/10_자동개폐_무선_블루투스_피규어_노이즈_캔슬링_합금_소재_트렌디한_선물.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이언맨 헬멧 모양에 뚜껑이 자동으로 열리는 거 처음 봤을 때 그냥 웃음 나오더라. 실제로 쓰는 이어폰 케이스인데 꺼낼 때마다 주변에서 자꾸 쳐다봐서 뿌듯함. 이게 진짜 쓰면서 즐거운 물건이다 싶었음 🤖",
+    "b": "선물 받은 사람이 받자마자 계속 뚜껑 열었다 닫았다 하더라. 합금 소재라 묵직하게 고급스러운 느낌이 있고 노이즈캔슬링도 생각보다 괜찮아서 의외였어. 덕심 없어도 갖고 싶어지는 디자인 🦾"
+   }
+  }
+ ]
+}
