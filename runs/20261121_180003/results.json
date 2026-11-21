@@ -1,0 +1,462 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-21T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-21T18:18:02"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "kim_nogada",
+    "url": "https://www.threads.com/@kim_nogada/post/Df4jy7qGscr",
+    "views": 3400,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMpx4PvZXW",
+    "final_url": "https://www.coupang.com/vp/products/9823239468?itemId=29421757883&src=1139000&spec=10799999&addtag=400&ctag=9823239468&lptag=AF8640777&itime=20261121181337&pageType=PRODUCT&pageValue=9823239468&wPcid=17905526599079763164544&wRef=&wTime=20261121181337&redirect=landing&traceid=V0-101-36cc867e021de185&mcid=27c3070ffd47437f83e3a887e0e92706&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9823239468",
+    "title": "하픽스 스킬라이트/핑크 1080001421 12EA 스킬마커 금속마킹 스킨라이너",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/db68/493bb1504b7f81965c54c15b1caffc59326a41f516a7b129ba37499d175b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/db68/493bb1504b7f81965c54c15b1caffc59326a41f516a7b129ba37499d175b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMpx4PvZXW"
+    ],
+    "image_path": "images/01_하픽스_스킬라이트_핑크_1080001421_12EA_스킬마커_금속마킹_스.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "스킬마커 잉크 거의 다 소진돼서 새 거 살 뻔했는데 리필로 해결했음. 핑크 발색이 여전히 선명해서 중요한 부분 표시할 때 쓰기 딱 좋더라 🩷",
+    "b": "12개입이라 한 번 사두면 꽤 오래 쓸 수 있음. 리필 처음 해봤는데 생각보다 간단해서 이제 마커 다 써도 버리지 않아도 되겠다 싶었음 ✍️"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "ilsangyeongu",
+    "url": "https://www.threads.com/@ilsangyeongu/post/Df4QcRDkfa_",
+    "views": 2900,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMgc8CZjps",
+    "final_url": "https://www.coupang.com/vp/products/6726839965?itemId=15661230400&src=1139000&spec=10799999&addtag=400&ctag=6726839965&lptag=AF9721065&itime=20261121181346&pageType=PRODUCT&pageValue=6726839965&wPcid=17905526599079763164544&wRef=&wTime=20261121181346&redirect=landing&traceid=V0-101-57408c1bc927a030&mcid=1c415c1638934d1990836aec4c973265&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6726839965",
+    "title": "코멧 홈 3단 수압조절 절수 샤워기 헤드 실버, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/498e/52eaf6277996bcddba00aa3532cb27510355918cbfc1fc01ef047f5549a0.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/498e/52eaf6277996bcddba00aa3532cb27510355918cbfc1fc01ef047f5549a0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1234062663646169-640161fd-a6a1-42a1-bba5-6acf9f8b427e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1234062625845371-3d8a43fc-86a6-4e2a-9d1e-4a68fc730e9c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2201906098802250-d762dc57-a178-4ce0-9624-339e9d87bcc9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2191413604614824-a3d503c4-126d-440b-8f25-a0a63747b71f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2192452573107643-06f795e9-857e-4589-a34c-9786300d8344.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2191413694115540-5fe6e655-e032-4226-88c3-f0aeaa7bf1b2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1235918644798905-a83227ed-5e4a-4eca-80ac-e2a49ae082d6.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMgc8CZjps"
+    ],
+    "image_path": "images/02_코멧_홈_3단_수압조절_절수_샤워기_헤드_실버,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "샤워기 헤드 바꿨을 뿐인데 목욕 시간이 뭔가 달라진 느낌. 중간에 stop 버튼 눌러두고 샴푸할 수 있어서 진짜 편함 🚿",
+    "b": "수압 약할까봐 살짝 걱정했는데 단계 조절하면서 쓰니까 괜찮음. 실버 색상이 욕실에 생각보다 잘 어울려서 괜히 기분도 좋아짐 ✨"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "todayisdalkom",
+    "url": "https://www.threads.com/@todayisdalkom/post/Df4iMbonVJQ",
+    "views": 677,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMsfgJxd92",
+    "final_url": "https://www.coupang.com/vp/products/8220188507?itemId=23624636798&vendorItemId=90650184469&src=1191000&spec=10999999&addtag=400&ctag=8220188507&lptag=CFM99408235&itime=20261121181353&pageType=PRODUCT&pageValue=8220188507&wPcid=17905526599079763164544&wRef=&wTime=20261121181353&redirect=landing&abTestInfo=&mcid=43eedda8286643efbe9c163e639b61d1&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "8220188507",
+    "title": "아메리칸 치즈 초코칩 수제쿠키 선물 사무실간식 선물세트 브라우니 디저트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/e8983d0c-0341-4bf8-9175-cb1105fb54a8_1751011212985_1760577101657.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/stage/manual/e8983d0c-0341-4bf8-9175-cb1105fb54a8_1751011212985_1760577101657.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/18ca/b1a19f19b5b7c23aa9f74987cd84ee27a534482dc3eb23935dc293ca9a92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f82e/1e1c6570b6087853e592f952a2db2028bf7321ed5ecab84eb5b6be243e04.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b30f/f420a5fdcb09eee89eda66b960021d6ea10cc04441a8d435fb5232a51b10.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/454b/4e1d159b20062c8070ad4773ec9950531a8c6dfab943de09729143cb37cb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f539/a3fe2177b1067c55686dfb56722535a891c9e5bec66db414758a4cbc700d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1920/76833a049f11ee5f5b3e73bb2f666d75e99bf189ce2d4d5945a309207335.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3098/40a7577cf363ec2501c067a09a3fdba62caecc095026cc426921fc0cc516.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMsfgJxd92",
+     "https://link.coupang.com/a/iMt7jEBzI4"
+    ],
+    "image_path": "images/03_아메리칸_치즈_초코칩_수제쿠키_선물_사무실간식_선물세트_브라우니_디저트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "사무실에 이거 가져갔더니 어디서 샀냐고 다들 물어봄 ㅋㅋ. 박스 열면 쿠키 종류가 다양해서 고르는 재미도 있음 🍪",
+    "b": "초코 코팅이랑 치즈 쿠키 조합이 진짜 맛있음. 흰 박스 비주얼이 선물로 주기에도 부담 없어 보여서 다음에 또 시킬 것 같음 🎁"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "sunset02152026",
+    "url": "https://www.threads.com/@sunset02152026/post/Df4jfBaoFOn",
+    "views": 535,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMrZBXjZNA",
+    "final_url": "https://www.coupang.com/vp/products/8403757291?itemId=24293558452&src=1139000&spec=10799999&addtag=400&ctag=8403757291&lptag=AF7584841&itime=20261121181401&pageType=PRODUCT&pageValue=8403757291&wPcid=17905526599079763164544&wRef=&wTime=20261121181401&redirect=landing&traceid=V0-101-2afca90c32528497&mcid=ec3e47ffde4e4e169c3bc9a7dbc818e5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8403757291",
+    "title": "코멧 키친 마늘 칸칸이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/53212704925233-168e7436-2817-4317-9ea3-00262ff4bb47.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/53212704925233-168e7436-2817-4317-9ea3-00262ff4bb47.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54326428166311-efda2d20-2f3c-4404-b11c-98d46d815a75.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1245078287255256-caa38047-adae-43e9-92a8-721208a5f53b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54326519402260-18c17e79-2155-430d-be69-197ed901f18a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1245078236339528-397f8784-b204-42df-9ac2-fee463d50370.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54326481016053-dcfbf8c2-4ac7-4287-9930-7d195af6ba1e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/54326581125698-59004354-1510-4a10-8a3e-76dff3510443.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1245078343094305-188e3cd1-3d49-4ea3-821c-75af2defd832.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMrZBXjZNA"
+    ],
+    "image_path": "images/04_코멧_키친_마늘_칸칸이.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "마늘 다져서 칸칸이 얼려두니까 요리할 때 필요한 만큼만 쏙 꺼내 쓰면 됨. 손에 마늘 냄새 배는 일이 확 줄었음 🧄",
+    "b": "냉동실에 자리도 별로 안 차지하고 칸마다 뚝 떼지는 게 생각보다 편함. 식재료 낭비 줄이고 싶으면 이거 진짜 괜찮음 ❄️"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "i_see_follow_me_jeong",
+    "url": "https://www.threads.com/@i_see_follow_me_jeong/post/Df5mwnmk7j_",
+    "views": 511,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-19",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iM617a1YLk",
+    "final_url": "https://www.coupang.com/vp/products/7297787168?itemId=18667225821&src=1139000&spec=10799999&addtag=400&ctag=7297787168&lptag=AF3209945&itime=20261121181408&pageType=PRODUCT&pageValue=7297787168&wPcid=17905526599079763164544&wRef=&wTime=20261121181408&redirect=landing&traceid=V0-101-e7d5e2897978fbce&mcid=7a4e5e74124f49b98d9c88ebc7860dff&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7297787168",
+    "title": "코멧 똑딱이 단추 달기 100p 세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/e813/cb76da5892a274bbc40f04edca0bc00971660d1c8c6e79d82b4f05763ce9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/e813/cb76da5892a274bbc40f04edca0bc00971660d1c8c6e79d82b4f05763ce9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/390846528630498-c1061b71-f997-4758-a0ce-8d77b016c444.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5211627400835604-0dc2e6d0-ddc9-499b-9a24-7f7401e8933b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/390846582075665-a8cce3fe-e20b-4664-9815-7fc01d425f04.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/460231594472963-3c1d987e-bfc6-48db-9d9e-1c66bf1068c3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/390846601401561-c1bc73ce-0f25-4cda-9028-bc9306082ced.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/393121591188335-b7ea0659-02af-4d51-8b1c-c50af312c265.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_d407fa97-a8c6-4859-bc8c-125d2be91e41.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iM617a1YLk"
+    ],
+    "image_path": "images/05_코멧_똑딱이_단추_달기_100p_세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "옷 단추 맨날 떨어진 채로 그냥 뒀는데 이거로 뚝딱 달아버림. 색깔 종류도 많아서 옷에 맞게 고를 수 있어서 좋더라 🪡",
+    "b": "집게 도구도 같이 들어있어서 처음이어도 금방 할 수 있음. 100개나 들어있으니까 한 번 사두면 한참 쓸 것 같아서 뿌듯 ✂️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "hawon0918",
+    "url": "https://www.threads.com/@hawon0918/post/Df4fD6nEs0y",
+    "views": 222,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMpvIApd24",
+    "final_url": "https://www.coupang.com/vp/products/9790542427?itemId=29312534803&src=1139000&spec=10799999&addtag=400&ctag=9790542427&lptag=AF0761188&itime=20261121181416&pageType=PRODUCT&pageValue=9790542427&wPcid=17905526599079763164544&wRef=&wTime=20261121181416&redirect=landing&traceid=V0-101-2ef1ab0493a2aa9c&mcid=79840720090c4742915abc9e2305f37e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9790542427",
+    "title": "[UGG] 26FW 어그 여성 골든스타 에벨리나 클로그 털슬리퍼 1180251",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/145b/18ab078d01cb032d44d2bfa11b9cfd2da7aff8590258c6fb4da3e589cce3.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/145b/18ab078d01cb032d44d2bfa11b9cfd2da7aff8590258c6fb4da3e589cce3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1bfe/7d5626ec26124cd28db6052d2bc48a12a91ce8d05a1ec220b7b13163341d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7fe6/120ddf9e20c8f350b4e5910d6b0c9e23bdf5b91ca35c18ccd54c5398c9ff.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMpvIApd24"
+    ],
+    "image_path": "images/06_[UGG]_26FW_어그_여성_골든스타_에벨리나_클로그_털슬리퍼_1180.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "집에서 신는 거라고 대충 샀는데 이게 그냥 외출도 나가게 되는 마법... 발 안쪽 털이 너무 보들해서 계속 신게 됨 🤎",
+    "b": "겨울에 맨발로 신어도 차갑지 않고 따뜻함. 클로그 형태라 슬쩍 걸쳐 신기도 편하고 발 넣는 순간 편안함이 ㄷㄷ 🐑"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "market.4.u",
+    "url": "https://www.threads.com/@market.4.u/post/Df4P-qkEm6C",
+    "views": 140,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iKR6s6UGcu",
+    "final_url": "https://www.coupang.com/vp/products/9774352220?itemId=29308993965&src=1139000&spec=10799999&addtag=400&ctag=9774352220&lptag=AF4696931&itime=20261121181423&pageType=PRODUCT&pageValue=9774352220&wPcid=17905526599079763164544&wRef=&wTime=20261121181423&redirect=landing&traceid=V0-101-edb4de2e259b8343&mcid=bc033e79eefa49e68d359dc96731a14b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9774352220",
+    "title": "퍼실 디스크 파워 초미세세탁 캡슐세제 16.5g, 26개입, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2086ef11-78af-4aee-afed-9ac8fc2e2f4d12845093550282250045.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2086ef11-78af-4aee-afed-9ac8fc2e2f4d12845093550282250045.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/5pwpuz1f/463a134ea99641b6b736c61e1f2c881c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/duhgjvor/c9d745e0ade742d399154b0db2d251dd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/fdfffhjo/a3920d1aab8a4122987d4ae6fe1384af.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/3dgyzsjg/4eaff9856f9e4f0ca3fd74d4bdba6503.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/2jndv9bq/17ab08b9dcdb4878a8a46cf9dac15a93.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/9865261537375-b5d348c7-4fa4-49dd-955d-eb1633614df0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/182198995683888-dd3dfeea-9ad9-41bc-a034-78f3b6da0b02.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iKR6s6UGcu"
+    ],
+    "image_path": "images/07_퍼실_디스크_파워_초미세세탁_캡슐세제_16.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "오래된 얼룩 있는 옷도 그냥 넣어서 돌렸더니 나름 깔끔하게 나옴. 가루 계량 안 해도 돼서 세탁할 때 귀찮음이 확 줄었음 🫧",
+    "b": "세탁조도 같이 케어된다고 해서 써봤는데 왠지 모르게 세탁기 상태가 좀 더 깔끔해진 것 같음. 캡슐 하나씩 꺼내 쓰는 게 생각보다 편함 ✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "liliilllllil",
+    "url": "https://www.threads.com/@liliilllllil/post/Df4gJZLkzEv",
+    "views": 125,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-18",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iMp69at1j2",
+    "final_url": "https://www.coupang.com/vp/products/9712090351?itemId=29058919615&src=1139000&spec=10799999&addtag=400&ctag=9712090351&lptag=AF5293847&itime=20261121181431&pageType=PRODUCT&pageValue=9712090351&wPcid=17905526599079763164544&wRef=&wTime=20261121181431&redirect=landing&traceid=V0-101-c35002d90d4ae118&mcid=3365e55ed06545ac839d4b18759e751c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9712090351",
+    "title": "코멧 심플 무타공 부착 흡착식 무광 스텐 후크걸이 2p, 실버, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2319989221063-be9a0940-9d88-45dd-bd5d-2fe5ee76f500.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2319989221063-be9a0940-9d88-45dd-bd5d-2fe5ee76f500.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/333004721308346-2c05b8f1-8566-4f95-b8a4-c16895755103.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2325946420797-70358b66-b9b8-4ad3-b660-f7618a9152d5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2325946876776-10bf4425-1c75-4ac3-85f7-e51c22218da7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/333004745771864-fe1ab6f4-279d-4396-9f2e-6536030254cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/326494715264382-838272ef-7ae6-4d2b-923e-1cd7ffcf3aab.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/326494729166043-8d7f664b-ccc2-4905-b915-e118afdc0077.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/333004760036905-cff1c8a4-1a2b-4816-8db1-39c96290b657.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iMp69at1j2"
+    ],
+    "image_path": "images/08_코멧_심플_무타공_부착_흡착식_무광_스텐_후크걸이_2p,_실버,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "구멍 뚫기 싫어서 이거 붙였는데 무광 스텐이라 생각보다 고급져 보임. 현관에 가방 걸어두니까 공간이 훨씬 정돈돼 보여서 만족 🪝",
+    "b": "욕실에 하나 붙였는데 타월 걸어도 떨어지지 않음. 드릴 없이 이 정도 퀄리티면 진짜 쓸만하다고 느낌 💪"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/Df8GnzHE4WU",
+    "views": 63,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 1.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAd17cP6ui",
+    "final_url": "https://www.coupang.com/vp/products/9709988911?src=1139000&spec=10799999&addtag=400&ctag=9709988911&lptag=AF2066138&itime=20261121181439&pageType=PRODUCT&pageValue=9709988911&wPcid=17905526599079763164544&wRef=&wTime=20261121181439&redirect=landing&traceid=V0-181-f19cd839186d87f7&mcid=f727ac223a2e4599b05f075b4c3dc88a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9709988911",
+    "title": "Vigik 여성 가을 겨울 루즈핏 라운드 구스다운 경량 패딩 점퍼 캐주얼 아우터",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fb1c/5bced102fabf5bd0788437886b467acb6d2dd8547d808a704912da939e53.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fb1c/5bced102fabf5bd0788437886b467acb6d2dd8547d808a704912da939e53.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a93e/1c853a96c7be9b0db28d8cc4449ec0ab1e1c6fa35d9d52354189f7df8e26.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5cdf/ef423c2831d77fc9fa479a10de6663ea1c17985b40614931599202d190b7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/edc9/5afcaa6410b5c54bb36a82f816e0498b9338967ed7adf77742df2fe7bb80.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d53f/e5b77daa3b9888e4548f2298cd8b3818faefbf0f4601e3589cb8b3687f81.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/58af/57516069a03f580aabc1daf5c38546861da58a22e3892ff77dfdfb6e076a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/49b6/02a801441bfdec98c60b10b7de53e7315759149365cc8c1781e65ce9c0e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ef76/f38a858c74afbaed8ed54cc1643a2111471889c73288d54bfec37ed90a07.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iAd17cP6ui"
+    ],
+    "image_path": "images/09_Vigik_여성_가을_겨울_루즈핏_라운드_구스다운_경량_패딩_점퍼_캐주얼.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "얇아 보여서 과연 따뜻할까 했는데 입어보니까 의외로 충분함. 라운드넥이라 안에 뭐 받쳐 입어도 자연스럽게 매치돼서 요즘 자주 걸침 🖤",
+    "b": "경량이라 가방에 넣어다니다 갑자기 추울 때 꺼내 입기 딱임. 루즈핏이라 활동하기도 편하고 불편함이 없어서 좋음 🍂"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "localflow_lab",
+    "url": "https://www.threads.com/@localflow_lab/post/Df57632ozTm",
+    "views": 58,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-19",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iNlmoytMdg",
+    "final_url": "https://www.coupang.com/vp/products/6994740179?itemId=17131090157&vendorItemId=93994351588&src=1139000&spec=10799999&addtag=400&ctag=6994740179&lptag=AF4119893&itime=20261121181448&pageType=PRODUCT&pageValue=6994740179&wPcid=17905526599079763164544&wRef=&wTime=20261121181448&redirect=landing&traceid=V0-181-7e38f4d8a416bbcb&mcid=f835a3fcf4724040b2f33191db16dce2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6994740179",
+    "title": "WD BLACK SN850X M.2 NVMe",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5114/b58553cfc25bd5f357a94740f1a1a7d7251690dc0c968dc95e96f0a02c71.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5114/b58553cfc25bd5f357a94740f1a1a7d7251690dc0c968dc95e96f0a02c71.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iNlmoytMdg"
+    ],
+    "image_path": "images/10_WD_BLACK_SN850X_M.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "SSD 바꾸고 첫날 게임 로딩 속도 보고 진짜 감탄했음. 이거 한번 써보면 예전 느린 거로 못 돌아가는 것 같음 ⚡🖤",
+    "b": "2TB라 용량 걱정 없이 막 넣어도 여유로움. 히트싱크 달려있어서 발열 걱정도 덜하고 장착하고 나서 체감이 꽤 달라짐 💾"
+   }
+  }
+ ]
+}
