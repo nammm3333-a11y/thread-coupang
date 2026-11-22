@@ -1,0 +1,457 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-23T08:00:04",
+  "stopped": false,
+  "finished_at": "2026-11-23T08:22:10"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "han_ubr04",
+    "url": "https://www.threads.com/@han_ubr04/post/Df9DUwfif5l",
+    "views": 728,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPgx6eOTKu",
+    "final_url": "https://www.coupang.com/vp/products/9621035873?itemId=28730004602&src=1139000&spec=10799999&addtag=400&ctag=9621035873&lptag=AF2205922&itime=20261123081757&pageType=PRODUCT&pageValue=9621035873&wPcid=17905526599079763164544&wRef=&wTime=20261123081757&redirect=landing&traceid=V0-101-966129abb3c6b21f&mcid=e5aa613f0e4742fdb3ff9214eadd81bf&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9621035873",
+    "title": "레노버 2026 아이디어패드 슬림 3 16IPH11 코어Ultra5 인텔 14세대Luna Grey · 83US0058KR · 512GB · 16GB · WIN11 Home",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/06/26/15/3/02536ed3-2d2e-4e78-aab1-1704b740365b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/3/02536ed3-2d2e-4e78-aab1-1704b740365b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/8/d59c2420-887f-4e16-b48c-87c310c975de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/7/79b22f45-9392-4999-a37e-6c8fc552338f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/7/f5b6a777-1c0f-4b94-9590-1b04602f318d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/0/f0d655c6-6d57-4d32-b887-7e493051d980.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/3/91f6b5b0-ba43-4e17-817c-cc61e4a2d7d1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/06/26/15/5/ed028e07-6845-49de-8597-034e275191c9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/px3wrxt4/1b3b1f915455458d9133eb24d2cccfac.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPgx6eOTKu"
+    ],
+    "image_path": "images/01_레노버_2026_아이디어패드_슬림_3_16IPH11_코어Ultra5_인텔.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "결국 노트북 갈아탔는데 루나그레이 색상이 생각보다 훨씬 고급져서 당황함. 카페서 꺼냈을 때 옆에서 뭔 노트북이냐고 물어보더라. 얇고 가벼워서 매일 들고 다니는 게 훨씬 덜 귀찮아졌어 💻",
+    "b": "화면 크니까 작업할 때 확실히 덜 답답하더라. 오래된 노트북 버티다 이제야 갈아탔는데 왜 진작 안 바꿨나 싶어서 약간 억울하기도 했음 😅"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "juxweun.o",
+    "url": "https://www.threads.com/@juxweun.o/post/Df-uISfDHuI",
+    "views": 654,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPUOCiurZc",
+    "final_url": "https://www.coupang.com/vp/products/9767177536?itemId=29233817984&vendorItemId=96152667177&src=1139000&spec=10799999&addtag=400&ctag=9767177536&lptag=AF2195576&itime=20261123081806&pageType=PRODUCT&pageValue=9767177536&wPcid=17905526599079763164544&wRef=&wTime=20261123081806&redirect=landing&traceid=V0-183-521a0b2a7b1faad0&mcid=189e6a283dd04bdd886f4d82858dd6df&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=juxweuno&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9767177536",
+    "title": "수제 뜨개컵받침 작은 꽃 디자인 컵을 올리면 꽃이 피는 커피잔 BROS COFFEE",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bc1d/2fb534ccf268106c86f59eb287c327a4a2df52a58c15d82b81b6decd7e0e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc1d/2fb534ccf268106c86f59eb287c327a4a2df52a58c15d82b81b6decd7e0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d012/713eb759a64082c375a83a0e9bfbb577fa4590db3c1ba6551eb67a387903.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86cf/ae669234c84e1dc9cbccaca3503792c9429531e1f5cf38b840b91ef71f79.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b480/37acc0076b2111d65e9968370a5d532705382afc48cb73876217155b6bdf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0811/30660a8d6ae5226d2d0b3f3c2aa23d30f1cf73b89f3176d080c5a6284768.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPUOCiurZc"
+    ],
+    "image_path": "images/02_수제_뜨개컵받침_작은_꽃_디자인_컵을_올리면_꽃이_피는_커피잔_BROS_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "컵 올리니까 진짜 꽃밭이 되는 거 보고 혼자 감탄함. 책상 위에 뒀더니 분위기가 달라져서 커피 마시는 시간이 더 기대됨 🌼",
+    "b": "손으로 만든 거라 꽃 하나하나 디테일이 살아있어서 자꾸 보게 돼. 집에 온 친구가 이거 어디서 났냐고 바로 물어봤잖아 🌿"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "jeff_lee1738",
+    "url": "https://www.threads.com/@jeff_lee1738/post/Df8_Ay9lMZA",
+    "views": 214,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPiWeL82H6",
+    "final_url": "https://www.coupang.com/vp/products/334290642?itemId=1067087789&vendorItemId=5552589559&src=1139000&spec=10799999&addtag=400&ctag=334290642&lptag=AF4070153&itime=20261123081814&pageType=PRODUCT&pageValue=334290642&wPcid=17905526599079763164544&wRef=&wTime=20261123081814&redirect=landing&traceid=V0-181-8885a023a89f77f0&mcid=98145fbd10cd4acab494924150df89ec&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "334290642",
+    "title": "지하암반해수로 씻어 깨끗한 생굴 (냉장), 350g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/14574994147401-38a6bd2b-da7d-4dc2-b40f-605d3dc808de.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/14574994147401-38a6bd2b-da7d-4dc2-b40f-605d3dc808de.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/58518347942920-186918ba-7a5b-4ec0-90f8-3fffdecefcf6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/58518366039805-b2db2046-3128-4649-a667-abd90619f507.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/58518331012035-f7b123df-183a-4da4-a6a4-0f94eebf9900.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/58518355007534-cf2588b4-258b-48d5-a056-e414c9c4d01e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4663926852917-c65ee2c6-8bce-4d2b-913d-82b3e1d86a51.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=ZRlbCT2z58A"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iPiWeL82H6"
+    ],
+    "image_path": "images/03_지하암반해수로_씻어_깨끗한_생굴_(냉장),_350g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "굴 좋아하는 사람인데 받고 나서 양에 먼저 놀랐어. 씻어서 바로 먹었는데 비린내 없이 깔끔해서 계속 손이 갔음 🦪",
+    "b": "굴국밥 해먹으려고 꺼냈더니 알이 실하고 싱싱해서 기분이 좋더라. 마트 굴이랑은 느낌이 확실히 달랐어 🌊"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "johnna_guksan",
+    "url": "https://www.threads.com/@johnna_guksan/post/Df8UbX4lnQH",
+    "views": 205,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ifnV26ZoD6",
+    "final_url": "https://www.coupang.com/vp/products/6576944081?src=1139000&spec=10799999&addtag=400&ctag=6576944081&lptag=AF4001986&itime=20261123081822&pageType=PRODUCT&pageValue=6576944081&wPcid=17905526599079763164544&wRef=&wTime=20261123081822&redirect=landing&traceid=V0-181-66148f9cb7972eed&mcid=4cbe8286d9674373a15a55b3f5bd6e68&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6576944081",
+    "title": "곰곰 달콤 군고구마 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/421087062060888-2a9d2f14-2e11-420b-a281-7dd849949df5.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/421087062060888-2a9d2f14-2e11-420b-a281-7dd849949df5.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/421062678786941-0d00e790-9ca5-444e-afaa-0a67efefbb5f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/421070945266204-d93680c1-985c-4cbb-af28-dd5f3d1418c5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/436990226411827-658b3354-62da-4602-8327-dba51647446a.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_963e284f-8f7e-41a6-82fd-f25c5b790b20.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ifnV26ZoD6"
+    ],
+    "image_path": "images/04_곰곰_달콤_군고구마_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동인데 전자레인지에 돌리면 진짜 군고구마 먹는 기분이야. 간식 떨어졌을 때 꺼내면 되니까 쟁여두고 든든한 맛이 있음 🍠",
+    "b": "색깔이 사진처럼 노랗고 달콤해서 꺼내자마자 애들이 먼저 달려들어. 냉동고에 넣어두고 하나씩 꺼내 먹는 재미가 쏠쏠하더라 😋"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "s_min_8888",
+    "url": "https://www.threads.com/@s_min_8888/post/Df9Uu5wGoQa",
+    "views": 172,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPx9FHG0vQ",
+    "final_url": "https://www.coupang.com/vp/products/8783867853?itemId=26630814180&src=1139000&spec=10799999&addtag=400&ctag=8783867853&lptag=AF1638503&itime=20261123081829&pageType=PRODUCT&pageValue=8783867853&wPcid=17905526599079763164544&wRef=&wTime=20261123081829&redirect=landing&traceid=V0-101-baefabaa4fd40dbb&mcid=8d0e6388c5324e31b6f2b3c6b3d619f5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8783867853",
+    "title": "사토노유키 실큰두부, 12개, 300g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9c70/fa40339b27cae65338fa8ac5117c7133c32f2593b73410de09d79be3e0e9.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c70/fa40339b27cae65338fa8ac5117c7133c32f2593b73410de09d79be3e0e9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1cba/393a87a459d48ec12be8a15d3b2ed2003430617cab78d8f3acbdca51c3a2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e25e/e99a6fc1864276c02ac4b086f8148c670217dc85c608b18cc9d7c29e6a6a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4c9e/5c436ff5c8d63c071c893fbb55077addce09bbe429e5d13d5ea14f91b7fc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c57e/fcdf4f33278d3fea9ca0edefa13f7034f30c3036675a47a31cbf8a2d7483.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a93c/5c6f4a515bc02366942ee572e2a96ab0047d816e5637573e9f21349a71a3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5057/f9bfa1606764176fd4286e9a7ce590b8bfa5103cc3830e341f5ebb30d224.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPx9FHG0vQ"
+    ],
+    "image_path": "images/05_사토노유키_실큰두부,_12개,_300g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "일본식 실크두부 처음 써봤는데 식감이 너무 부드러워서 국 끓이다 혼자 감탄함. 팩째로 보관되니까 여러 개 쟁여두기도 편해 🍜",
+    "b": "순두부찌개에 넣었더니 형태 안 무너지고 부드럽게 잘 익어서 신기했어. 그냥 두부 쓸 때랑 식감 차이가 꽤 나더라 😊"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "maseongshop",
+    "url": "https://www.threads.com/@maseongshop/post/Df8bbiXj6JT",
+    "views": 117,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iN8jw4tS9I",
+    "final_url": "https://www.coupang.com/vp/products/1309810047?src=1139000&spec=10799999&addtag=400&ctag=1309810047&lptag=AF8261119&itime=20261123081837&pageType=PRODUCT&pageValue=1309810047&wPcid=17905526599079763164544&wRef=&wTime=20261123081837&redirect=landing&traceid=V0-181-c178868acf220822&mcid=412dd6398c7a4073b765d193a56b85d2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "1309810047",
+    "title": "그린핑거 손소독 물티슈 휴대형, 20매, 10개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b9ed/d2a32b2e8465131bdc3ec8edbdc27b097b3ecc06357b0f549a33c3acc6bf.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b9ed/d2a32b2e8465131bdc3ec8edbdc27b097b3ecc06357b0f549a33c3acc6bf.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iN8jw4tS9I"
+    ],
+    "image_path": "images/06_그린핑거_손소독_물티슈_휴대형,_20매,_10개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "가방에 하나씩 넣어다니면서 밥 먹기 전에 습관적으로 꺼내게 됨. 애랑 외출할 때 특히 마음이 좀 편해지는 것 같아 🧻",
+    "b": "10개 묶음이라 여기저기 쑤셔넣어 뒀더니 필요할 때 없는 적이 없어. 매수도 적당해서 휴대하기 가볍고 편해 ✌️"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "lily_white_you",
+    "url": "https://www.threads.com/@lily_white_you/post/Df9E8i8I1qi",
+    "views": 115,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPmDM6Nzps",
+    "final_url": "https://www.coupang.com/vp/products/47917867?itemId=21281830723&src=1139000&spec=10799999&addtag=400&ctag=47917867&lptag=AF4546780&itime=20261123081844&pageType=PRODUCT&pageValue=47917867&wPcid=17905526599079763164544&wRef=&wTime=20261123081844&redirect=landing&traceid=V0-101-95770ec8d6d85ffb&mcid=9f7bc7aa647946038981d6b9b54a4d0e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "47917867",
+    "title": "피펄립스틱 108호 변색립스틱 반전립스틱 발색력 지속력 지워지지않는",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/14471e43-0006-4dd4-b112-963713642e90_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/14471e43-0006-4dd4-b112-963713642e90_fixing_v2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/82c1/f38919d3ac6622e4f0e0a68e0b56ec75bc5298ec8631003a94629ba26891.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7ad9/b9d914728740f635151b3646a247850b0ce26e71fdfcece9ec36eadca607.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/211d/538aa290354945b4651d62a13010d66b8699b528c7bde4145dcc431076d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d26c/01ec1559fd15cc17ea2765d6e870fbd96dc94619884ff6772acd48681d97.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9c45/8366be256aaae2a5f4c03e63268dde8d905498d23c2276c021b70ead2b44.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/97d2/b3bc3e3d5e4ce141baea3dd6d8370e21ec0f06c5424963fd7bc24703076d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1343/573ceb53824de132f5ddb5d163084e85b317f426053b171eff61d1abeea4.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPmDM6Nzps"
+    ],
+    "image_path": "images/07_피펄립스틱_108호_변색립스틱_반전립스틱_발색력_지속력_지워지지않는.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "초록색이라 반신반의하고 발랐는데 입술에 올리니까 핑크빛으로 변하는 게 진짜 신기함. 내 입술 톤에 맞게 색이 나와서 기분 묘하게 좋더라 💄",
+    "b": "아침에 바르고 나가면 점심 먹고도 어느 정도 남아있어서 덜 귀찮아졌어. 변색되는 거 보려고 거울 계속 보게 되는 게 좀 웃겼음 😂"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "p1star.__",
+    "url": "https://www.threads.com/@p1star.__/post/Df8O9YeESnk",
+    "views": 113,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iNZF2gNhYG",
+    "final_url": "https://www.coupang.com/vp/products/9325834083?itemId=27644423676&vendorItemId=94530257191&src=1139000&spec=10799999&addtag=400&ctag=9325834083&lptag=AF9251215&itime=20261123081853&pageType=PRODUCT&pageValue=9325834083&wPcid=17905526599079763164544&wRef=&wTime=20261123081853&redirect=landing&traceid=V0-183-828ac73da608a953&mcid=a2b8cde2c4034f0090519fad857ed456&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=p1star261120&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9325834083",
+    "title": "기본형 2단 수납형 모니터받침대 책상정리",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/a949d851-265d-4dd2-8775-a98eff179fce_fixing_v2.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/image_audit/prod/a949d851-265d-4dd2-8775-a98eff179fce_fixing_v2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d08/d740c1b626886143b0bddbb690cabda1c3c73fef3649ac01f0c00d46e000.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e5e8/eeb18d745d1621e8380a621b33541a79753662b174ff8439e82ee3c120e5.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2d1f/83df7b1e9ddc710c2e29b3917f5467a31affcad891dbfde44857ef86113b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/560d/0adba40493e8e8673b75d9f62b513ec845415f6fd4ee4f4b7a87cb040b83.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc91/7d53120a4182195debe7cfff8a905f0220a3a370f5096986505f95c5ca69.JPG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iNZF2gNhYG"
+    ],
+    "image_path": "images/08_기본형_2단_수납형_모니터받침대_책상정리.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "모니터 올리고 아래에 키보드랑 소품 넣었더니 책상이 한결 넓어 보임. 모니터 높이가 달라지니까 오래 앉아 있을 때 목이 좀 편하더라 🖥️",
+    "b": "흰색이라 어떤 책상이랑도 잘 어울려서 나름 만족스러워. 아래 칸에 노트 쌓아두는 게 생각보다 편해서 괜히 뿌듯한 느낌 있음 ✨"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "life_key37",
+    "url": "https://www.threads.com/@life_key37/post/Df9cYb9k_oW",
+    "views": 92,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPBljSCbPo",
+    "final_url": "https://www.coupang.com/vp/products/64382054?itemId=218237561&src=1139000&spec=10799999&addtag=400&ctag=64382054&lptag=AF9496727&itime=20261123081901&pageType=PRODUCT&pageValue=64382054&wPcid=17905526599079763164544&wRef=&wTime=20261123081901&redirect=landing&traceid=V0-101-1f271df8c4c5b1a3&mcid=32d23fd416c1477ca945d7d31a4d7d0f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "64382054",
+    "title": "모양펀치(18mm) 15종모양(종이나라/포코스)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/images/2018/02/06/11/9/9dd506ee-21da-47d4-960e-e9b3334c5c88.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/images/2018/02/06/11/9/9dd506ee-21da-47d4-960e-e9b3334c5c88.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f13/31f74a07b14157cbe74e48a596d3b6332dc9234f2bf7c8a00add2e531275.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPBljSCbPo"
+    ],
+    "image_path": "images/09_모양펀치(18mm)_15종모양(종이나라_포코스).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "다이어리 꾸밀 때 쓰려고 샀는데 하트 나비 별 다 예쁘게 찍혀서 멈출 수가 없었어. 색지 한 장 갖다놓고 혼자 한참 찍고 있었음 ✂️",
+    "b": "조카한테 줬더니 한 시간 동안 혼자 찍고 있더라고. 종류가 많아서 질리지 않고 계속 꺼내게 됨 🌟"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "kairosroika",
+    "url": "https://www.threads.com/@kairosroika/post/Df9qP6WkWT1",
+    "views": 88,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-20",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iONya7mXAG",
+    "final_url": "https://www.coupang.com/vp/products/8939005374?itemId=26138297070&vendorItemId=93118437887&src=1139000&spec=10799999&addtag=400&ctag=8939005374&lptag=AF3152596&itime=20261123081908&pageType=PRODUCT&pageValue=8939005374&wPcid=17905526599079763164544&wRef=&wTime=20261123081908&redirect=landing&traceid=V0-183-58fe2ee729962c4e&mcid=743606d48535470bbb61b233034dbe1f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8939005374",
+    "title": "오로라 쿠로미 20주년 봉제키링 소",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/07/23/16/8/33adeff5-cc7e-465c-a87b-d38e508d65cb.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/07/23/16/8/33adeff5-cc7e-465c-a87b-d38e508d65cb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/387278923828456-f90e4ff1-fe87-4753-bcea-6513fb88bdbd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/387290014095484-cd253459-8e9b-4ffa-b59b-f223b5d4e4d4.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65034329723876-9c72f96c-418f-4bb6-b004-54c1f36f2fe5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65042092971180-72f1e3f0-d2ee-4226-aad4-6cf8c32fef04.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/07/23/16/8/ab4eefa7-b199-42f9-8860-ff1a987b4de9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65049228225067-fc7a6ae1-a7b9-48b7-a064-1d225d9735ae.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iONya7mXAG"
+    ],
+    "image_path": "images/10_오로라_쿠로미_20주년_봉제키링_소.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "20주년 에디션이라 디자인이 평소 쿠로미랑 달리 화려해서 진짜 눈이 가는 거 있음. 가방에 달았더니 나갈 때마다 기분이 올라가는 것 같아 🖤",
+    "b": "작은 사이즈인데 디테일이 살아있어서 받았을 때 오 소리 나왔어. 하트 모양 고리도 귀엽고 흔들릴 때마다 눈에 띔 🩷"
+   }
+  }
+ ]
+}
