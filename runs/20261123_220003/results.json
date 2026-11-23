@@ -1,0 +1,451 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-23T22:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-23T22:18:02"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "cocopick.life",
+    "url": "https://www.threads.com/@cocopick.life/post/DgAN_QEHbXa",
+    "views": 6300,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iRoIEYOonc",
+    "final_url": "https://www.coupang.com/vp/products/9677152071?itemId=28936061160&vendorItemId=95974317217&src=1139000&spec=10799999&addtag=400&ctag=9677152071&lptag=AF4397474&itime=20261123221205&pageType=PRODUCT&pageValue=9677152071&wPcid=17905526599079763164544&wRef=&wTime=20261123221205&redirect=landing&traceid=V0-181-176e040ceddf4252&mcid=9c274d78a1da4bfa8b779863bde523fd&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9677152071",
+    "title": "팔걸이 트레이 소파 테이블 크람프훌트 이케아 IKEA",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/375c/0074f50db30135a54de37aec444b25abaf76acdcb1b2545a9238bf2e4962.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/375c/0074f50db30135a54de37aec444b25abaf76acdcb1b2545a9238bf2e4962.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2896/fedd31b7bbe72c091dd565a1b894747c40bf8401c64a758dfce42464f6e8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2ad3/21fdaa5872b71dda20aa139edad935d59d43ebb75b64e29c46ad9e7d1e2f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0704/f8a0a8409a793f80af2e1424c3e2d35734c27ffa31bbf91319ef23be8a6d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7f4d/30285a1b02ffa57dcdc3996e68abe73d04a7d69c79c8c54a849d4662717f.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iRoIEYOonc"
+    ],
+    "image_path": "images/01_팔걸이_트레이_소파_테이블_크람프훌트_이케아_IKEA.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "소파에서 커피 놓을 데 없어서 맨날 불편했는데 팔걸이에 걸어두니까 진짜 편함. 리모컨이랑 폰도 같이 올려두고 소파 성 완성했음. 이거 하나로 거실에 더 오래 머물게 된 것 같아 🛋️",
+    "b": "소파 팔걸이에 딱 고정되는 구조라 흔들릴 걱정이 없음. 흰색이라 거실 분위기 안 해치고 자연스럽게 녹아드는 게 좋고. 티 없이 쓸 수 있는 게 생각보다 더 마음에 들어 ☕"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "pikkseetem",
+    "url": "https://www.threads.com/@pikkseetem/post/Df-6aRyo9KK",
+    "views": 3500,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iEfNf7vkDQ",
+    "final_url": "https://www.coupang.com/vp/products/9782913249?itemId=29288555485&src=1139000&spec=10799999&addtag=400&ctag=9782913249&lptag=AF7538070&itime=20261123221214&pageType=PRODUCT&pageValue=9782913249&wPcid=17905526599079763164544&wRef=&wTime=20261123221214&redirect=landing&traceid=V0-101-520fb41436d4740c&mcid=842c5396075c4a888670bb979e87cdd0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9782913249",
+    "title": "null -",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iEfNf7vkDQ"
+    ],
+    "image_path": "images/02_null_-.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "쿠팡에서 오늘도 뭔가 또 담아버림... 로켓배송으로 다음날 오는 맛에 계속 쓰게 됨. 도착할 때마다 괜히 설레는 거 나만 그런 거 아니지? 📦",
+    "b": "필요한 것도 딱히 없는데 쿠팡 열면 왜 또 담고 있는지 나도 모르겠음ㅋㅋ. 뜯을 때 그 기분에 하는 것 같기도 하고. 이제 이 습관은 못 고칠 것 같아 🛒"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "juxweun.o",
+    "url": "https://www.threads.com/@juxweun.o/post/Df-uISfDHuI",
+    "views": 654,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPUOCiurZc",
+    "final_url": "https://www.coupang.com/vp/products/9767177536?itemId=29233817984&vendorItemId=96152667177&src=1139000&spec=10799999&addtag=400&ctag=9767177536&lptag=AF2195576&itime=20261123221249&pageType=PRODUCT&pageValue=9767177536&wPcid=17905526599079763164544&wRef=&wTime=20261123221249&redirect=landing&traceid=V0-183-521a0b2a7b1faad0&mcid=45ce9372d96e4febabc2e4f70925f275&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=juxweuno&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9767177536",
+    "title": "수제 뜨개컵받침 작은 꽃 디자인 컵을 올리면 꽃이 피는 커피잔 BROS COFFEE",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bc1d/2fb534ccf268106c86f59eb287c327a4a2df52a58c15d82b81b6decd7e0e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bc1d/2fb534ccf268106c86f59eb287c327a4a2df52a58c15d82b81b6decd7e0e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d012/713eb759a64082c375a83a0e9bfbb577fa4590db3c1ba6551eb67a387903.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/86cf/ae669234c84e1dc9cbccaca3503792c9429531e1f5cf38b840b91ef71f79.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b480/37acc0076b2111d65e9968370a5d532705382afc48cb73876217155b6bdf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0811/30660a8d6ae5226d2d0b3f3c2aa23d30f1cf73b89f3176d080c5a6284768.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPUOCiurZc"
+    ],
+    "image_path": "images/03_수제_뜨개컵받침_작은_꽃_디자인_컵을_올리면_꽃이_피는_커피잔_BROS_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "컵 올려놓으면 꽃이 피는 모양 되는 거 보려고 커피 한 잔 더 마시게 됨ㅋㅋ. 책상에 두기만 해도 분위기가 달라지는 게 신기하고. 사진 찍다가 시간 다 간 거 반성 중 🌸",
+    "b": "수제라 그런지 꽃 하나하나 디테일이 장난 아닌데 이게 컵받침이라고... 선물받으면 쓰기 아까워서 올려만 두게 될 것 같음. 그래도 컵 올리니까 진짜 꽃밭 느낌 나서 너무 귀여움 🌿"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "johnna_guksan",
+    "url": "https://www.threads.com/@johnna_guksan/post/Df_3BUGlg9c",
+    "views": 307,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/ivWqtHj7Se",
+    "final_url": "https://www.coupang.com/vp/products/9072519563?src=1139000&spec=10799999&addtag=400&ctag=9072519563&lptag=AF4001986&itime=20261123221256&pageType=PRODUCT&pageValue=9072519563&wPcid=17905526599079763164544&wRef=&wTime=20261123221256&redirect=landing&traceid=V0-181-401a5c21e64164a8&mcid=bb599bbfee534c878b11155bf06d535b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9072519563",
+    "title": "베베스트 처음에 떠먹는 퓨레",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/82fae414-5210-4976-a692-ec4dc76ced884754885138857452368.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/82fae414-5210-4976-a692-ec4dc76ced884754885138857452368.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1040591945611319-4d6b7205-b0fd-4319-9562-6d216b1f3483.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1040577799224947-b94e172d-6fbe-4428-9555-bff175b6c6cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1040579309244605-dc5341ac-b9fe-4c2d-8054-4bd2404b48bd.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/460860264634217-51616321-82b6-404b-b17f-9b625212e456.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/460861850708275-c24d5d0d-41b2-4e0e-9da2-b238dc7f8580.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/09/09/14/7/9f71ad71-af4f-4231-acf5-637d2a494c77.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/ivWqtHj7Se"
+    ],
+    "image_path": "images/04_베베스트_처음에_떠먹는_퓨레.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애기 이유식 처음 시작할 때 뭘 먹여야 할지 몰라서 열었는데 잘 받아먹더라. 국내산 야채 여러 가지 들어있어서 골고루 먹일 수 있어서 편함. 잘 먹는 거 보면서 긴장이 풀렸음 🥄",
+    "b": "외출할 때 이유식 싸들고 나가기 싫어서 이거 챙겼는데 진짜 간편함. 처음 먹이는 거라 거부할까 걱정했는데 생각보다 잘 먹어줘서 다행이었고. 외출 필수템으로 자리 잡은 지 오래됨 🍠"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "hshhshhsh193",
+    "url": "https://www.threads.com/@hshhshhsh193/post/DgARUJ4mXuq",
+    "views": 257,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iRnI3G98hM",
+    "final_url": "https://www.coupang.com/vp/products/8982193574?itemId=26298845248&src=1139000&spec=10799999&addtag=400&ctag=8982193574&lptag=AF8235827&itime=20261123221303&pageType=PRODUCT&pageValue=8982193574&wPcid=17905526599079763164544&wRef=&wTime=20261123221303&redirect=landing&traceid=V0-101-e46cfbfed46305ec&mcid=2924c763de78488284ac43d6c16cba90&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8982193574",
+    "title": "삼성전자 Bespoke 카운터탑 식기세척기 6인용",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/34772239977592-f5a3d570-8930-488c-91b1-b435553b0c66.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/34772239977592-f5a3d570-8930-488c-91b1-b435553b0c66.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/jdmgly3g/06492f2db1474480a83e9de9988865cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/7gebrn6d/d8ad77c533a740adbf6fead6c356ebe1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/akotqksl/bea37239642748de919f3a7692b29cd7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ovkgam69/23f6d464ffaf4c769b92a248b5867ec3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/ib8eab6x/6f8f8c2cc6594bf38b7f2c268335aafc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/0xoqveqt/9fde7bf9acee4c61a7fbd59e1740019d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/vryc1xgd/8ad3be38364d4b9fb74bb0aa402ab3e1.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iRnI3G98hM"
+    ],
+    "image_path": "images/05_삼성전자_Bespoke_카운터탑_식기세척기_6인용.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "설거지 쌓아두고 죄책감 느끼던 게 없어졌음. 그냥 넣고 버튼 누르면 되니까 밥 먹고 나서 진짜 편해짐. 혼자 돌아가는 동안 내가 쉴 수 있는 그 여유가 생긴 게 제일 큰 변화 😌",
+    "b": "카운터 위에 올려두는 거라 공간 얼마나 차지할지 걱정했는데 생각보다 괜찮음. 그릇 쌓아두는 대신 바로 넣게 되니까 주방이 훨씬 깔끔해 보이고. 이게 맞는 삶이었다는 걸 왜 이제 알았나 싶음 🍽️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "p_eace_e",
+    "url": "https://www.threads.com/@p_eace_e/post/DgAC5liExsk",
+    "views": 220,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iRhCtt7Jim",
+    "final_url": "https://www.coupang.com/vp/products/9770690233?itemId=29245572430&src=1139000&spec=10799999&addtag=400&ctag=9770690233&lptag=AF8771574&itime=20261123221310&pageType=PRODUCT&pageValue=9770690233&wPcid=17905526599079763164544&wRef=&wTime=20261123221310&redirect=landing&traceid=V0-101-f1ef3a10d1b3fef4&mcid=edc5a58e5a3448b48f4d79e7fd40be5a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9770690233",
+    "title": "스파오 여성용 후드 미디 푸퍼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/10/09/10/4/24287bf9-817e-4cbc-a5ce-1615691b1143.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/10/09/10/4/24287bf9-817e-4cbc-a5ce-1615691b1143.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65167529662268-1106e8c6-6c83-492c-8a80-f3dda669486a.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65167642572283-9101c4fa-5fe0-41fd-9608-32398930970c.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/157753245623643-fada261b-1511-403a-b426-0f7019f42bd3.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65167627938207-922ef93d-28b8-4c66-8b3b-e7ef72bc1301.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/65167811233064-168bd7bb-02ec-4576-aa56-4bcfbfcef072.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iRhCtt7Jim"
+    ],
+    "image_path": "images/06_스파오_여성용_후드_미디_푸퍼.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아이보리 색이 너무 예뻐서 샀는데 생각보다 따뜻해서 놀람. 허리 살짝 조이는 디자인이라 뚱해 보이지 않고 맨날 꺼내 입게 됨. 올겨울 이거 하나면 되겠다 싶은 옷이 생겼음 🤍",
+    "b": "후드가 큼직해서 쓰고 다니면 얼굴이 가려지는 게 너무 좋음. 미디 기장이라 엉덩이까지 커버돼서 추위 걱정이 없어지고. 집에서도 나가서도 계속 걸치고 싶어지는 옷이 됨 🧥"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "ahumorousday",
+    "url": "https://www.threads.com/@ahumorousday/post/Df_lxyhEXcX",
+    "views": 192,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iM9hgNj4ge",
+    "final_url": "https://www.coupang.com/vp/products/9719336780?src=1139000&spec=10799999&addtag=400&ctag=9719336780&lptag=AF9788026&itime=20261123221317&pageType=PRODUCT&pageValue=9719336780&wPcid=17905526599079763164544&wRef=&wTime=20261123221317&redirect=landing&traceid=V0-181-b777d41b70fd9975&mcid=2fc12263c7e84223950f45c3f4e473ff&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9719336780",
+    "title": "주방 젓가락통 카운터 식기 숟가락 물빠짐 수납함 가정용 벽걸이 타공불필요 젓가락꽂이 선반, 1개, A화이트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/72b1/473ccda626733d89291265b2185e886c3734f6c36c01cd2aae47606c3757.jpeg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/72b1/473ccda626733d89291265b2185e886c3734f6c36c01cd2aae47606c3757.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3fb7/761675497d476f7de6082fdd84db412f44062a0dbe0ef7dd212cd7591e51.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6a04/514f5749faf6833d4f22e1220c5f42a0a151ff9ca08b1eaafba6578d2c77.jpeg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2e5e/f4f41284e387001b4a8e4542968271ea34840268277aa48ee8e642a2fca6.jpeg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iM9hgNj4ge"
+    ],
+    "image_path": "images/07_주방_젓가락통_카운터_식기_숟가락_물빠짐_수납함_가정용_벽걸이_타공불필요.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "주방 싱크대 옆에 올려뒀는데 고양이 그림이 있어서 괜히 주방이 예뻐 보임ㅋㅋ. 물빠짐 받침도 있어서 위생 걱정도 덜 됨. 타공 없이 그냥 세워두기만 해도 되는 게 진짜 편리함 😸",
+    "b": "서랍에서 수저 뒤지던 습관이 없어지니까 주방이 훨씬 정돈된 느낌이 남. 블랙 프레임에 크림색 조합이 생각보다 인테리어랑 잘 어울리고. 아침마다 주방 올 때 기분이 좀 더 좋아진 것 같음 🖤"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "goguma1061",
+    "url": "https://www.threads.com/@goguma1061/post/DgAL3-Vkymj",
+    "views": 161,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iRmyJyuOGH",
+    "final_url": "https://www.coupang.com/vp/products/7750793796?itemId=23751522952&vendorItemId=96076093459&src=1139000&spec=10799999&addtag=400&ctag=7750793796&lptag=AF4333227&itime=20261123221355&pageType=PRODUCT&pageValue=7750793796&wPcid=17905526599079763164544&wRef=&wTime=20261123221355&redirect=landing&traceid=V0-181-2fbb02fb53715c79&mcid=4f0fc3312d6a486f9a2e705da7142913&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7750793796",
+    "title": "큐티 병아리 무드등 LED 수면등 신생아 수유등",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0ca2/db920d780156314c80d5580a1ca9255f9d0c46eb420c08dbc5f2d2e87a89.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ca2/db920d780156314c80d5580a1ca9255f9d0c46eb420c08dbc5f2d2e87a89.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9d5c/98d02b0810763eeb88e9b8754e63a0d160f8aadf2849a4e096766752ee09.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f845/f7bb3a20c5ce67acfbf74616a2e0741f0dec73495cdea6f100dfeb406e64.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iRmyJyuOGH"
+    ],
+    "image_path": "images/08_큐티_병아리_무드등_LED_수면등_신생아_수유등.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "진짜 너무 귀여워서 불 안 꺼도 그냥 항상 켜두고 싶음ㅋㅋ. 은은한 불빛이 자려고 누웠을 때 딱 좋아서 이제 잘 때 필수가 됨. 방에 있는 것만으로도 기분이 풀리는 게 신기함 🐣",
+    "b": "머리에 꽃 달고 다리 쭉 뻗은 모습이 너무 사랑스러워서 사진을 한 열 장은 찍었음. 밤에 아이 재울 때 불 확 켜기 싫어서 이거 켜두는데 분위기가 완전 따뜻해지고. 조명 하나 바꿨을 뿐인데 방 느낌이 달라짐 🌼"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "formeplus50",
+    "url": "https://www.threads.com/@formeplus50/post/DgAL9JtE61z",
+    "views": 107,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iQEklt5Diu",
+    "final_url": "https://www.coupang.com/vp/products/8584988416?itemId=25482954027&src=1139000&spec=10799999&addtag=400&ctag=8584988416&lptag=AF6457467&itime=20261123221402&pageType=PRODUCT&pageValue=8584988416&wPcid=17905526599079763164544&wRef=&wTime=20261123221402&redirect=landing&traceid=V0-101-e4fad98cf688654c&mcid=976d2abbcd1848d89065cda4ccd75c68&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8584988416",
+    "title": "화이니카 치탄플러스 가루 잇몸질환 구강청정 충치예방 구취제거, 1개, 20g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0cc0/b3fe172913cdbaaeebaf5edcdda63c01e89334416afbdc12b9db7c0d99be.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0cc0/b3fe172913cdbaaeebaf5edcdda63c01e89334416afbdc12b9db7c0d99be.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/08cb/d4209b4e32b4244e2654b6104168cdd73d7ee341cf827f4ab5a65b57bd38.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c5b2/12b344a014f1e922be1a4a0b155b619078f34e47aebb026a02654fdbbb10.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f357/ecc7048f9f2ea92d283723dc16715d44320926185e3df98aa37a56a6cc2a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1371/233d0cc8276991e9108817c7217dbe71203cfecdc130913286c2123e9d0c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3728/4e628acb41244588a2bd1a7e65a89cbfaecda237ddcce04e1bec6cd56456.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c0f/befcd8f1f9245d87c9024a4391904e2bb7566bfac56fc58fb6a38219523e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d5fd/a70dd4322f26fc6190714aebffb471d4cabed99e6321eea5c093861fe2ac.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iQEklt5Diu"
+    ],
+    "image_path": "images/09_화이니카_치탄플러스_가루_잇몸질환_구강청정_충치예방_구취제거,_1개,_2.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "가루 치약이 처음엔 좀 낯설었는데 쓰다 보니까 이제 못 돌아갈 것 같음. 양치하고 나서 개운한 느낌이 조금 다른 것 같아서 꾸준히 쓰게 됨. 작은 습관 하나 바꿨는데 아침 루틴이 달라진 느낌 🦷",
+    "b": "작은 통인데 생각보다 오래 쓰게 돼서 나쁘지 않음. 아침 양치 후 입안이 개운해서 계속 손이 가는 타입이고. 가루 처음인 사람도 며칠이면 금방 익숙해질 것 같아 😌"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "co_c2ng",
+    "url": "https://www.threads.com/@co_c2ng/post/Df_VLhbk2qS",
+    "views": 94,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-21",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iPbPu1Nn3I",
+    "final_url": "https://www.coupang.com/vp/products/9533723114?itemId=20732251362&vendorItemId=3034627821&src=1139000&spec=10799999&addtag=400&ctag=9533723114&lptag=AF5719433&itime=20261123221410&pageType=PRODUCT&pageValue=9533723114&wPcid=17905526599079763164544&wRef=&wTime=20261123221410&redirect=landing&traceid=V0-181-509e822eb8304738&mcid=56524b85235b4d1bb1d77004f7629d7b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9533723114",
+    "title": "크리넥스 안심 3겹 뽑아쓰는 천연펄프 키친타월, 140매, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/493960544712195-0665ed4a-462c-4f37-a23d-1f7d8a8da4e1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/493960544712195-0665ed4a-462c-4f37-a23d-1f7d8a8da4e1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1462308538082886-e18450d6-da8c-4900-8d4e-b6fdc63d33dc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/124411616662311-38e9424f-31fd-46d0-864c-933fe7ad8c91.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/337624554736242-bac6c76f-a47a-4f2c-b145-872c3066a351.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3244651709093308-5e3d2be3-d60d-4e54-a47e-c4e203763196.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1765014172832165-280267df-fab2-4188-bdbc-073a00563ea7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iPbPu1Nn3I"
+    ],
+    "image_path": "images/10_크리넥스_안심_3겹_뽑아쓰는_천연펄프_키친타월,_140매,_4개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "튀김하고 기름 닦는 데 쓰는데 3겹이라 한 장으로 충분해서 아깝지 않음. 두툼하게 뜯히는 느낌이 괜히 든든하고. 이거 쓰고 나서 얇은 키친타월 못 쓰게 됨 🍳",
+    "b": "주방에서 뭔가 쏟으면 습관적으로 이거 먼저 뜯게 됨. 140매 4개짜리라 한동안 신경 안 써도 되니까 마음이 편하고. 뽑을 때마다 잘 뜯기는 것도 소소하게 기분 좋음 🧻"
+   }
+  }
+ ]
+}
