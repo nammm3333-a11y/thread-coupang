@@ -1,0 +1,459 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-25T18:00:02",
+  "stopped": false,
+  "finished_at": "2026-11-25T18:17:27"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "the_sayo_pick",
+    "url": "https://www.threads.com/@the_sayo_pick/post/DgCxfzZkofY",
+    "views": 14000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-22",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iS2N7mrjz2",
+    "final_url": "https://www.coupang.com/vp/products/284238799?itemId=902267548&src=1139000&spec=10799999&addtag=400&ctag=284238799&lptag=AF6894579&itime=20261125181210&pageType=PRODUCT&pageValue=284238799&wPcid=17905526599079763164544&wRef=&wTime=20261125181210&redirect=landing&traceid=V0-101-7de9e739caedfa8d&mcid=2692175d175c46b3baece0f2869da0b0&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "284238799",
+    "title": "데일리셰프 실리콘 스파츌라 3종 세트, 블랙, 1세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eada/b5619c7c0ec385852eee59e8808ec1a114703d97367660fa9be9eb596144.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eada/b5619c7c0ec385852eee59e8808ec1a114703d97367660fa9be9eb596144.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4f43/f3b3150863a4398e227483e3234a39eb671973db21319e3735f73f406908.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a2b0/493292e1db8948632d9e77ec038bed442717e27a98958eb649570099e97e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ab23/6daa9828af98e8c1cffbbbfa4e4fc0b15075a7b464276e0dd16771eff0ce.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/83d4/ad290968e0787d161626fa64d8082a323018fd7b0158ae0d8605a454231c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1332/0255c59413e10243bb439494c2cc2fed88248a6bca3c538ee31c7c9f8e05.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a24e/f240c1e0b6e8b48f1a1ec1fc8e5e48c19a72ce3f89ba8dc774e44738eb8a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/1861/919dac9248098bd1531b7557c5bcb0a285ca60b926a964c4396fd8ebb393.JPG"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=9mdnjKFqkrA"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iS2N7mrjz2"
+    ],
+    "image_path": "images/01_데일리셰프_실리콘_스파츌라_3종_세트,_블랙,_1세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "요리하면서 세 개 크기를 다 쓰게 되는 날이 오더라... 작은 걸로 병 안 긁어낼 때 그 뿌듯함이 소소하게 좋음. 올블랙이라 주방도 좀 있어 보이는 것 같음 🖤",
+    "b": "실리콘이라 팬 긁힐 걱정 없이 막 써도 되는 게 이렇게 편한 줄 몰랐음... 케이크 반죽 볼 싹 긁어낼 때 세 개 다 필요하다는 거 느꼈어. 세트로 사길 잘했다 싶음 🍳"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "jesusss_w_p1004",
+    "url": "https://www.threads.com/@jesusss_w_p1004/post/DgEc0CTINLA",
+    "views": 2000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iT7nvYWIWy",
+    "final_url": "https://www.coupang.com/vp/products/4852504331?itemId=6285244965&src=1139000&spec=10799999&addtag=400&ctag=4852504331&lptag=AF2845678&itime=20261125181221&pageType=PRODUCT&pageValue=4852504331&wPcid=17905526599079763164544&wRef=&wTime=20261125181221&redirect=landing&traceid=V0-101-92928ea42794edf5&mcid=c1568a10427947b9a211ceacb6a5b385&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=salimthreads01&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4852504331",
+    "title": "코멧 이동접이식 빨래건조대 특대형",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/100727588212479-5674a7fe-e93a-46f9-b335-c33e08ed80c6.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/100727588212479-5674a7fe-e93a-46f9-b335-c33e08ed80c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84231949937018-56209f76-ec96-4b53-bd3b-35ac99d94642.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85508084267358-f0abf6fe-5616-4d9e-866d-d65f71023800.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85508037427652-cdd409a9-f3c0-461c-ad01-6d611f9e6b9b.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84231999516289-dcef9d1f-4894-4acf-8e4e-6381d61b8182.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85508115882169-3e066bd3-983c-440d-b992-ee14cb2b5004.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/85507895859593-3847b8d7-e29a-4745-9670-675375aa18be.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/84231842750920-2000c901-ba46-4ee5-8a3f-fbca69b145bf.JPG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iT7nvYWIWy"
+    ],
+    "image_path": "images/02_코멧_이동접이식_빨래건조대_특대형.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "바퀴 달린 거 처음 써봤는데 햇살 따라 옮기는 게 이렇게 편할 줄이야... 접으면 공간도 별로 안 차지해서 좋음. 이불이랑 옷 한 번에 걸 수 있어서 세탁이 훨씬 여유로워짐 🧺",
+    "b": "빨래 많은 날 삼단에 다 걸어두면 한 방에 해결되는 느낌... 바퀴로 베란다에서 거실로 쓱 밀면 돼서 허리도 덜 아픔. 이거 없던 때로는 못 돌아갈 것 같아 🌀"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "bookstore.workingmom",
+    "url": "https://www.threads.com/@bookstore.workingmom/post/DgGfEuMiPW6",
+    "views": 14000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVp7FE0LOC",
+    "final_url": "https://www.coupang.com/vp/products/8218014636?itemId=19015178397&src=1139000&spec=10799999&addtag=400&ctag=8218014636&lptag=AF9226801&itime=20261125181231&pageType=PRODUCT&pageValue=8218014636&wPcid=17905526599079763164544&wRef=&wTime=20261125181231&redirect=landing&traceid=V0-101-99cd27a85fcbbb96&mcid=1ae48099645b4f648772bbd229352f07&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8218014636",
+    "title": "설화수 자음수 EX 토너 - 스킨",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/coupang/promotion/freebie-merged/91934529700/main_merge_91934529700_1794969654013.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/coupang/promotion/freebie-merged/91934529700/main_merge_91934529700_1794969654013.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352935690774-19cad0d6-9911-4453-b21f-199708771651.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352635921543-2dbf2a49-5120-40df-b236-bdd6fc531af2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352491627423-42a66938-9fae-4bcd-bd52-1f27d538e31f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352343766715-c7eff393-6ced-49a7-8e5e-de0d887c1e0b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127354457208147-ee4bdea9-a34a-457b-875c-43c8a0f448c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127301561091651-cf1e12b7-5a2f-47a7-8b6c-d9a116ca8a42.jpg",
+     "https://image.coupangcdn.com/image/coupang/rlux/sdp/badge_19da917b062.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVp7FE0LOC"
+    ],
+    "image_path": "images/03_설화수_자음수_EX_토너_-_스킨.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세안 후 이거 바르는 게 습관이 됐는데 없으면 뭔가 허전한 느낌... 텍스처가 묵직하지 않고 스르르 스며드는 게 좋음. 아침에 피부 결 만졌을 때 뭔가 다른 것 같기도 해 👐",
+    "b": "겨울 되면 항상 당기는 편인데 이거 쓰고 나서 그 느낌이 좀 덜해진 것 같기도 함... 향도 은은해서 바를 때 기분이 좋음. 패키지도 예뻐서 화장대 위에 놓으면 괜히 뿌듯함 🌸"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "oh_found.it",
+    "url": "https://www.threads.com/@oh_found.it/post/DgDBt1DkaJI",
+    "views": 950,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-22",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iSPHR7sdVs",
+    "final_url": "https://www.coupang.com/vp/products/9692726756?itemId=28990301031&vendorItemId=95929840251&src=1139000&spec=10799999&addtag=400&ctag=9692726756&lptag=AF2763083&itime=20261125181258&pageType=PRODUCT&pageValue=9692726756&wPcid=17905526599079763164544&wRef=&wTime=20261125181258&redirect=landing&traceid=V0-181-f94a8cf82caa7a08&mcid=7924cd2d2c9b47bb89c56e722a07f833&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=threads01&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9692726756",
+    "title": "RODA 야광 테이프 2cm x 5M 축광 반사 안전 계단 비상구",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/adb4/bc177cb8f1ac7c3f578eeeef4f0eb8fade2b0b739c403e98801881127415.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/adb4/bc177cb8f1ac7c3f578eeeef4f0eb8fade2b0b739c403e98801881127415.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0282/02a634fd88c181a156cf792e2ef1644888084cf1797357a57cf7d457ff6b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/98e8/2430393267bc77b141523a7a2804ea71e5e83d58ccde1a124f2b5dd65955.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/bda7/0e0882e318d9c711107be0dbe5be3c9ef319d057b485a3eed2f9902f3447.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e2bd/87a25ff346c3da8283334bb7874ef3351e9af55d0470847e46f123c887c2.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/be89/d0c159922896094d73429e94780d87820ec2bc03965b8a726be184951257.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iSPHR7sdVs"
+    ],
+    "image_path": "images/04_RODA_야광_테이프_2cm_x_5M_축광_반사_안전_계단_비상구.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "밤에 계단 내려가다 발 헛디딜 뻔한 뒤로 이거 붙였는데 어두워도 진짜 잘 보여... 초록빛이 은은하게 나와서 생각보다 안 촌스럽고 나름 감성 있음. 이제 밤에 계단 내려올 때 훨씬 덜 무서워짐 🌿",
+    "b": "붙이는 게 너무 간단해서 금방 했는데 어두운 데서 빛나는 거 처음 봤을 때 소름... 비상구 문 옆에도 붙였더니 왠지 든든해진 기분. 이런 거 왜 진작 안 했나 싶었음 💚"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "chak_han_deal",
+    "url": "https://www.threads.com/@chak_han_deal/post/DgCr8J7j-t5",
+    "views": 609,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-22",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iSZdho7kVo",
+    "final_url": "https://www.coupang.com/vp/products/6175597730?itemId=23908951859&vendorItemId=88125725467&src=1139000&spec=10799999&addtag=400&ctag=6175597730&lptag=AF9111886&itime=20261125181305&pageType=PRODUCT&pageValue=6175597730&wPcid=17905526599079763164544&wRef=&wTime=20261125181305&redirect=landing&traceid=V0-181-fe7b3ca4df837af6&mcid=a3eddb7a413e4a52ac6e894c783650f6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6175597730",
+    "title": "롯데웰푸드 명가 찰떡파이, 350g, 4개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/16329807175537-a78c2e5a-77e5-49b9-a7e0-05aeb768b29d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16329807175537-a78c2e5a-77e5-49b9-a7e0-05aeb768b29d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1208060922586300-8324c676-d2bb-47a4-b6ec-af66a88c8170.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/230751770195255-cd0ea77a-b57d-473e-9d94-7ad3fdfb1361.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/79633436832699-3a8386f4-8980-4224-8cd6-a402da97847f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/673226802765990-ead2cde3-8f17-4b5f-80f5-21db4005c04e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/79633468988495-d1e0d3ec-f41b-46ae-a089-b1d752629c1a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74071595384918-58b45c35-7a0b-434e-988c-2c2329f4fb4f.png",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_0f0f5347-1957-4eea-8c83-ccd0666618aa.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iSZdho7kVo"
+    ],
+    "image_path": "images/05_롯데웰푸드_명가_찰떡파이,_350g,_4개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "편의점에서 맨날 집어들던 거 결국 박스로 질러버림... 초코 사이에 찰떡이 쫀득하게 씹히는 그 조합 못 끊겠음. 커피 한 잔이랑 먹으면 나 혼자 카페 된 기분임 ☕",
+    "b": "4박스 시켰는데 생각보다 너무 빨리 없어지고 있음... 쫀득하게 늘어나는 찰떡이 중독성 있어서 큰일났어. 간식 타임마다 자꾸 손이 가는 거 멈추질 못하겠음 🍫"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "bundangmom_luna",
+    "url": "https://www.threads.com/@bundangmom_luna/post/DgETvHfjEH0",
+    "views": 431,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iT3Q253Vi8",
+    "final_url": "https://www.coupang.com/vp/products/9788958691?itemId=29308490628&src=1139000&spec=10799999&addtag=400&ctag=9788958691&lptag=AF4575507&itime=20261125181313&pageType=PRODUCT&pageValue=9788958691&wPcid=17905526599079763164544&wRef=&wTime=20261125181313&redirect=landing&traceid=V0-101-e721e2d95218c64b&mcid=484a0614099d4fe8b327604c35c9a946&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9788958691",
+    "title": "SKY 공부 완결력",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/cd83/4e225a2e082d8487b52074bef285b09de7d855d3a4fea7dd8817a1168725.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/cd83/4e225a2e082d8487b52074bef285b09de7d855d3a4fea7dd8817a1168725.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iT3Q253Vi8"
+    ],
+    "image_path": "images/06_SKY_공부_완결력.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "애 공부 습관 잡아주려고 샀는데 나도 읽으면서 뜨끔하는 부분이 있었음... 현직 교사가 쓴 거라 뜬구름 없이 현실적인 말만 담겨있어서 좋더라. 읽고 나서 애 대하는 태도가 좀 달라진 것 같음 📗",
+    "b": "과목별로 전략이 다 나와 있어서 실용적인 게 다른 공부법 책이랑 달랐음... 바로 적용할 수 있는 것들 위주라 덜 막막한 느낌. 가끔 꺼내보게 되는 책 중 하나임 📚"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "sweetly._.eat",
+    "url": "https://www.threads.com/@sweetly._.eat/post/DgEXF-lj1EW",
+    "views": 398,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.3,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iRp7NlXaZE",
+    "final_url": "https://www.coupang.com/vp/products/5971267522?itemId=10726639147&src=1139000&spec=10799999&addtag=400&ctag=5971267522&lptag=AF2688578&itime=20261125181320&pageType=PRODUCT&pageValue=5971267522&wPcid=17905526599079763164544&wRef=&wTime=20261125181320&redirect=landing&traceid=V0-101-018f2c23faf7d153&mcid=edff5e9d56dc475bb6728a2fd149d7b5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5971267522",
+    "title": "베키아에누보 바질치즈 치아바타 샌드위치 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1307441581012399-333b62bf-86f6-43d5-bf63-da0e73fee3aa.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1307441581012399-333b62bf-86f6-43d5-bf63-da0e73fee3aa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/6359323289686853-8fc1459d-7e05-42d3-bf55-e582559e12df.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/296395481499828-34d0aa8a-5942-4594-96fa-b543e7e28184.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/200797471649517-7ce5a969-a74a-43e8-89f4-407cb599997f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/614104757907839-9c5ddd3a-9756-4794-87aa-fe51a9705253.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/259991986517776-8c3c59c7-e073-469f-ab82-39fb564dc69b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iRp7NlXaZE"
+    ],
+    "image_path": "images/07_베키아에누보_바질치즈_치아바타_샌드위치_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "냉동 샌드위치가 이 맛이면 너무한 거 아님...? 에어프라이어에 돌리면 겉은 바삭하고 치즈는 녹아서 완전 카페 느낌 남. 이거 꺼내 먹는 아침이 소소하게 행복한 편임 🥪",
+    "b": "바질 향 은은하고 치즈 두 종류 들어가 있어서 고소함이 두 배인 느낌... 그냥 간편식인데 먹을 때마다 뭔가 대접받는 기분이 들어. 냉동실 항상 채워두게 됐음 🧀"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "today.soso.life",
+    "url": "https://www.threads.com/@today.soso.life/post/DgCeNNyEtst",
+    "views": 383,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-22",
+    "age_days": 3.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iSL1mjvdCe",
+    "final_url": "https://www.coupang.com/vp/products/5844544663?src=1139000&spec=10799999&addtag=400&ctag=5844544663&lptag=AF1296442&itime=20261125181328&pageType=PRODUCT&pageValue=5844544663&wPcid=17905526599079763164544&wRef=&wTime=20261125181328&redirect=landing&traceid=V0-183-1518cf833b4906f9&mcid=f91d41014377437b84eb3d4f74f5564d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5844544663",
+    "title": "온천 달걀 그릇 전자 레인지를 사용하지 않고 할 수 있다",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4928/c2075ece3049640f6a92e3c199364659a5e7ee1cdab5ea1166e5fbe05630.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4928/c2075ece3049640f6a92e3c199364659a5e7ee1cdab5ea1166e5fbe05630.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7bbe/55db3e6445953dd10c2613a33ce84ac67bd05a8a5cdd1fb3bb8e93a99aa3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f438/5ed27a280796268db61d987af4f3b806966b3cc94a52abaaebe91cf564e9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iSL1mjvdCe"
+    ],
+    "image_path": "images/08_온천_달걀_그릇_전자_레인지를_사용하지_않고_할_수_있다.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "뜨거운 물만 부어놓고 기다리면 온천 달걀 완성이라는 게 진짜 말이 됨? 처음엔 반신반의했는데 흰자 살짝 익고 노른자 촉촉한 거 보고 소름 돋았음. 라면에 올려 먹으니 집밥이 업그레이드된 느낌임 🥚",
+    "b": "전자레인지 없이도 이런 게 가능한 줄 몰랐음... 달걀 넣고 뜨거운 물 붓고 기다리면 끝이라 졸린 아침에도 할 수 있음. 주말 아침 루틴에 추가해버린 거 후회 없음 🍳"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "seoyeni020709",
+    "url": "https://www.threads.com/@seoyeni020709/post/DgGdThaI2tR",
+    "views": 234,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUXvkCMwgK",
+    "final_url": "https://www.coupang.com/vp/products/9160821478?itemId=26983196093&vendorItemId=94821118196&src=1139000&spec=10799999&addtag=400&ctag=9160821478&lptag=AF9013486&itime=20261125181335&pageType=PRODUCT&pageValue=9160821478&wPcid=17905526599079763164544&wRef=&wTime=20261125181335&redirect=landing&traceid=V0-801-83af65b6a9edac0f&mcid=744a584937a74abea9eb7cefab02c48d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=0441628529&subid=&campaigntype=&puid=&ctime=1795449163&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9160821478",
+    "title": "미쓰비시 연필 샤프 펜 쿠루토가 다이브 0.5mm M550001P (A.33 어비스 블루)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f516/b6a293b7400e4194cb345286c438086013878e821169b45080ebaf3d6f92.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f516/b6a293b7400e4194cb345286c438086013878e821169b45080ebaf3d6f92.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUXvkCMwgK"
+    ],
+    "image_path": "images/09_미쓰비시_연필_샤프_펜_쿠루토가_다이브_0.5mm_M550001P_(A..jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "샤프 이렇게 비싸게 사는 게 처음이었는데 써보고 나서 이해됨... 쓸수록 심이 자동으로 돌아가서 항상 뾰족하게 써지는 게 신기함. 어비스 블루 색이 너무 예뻐서 손에 쥐면 괜히 기분 좋아짐 ✏️",
+    "b": "오래 필기할 때 심 뭉개지는 거 싫어서 샀는데 진짜 차이 나더라... 금속 바디라 손에 쥐는 무게감이 묵직하고 적당히 좋음. 이거 쓰면 뭔가 더 집중되는 기분이 드는 건 기분 탓인가 🖊️"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "kkachilpick",
+    "url": "https://www.threads.com/@kkachilpick/post/DgD-Bvikq6B",
+    "views": 220,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iS9eXGfAZg",
+    "final_url": "https://www.coupang.com/vp/products/9760776717?itemId=29218461475&vendorItemId=96108609803&src=1139000&spec=10799999&addtag=400&ctag=9760776717&lptag=AF5130687&itime=20261125181342&pageType=PRODUCT&pageValue=9760776717&wPcid=17905526599079763164544&wRef=&wTime=20261125181342&redirect=landing&traceid=V0-181-476faaffd17c6ec6&mcid=36e5302dc4ae4fc1a8a3f4a8be63bc1e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9760776717",
+    "title": "업그레이드 카메라형 3D 라떼아트 스텐실 머신 파우더 프린터",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4def/6c9bb9bc3ba23d6faa1ff77141d3416cf84a30c61bf3bd7da80d8a7aef06.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4def/6c9bb9bc3ba23d6faa1ff77141d3416cf84a30c61bf3bd7da80d8a7aef06.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e7a2/7d7708aa0fbd63c0e896995704a5799f9cf3a92b32ffa9817b12c560f164.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f651/3281bbceeaffbdb96061fd3f1bcf41a8687b07c6293ad64fb5ad1059f835.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ac19/efb66b18d24c83dcb688d3aa6763ebba31584b48e69241223006777f8153.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6fe0/e8758bec3af1901db98ea7b8fd85850c45cc2da8ac55f4de318273c667d5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2f02/e0e36a3f8e4505400a21369b41793c6660c3178a8ee3b02c7b57f2a10966.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/408b/98355ad19d20f11e116d4c595001be8f92331cba973ced4d72d5b49864b6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe29/2f7962126a80e526fe29de0011e112aa406e7212ea4fcab16e45e57a59a8.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iS9eXGfAZg"
+    ],
+    "image_path": "images/10_업그레이드_카메라형_3D_라떼아트_스텐실_머신_파우더_프린터.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "카메라처럼 생긴 비주얼부터 너무 귀여워서 이미 반은 먹고 들어감... 커피 위에 스텐실 찍어내면 진짜 카페 메뉴판 같은 비주얼 나옴. 혼자 집에서 카페 놀이하는 재미가 생겨버렸음 ☕",
+    "b": "손님한테 커피 내줄 때 이걸로 패턴 찍었더니 다들 어디서 샀냐고 물어봄... 파우더 넣고 스텐실 바꿔가면서 쓰는 것도 생각보다 간단함. 선물용으로도 진짜 괜찮겠다 싶었음 🎨"
+   }
+  }
+ ]
+}
