@@ -1,0 +1,458 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-26T18:00:03",
+  "stopped": false,
+  "finished_at": "2026-11-26T18:20:47"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "bookstore.workingmom",
+    "url": "https://www.threads.com/@bookstore.workingmom/post/DgGfEuMiPW6",
+    "views": 14000,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVp7FE0LOC",
+    "final_url": "https://www.coupang.com/vp/products/8218014636?itemId=19015178397&src=1139000&spec=10799999&addtag=400&ctag=8218014636&lptag=AF9226801&itime=20261126181512&pageType=PRODUCT&pageValue=8218014636&wPcid=17905526599079763164544&wRef=&wTime=20261126181512&redirect=landing&traceid=V0-101-99cd27a85fcbbb96&mcid=7c79b80400c943cd97452ece5295a32f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8218014636",
+    "title": "설화수 자음수 EX 토너 - 스킨",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/coupang/promotion/freebie-merged/91934529700/main_merge_91934529700_1794969654013.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/coupang/promotion/freebie-merged/91934529700/main_merge_91934529700_1794969654013.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352935690774-19cad0d6-9911-4453-b21f-199708771651.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352635921543-2dbf2a49-5120-40df-b236-bdd6fc531af2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352491627423-42a66938-9fae-4bcd-bd52-1f27d538e31f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127352343766715-c7eff393-6ced-49a7-8e5e-de0d887c1e0b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127354457208147-ee4bdea9-a34a-457b-875c-43c8a0f448c6.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/127301561091651-cf1e12b7-5a2f-47a7-8b6c-d9a116ca8a42.jpg",
+     "https://image.coupangcdn.com/image/coupang/rlux/sdp/badge_19da917b062.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVp7FE0LOC"
+    ],
+    "image_path": "images/01_설화수_자음수_EX_토너_-_스킨.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "설화수 토너 드디어 써봤는데... 세안 후 이거 한 번 쓱 발라주면 뭔가 피부가 차분해지는 느낌이 나더라. 아침에 일어나서 거울 보는 게 전보다 덜 무서워진 것 같아 😌",
+    "b": "선물 받은 설화수 자음수 뜯었는데 패드에 적셔서 닦아내듯 쓰니까 흡수 진짜 빠른 것 같더라. 뭔가 촉촉한 느낌이 꽤 오래가서 이제 토너 단계 절대 안 넘기게 됨 ✨"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "torinehome",
+    "url": "https://www.threads.com/@torinehome/post/DgFYPQsEjpW",
+    "views": 787,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iP3iZXefKK",
+    "final_url": "https://www.coupang.com/vp/products/9803415998?itemId=29356368197&src=1139000&spec=10799999&addtag=400&ctag=9803415998&lptag=AF5170967&itime=20261126181540&pageType=PRODUCT&pageValue=9803415998&wPcid=17905526599079763164544&wRef=&wTime=20261126181540&redirect=landing&traceid=V0-101-fbffc2b5d6989e73&mcid=e8001fe3d3964b0d9881bb7f333a353b&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9803415998",
+    "title": "멀티 스텐 만능채칼 다용도 파채칼 채썰기 병뚜껑 오프너 필러 감자칼 과일 껍질제거기 파 절단기, 1개, 원목색",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/85f7/87ad766630cce3da5fbc744c6c25645ae250a0127d5ba2a45c83d52a9f6b.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/85f7/87ad766630cce3da5fbc744c6c25645ae250a0127d5ba2a45c83d52a9f6b.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/6105/aad55952d3b717bd9a1b70badbc47aeb8f2a4ec6ae83c689a65b2bd58015.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8684/b7e672e1fd50ae9b1ee7471832ca8778a8670d82fa1ff96b5fcc952775db.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/76a5/4f2d8035074c69ae68aa619da3aac851d023e1aab3ba5e56efc0cfd7da67.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/89ed/49e29767d03bf3a3e84c5306cc19a9414ffdb9ea3899fe95070fe382e1bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f0cc/304ede0917575f6b885d29e9213cae706a6aa2b55cdf1a6a56bc0d200152.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7aba/2a7822c3ed99d09b2f5f355620d07349f4e584ec0baad43bec8a9b8b7d9c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ab54/72d8ce8af86cd8a59341cdb27b5c0379f24759c8c10d1493a16600bdafc7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iP3iZXefKK"
+    ],
+    "image_path": "images/02_멀티_스텐_만능채칼_다용도_파채칼_채썰기_병뚜껑_오프너_필러_감자칼_과일.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "당근 채썰기 귀찮아서 대충 썰었는데 이거 쓰니까 진짜 식당처럼 나와서 혼자 뿌듯함 ㅋㅋ 감자 껍질도 이걸로 벗기니까 살림이 단순해진 것 같아서 더 좋음 🥕",
+    "b": "파 채썰기 하다가 손 베일 뻔한 적 있는데 이거 쓰니까 그냥 쓱쓱 되더라. 목재 손잡이라 잡기도 편하고, 요리 시간이 확 줄어서 주방에 서있는 게 덜 힘들어짐 🍳"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "go2233_2233",
+    "url": "https://www.threads.com/@go2233_2233/post/DgJFAFnksgP",
+    "views": 752,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 1.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iW2ZWUQA68",
+    "final_url": "https://www.coupang.com/vp/products/8393759227?itemId=26340917671&src=1139000&spec=10799999&addtag=400&ctag=8393759227&lptag=AF6081996&itime=20261126181547&pageType=PRODUCT&pageValue=8393759227&wPcid=17905526599079763164544&wRef=&wTime=20261126181547&redirect=landing&traceid=V0-101-cc9b5a91829542ea&mcid=f51981b629f945babc0f4a5ac2e2205d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8393759227",
+    "title": "에스네이처 아쿠아 스쿠알란 수분크림, 80ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4d67/09b753a41b86ffb3e76367ee9342cce0f2256248938e5c6f3f80584be60f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/4d67/09b753a41b86ffb3e76367ee9342cce0f2256248938e5c6f3f80584be60f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qtlxx8ti/241feb67f2994850852c19a3df3593c7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196491327164830-979d6602-5deb-48c5-ade9-0a19faa5eea8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196491229505963-115b3eb8-19c8-4ec2-aa30-ba4c29f021bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/39574518394507-01cecc59-e0f6-4825-bce7-7a07710190ea.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196559945679176-5390c643-fea2-44b9-9829-6bf14cabd302.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196559945594809-2dcf9a08-a796-4d5c-a3c8-a75220cb2230.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/197842278338321-3fd0fc3e-e572-4c58-9ea9-9105a542f101.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iW2ZWUQA68"
+    ],
+    "image_path": "images/03_에스네이처_아쿠아_스쿠알란_수분크림,_80ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "수분크림 여러 개 써봤는데 이 튜브형이 양 조절이 편해서 계속 손이 가더라. 자기 전에 얇게 펴 바르고 자면 다음날 아침 피부가 좀 달라진 느낌이야 🌙",
+    "b": "건식이라 낮에 당기는 게 늘 고민이었는데 얘 쓰면서 좀 덜한 것 같더라. 발림이 무겁지 않아서 메이크업 전에 써도 답답하지 않고, 하루 종일 뭔가 편안한 느낌 ✨"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "do.do.summer",
+    "url": "https://www.threads.com/@do.do.summer/post/DgFYeH2o9Bv",
+    "views": 719,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUIwDfGMUu",
+    "final_url": "https://www.coupang.com/vp/products/8535474750?itemId=24944289543&src=1139000&spec=10799999&addtag=400&ctag=8535474750&lptag=AF5931569&itime=20261126181555&pageType=PRODUCT&pageValue=8535474750&wPcid=17905526599079763164544&wRef=&wTime=20261126181555&redirect=landing&traceid=V0-101-a95703f8afb3ee93&mcid=28d6eae611dd4e8c837d8ac372fdcda6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8535474750",
+    "title": "만타 MANTA 두피 케어 헤어 브러쉬",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0ef8/c7cff86e1d75b82c34bb5fd964b8df45b9d18f7fe50036a07552a6125d06.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0ef8/c7cff86e1d75b82c34bb5fd964b8df45b9d18f7fe50036a07552a6125d06.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/4369/2c9b1a42955d939f77e03c100db9314a09020727003ecd19e08eb849f4c7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7d4b/fd82c6bd4dfa88a047070929d18823001b686c2740f85d757c158afec3e3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/07f1/0aecc4bb2c62e19e34152d05f85b34d0bae37d819f11e1caf72ddbd3dae7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e42/ca71563f0053b9ba9bdea0d3452078dab1d9f9f3d1afed82799fee3dc08f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eb94/03b581f29eb95dc9c55658cd8cc23686eb2b98196e5b0a577ee741177208.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUIwDfGMUu"
+    ],
+    "image_path": "images/04_만타_MANTA_두피_케어_헤어_브러쉬.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "머리 빗는 거에 이렇게 돈 쓸 줄 몰랐는데... 이 브러시 쓰고 나서 머리카락 끊기는 게 줄어든 것 같고 뭔가 아끼는 느낌이 생겼어. 여행용 파우치도 같이 와서 외출할 때 챙기기 편함 🌿",
+    "b": "샤워 후 엉킨 머리 빗을 때 맨날 아팠는데 이거 쓰니까 훨씬 덜 당기더라. 두피 마사지 되는 느낌도 있어서 괜히 빗는 시간이 길어지고 뭔가 루틴이 생긴 기분 💆"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "seoyeni020709",
+    "url": "https://www.threads.com/@seoyeni020709/post/DgGdThaI2tR",
+    "views": 237,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.4,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUXvkCMwgK",
+    "final_url": "https://www.coupang.com/vp/products/9160821478?itemId=26983196093&vendorItemId=94821118196&src=1139000&spec=10799999&addtag=400&ctag=9160821478&lptag=AF9013486&itime=20261126181602&pageType=PRODUCT&pageValue=9160821478&wPcid=17905526599079763164544&wRef=&wTime=20261126181602&redirect=landing&traceid=V0-801-83af65b6a9edac0f&mcid=918ac2fec9c7460588757a1fc024be19&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=0441628529&subid=&campaigntype=&puid=&ctime=1795449163&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9160821478",
+    "title": "미쓰비시 연필 샤프 펜 쿠루토가 다이브 0.5mm M550001P (A.33 어비스 블루)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f516/b6a293b7400e4194cb345286c438086013878e821169b45080ebaf3d6f92.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f516/b6a293b7400e4194cb345286c438086013878e821169b45080ebaf3d6f92.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUXvkCMwgK"
+    ],
+    "image_path": "images/05_미쓰비시_연필_샤프_펜_쿠루토가_다이브_0.5mm_M550001P_(A..jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "색 보고 그냥 질렀는데 어비스 블루가 진짜 예쁨... 필기하다 심이 뭉툭해지는 게 덜한 것 같은 느낌이고, 공부하기 싫어도 이거 꺼내고 싶어서 책상 앞에 앉게 되더라 🩵",
+    "b": "평소에 샤프 아무거나 쓰던 사람인데 이 파란색 보고 갑자기 욕심 생겼음 ㅋㅋ 쓰다 보니 필기선이 일정한 느낌이라 노트 정리할 때 뭔가 뿌듯하고, 꺼낼 때마다 기분 좋음 ✏️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "siiisoo_1",
+    "url": "https://www.threads.com/@siiisoo_1/post/DgFTjnJD7gq",
+    "views": 145,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iTgGOp4zZs",
+    "final_url": "https://www.coupang.com/vp/products/9785345958?src=1139000&spec=10799999&addtag=400&ctag=9785345958&lptag=AF9292762&itime=20261126181609&pageType=PRODUCT&pageValue=9785345958&wPcid=17905526599079763164544&wRef=&wTime=20261126181609&redirect=landing&traceid=V0-183-fc8b10c8eff7cec6&mcid=2cc75e2c1463497290860040243b1abc&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9785345958",
+    "title": "말랑 초코멜로우 초코맛+딸기맛 혼합세트, 8개, 280g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3f38/ef1b6c078d2401aa02a14fb42f250513eff2daf8a742bd00cb2968ae16c8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3f38/ef1b6c078d2401aa02a14fb42f250513eff2daf8a742bd00cb2968ae16c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e0cf/125d640aed6cdfc8322a1900b99b1394a81dc2c942ff903e45dc598c45af.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7e41/c5d13d2a7d02f5481ec3cc261b8545fbecf74ade2181b45f6f2085fb7ea7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iTgGOp4zZs"
+    ],
+    "image_path": "images/06_말랑_초코멜로우_초코맛+딸기맛_혼합세트,_8개,_280g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "초코맛 딸기맛 섞여 있으니까 번갈아 먹어도 질리지 않더라... 겉은 초코인데 속 마시멜로가 말랑해서 식감이 진짜 재밌어. 넷플릭스 보면서 옆에 뒀다가 어느새 봉지 비워버림 😅",
+    "b": "소포장으로 20g씩 나눠져 있어서 괜히 조절되는 척하면서 먹게 됨 ㅋㅋ 초코맛이 기본인데 딸기맛이 꽤 맛있어서 얘가 먼저 없어지더라. 간식 고민 없어지니 하루가 편해짐 🍓🍫"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "ant_onio_k",
+    "url": "https://www.threads.com/@ant_onio_k/post/DgFSM7zmpap",
+    "views": 110,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iFYZW1LNca",
+    "final_url": "https://www.coupang.com/vp/products/4882113043?itemId=6357891400&src=1139000&spec=10799999&addtag=400&ctag=4882113043&lptag=AF1004177&itime=20261126181617&pageType=PRODUCT&pageValue=4882113043&wPcid=17905526599079763164544&wRef=&wTime=20261126181617&redirect=landing&traceid=V0-101-1ca34980834ecc71&mcid=340e3bcaa52842618d42a3e929c2d5a9&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "4882113043",
+    "title": "애니가드 황사 방역용 마스크 대형 KF94, 1개입, 50개, 블랙",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/266411385021427-10430586-7731-4100-8c4a-367259f08e41.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/266411385021427-10430586-7731-4100-8c4a-367259f08e41.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iFYZW1LNca"
+    ],
+    "image_path": "images/07_애니가드_황사_방역용_마스크_대형_KF94,_1개입,_50개,_블랙.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "황사 때마다 마스크 없어서 편의점 뒤지던 나... 이제 50개 쟁여두고 나니까 마음이 진짜 편해졌어. 블랙이라 옷이랑도 잘 어울리고 매일 쓰고 나가는 게 덜 귀찮음 🖤",
+    "b": "대형 사이즈라 얼굴에 여유가 있어서 하루 종일 써도 답답함이 덜하더라. 귀 끈도 안 아프고, 미세먼지 심한 날이 전보다 조금 덜 싫어진 것 같아 😷"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "yangilg",
+    "url": "https://www.threads.com/@yangilg/post/DgBwN5ggWuF",
+    "views": 80,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVBjq6fJ6W",
+    "final_url": "https://www.coupang.com/vp/products/8367803101?itemId=14024533837&vendorItemId=90973047275&src=1139000&spec=10799999&addtag=400&ctag=8367803101&lptag=AF3606769&itime=20261126181624&pageType=PRODUCT&pageValue=8367803101&wPcid=17905526599079763164544&wRef=&wTime=20261126181624&redirect=landing&traceid=V0-801-79561ca33483a3e4&mcid=025e87e6ed754a2fb3aff97cf09fbe0a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=040a04f02a&subid=&campaigntype=&puid=&ctime=1795482586&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8367803101",
+    "title": "이자녹스 옴므 2종 세트, 2세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/16080430725470-2e3c68db-d3da-4cbd-b421-6033d1b2833d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16080430725470-2e3c68db-d3da-4cbd-b421-6033d1b2833d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1187887742497406-d53adbe9-38d9-4525-96bc-a79d95a64f26.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1187887794647529-11e10ce6-00ea-45dd-80cf-b45e3191ebce.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339076650223-7aeb5ed2-0df0-483f-ba7b-827d69949883.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16018753929189-69e1a12e-91d3-4758-b801-c96eac4cfac9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339073462014-6499600d-e3d3-4126-9276-395d1c7d8abc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339026826803-0a91032b-239f-4ace-936f-94b5bd0b317d.PNG",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_483ecda7-565d-482b-9a2e-c1d8608776d2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVBjq6fJ6W"
+    ],
+    "image_path": "images/08_이자녹스_옴므_2종_세트,_2세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "남자 스킨케어 귀찮다고 대충 했는데 세트로 오니까 그냥 쓰게 됨 ㅋㅋ 쉐이빙 후에 쿨 터치 발라주면 화끈거리는 게 좀 가라앉는 느낌이고, 아침 루틴이 이걸로 마무리돼서 편함 💙",
+    "b": "아버지 선물로 샀는데 블루 패키지가 좀 고급스러워 보여서 다행이었음. 셰이브용이랑 에멀젼이 같이 오니까 따로 고를 필요 없고, 받으신 분도 나쁘지 않다고 하셔서 뿌듯함 😊"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "inghyoku",
+    "url": "https://www.threads.com/@inghyoku/post/DgFbcVjCM_3",
+    "views": 71,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUJzhm5v08",
+    "final_url": "https://www.coupang.com/vp/products/8664516064?itemId=25128189532&src=1139000&spec=10799999&addtag=400&ctag=8664516064&lptag=AF2617040&itime=20261126181631&pageType=PRODUCT&pageValue=8664516064&wPcid=17905526599079763164544&wRef=&wTime=20261126181631&redirect=landing&traceid=V0-101-52c7ce95e65e878e&mcid=0eda44193c154957954dcf3a49571ca6&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8664516064",
+    "title": "슈너글 온도감지 플러그 아기욕조",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/03/18/11/0/3bf0663d-ab75-4f30-b85e-873ddc97b408.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2025/03/18/11/0/3bf0663d-ab75-4f30-b85e-873ddc97b408.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/417027877253646-aeb5ca4b-8dfe-48e9-a346-34780a3efe42.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/102323213342790-d3b3baef-d299-4737-b231-2446f3977572.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/417104499609296-e36073a6-615e-4dc8-9995-36d24792645d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74665426497791-ba35d4d0-4552-442a-b529-bd60aa8c1603.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/74629368248630-8b75aa3a-66bf-4a7e-9e74-0f5b0adcab8c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/417095263816703-a74a4fbb-fe16-4b72-bd7a-4b9b77e40327.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/102342161703137-2683f878-4e13-4f6a-92ad-cd4b803b37a2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUJzhm5v08"
+    ],
+    "image_path": "images/09_슈너글_온도감지_플러그_아기욕조.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아기 목욕시킬 때마다 물 온도 불안했는데... 이 욕조에 눕혀놓으면 체형 맞게 받쳐줘서 혼자서도 훨씬 수월하더라. 목욕 시간이 줄어드니까 아기도 덜 울고 나도 덜 지침 🛁",
+    "b": "연한 크림색이라 욕실에 뒀을 때 진짜 귀여워서 혼자 뿌듯했음 ㅋㅋ 등받이 각도 덕분에 아기 미끄러질까봐 조마조마한 게 덜하더라. 그래서 목욕을 더 자주 시키게 됨 🌼"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "ivitahub",
+    "url": "https://www.threads.com/@ivitahub/post/DgFMJ9pGAu3",
+    "views": 69,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-23",
+    "age_days": 2.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUBaFVTJMz",
+    "final_url": "https://www.coupang.com/vp/products/9793804547?itemId=29323605128&src=1139000&spec=10799999&addtag=400&ctag=9793804547&lptag=AF3082714&itime=20261126181639&pageType=PRODUCT&pageValue=9793804547&wPcid=17905526599079763164544&wRef=&wTime=20261126181639&redirect=landing&traceid=V0-101-16a08e327b00df5d&mcid=708a07e00fa146deb43bb709fd05dc75&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9793804547",
+    "title": "(타이니홈) 단월재_45평 목조주택 모듈러주택 단독주택",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/706c/04c5161f646cb80b5aed7b2ca7c13836115e52c93ee485f909bad0788f6f.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/706c/04c5161f646cb80b5aed7b2ca7c13836115e52c93ee485f909bad0788f6f.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0f79/4a6e7ef7550c153fd2d6cad649a009d312402017f412962703e1e8e65e0e.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2b75/832cccbbf50eb67ed5d093271c71ff3147e1f7eb3f8fa14f38205f0a6ccb.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2e9c/5747b90defa3feb3194826a73aad8dcaa66d48ddb9f703eddc4b7ca36c47.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/23b7/a8b9d18248bca932e85a91cd04d4a664500b7d1d0d1c5826d5c508c0f5b6.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c6cd/1965500feae16278992d4de1a0821726c676e454d33304d8c1ac6d1e81c7.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b925/11bdaa4538dcd24f7ee7e53e8bb3126c4a1f667bd65d3d61b23b43cf8ee2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUBaFVTJMz"
+    ],
+    "image_path": "images/10_(타이니홈)_단월재_45평_목조주택_모듈러주택_단독주택.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "단독주택 꿈만 꾸다가 모듈러주택이라는 선택지 알고 진지하게 보는 중... 이 렌더링 창 보면 채광이 진짜 좋겠다 싶고, 마당 있는 집에서 살면 뭔가 달라질 것 같다는 생각이 계속 맴돌아 🏡",
+    "b": "나무 질감 외관이 취향이라 계속 보게 됨. 45평에 이 구성이면 가족이랑 살기 딱이겠다 싶고, 공기가 짧다는 것도 계속 마음에 걸려서 더 찾아보게 되더라 🌿"
+   }
+  }
+ ]
+}
