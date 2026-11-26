@@ -1,0 +1,471 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-27T08:00:02",
+  "stopped": false,
+  "finished_at": "2026-11-27T08:22:46"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "go2233_2233",
+    "url": "https://www.threads.com/@go2233_2233/post/DgJFAFnksgP",
+    "views": 764,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iW2ZWUQA68",
+    "final_url": "https://www.coupang.com/vp/products/8393759227?itemId=26340917671&src=1139000&spec=10799999&addtag=400&ctag=8393759227&lptag=AF6081996&itime=20261127081816&pageType=PRODUCT&pageValue=8393759227&wPcid=17905526599079763164544&wRef=&wTime=20261127081816&redirect=landing&traceid=V0-101-cc9b5a91829542ea&mcid=e473e1135c60465188cb33e7010da2f3&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8393759227",
+    "title": "에스네이처 아쿠아 스쿠알란 수분크림, 80ml, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/4d67/09b753a41b86ffb3e76367ee9342cce0f2256248938e5c6f3f80584be60f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/4d67/09b753a41b86ffb3e76367ee9342cce0f2256248938e5c6f3f80584be60f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qtlxx8ti/241feb67f2994850852c19a3df3593c7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196491327164830-979d6602-5deb-48c5-ade9-0a19faa5eea8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196491229505963-115b3eb8-19c8-4ec2-aa30-ba4c29f021bf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/39574518394507-01cecc59-e0f6-4825-bce7-7a07710190ea.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196559945679176-5390c643-fea2-44b9-9829-6bf14cabd302.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/196559945594809-2dcf9a08-a796-4d5c-a3c8-a75220cb2230.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/197842278338321-3fd0fc3e-e572-4c58-9ea9-9105a542f101.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iW2ZWUQA68"
+    ],
+    "image_path": "images/01_에스네이처_아쿠아_스쿠알란_수분크림,_80ml,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세안하고 나서 당기는 느낌이 싫어서 이거 써봤는데 흡수가 생각보다 빠르더라. 끈적임 없이 마무리되니까 메이크업 전에 쓰기도 괜찮음. 요즘 아침 루틴에 슬쩍 끼워넣는 중 🌿",
+    "b": "수분크림 여러 개 써봤는데 이 실버 튜브 꺼내놓으면 욕실이 왠지 그럴싸해 보임. 발림성이 가볍고 겉도는 느낌 없어서 낮에도 간간이 덧바르게 됨. 은근히 중독성 있어서 큰일 💧"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "workaholic_not",
+    "url": "https://www.threads.com/@workaholic_not/post/DgH1-utmCUw",
+    "views": 375,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iWi8K7zKDc",
+    "final_url": "https://www.coupang.com/vp/products/9688266539?itemId=28974341565&src=1139000&spec=10799999&addtag=400&ctag=9688266539&lptag=AF5561165&itime=20261127081826&pageType=PRODUCT&pageValue=9688266539&wPcid=17905526599079763164544&wRef=&wTime=20261127081826&redirect=landing&traceid=V0-101-ee7d816692b7d195&mcid=3a3c65f1483c4616843153616c650e49&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9688266539",
+    "title": "마켓오네이처 오그래놀라 오리온 미쯔 스모어, 260g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/10/15/4/7df58742-dbc8-44df-8add-9361fa312b87.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/08/10/15/4/7df58742-dbc8-44df-8add-9361fa312b87.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/49884982902093-9f7932e0-d4fd-4b0a-9c4c-8c84c67cec09.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/151726738972134-d9f0650d-d7f7-49b5-a345-b14a7add5714.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/49911209458811-4965d27f-59f5-462d-93a2-330b8327cc39.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/57106294072550-9a50df69-9ccb-49e8-8c0d-2ce80117462f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/151712201397096-dbf3146a-7e04-418c-8a49-ccb6ce4d3f32.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iWi8K7zKDc"
+    ],
+    "image_path": "images/02_마켓오네이처_오그래놀라_오리온_미쯔_스모어,_260g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침에 귀찮아서 우유에 그냥 말아먹었는데 미쯔 초코 조각이랑 그래놀라 조합이 생각보다 맛있어서 깜짝 놀람. 단맛이 세긴 한데 그게 또 아침을 버티게 해줌 ㅋㅋ 요즘 이게 아침밥임 🥣",
+    "b": "간식으로 그냥 집어먹다가 봉지 금방 비웠음... 바삭한 그래놀라에 마시멜로 느낌 조합이 손이 계속 가더라. 다음엔 요거트에 올려 먹어봐야겠다 싶어서 이미 한 봉 더 시킴 😋"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "imhxsu",
+    "url": "https://www.threads.com/@imhxsu/post/DgHk2seitug",
+    "views": 100,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/dGa4RY",
+    "final_url": "https://www.coupang.com/vp/products/5080406611?itemId=6803160391&src=1139000&spec=10799999&addtag=400&ctag=5080406611&lptag=AF4794560&itime=20261127081833&pageType=PRODUCT&pageValue=5080406611&wPcid=17905526599079763164544&wRef=&wTime=20261127081833&redirect=landing&traceid=V0-101-ec934aff103c9a17&mcid=7a3c5474d5de477289a57dfa07d42e9e&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5080406611",
+    "title": "스트룹와플 수제 네덜란드 쿠키",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8b13/3c460dff9937cc021e4ad28d79593293a83059f3893c8d8311f02713a061.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/8b13/3c460dff9937cc021e4ad28d79593293a83059f3893c8d8311f02713a061.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9444/9b97c51be5df421014fa160ed9a9e1768740f8355bc4d117facb81d8bdec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/85bd/8c4deccb78ed52f07181146015e4013ceecbf8eab227e9b3bcf63a3d5e69.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2897/a3c2e931f789fce267b51033696b2e9bacbf040ac81786c15e7d17feab48.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d301/9e7d9301f25a750214cee00100be326903c7dba41937e36561a0fd5c72e5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0960/5dcf25ffe37ad67d99c594ac179011c94fb7ae755a12d6ff6624e82585f9.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/dGa4RY"
+    ],
+    "image_path": "images/03_스트룹와플_수제_네덜란드_쿠키.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "반으로 떼는 순간 카라멜 시럽이 쭈욱 늘어나는데 그 비주얼에 완전 넘어갔음. 따뜻한 커피 위에 올려두면 시럽이 살짝 녹아서 더 맛있더라. 이거 먹고 나서 그냥 과자 못 먹음 ☕🧇",
+    "b": "카페에서나 먹는 거 줄 알았는데 집에서도 이렇게 먹을 수 있는 거였음. 겉은 바삭하고 안에 시럽이 쫀득해서 질감이 되게 독특해. 혼자 홀짝홀짝 먹다 보면 순식간에 없어짐 🍯"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "yangilg",
+    "url": "https://www.threads.com/@yangilg/post/DgBwN5ggWuF",
+    "views": 80,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVBjq6fJ6W",
+    "final_url": "https://www.coupang.com/vp/products/8367803101?itemId=14024533837&vendorItemId=90973047275&src=1139000&spec=10799999&addtag=400&ctag=8367803101&lptag=AF3606769&itime=20261127081840&pageType=PRODUCT&pageValue=8367803101&wPcid=17905526599079763164544&wRef=&wTime=20261127081840&redirect=landing&traceid=V0-801-79561ca33483a3e4&mcid=4fc941f8364d4229a2179b628cfb8a1d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=040a04f02a&subid=&campaigntype=&puid=&ctime=1795482586&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8367803101",
+    "title": "이자녹스 옴므 2종 세트, 2세트",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/16080430725470-2e3c68db-d3da-4cbd-b421-6033d1b2833d.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16080430725470-2e3c68db-d3da-4cbd-b421-6033d1b2833d.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1187887742497406-d53adbe9-38d9-4525-96bc-a79d95a64f26.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1187887794647529-11e10ce6-00ea-45dd-80cf-b45e3191ebce.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339076650223-7aeb5ed2-0df0-483f-ba7b-827d69949883.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/16018753929189-69e1a12e-91d3-4758-b801-c96eac4cfac9.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339073462014-6499600d-e3d3-4126-9276-395d1c7d8abc.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/119339026826803-0a91032b-239f-4ace-936f-94b5bd0b317d.PNG",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_483ecda7-565d-482b-9a2e-c1d8608776d2.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVBjq6fJ6W"
+    ],
+    "image_path": "images/04_이자녹스_옴므_2종_세트,_2세트.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "남자친구 선물로 샀는데 에프터쉐이브랑 에멀전 세트라 면도하고 나서 쓰기 딱이라고 하더라. 박스도 예쁘게 되어있어서 받자마자 좋아하던 표정이 아직도 생각남. 선물 괜찮게 골랐다 싶어서 뿌듯 😌",
+    "b": "오빠가 스킨케어 아무거나 쓰길래 이거 챙겨줬더니 이제 아침에 꼬박꼬박 바르더라. 쿨 터치 에프터쉐이브가 면도 후에 시원하다고 본인도 마음에 든대. 이런 반응 처음 봄 ㅋㅋ 💙"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "jalsatda.shop",
+    "url": "https://www.threads.com/@jalsatda.shop/post/DgHvJHNjlgD",
+    "views": 61,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iUdh9cTiFg",
+    "final_url": "https://www.coupang.com/vp/products/8729115745?src=1139000&spec=10799999&addtag=400&ctag=8729115745&lptag=AF2948947&itime=20261127081847&pageType=PRODUCT&pageValue=8729115745&wPcid=17905526599079763164544&wRef=&wTime=20261127081847&redirect=landing&traceid=V0-183-c054456fc302c5b1&mcid=4ea4c3df223f47919d9a39d68074de69&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8729115745",
+    "title": "유닉스 세라믹 판고데기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f586/1167ce32ea63410ccbf04d17640d3eaa62b5fee655c3c6b74799adf7592a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/f586/1167ce32ea63410ccbf04d17640d3eaa62b5fee655c3c6b74799adf7592a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9aac/9950b868169747d349aeb94fcaeda75136d9847e4f622455737db232bd62.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/001b/a13d7f34ffa7b9d302d5784f1a6b2ea58bf88dfb4b1ba7e4f5cc396d62db.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fe73/ef58c10f1ff33e3979920e446cdc745de924488081a83988b6e594b16a37.JPG",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/398a/c84f0886c9f65f41c749044c57d86b8c93b0bfc4cc74a09f52c2f0f03689.JPG"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iUdh9cTiFg"
+    ],
+    "image_path": "images/05_유닉스_세라믹_판고데기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "아침마다 머리 세팅 시간 줄이고 싶어서 썼는데 열이 빨리 오르고 판이 넓어서 한 번에 쭉 펴지더라. 세라믹 판이라 그런지 걸리는 느낌 없이 미끄러지듯 넘어가서 너무 편함. 아침 준비 시간이 진짜 줄었음 ✨",
+    "b": "여행 갔다가 머리 엉망 됐는데 이거 챙겨간 덕에 살았음. 온도 조절이 세밀해서 처음 쓰는 사람도 겁먹지 않아도 됨. 친구한테 써보게 했더니 본인도 사고 싶다고 난리임 🖤"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "hmookja",
+    "url": "https://www.threads.com/@hmookja/post/DgHiEHLIK_r",
+    "views": 49,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVA4sKgDls",
+    "final_url": "https://www.coupang.com/vp/products/5842439886?itemId=19871634974&vendorItemId=86972343432&src=1139000&spec=10799999&addtag=400&ctag=5842439886&lptag=AF1834330&itime=20261127081855&pageType=PRODUCT&pageValue=5842439886&wPcid=17905526599079763164544&wRef=&wTime=20261127081855&redirect=landing&traceid=V0-183-6d51277890373a86&mcid=b8835609f6834ec0a9c2eeaab674a400&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=chonggwal&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "5842439886",
+    "title": "풀무원 무농약 특등급 국산콩 콩나물, 200g, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/30475021322528-2a7be2ca-7bf0-4419-af35-2d44e4292de8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/30475021322528-2a7be2ca-7bf0-4419-af35-2d44e4292de8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/31078019459567-3e844ee9-b3b9-4c56-9b23-95bbf056155a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/135569531684860-c71d0314-a5e2-402c-b844-bf30c9f16e71.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1458994995661581-18a405d7-68cf-4f00-9758-691a3e723bb7.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/50951653100972-cc0efc77-292c-4caf-8811-c12ca342bedc.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/46971849172664-62c0878c-5286-4aa7-b5df-5aa70ec44855.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/203893949364987-733da267-266a-44d2-86c8-b59c58db61ae.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVA4sKgDls"
+    ],
+    "image_path": "images/06_풀무원_무농약_특등급_국산콩_콩나물,_200g,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "콩나물국 끓이려고 샀는데 콩 머리가 멀쩡하고 줄기도 가지런해서 손질이 편하더라. 특등급이라 그런지 뭔가 더 단단하고 아삭한 식감. 집밥 만들 때 믿고 집는 재료가 됐음 🌱",
+    "b": "콩나물무침 해 먹으려고 샀는데 무농약이라는 거 보고 괜히 더 맘 편하게 먹게 됨. 볶음밥에 넣어도 흐물거리지 않고 아삭함이 살아있어서 좋더라. 이제 콩나물은 이것만 삼 🥬"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "tripspoon",
+    "url": "https://www.threads.com/@tripspoon/post/DgH2hL1j8A8",
+    "views": 43,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.5,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iAebMgYwwe",
+    "final_url": "https://www.coupang.com/vp/products/6107820903?src=1139000&spec=10799999&addtag=400&ctag=6107820903&lptag=AF2066138&itime=20261127081902&pageType=PRODUCT&pageValue=6107820903&wPcid=17905526599079763164544&wRef=&wTime=20261127081902&redirect=landing&traceid=V0-181-998759ea2b4bb743&mcid=7b917399517b45f1b4b0487dba5a28c2&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6107820903",
+    "title": "시프이컴 PTC 미니 온풍기",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/1758787278836000-4445bf98-b156-461b-a3a6-4ff7fb42cfb1.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1758787278836000-4445bf98-b156-461b-a3a6-4ff7fb42cfb1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2021/10/05/14/1/43122b81-eada-42ab-9807-192c3e660db2.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iAebMgYwwe"
+    ],
+    "image_path": "images/07_시프이컴_PTC_미니_온풍기.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "책상 위에 두기 딱인 사이즈라 올겨울 방에서 계속 켜놓고 있음. 나무 느낌 디자인이 인테리어랑 안 튀어서 그것도 맘에 들고 금방 따뜻해지더라. 작은데 열기가 생각보다 세서 놀람 🔥",
+    "b": "소음이 거의 없어서 혼자 집중할 때 켜둬도 방해가 안 돼. 욕실 쓸 때 잠깐 켜두는 용도로 쓰는데 이게 진짜 짭짤하게 쓰임. 올겨울 완전히 이거한테 의지하는 중 🍂"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "pawhug_kr",
+    "url": "https://www.threads.com/@pawhug_kr/post/DgHkyKvEhyK",
+    "views": 37,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iV6dHBt9Eq",
+    "final_url": "https://www.coupang.com/vp/products/9730438255?itemId=29476588276&vendorItemId=96042456223&src=1191000&spec=10999999&addtag=400&ctag=9730438255&lptag=CFM00399678&itime=20261127081910&pageType=PRODUCT&pageValue=9730438255&wPcid=17905526599079763164544&wRef=&wTime=20261127081910&redirect=landing&abTestInfo=&mcid=a5a84484da054c8c821881c6e8a0308b&sharesource=sharebutton&style=&isshortened=Y&settlement=N",
+    "product_id": "9730438255",
+    "title": "[포우허그] 길고양이 비닐하우스 대형 야외 겨울집 보호텐트 타포린 방수 왕튼튼",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eef1/1b88644db9ce2c1a2bcb5f4ca5a26520aad9c84203972b14e00d72fab67e.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/eef1/1b88644db9ce2c1a2bcb5f4ca5a26520aad9c84203972b14e00d72fab67e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/38fb/8fe4cb157879b8135b083e9670e0c3f93dae7bcd5f0b9e779b6afea155c0.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/219c/d2bfa896a082e8c0933b834e944e2cf32107e2a5182e8a9a876c4b877852.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/72d3/050ada0e1e79a05ad5081c26345a4af01f25cae1aea8abda6d9cce4cc86e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/fa9b/97a46425e140f967b3637fa7c38d516e45b3a5cbec7d3880e345c3d51ded.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/219b/3819e2d6f3be7578774d617ab97b4061130d0e8a387c60063165c32abd29.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=Suvu6tUwBAw",
+     "https://www.youtube.com/watch?v=kR-QSc7BhW0",
+     "https://www.youtube.com/watch?v=hsOdmuD5_HI",
+     "https://www.youtube.com/watch?v=Ux4mtZ_GdZo",
+     "https://www.youtube.com/watch?v=AkVi08IXfSU",
+     "https://www.youtube.com/watch?v=wCx5FzlmqUo",
+     "https://www.youtube.com/watch?v=4CW0zON23UU"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iV6dHBt9Eq"
+    ],
+    "image_path": "images/08_[포우허그]_길고양이_비닐하우스_대형_야외_겨울집_보호텐트_타포린_방수_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "동네 고양이들 겨울 나는 게 걱정돼서 뒷골목에 하나 설치해줬는데 타포린 소재라 비 맞아도 끄떡없더라. 고양이 한 마리가 자리 잡고 앉아있는 거 보고 괜히 뭉클했음. 잘 썼다 싶어 🐱",
+    "b": "눈 쌓여도 무너지지 않고 버텨줘서 진짜 든든함. 입구에 롤업 커튼이 달려있어서 고양이가 드나들기 편하겠더라. 추위에 떠는 애들 볼 때마다 하나 더 놓고 싶어짐 ❄️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "kjin.han",
+    "url": "https://www.threads.com/@kjin.han/post/DgJBSeDho9y",
+    "views": 35,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iNkWQqrZ5U",
+    "final_url": "https://www.coupang.com/vp/products/9641961057?itemId=28810988449&src=1139000&spec=10799999&addtag=400&ctag=9641961057&lptag=AF4737267&itime=20261127081917&pageType=PRODUCT&pageValue=9641961057&wPcid=17905526599079763164544&wRef=&wTime=20261127081917&redirect=landing&traceid=V0-183-7ae16c78b2682360&mcid=ff6208f3d9364c65b1fe388518b8a91f&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9641961057",
+    "title": "루캔필 테슬라 센터콘솔 트레이",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/7z4cvcbq/8152f0557b35464cbf17a6092c0c412d.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/7z4cvcbq/8152f0557b35464cbf17a6092c0c412d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/09/12/5/4fc6ad77-f091-40e3-9f6a-f445362efe36.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/09/12/9/e5e13b70-4e42-4d63-8c89-fa9c74b339fb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/09/12/4/dcebe303-b647-44a2-803a-c7210460ce8d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/2026/07/09/12/6/493b31af-22e2-4d57-80ed-007b23878eb9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/rs_quotation_api/qy1zsowf/a1dcab9d50f14b42bcfb4e85c425aa7e.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_7acdcb7b-ee36-4ac7-8c9a-35e175888a36.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iNkWQqrZ5U"
+    ],
+    "image_path": "images/09_루캔필_테슬라_센터콘솔_트레이.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "테슬라 센터콘솔이 너무 허전하고 물건 다 굴러다녀서 이거 넣었더니 딱 맞아서 짜릿했음. 칸이 나뉘어있어서 카드랑 케이블 따로 정리되는 게 너무 편하더라. 차 탈 때마다 괜히 뿌듯함 🚗",
+    "b": "차 안에서 뭔가 자꾸 잃어버려서 넣어봤는데 맞춤 제작한 것처럼 딱 들어맞음. 고무 소재라 움직이지도 않고 소음도 없어서 운전 중에 신경 안 써도 됨. 이거 없는 테슬라 못 타겠다 🖤"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "going0223",
+    "url": "https://www.threads.com/@going0223/post/DgHV6AWkRVJ",
+    "views": 34,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-24",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVYJaueTbU",
+    "final_url": "https://www.coupang.com/vp/products/9154801398?itemId=27404037558&src=1139000&spec=10799999&addtag=400&ctag=9154801398&lptag=AF6081996&itime=20261127081924&pageType=PRODUCT&pageValue=9154801398&wPcid=17905526599079763164544&wRef=&wTime=20261127081924&redirect=landing&traceid=V0-101-e3aeaeaa5f29aab7&mcid=0b8bb27601f04c0d83ca4f8cea47ba0d&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9154801398",
+    "title": "다우니 위드 레노아 향기부스터 화이트티, 1개, 205g",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/426072992249841-d86ef885-c9ff-47fd-9b84-f299d003d36f.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/426072992249841-d86ef885-c9ff-47fd-9b84-f299d003d36f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280894177837682-0b65fe35-19d2-43b3-a668-27735b1e6be2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280894677859901-70c529cd-388f-4436-9ea8-e02816a25965.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/86650042623365-d3f3fee3-67f3-4aa1-8642-cd0e77f2552a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280895817255400-0103533b-2035-44bc-b2a7-f03fded39a16.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280896242774203-3bcb02f9-f6c6-43b7-a863-610057092ce1.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280896725335653-8474bb9d-bb7b-48f9-ac2f-45a595a52efa.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/280897010473564-77b89bf8-2a5a-4f02-a5ad-b127e3aeb1f7.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVYJaueTbU"
+    ],
+    "image_path": "images/10_다우니_위드_레노아_향기부스터_화이트티,_1개,_205g.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "세탁기 돌릴 때 같이 넣었더니 옷에서 화이트티 향이 은은하게 나더라. 건조기 돌리고 나서도 향이 안 사라져서 옷장 열 때마다 기분이 좋아짐. 이 향 완전 내 취향임 🌿",
+    "b": "처음엔 향 너무 강하면 어떡하나 걱정했는데 생각보다 은은하고 고급스러운 느낌. 이불 세탁할 때 넣었더니 자려고 누웠을 때 향이 올라오는 게 되게 좋더라. 요즘 세탁하는 게 기다려짐 🧺"
+   }
+  }
+ ]
+}
