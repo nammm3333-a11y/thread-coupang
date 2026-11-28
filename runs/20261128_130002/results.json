@@ -1,0 +1,444 @@
+{
+ "settings": {
+  "keyword": "link.coupang.com",
+  "top_n": 10,
+  "daily_min_age_hours": 48,
+  "daily_max_age_hours": 72,
+  "daily_check_n": 30,
+  "min_views": 1000,
+  "popular_limit": 60,
+  "recent_minutes": 3,
+  "weekly_auto": true,
+  "weekly_check_limit": 150,
+  "weekly_top": 20,
+  "weekly_min_age_days": 3,
+  "weekly_window_days": 10,
+  "make_posts": true,
+  "post_model": "sonnet",
+  "make_videos": false,
+  "clean_text": true
+ },
+ "meta": {
+  "kind": "daily",
+  "title": "쿠파스 제품 · 올라온 지 48~72시간 글 조회수 순",
+  "started_at": "2026-11-28T13:00:02",
+  "stopped": false,
+  "finished_at": "2026-11-28T13:21:06"
+ },
+ "results": [
+  {
+   "rank": 1,
+   "popular_rank": 1,
+   "threads": {
+    "author": "hot_official_kr",
+    "url": "https://www.threads.com/@hot_official_kr/post/DgKi58NjUgL",
+    "views": 1200,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iCFQ4GGfqm",
+    "final_url": "https://www.coupang.com/vp/products/20283337?itemId=80447040&src=1139000&spec=10799999&addtag=400&ctag=20283337&lptag=AF5058117&itime=20261128131548&pageType=PRODUCT&pageValue=20283337&wPcid=17905526599079763164544&wRef=&wTime=20261128131548&redirect=landing&traceid=V0-101-a2da90a53a546365&mcid=59bb60cb7531421cb74b4cc08f78a9b5&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "20283337",
+    "title": "개새끼들(상)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/c13e/bfc844574f9867536f94fe43f637b0c7d1b2243a20610c81210b50d6a0ae.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c13e/bfc844574f9867536f94fe43f637b0c7d1b2243a20610c81210b50d6a0ae.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iCFQ4GGfqm"
+    ],
+    "image_path": "images/01_개새끼들(상).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "제목에 겁먹고 한참 망설였는데 결국 질렀음. 읽다 보니 오싹한 현실 묘사에 손 멈추게 됨. 오랜만에 밤새워 읽은 소설 📖",
+    "b": "아무 생각 없이 펼쳤다가 새벽 두시에 아직도 읽고 있었음. 주인공들 감정선이 예상 밖으로 세밀해서 놀랐음. 하편도 바로 질렀다 😶"
+   }
+  },
+  {
+   "rank": 2,
+   "popular_rank": 2,
+   "threads": {
+    "author": "han_jeong_se",
+    "url": "https://www.threads.com/@han_jeong_se/post/DgKjpzAEwMm",
+    "views": 706,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iX31BjozT2",
+    "final_url": "https://www.coupang.com/vp/products/8663427803?itemId=25144476565&src=1139000&spec=10799999&addtag=400&ctag=8663427803&lptag=AF4688641&itime=20261128131556&pageType=PRODUCT&pageValue=8663427803&wPcid=17905526599079763164544&wRef=&wTime=20261128131556&redirect=landing&traceid=V0-101-a19c6f066702f9f2&mcid=b3cd797db26c4e9792604c03e97e3591&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8663427803",
+    "title": "쏘니 피규어 차량용 장식인형 움직이는 피규어 쏜 자동차 대시보드 꾸미기 축구선수 악세서리, 1개, 손흥민(레드)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e4af/86da4864bac0bc17238cc7a0a2e4ddd91acf80d048d3ddea97a2a5afdb20.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e4af/86da4864bac0bc17238cc7a0a2e4ddd91acf80d048d3ddea97a2a5afdb20.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d159/c50f8dc96e55a62d0dae8b524fef6d8d29e2e6ef96bbe0964c09251a13c0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/0760/fcf2e75e59c9b521c971a7306d669f7d06a36ee0d8fc3144b1fcd4d17821.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/5bd7/3261b5d261e97032cd511e7dccacf6fa45d2223d664fd039e228c02f5e23.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/e1f5/d4684b49c828671bab447cd1d4895da53eeaea9d9c260d93c90fe5cc49d3.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/a239/c5921f0b248c99f5c559b2a3a19dd74e42e658486babe548c2ce386a24fd.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iX31BjozT2"
+    ],
+    "image_path": "images/02_쏘니_피규어_차량용_장식인형_움직이는_피규어_쏜_자동차_대시보드_꾸미기_.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "차에 타면 쏘니가 흔들리며 맞아줌 ㅋㅋ 7번 유니폼이 진짜 디테일하게 새겨져 있음. 볼 때마다 기분 좋아지는 거 부정 못 함 ⚽",
+    "b": "대시보드에 올려뒀더니 조수석 탄 사람마다 뭐냐고 물어봄. 흔들리는 거 보면 살아있는 것 같아서 이상하게 애착 생김. 쏘니한테 미안하지만 너무 귀여움 😂"
+   }
+  },
+  {
+   "rank": 3,
+   "popular_rank": 3,
+   "threads": {
+    "author": "jee_youn88",
+    "url": "https://www.threads.com/@jee_youn88/post/DgMIIMtGkIf",
+    "views": 213,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-26",
+    "age_days": 2.0,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iVUqJx1Hzg",
+    "final_url": "https://www.coupang.com/vp/products/8567556045?itemId=25863018229&src=1139000&spec=10799999&addtag=400&ctag=8567556045&lptag=AF8137824&itime=20261128131603&pageType=PRODUCT&pageValue=8567556045&wPcid=17905526599079763164544&wRef=&wTime=20261128131603&redirect=landing&traceid=V0-101-5c81e4e95bbfaa03&mcid=2aa26900250c4b4a8f97debb310737a8&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8567556045",
+    "title": "수지스 멀티씨드 닭안심살 1kg, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/7c6a/ee260041ec614904e89e0d44381c0682818faff7292520eec6b3a7d6e7ee.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/7c6a/ee260041ec614904e89e0d44381c0682818faff7292520eec6b3a7d6e7ee.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iVUqJx1Hzg"
+    ],
+    "image_path": "images/03_수지스_멀티씨드_닭안심살_1kg,_1개.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "닭안심살이라 그런지 퍽퍽함이 없어서 좋음. 씨드 뿌려져 있어서 그냥 먹어도 심심하지 않음. 냉동고에 쟁여두고 꺼내 먹는 패턴 생겨버림 🍗",
+    "b": "다이어트 중에 간식으로 꺼내 먹는데 생각보다 맛있어서 놀람. 1kg이라 양이 충분해서 한참 먹음. 질릴 줄 알았는데 아직도 맛있음 ✌️"
+   }
+  },
+  {
+   "rank": 4,
+   "popular_rank": 4,
+   "threads": {
+    "author": "alskkkkak",
+    "url": "https://www.threads.com/@alskkkkak/post/DgKlRvfJcCN",
+    "views": 162,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.6,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iX4msDofpQ",
+    "final_url": "https://www.coupang.com/vp/products/7953667738?itemId=21964580957&src=1139000&spec=10799999&addtag=400&ctag=7953667738&lptag=AF5622889&itime=20261128131611&pageType=PRODUCT&pageValue=7953667738&wPcid=17905526599079763164544&wRef=&wTime=20261128131611&redirect=landing&traceid=V0-101-cc92a1e072d98700&mcid=a2eec0511ab44b62ad7240a7e22ffe19&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "7953667738",
+    "title": "곰곰 베이컨 체다치즈 계란빵 (냉동)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/8f1c/d9dcf7141a904edebcec6a43c246c45a8bd48cb7e63d452842fedb94a41a.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/8f1c/d9dcf7141a904edebcec6a43c246c45a8bd48cb7e63d452842fedb94a41a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/605157392164243-79fbfe01-16ea-4ed9-84d4-c1321a0f95cf.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/605157432619514-6f4047c8-b82d-4973-a7ab-a5682355945f.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/275606109545564-8f69d5fb-fda3-4b28-881d-d340447a5a0a.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/605028983642052-ca2c9a3a-8777-4203-9d4f-e203aecadd4c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/406318921815279-ab7859d0-804f-4e0e-91d5-f79a0a189510.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/605048282551056-822c24c0-d432-4115-9888-3b740a32afbf.jpg",
+     "https://image.coupangcdn.com/image/pdpcenterbanner/pdpcenterbanner_f8068a76-fd36-4345-bb0e-255b2ec642f6.png"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iX4msDofpQ"
+    ],
+    "image_path": "images/04_곰곰_베이컨_체다치즈_계란빵_(냉동).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "에어프라이어 5분이면 끝나는데 맛이 미침. 치즈가 쭉 늘어나고 계란이 촉촉함. 아침이 갑자기 행복해짐 ㅋㅋ 🧀",
+    "b": "냉동이라 대충 사봤는데 베이컨 체다치즈 조합이 너무 잘 어울림. 빵도 질기지 않고 부드러움. 이제 아침마다 돌려 먹는 중 🥚"
+   }
+  },
+  {
+   "rank": 5,
+   "popular_rank": 5,
+   "threads": {
+    "author": "eddy_jjjj",
+    "url": "https://www.threads.com/@eddy_jjjj/post/DgLy9Z7GB12",
+    "views": 146,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-26",
+    "age_days": 2.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iYQ03HU3si",
+    "final_url": "https://www.coupang.com/vp/products/9150828084?itemId=23742803694&src=1139000&spec=10799999&addtag=400&ctag=9150828084&lptag=AF4900293&itime=20261128131618&pageType=PRODUCT&pageValue=9150828084&wPcid=17905526599079763164544&wRef=&wTime=20261128131618&redirect=landing&traceid=V0-181-f97adfce32a80899&mcid=b0e6b6e0c7264bab82d3554c46260889&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9150828084",
+    "title": "HanilMedical 탄소열선 고급 전기요 HL-D205(25)",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/213045621520415-179662fb-0af6-47d8-8b45-f87ce362a55b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/213045621520415-179662fb-0af6-47d8-8b45-f87ce362a55b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1062022571791318-9066a5e0-4107-4517-8094-7c053c9f69d2.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1062022415857344-134c1ec3-049e-4ac4-b9e5-36fe24dc0beb.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232872558178941-7f68281a-67da-49a1-b4b4-99150e181d1e.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/232872426856852-0dc96cbf-8527-465d-b36e-74418d31c94b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/558550119478938-c18db4fb-989d-4296-8cb1-1c44fd4148e0.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/558550222942575-7a93b8f1-da9d-4679-94a0-3642f22718f5.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1062022572002251-91e8748e-e16e-45c2-acc1-9f5426606320.jpg"
+    ],
+    "videos": [
+     "https://www.youtube.com/watch?v=uwMiA1SFJIQ"
+    ],
+    "all_links": [
+     "https://link.coupang.com/a/iYQ03HU3si"
+    ],
+    "image_path": "images/05_HanilMedical_탄소열선_고급_전기요_HL-D205(25).jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "북극곰 패턴 보고 샀는데 디자인이 생각보다 귀여움. 깔고 자면 너무 따뜻해서 아침에 못 일어나는 게 문제임. 이불 밖은 위험해 🐻‍❄️",
+    "b": "원래 발이 차서 잠을 잘 못 잤는데 이거 깔고부터 달라짐. 열이 균일하게 퍼지는 느낌이라 한쪽만 뜨겁지 않음. 솔직히 진작 살걸 싶었음 🛏️"
+   }
+  },
+  {
+   "rank": 6,
+   "popular_rank": 6,
+   "threads": {
+    "author": "blingbling2222",
+    "url": "https://www.threads.com/@blingbling2222/post/DgKbT0Fn2pd",
+    "views": 134,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.7,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iXYqOMFSyy",
+    "final_url": "https://www.coupang.com/vp/products/9832926299?itemId=29452184412&src=1139000&spec=10799999&addtag=400&ctag=9832926299&lptag=AF1057858&itime=20261128131626&pageType=PRODUCT&pageValue=9832926299&wPcid=17905526599079763164544&wRef=&wTime=20261128131626&redirect=landing&traceid=V0-101-d50e2bce4ea5b339&mcid=591575f1a0b146cfa643011d53f74a49&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9832926299",
+    "title": "null - 호빵/찐빵",
+    "image_url": "https://image10.coupangcdn.com/image/mobile/v3/img_fb_like.png",
+    "gallery": [],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iXYqOMFSyy"
+    ],
+    "image_path": "images/06_null_-_호빵_찐빵.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "겨울에 호빵 하나 먹는 행복을 아는 사람은 알지. 손이 따뜻해지는 것만으로도 이미 반은 먹은 거임. 쩌서 먹으면 속까지 뭔가 채워지는 기분 🍞",
+    "b": "춥고 배고플 때 호빵만한 게 없더라. 편의점 가다가 발 돌려서 집에서 쪘는데 훨씬 맛있음. 뭔가 찐빵 먹을 때 마음도 같이 따뜻해짐 🫶"
+   }
+  },
+  {
+   "rank": 7,
+   "popular_rank": 7,
+   "threads": {
+    "author": "_salim_note_",
+    "url": "https://www.threads.com/@_salim_note_/post/DgMYaDeD1Sb",
+    "views": 120,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-26",
+    "age_days": 1.9,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iYW2x6G2h2",
+    "final_url": "https://www.coupang.com/vp/products/6148967073?itemId=11854822315&src=1139000&spec=10799999&addtag=400&ctag=6148967073&lptag=AF9738428&itime=20261128131700&pageType=PRODUCT&pageValue=6148967073&wPcid=17905526599079763164544&wRef=&wTime=20261128131700&redirect=landing&traceid=V0-101-5d0ac4c27a9fd2a9&mcid=f948014ab2484fdabee891e44c0bd95c&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "6148967073",
+    "title": "로디우스골드 1000g 1kg 포나인 LS 투자용 골드바 선물 소장 재테크",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3297/3c55ea904667928b85544806723450285ff59c6711e48f80a675d399bc1b.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3297/3c55ea904667928b85544806723450285ff59c6711e48f80a675d399bc1b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/314c/50137e98d188ac9dcb3aad27ee6f321343384e54a72654a24d569ca41d32.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/d519/75ee8fb66f0dc8515b3a8dcd72f91bacfba6b5583bfdc5f409672a70ef92.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/c727/2c0aad8326508138b4363660068b01da9f9427008aff1234474301bd744d.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/3704/d1f4b5282837c772858859448258e8cc41e4cc134192d7080ab70c4d0496.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/333e/e28c717463c0496ba971fff5f7d2aa197832c7108b38fb655bc7d8e043f0.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iYW2x6G2h2"
+    ],
+    "image_path": "images/07_로디우스골드_1000g_1kg_포나인_LS_투자용_골드바_선물_소장_재테.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "이걸 진짜 살 줄 몰랐는데 손에 쥐어보니 묵직해서 현실감이 없었음. 999.9 각인된 거 보면서 한참 넋 놓았다. 그냥 꺼내보는 것만으로도 뿌듯한 기분 🥇",
+    "b": "선물용으로 샀다가 나도 하나 갖고 싶어져서 결국 두 개 주문함. 반짝거리는 금빛이 사진으로는 담기지 않음. 실물이 훨씬 묵직하고 고급스럽게 느껴짐 ✨"
+   }
+  },
+  {
+   "rank": 8,
+   "popular_rank": 8,
+   "threads": {
+    "author": "cost_cut_lee",
+    "url": "https://www.threads.com/@cost_cut_lee/post/DgL816sD-zW",
+    "views": 101,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-26",
+    "age_days": 2.1,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iYLzgtmO4a",
+    "final_url": "https://www.coupang.com/vp/products/9832275979?itemId=29450052842&src=1139000&spec=10799999&addtag=400&ctag=9832275979&lptag=AF4027720&itime=20261128131707&pageType=PRODUCT&pageValue=9832275979&wPcid=17905526599079763164544&wRef=&wTime=20261128131707&redirect=landing&traceid=V0-101-7d970f7bec0ad3b5&mcid=0392e09f8bbf4c468ccaf173f9d89cf1&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9832275979",
+    "title": "일본 도시샤 고릴라 호카론 발가락 보온 양말 압박 하이삭스 23-25cm",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9e31/249dc25d5f2cde7eedb8c3f900def7941b3710602c70d84cc99460fffb39.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/9e31/249dc25d5f2cde7eedb8c3f900def7941b3710602c70d84cc99460fffb39.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iYLzgtmO4a"
+    ],
+    "image_path": "images/08_일본_도시샤_고릴라_호카론_발가락_보온_양말_압박_하이삭스_23-25cm.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "발가락이 트여 있는 양말 처음 써봤는데 생각보다 굉장히 편함. 무릎까지 올라와서 종아리까지 따뜻함. 겨울 내내 이것만 신고 있음 🧦",
+    "b": "고릴라 캐릭터가 귀여워서 샀는데 보온이 진짜로 잘 됨. 발가락 열려있는 게 오히려 압박감이 덜해서 오래 신어도 편함. 진작 살걸 싶었음 ☃️"
+   }
+  },
+  {
+   "rank": 9,
+   "popular_rank": 9,
+   "threads": {
+    "author": "hmookja",
+    "url": "https://www.threads.com/@hmookja/post/DgKG35zILdg",
+    "views": 87,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-25",
+    "age_days": 2.8,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/iW2PXtSLVA",
+    "final_url": "https://www.coupang.com/vp/products/9734956643?itemId=29133180065&vendorItemId=91417455300&src=1139000&spec=10799999&addtag=400&ctag=9734956643&lptag=AF1834330&itime=20261128131714&pageType=PRODUCT&pageValue=9734956643&wPcid=17905526599079763164544&wRef=&wTime=20261128131714&redirect=landing&traceid=V0-183-717fe94071c15e2f&mcid=a19c64837607415fb320ef431df66d50&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=&subid=chonggwal&campaigntype=&puid=&ctime=&portal=&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "9734956643",
+    "title": "[당일산란]영신팜스 농장직송 무항생제 HACCP 대란 계란, 30구, 2개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b87d/d2ddd24ccacb9eafb02aeb10d404aafe2c50c8883aae1eb69efcfa826967.png",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/b87d/d2ddd24ccacb9eafb02aeb10d404aafe2c50c8883aae1eb69efcfa826967.png",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ca2e/04da5337d66acede497ceb6c49ddbaa2202a47911e26c36d51c15c05286b.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/ffaf/c1f57e7bc753d01bd5d4a48f68c84b2b532efaace5a6a47fd22cb3f2446c.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/2955/f8a163dc39f37366732a2d22b0fe87f17d31e11f458703c1ac9e43dfef60.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/vendor_inventory/124d/118f4b35663b6bf75af21dba3e10c485b96b06dd7c4b86093865873eddc6.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/iW2PXtSLVA"
+    ],
+    "image_path": "images/09_[당일산란]영신팜스_농장직송_무항생제_HACCP_대란_계란,_30구,_2.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "당일산란이라 그런지 노른자가 되게 탱탱하더라. 60구라 많은 것 같아도 생각보다 금방 없어짐. 그 뒤로 계속 이것만 주문하는 중 🥚",
+    "b": "무항생제 인증 보고 선택했는데 그냥 먹어도 비린내가 안 남. 60구 묶음이라 넉넉하게 쓰기 좋음. 계란 떨어질 걱정 없이 사는 게 이런 느낌인가 🐓"
+   }
+  },
+  {
+   "rank": 10,
+   "popular_rank": 10,
+   "threads": {
+    "author": "yangilg",
+    "url": "https://www.threads.com/@yangilg/post/DgBwN5ggWuF",
+    "views": 80,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "posted_at": "2026-11-27",
+    "age_days": 1.2,
+    "hot_score": 0.0,
+    "tab": "인기",
+    "tab_rank": null
+   },
+   "coupang": {
+    "url": "https://link.coupang.com/a/i0uqBXBjC8",
+    "final_url": "https://www.coupang.com/vp/products/8531682796?itemId=675674822&vendorItemId=4741347840&src=1139000&spec=10799999&addtag=400&ctag=8531682796&lptag=AF3606769&itime=20261128131721&pageType=PRODUCT&pageValue=8531682796&wPcid=17905526599079763164544&wRef=&wTime=20261128131721&redirect=landing&traceid=V0-801-7406b6a8fc84cf94&mcid=6fab875cb0fd46baa375b5694dbca63a&pt=&campaignid=&clickBeacon=&imgsize=&slot=&pageid=&sig=0487ca0f43&subid=&campaigntype=&puid=&ctime=1795737088&portal=CREATOR&track=&landing_exp=&placementid=&puidType=&contentcategory=&tsource=&deviceid=&contenttype=&token=&impressionid=&requestid=&contentkeyword=&offerId=&sfId=&subparam=",
+    "product_id": "8531682796",
+    "title": "번개표 개별스위치 멀티탭 4구, 1.5m, 혼합색상, 1개",
+    "image_url": "//thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/44b9/1cde1571a5dd03b2c33f0a44d2692e6642c72dfcf02b25c1adbf32b9e1c8.jpg",
+    "gallery": [
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/1025_amir_coupang_oct_80k/44b9/1cde1571a5dd03b2c33f0a44d2692e6642c72dfcf02b25c1adbf32b9e1c8.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1155710016947732-99b0c6f6-94bb-41c8-9588-d4eca1cdcd87.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1155710153169693-4c763552-2b69-4968-a46f-83c4dec546b9.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/1153768816732218-31e164e6-91a2-4fe0-b0db-8acb04476bec.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/3707641899678571-01edee66-c13c-4f17-883a-3400dfbb8229.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/5300795980949528-36650491-031c-4192-90e5-435f8e241fcd.jpg",
+     "https://thumbnail.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/4812338008307125-fef29d57-76c5-416c-8cea-45e8c956502b.jpg"
+    ],
+    "videos": [],
+    "all_links": [
+     "https://link.coupang.com/a/i0uqBXBjC8"
+    ],
+    "image_path": "images/10_번개표_개별스위치_멀티탭_4구,_1.jpg",
+    "text_cleaned": true
+   },
+   "xhs_url": "https://www.xiaohongshu.com/explore",
+   "post": {
+    "a": "콘센트마다 개별 스위치 달려 있어서 안 쓰는 거 하나씩 꺼놓을 수 있음. 이게 없는 멀티탭은 이제 불편해서 못 씀. 한 번 써보면 진짜 돌아오기 힘듦 🔌",
+    "b": "불 들어오는 스위치 보면 뭐가 켜진지 바로 보여서 편함. 책상 정리하면서 하나 바꿨는데 뭔가 더 단정해 보임. 이게 이렇게 뿌듯할 일인가 싶음 ⚡"
+   }
+  }
+ ]
+}
